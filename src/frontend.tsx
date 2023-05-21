@@ -89,4 +89,4 @@ const html = `<!DOCTYPE html>
 ${renderToStaticMarkup(page)}
 `;
 
-fs.writeFileSync("./src/generated/index.html", html);
+fs.writeFileSync("./dist/www/index.html", html);
