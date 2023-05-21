@@ -22,6 +22,7 @@
   "devDependencies": {
     "@utrecht/component-library-react": "1.0.0-alpha.316",
     "axios": "1.4.0",
+    "axios-retry": "3.5.0",
     "http-server": "14.1.1",
     "npm-run-all": "4.1.5",
     "openapi-typescript-codegen": "0.24.0",

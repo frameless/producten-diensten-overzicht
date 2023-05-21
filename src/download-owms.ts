@@ -1,8 +1,20 @@
 /* Download the "Uniforme Productnamenlijst (UPL)" */
 import axios from "axios";
+import axiosRetry from "axios-retry";
 import fs from "node:fs";
 import { basename } from "node:path";
 import { convert } from "xmlbuilder2";
+
+axiosRetry(axios, {
+  retries: 3,
+  retryDelay: (retryCount) => {
+    console.log(`retry attempt: ${retryCount}`);
+    return retryCount * 2000; // time interval between retries
+  },
+  retryCondition: (error) => {
+    return error.response.status >= 500 && error.response.status < 600;
+  },
+});
 
 const ids = [
   "https://standaarden.overheid.nl/owms/terms/Doelgroep",

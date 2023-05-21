@@ -4,6 +4,19 @@ import fs from "node:fs";
 import upl from "./generated/UPL-key-value.json";
 import gemeente from "./generated/owms/Gemeente.json";
 import { convert } from "xmlbuilder2";
+import axios from "axios";
+import axiosRetry from "axios-retry";
+
+axiosRetry(axios, {
+  retries: 3,
+  retryDelay: (retryCount) => {
+    console.log(`retry attempt: ${retryCount}`);
+    return retryCount * 2000; // time interval between retries
+  },
+  retryCondition: (error) => {
+    return error.response.status >= 500 && error.response.status < 600;
+  },
+});
 
 const version = 1.2;
 const operation = "searchRetrieve";
