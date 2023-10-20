@@ -1,0 +1,1287 @@
+[
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/studietoeslag-aanvragen",
+    "title": "Studietoeslag aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/mobiele-puinbreker-gebruiken",
+    "title": "Mobiele puinbreker gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wet_milieubeheermelding"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/duurloop-organiseren",
+    "title": "Duurloop organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/achternaam-voor-uw-kind-kiezen",
+    "title": "Achternaam voor uw kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/klacht-over-de-gemeente-indienen",
+    "title": "Klacht over de gemeente indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/toeristenbelasting-betalen",
+    "title": "Toeristenbelasting betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/caravan-parkeren-op-openbare-weg",
+    "title": "Caravan parkeren op openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/caravParkOnth"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/coronavirus",
+    "title": "Coronavirus",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/waarmerken-kopie",
+    "title": "Waarmerken kopie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/inrit-aanleggen",
+    "title": "Inrit aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgUitweg"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/kopie-van-de-aanslag-gemeentebelastingen-aanvragen",
+    "title": "Kopie van de aanslag gemeentebelastingen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_kopie"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/documenten-legalisatie-en-verificatie",
+    "title": "Documenten, legalisatie en verificatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/vuurwerk-opslaan-verkopen",
+    "title": "Vuurwerk opslaan of verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vuurwerkverkoopvergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/ondergrondse-olietank-melden",
+    "title": "Ondergrondse olietank melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/olietankMld"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/leegstaand-pand-tijdelijk-verhuren",
+    "title": "Leegstaand pand tijdelijk verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/kind-erkennen",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/omgevingsvergunning-voor-het-milieu-aanvragen",
+    "title": "Omgevingsvergunning voor het milieu aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/gokautomaat-plaatsen",
+    "title": "Gokautomaat plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/woonwagen-woonwagenstandplaats-huren",
+    "title": "Woonwagen of woonwagenstandplaats huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonwagenstandplaats"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/vakantie-doorgeven-bij-bijstandsuitkering",
+    "title": "Vakantie doorgeven bij bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/rijbewijs-aanvragen",
+    "title": "Rijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbAanvraag"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/melding-openbare-ruimte",
+    "title": "Melding openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/subsidie-klimaatadaptieve-maatregelen-voor-bedrijven",
+    "title": "Subsidie Klimaatadaptieve maatregelen voor bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/stichting-leergeld",
+    "title": "Stichting Leergeld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/kamers-verhuren",
+    "title": "Kamers verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/bestemmingsplan-wijzigen",
+    "title": "Bestemmingsplan wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/een-klein-evenement-organiseren",
+    "title": "Een klein evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/loterij-organiseren",
+    "title": "Loterij organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/grootburgerrecht",
+    "title": "Grootburgerrecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/verklaring-afleggen-over-uw-persoonsgegevens",
+    "title": "Verklaring afleggen over uw persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgegevens_verklaring_onder_eed_of_belofte"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/kabels-en-leidingen-aanleggen",
+    "title": "Kabels en leidingen aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/koninklijke-onderscheiding-lintje-aanvragen",
+    "title": "Koninklijke onderscheiding (lintje) aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/rolstoelen",
+    "title": "Rolstoelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rolstSctMob"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/kinderopvang-starten-en-wijzigen",
+    "title": "Kinderopvang starten en wijzigen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/parkeervergunning-bewoners",
+    "title": "Parkeervergunning bewoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bewoners"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/alcohol-tijdelijk-schenken",
+    "title": "Alcohol tijdelijk schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/ondersteuningsloket-energie",
+    "title": "Ondersteuningsloket Energie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/bijstandsuitkering-jongeren",
+    "title": "Bijstandsuitkering jongeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/grafsteen-plaatsen",
+    "title": "Grafsteen plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gedenkteken_plaatsingsvergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/kamperen-het-wild",
+    "title": "Kamperen in het wild",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kampeeronth"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/jeugdhulp",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/afkoppelen-regenwater-subsidie",
+    "title": "Afkoppelen regenwater, subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/reclamemateriaal-verspreiden",
+    "title": "Reclamemateriaal verspreiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/afvalwater-lozen",
+    "title": "Afvalwater lozen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalwatermelding"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/andere-achternaam-gebruiken",
+    "title": "Andere achternaam gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/hulp-bij-het-huishouden",
+    "title": "Hulp bij het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/oekra%C3%AFne",
+    "title": "Oekraïne",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/automatische-incasso",
+    "title": "Automatische incasso",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/energietoeslag",
+    "title": "Energietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/recreatiebedrijf-beginnen-overnemen",
+    "title": "Recreatiebedrijf beginnen of overnemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kampeeronth"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/bijstandsuitkering-aanvragen",
+    "title": "Bijstandsuitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/scootmobiel",
+    "title": "Scootmobiel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/scootmobiel"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/kadereservering-voor-passagiersschepen",
+    "title": "Kadereservering voor passagiersschepen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/aangifte-doen-van-overlijden",
+    "title": "Aangifte doen van overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/stemmen-voor-verkiezingen",
+    "title": "Stemmen voor verkiezingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/handtekening-laten-legaliseren",
+    "title": "Handtekening laten legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/bewijs-van-nederlandse-nationaliteit-aanvragen",
+    "title": "Bewijs van Nederlandse nationaliteit aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/horecabedrijf-beginnen",
+    "title": "Horecabedrijf beginnen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/subsidie-kleintje-duurzaamheid",
+    "title": "Subsidie Kleintje Duurzaamheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/wijdeventer-subsidie",
+    "title": "WijDeventer subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/eenvoudige-bodemverontreinigingen-melden",
+    "title": "Eenvoudige bodemverontreinigingen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/verhuizen",
+    "title": "Verhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/bomen-kappen",
+    "title": "Bomen kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/stempas-voor-verkiezingen-aanvragen",
+    "title": "Stempas voor verkiezingen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/trouwen",
+    "title": "Trouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/gevonden-verloren-voorwerpen-melden",
+    "title": "Gevonden of verloren voorwerpen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/langere-openingstijden-voor-uw-horecabedrijf-aanvragen",
+    "title": "Langere openingstijden voor uw horecabedrijf aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/geboorteaangifte-doen",
+    "title": "Geboorteaangifte doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/bestemmingsplan-reageren",
+    "title": "Bestemmingsplan, reageren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/echtscheiding-melden",
+    "title": "Echtscheiding melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/rioolheffing-betalen",
+    "title": "Rioolheffing betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/gemeente-aansprakelijk-stellen",
+    "title": "Gemeente aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/budgetbeheer",
+    "title": "Budgetbeheer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/gehandicaptenparkeerkaart-aanvragen",
+    "title": "Gehandicaptenparkeerkaart aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/vrijstelling-van-leerplicht-aanvragen",
+    "title": "Vrijstelling van leerplicht aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/verklaring-omtrent-het-gedrag-aanvragen",
+    "title": "Verklaring omtrent het gedrag aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/partnerschapsregistratie-omzetten-huwelijk",
+    "title": "Partnerschapsregistratie omzetten in huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/bekostiging-leerlingenvervoer-aanvragen",
+    "title": "Bekostiging leerlingenvervoer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/antenneschotel-plaatsen",
+    "title": "Antenne(schotel), plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/vertrekken-uit-nederland-emigreren",
+    "title": "Vertrekken uit Nederland (emigreren)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/hulpmiddelen-wmo",
+    "title": "Hulpmiddelen Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/kwijtschelding-belastingen-en-heffingen",
+    "title": "Kwijtschelding belastingen en heffingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/voornaam-achternaam-wijzigen",
+    "title": "Voornaam of achternaam wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voornaamwijziging"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/afvalinzameling",
+    "title": "Afvalinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/hulp-bij-schulden",
+    "title": "Hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/een-groot-evenement-organiseren",
+    "title": "Een groot evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/precariobelasting-betalen",
+    "title": "Precariobelasting betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/biz-bijdrage",
+    "title": "BIZ-bijdrage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/biz-bijdrage"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/voorschot-op-bijstandsuitkering",
+    "title": "Voorschot op bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/verkiezingen",
+    "title": "Verkiezingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/bezoek-uit-het-buitenland-ontvangen",
+    "title": "Bezoek uit het buitenland ontvangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/kermis-organiseren",
+    "title": "Kermis organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/bijstand-voor-zelfstandigen-aanvragen",
+    "title": "Bijstand voor zelfstandigen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/festiviteit-horeca-organiseren",
+    "title": "Festiviteit horeca organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/kadastrale-gegevens-opvragen",
+    "title": "Kadastrale gegevens opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/geld-spullen-inzamelen-voor-een-goed-doel",
+    "title": "Geld of spullen inzamelen voor een goed doel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/ondersteuningsverklaring-afleggen-voor-verkiezingen",
+    "title": "Ondersteuningsverklaring afleggen voor verkiezingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/verzoeken-om-handhaving",
+    "title": "Verzoeken om handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/collectieve-zorgverzekering",
+    "title": "Collectieve zorgverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zkKstVerzCol"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/vervoersvoorziening-gehandicapten-en-ouderen",
+    "title": "Vervoersvoorziening, gehandicapten en ouderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/grafuitgifte",
+    "title": "Grafuitgifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/jaarkaart-betaald-parkeren",
+    "title": "Jaarkaart betaald parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/reclame-aanbrengen-aan-pand",
+    "title": "Reclame aanbrengen aan pand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/brandveilig-gebruik-van-gebouwen",
+    "title": "Brandveilig gebruik van gebouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/gladheid",
+    "title": "Gladheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/woning-kopen-en-meteen-verhuren-verhuurvergunning",
+    "title": "Woning kopen en meteen verhuren (verhuurvergunning)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/recreatiewoning-bewonen",
+    "title": "Recreatiewoning bewonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnVergRecr"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/onroerendezaakbelasting-ozb-betalen",
+    "title": "Onroerendezaakbelasting (ozb) betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/verklaring-van-huwelijksbevoegdheid-ongehuwdheid-aanvragen",
+    "title": "Verklaring van huwelijksbevoegdheid of ongehuwdheid aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/subsidie-groene-daken-en-gevels",
+    "title": "Subsidie groene daken en gevels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/nederlander-worden-door-optie",
+    "title": "Nederlander worden door optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/geheimhouding-persoonsgegevens-aanvragen",
+    "title": "Geheimhouding persoonsgegevens aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/woz-waarde",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/parkeeropgave-toetsing",
+    "title": "Parkeeropgave toetsing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/gegevens-basisregistratie-personen-brp-aanpassen",
+    "title": "Gegevens in basisregistratie personen (BRP) aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/bouw-en-verbouw-vergunning",
+    "title": "Bouw en verbouw, vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/waardering-op-basis-van-gebruiksoppervlakte",
+    "title": "Waardering op basis van gebruiksoppervlakte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/bijzondere-bijstand-aanvragen",
+    "title": "Bijzondere bijstand aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/marktstandplaats-aanvragen",
+    "title": "Marktstandplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/huisnummer-aanvragen",
+    "title": "Huisnummer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/adresonderzoek-aanvragen",
+    "title": "Adresonderzoek aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/parkeerabonnement-garage",
+    "title": "Parkeerabonnement garage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/milieusubsidie",
+    "title": "Milieusubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/dwangsom-bij-niet-tijdig-beslissen-ingebrekestelling",
+    "title": "Dwangsom bij niet tijdig beslissen (ingebrekestelling)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/kredietbank",
+    "title": "Kredietbank",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/betalingsregeling-voor-gemeentebelastingen",
+    "title": "Betalingsregeling voor gemeentebelastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/informatieverzoek-wet-open-overheid",
+    "title": "Informatieverzoek Wet open overheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/ouderschap-ontkennen",
+    "title": "Ouderschap ontkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vaderschapsontkenning_verklaring"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/parkeervergunning-bezoekers",
+    "title": "Parkeervergunning bezoekers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bezoekers"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/asbestsanering-lening",
+    "title": "Asbestsanering, lening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/winkeltijden-ontheffing",
+    "title": "Winkeltijden, ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/kinderopvang-tegemoetkoming-aanvragen",
+    "title": "Kinderopvang, tegemoetkoming aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/vrijwilligerswerk",
+    "title": "Vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/afvalstoffenheffing-betalen",
+    "title": "Afvalstoffenheffing betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reinigingsrecht"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/omgevingsvergunning-aanvragen",
+    "title": "Omgevingsvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/rioolonderhoud",
+    "title": "Rioolonderhoud",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/bibob-onderzoek",
+    "title": "Bibob-onderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/integriteitsbeoordeling"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/zienswijze-indienen",
+    "title": "Zienswijze indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/onderhoud-openbaar-groen",
+    "title": "Onderhoud openbaar groen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(groenvoorziening)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/wegenverkeerswet-ontheffing",
+    "title": "Wegenverkeerswet, ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/woz-waarde-huurwoningen",
+    "title": "WOZ-waarde huurwoningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/woningaanpassing-en-voorziening",
+    "title": "Woningaanpassing en voorziening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/alcohol-schenken-en-verkopen",
+    "title": "Alcohol schenken en verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/evenementenreclame",
+    "title": "Evenementenreclame",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/gehandicaptenparkeerplaats-aanvragen",
+    "title": "Gehandicaptenparkeerplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats_op_kenteken"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/toeslagenaffaire",
+    "title": "Toeslagenaffaire",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/snippergroen",
+    "title": "Snippergroen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/nieuwe-straatnaam-doorgeven",
+    "title": "Nieuwe straatnaam doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/monument-verbouwen-slopen",
+    "title": "Monument verbouwen of slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/grond-verplaatsen-afvoeren-melden-grondverzet",
+    "title": "Grond verplaatsen of afvoeren melden (grondverzet)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/bouwstoffen-melden",
+    "title": "Bouwstoffen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwstoffenmelding"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/ligplaatsvergunning-voor-woonboot-aanvragen",
+    "title": "Ligplaatsvergunning voor woonboot aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ligplaatsvergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/terrasvergunning-aanvragen",
+    "title": "Terrasvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/rechtop",
+    "title": "Rechtop",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/eikenprocessierups",
+    "title": "Eikenprocessierups",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/archief-van-de-gemeente",
+    "title": "Archief van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/archiefInzage"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/parkeervergunning-bedrijven",
+    "title": "Parkeervergunning bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bedrijven"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/haven-en-opslaggelden",
+    "title": "Haven- en opslaggelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/vooroverleg-voor-een-omgevingsvergunning-aanvragen",
+    "title": "Vooroverleg voor een omgevingsvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/partnerschapsregistratie",
+    "title": "Partnerschapsregistratie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschapaangifte"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/voertuig-op-straat-verkopen",
+    "title": "Voertuig op straat verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voertuig_te_koop_aanbieden_op_openbare_weg_ontheffing"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/overtreding-milieuregels-melden",
+    "title": "Overtreding milieuregels melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/bewijs-van-leven-zijn-attestatie-de-vita",
+    "title": "Bewijs van in leven zijn of attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/persoonlijke-ondersteuning",
+    "title": "Persoonlijke ondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/bromfietsrijbewijs",
+    "title": "Bromfietsrijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/opstijgen-landen-buiten-een-vliegveld",
+    "title": "Opstijgen of landen buiten een vliegveld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/bezwaarschrift-indienen",
+    "title": "Bezwaarschrift indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/individuele-inkomenstoeslag-aanvragen",
+    "title": "Individuele inkomenstoeslag aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/programmasubsidie-cultuur",
+    "title": "Programmasubsidie Cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/ernstige-dyslexie",
+    "title": "Ernstige dyslexie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/voorzieningen-maatschappelijke-ondersteuning",
+    "title": "Voorzieningen maatschappelijke ondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/parkeerbelasting",
+    "title": "Parkeerbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerbelasting"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/vergoeding-aanvragen-voor-schade-door-een-bestemmingsplan",
+    "title": "Vergoeding aanvragen voor schade door een bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/op-straat-aan-de-deur-verkopen",
+    "title": "Op straat of aan de deur verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/ontheffing-aanvragen-voor-geluidsoverlast-bij-bouwen-en-slopen",
+    "title": "Ontheffing aanvragen voor geluidsoverlast bij bouwen en slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/gebouw-woning-slopen",
+    "title": "Gebouw of woning slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/nederlander-worden-door-naturalisatie",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/uittreksel",
+    "title": "Uittreksel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/optreden-op-straat",
+    "title": "Optreden op straat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/strArtOptrOnth"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/eidas-formulieren",
+    "title": "eIDAS formulieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/ongedierte-bestrijden",
+    "title": "Ongedierte bestrijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/demonstratie-betoging-houden",
+    "title": "Demonstratie of betoging houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/betogDemonsMld"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/vuur-stoken-de-openlucht",
+    "title": "Vuur stoken in de openlucht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/standplaatsvergunning-aanvragen",
+    "title": "Standplaatsvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/openbare-grond-gebruiken",
+    "title": "Openbare grond gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)"
+  },
+  {
+    "identifier": "https://dloket.deventer.nl/loket/producten-en-diensten/herbegraven-alsnog-cremeren",
+    "title": "Herbegraven of alsnog cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Deventer_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/herbegraven_of_alsnog_cremeren"
+  }
+]

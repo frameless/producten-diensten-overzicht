@@ -1,0 +1,474 @@
+[
+  {
+    "identifier": "https://www.dijkenwaard.nl/paspoort-rijbewijs-en-uittreksel/uittreksels-en-verklaringen/nederlander-worden-door-optie-of-naturalisatie",
+    "title": "Nederlandse nationaliteit aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/collecte-verkoop-en-reclame/seksinrichting-of-escortbedrijf",
+    "title": "Seksinrichting of escortbedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/bouwen-en-verbouwen/ontheffing-geluidhinder",
+    "title": "Ontheffing geluidshinder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/paspoort-rijbewijs-en-uittreksel/uittreksels-en-verklaringen/verklaring-van-in-leven-zijn",
+    "title": "Verklaring van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/zorg-werk-en-jeugd/zorg-en-wmo/vrijwilligerswerk/vrijwilligersverzekering",
+    "title": "Vrijwilligersverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/geboorte-huwelijk-en-overlijden/overlijden-doorgeven",
+    "title": "Overlijden doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/paspoort-rijbewijs-en-uittreksel/uittreksels-en-verklaringen/informatie-nieuwkomers-over-inburgeren",
+    "title": "Inburgeren en participatieverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/parkeren-en-verkeer/parkeren/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/collecte-verkoop-en-reclame/reclamevergunning",
+    "title": "Reclamevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/paspoort-rijbewijs-en-uittreksel/uittreksels-en-verklaringen/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/parkeren-en-verkeer/oplaadpunten-elektrische-autos",
+    "title": "Oplaadpunten elektrische auto",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/geboorte-huwelijk-en-overlijden/trouwen-en-geregistreerd-partnerschap",
+    "title": "Trouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/bouwen-en-verbouwen/bouwvergunning",
+    "title": "Bouwvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/zorg-werk-en-jeugd/onderwijs-en-jeugd/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/paspoort-rijbewijs-en-uittreksel/uittreksels-en-verklaringen/verklaring-omtrent-gedrag-vog",
+    "title": "VOG particulieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/wonen/kapvergunning-bomen",
+    "title": "Kapvergunning bomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/drank-en-horeca/slijterijvergunning",
+    "title": "Geluid werkzaamheden nacht en weekend",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/groen/ongediertebestrijding",
+    "title": "Ongediertebestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/collecte-verkoop-en-reclame/brandveilig-gebruik-bouwwerken",
+    "title": "Brandveiligheidsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/brandveiligheidadvies"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/collecte-verkoop-en-reclame/standplaatsvergunning",
+    "title": "Vaste standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/collecte-verkoop-en-reclame/collectevergunning",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/drank-en-horeca/alcoholwetvergunning",
+    "title": "Drank- en horecavergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/zorg-werk-en-jeugd/zorg-en-wmo/mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgcompliment"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/paspoort-rijbewijs-en-uittreksel/uittreksels-en-verklaringen/garantstelling-visum-kort-verblijf",
+    "title": "Garantstelling visum kort verblijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/bouwen-en-verbouwen/plaatsen-objecten-openbare-weg",
+    "title": "Plaatsen objecten openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/drank-en-horeca/horeca-exploitatievergunning-en-terrasvergunning",
+    "title": "Horeca exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/wonen/nee-ja-of-nee-nee-sticker",
+    "title": "Nee-ja-sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/wonen/tijdelijke-verhuur-bij-leegstand",
+    "title": "Tijdelijke verhuur bij leegstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/parkeren-en-verkeer/parkeervergunning/parkeervergunning-bedrijf",
+    "title": "Parkeervergunning bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bedrijven"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/wonen/inrit-of-uitritvergunning",
+    "title": "Uitwegvergunning of inritvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/activiteiten/vuurwerk-afsteken",
+    "title": "Vuurwerk afsteken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/collecte-verkoop-en-reclame/standplaatsvergunning/standplaatsvergunning-heerhugowaard",
+    "title": "Vaste standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/paspoort-rijbewijs-en-uittreksel/uittreksels-en-verklaringen/legalisatie-handtekening",
+    "title": "Legaliseren handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/zorg-werk-en-jeugd/zorg-en-wmo/regiotaxi",
+    "title": "Regiotaxi",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/regiotaxi"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/parkeren-en-verkeer/parkeervergunning/parkeervergunning-particulier",
+    "title": "Parkeervergunning particulier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/afval/afvalbak",
+    "title": "Afvalcontainer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/contact-en-openingstijden/klacht-indienen-of-bezwaar-maken/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/paspoort-rijbewijs-en-uittreksel/rijbewijs",
+    "title": "rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/zorg-werk-en-jeugd/onderwijs-en-jeugd/leerplicht-en-bijzonder-verlof",
+    "title": "Leerplicht en bijzonder verlof",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/paspoort-rijbewijs-en-uittreksel/uittreksels-en-verklaringen/uittreksel-persoonsgegevens-brp",
+    "title": "Uittreksel persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/verhuizen/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/collecte-verkoop-en-reclame/marktstandplaats",
+    "title": "Marktplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/parkeren-en-verkeer/parkeervergunning/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/bouwen-en-verbouwen/sloopvergunning",
+    "title": "Sloopvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/paspoort-rijbewijs-en-uittreksel/uittreksels-en-verklaringen/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/zorg-werk-en-jeugd/zorg-en-wmo/wmo-wonen",
+    "title": "WMO wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/bouwen-en-verbouwen/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/geboorte-huwelijk-en-overlijden/erkenning-en-ouderlijk-gezag",
+    "title": "Erkenning en ouderlijk gezag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/bouwen-en-verbouwen/monumentenvergunning",
+    "title": "Monumentenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/collecte-verkoop-en-reclame/tijdelijke-reclame",
+    "title": "Posters plakken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/zorg-werk-en-jeugd/zorg-en-wmo/wmo-thuisondersteuning",
+    "title": "WMO wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/verhuizen/verhuizing-naar-het-buitenland",
+    "title": "Verhuizing naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/bouwen-en-verbouwen/toekenning-huisnummer",
+    "title": "Huisnummertoekenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/activiteiten/textielinzameling",
+    "title": "Textielinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_textiel"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/wonen/woningurgentie",
+    "title": "Woningurgentie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/urgBewWoning"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/collecte-verkoop-en-reclame/standplaatsvergunning/standplaatsvergunning-langedijk",
+    "title": "Vaste standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/activiteiten/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/geboorte-huwelijk-en-overlijden/levenloos-geboren-kindje-registreren",
+    "title": "Levenloos geboren kindje registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/geboorte-huwelijk-en-overlijden/geregistreerd-partnerschap-omzetten-in-huwelijk",
+    "title": "Geregistreerd partnerschap omzetten in huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_omzetting_in_huwelijk"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/bouwen-en-verbouwen/bouwdossier-inzien",
+    "title": "Bouwaanvraag inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/wonen/briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/activiteiten/kansspelautomaten",
+    "title": "Kansspelvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/activiteiten/brandveilig-gebruik-overige-plaatsen",
+    "title": "Brandveilig gebruik overige plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/brandveiligheidadvies"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/parkeren-en-verkeer/gladheidbestrijding-en-strooiroutes",
+    "title": "Gladheid en strooiroutes",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/collecte-verkoop-en-reclame/venten",
+    "title": "Venten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/geboorte-huwelijk-en-overlijden/akte-geboorte-huwelijk-en-overlijden",
+    "title": "Akte burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/bouwen-en-verbouwen/bestemmingsplannen/bestemmingsplan-inzien",
+    "title": "Bestemmingsplan inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/wonen-en-leven/verhuizen/verhuizen-binnen-en-naar-dijk-en-waard",
+    "title": "Verhuizing in en naar Haarlem",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/ondernemen/vergunningen/milieumelding",
+    "title": "Milieuvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.dijkenwaard.nl/geboorte-huwelijk-en-overlijden/geboorte-aangeven",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dijk_en_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  }
+]

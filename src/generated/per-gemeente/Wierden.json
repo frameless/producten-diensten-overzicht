@@ -1,0 +1,415 @@
+[
+  {
+    "identifier": "https://www.wierden.nl/beschermwaardig-graf",
+    "title": "Beschermwaardig graf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/subsidie-voor-activiteiten-en-evenementen",
+    "title": "Subsidie voor activiteiten en evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/volwassenpakket",
+    "title": "Volwassenpakket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/clientenraad-sociaal-domein",
+    "title": "Cliëntenraad Sociaal Domein",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/subsidie-voor-sport-en-bewegen",
+    "title": "Subsidie voor sport en bewegen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.wierden.nl/kind-erkennen-voor-de-geboorte",
+    "title": "Kind erkennen vóór de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.wierden.nl/kind-erkennen-na-de-geboorte",
+    "title": "Kind erkennen ná de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.wierden.nl/uittreksel-uit-brp",
+    "title": "Uittreksel uit BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.wierden.nl/trouwen-in-het-buitenland",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/zelf-zwerfafval-opruimen",
+    "title": "Zelf zwerfafval opruimen?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/milieu-vergunning-of-melding",
+    "title": "Milieu, vergunning of melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.wierden.nl/buurt-whatsapp-groepen",
+    "title": "Buurt WhatsApp Groepen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/subsidie-voor-amateurkunst-toneel-en-zang",
+    "title": "Subsidie voor amateurkunst toneel en zang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/verkeersspreekuur",
+    "title": "Verkeersspreekuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/straatversiering",
+    "title": "Straatversiering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/subsidie-voor-eenmalige-activiteit-enof-huur-van-mobiel-podium",
+    "title": "Subsidie voor éénmalige activiteit en/of huur van mobiel podium",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/vrijwilligersspeld-en-vrijwilligerspenning",
+    "title": "Vrijwilligersspeld en vrijwilligerspenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/bijstand-premies-voor-mensen-met-een-uitkering",
+    "title": "Bijstand, premies voor mensen met een uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/verklaring-omtrent-het-gedrag-vog",
+    "title": "Verklaring omtrent het gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.wierden.nl/vervoer-wmo",
+    "title": "Vervoer (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.wierden.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.wierden.nl/aed-en-lekenhulpverlening",
+    "title": "AED en lekenhulpverlening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/bestrijding-eikenprocessierups",
+    "title": "Bestrijding eikenprocessierups",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/omgevingsvergunning-strijdig-gebruik",
+    "title": "Omgevingsvergunning strijdig gebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.wierden.nl/grond-bagger-en-bouwstoffen-gebruiken-grondverzet",
+    "title": "Grond, bagger en bouwstoffen gebruiken (Grondverzet)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grondexplOvereen"
+  },
+  {
+    "identifier": "https://www.wierden.nl/stemmen-vanuit-het-buitenland",
+    "title": "Stemmen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stemmen_per_brief"
+  },
+  {
+    "identifier": "https://www.wierden.nl/subsidie-voor-peuteropvang-en-voorschoolse-educatie-ve",
+    "title": "Subsidie voor peuteropvang en Voorschoolse Educatie (VE)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/beroep-of-bedrijf-aan-huis-uitoefenen",
+    "title": "Beroep of bedrijf aan huis uitoefenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/verkiezingsborden",
+    "title": "Verkiezingsborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/kindpakket-voor-kinderen-in-gezinnen-met-een-laag-inkomen",
+    "title": "Kindpakket - voor kinderen in gezinnen met een laag inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/monument-verbouwen-herstellen-of-onderhouden",
+    "title": "Monument verbouwen, herstellen of onderhouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.wierden.nl/openingstijden-winkels",
+    "title": "Openingstijden winkels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdeninformatie"
+  },
+  {
+    "identifier": "https://www.wierden.nl/kiezerspas",
+    "title": "Stemmen vanuit een andere gemeente (kiezerspas)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kiezerspas"
+  },
+  {
+    "identifier": "https://www.wierden.nl/inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.wierden.nl/bedrijfspandbedrijventerrein-huren-of-kopen",
+    "title": "Bedrijfspand/bedrijventerrein huren of kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsterrein_huren_of_kopen"
+  },
+  {
+    "identifier": "https://www.wierden.nl/melding-enterse-dagen",
+    "title": "Melding Enterse Dagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/stemmen-hoe-werkt-dat",
+    "title": "Stemmen, hoe werkt dat?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/begeleidingdagbesteding-wmo",
+    "title": "Begeleiding/dagbesteding (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/afval-scheiden",
+    "title": "Afval scheiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/afstand-doen-van-de-nederlandse-nationaliteit",
+    "title": "Afstand doen van de Nederlandse nationaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_afstand_nederlandse_nationaliteit"
+  },
+  {
+    "identifier": "https://www.wierden.nl/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.wierden.nl/collectieve-zorgverzekering-voor-minima",
+    "title": "Collectieve zorgverzekering voor minima",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.wierden.nl/opvragen-persoonsgegevens",
+    "title": "Opvragen persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "https://www.wierden.nl/vervangende-stempas-aanvragen",
+    "title": "Vervangende stempas aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "https://www.wierden.nl/achternaam-partner-gebruiken-of-wijzigen",
+    "title": "Achternaam partner gebruiken of wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.wierden.nl/stemmen-voor-kiezers-met-een-beperking",
+    "title": "Stemmen voor kiezers met een beperking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/piepschuim-en-klein-chemisch-afval",
+    "title": "Piepschuim en Klein Chemisch Afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/subsidie-voor-amateurkunst-muziek",
+    "title": "Subsidie voor amateurkunst muziek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/rotonde-adopteren-of-sponsoren",
+    "title": "Rotonde adopteren of sponsoren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/bouw-en-verbouwing-welstand",
+    "title": "Bouw en verbouwing, welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.wierden.nl/duurzaamheidslening",
+    "title": "Duurzaamheidslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/duurzhLening"
+  },
+  {
+    "identifier": "https://www.wierden.nl/asbestvervuiling-in-de-bodem-melden",
+    "title": "Asbestvervuiling in de bodem melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.wierden.nl/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.wierden.nl/trouwen",
+    "title": "Trouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/monument-subsidie",
+    "title": "Monument, subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.wierden.nl/leerlingenvervoer-voor-kinderen-met-een-beperking",
+    "title": "Leerlingenvervoer voor kinderen met een beperking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/basisonderwijs",
+    "title": "Basisonderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/schutting-plaatsen",
+    "title": "Schutting plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  },
+  {
+    "identifier": "https://www.wierden.nl/informatie-opvragen-bij-gemeente-wet-open-overheid-woo",
+    "title": "Informatie opvragen bij gemeente, Wet open overheid (Woo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.wierden.nl/jeugdfonds-sport-cultuur-wierden",
+    "title": "Jeugdfonds sport &amp; cultuur Wierden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Wierden_(gemeente)"
+  }
+]

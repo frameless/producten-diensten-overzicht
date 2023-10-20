@@ -1,0 +1,625 @@
+[
+  {
+    "identifier": "https://www.coevorden.nl//nieuwe-straatnaam-doorgeven",
+    "title": "Nieuwe straatnaam doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//gehandicaptenparkeerplaats-aanvragen",
+    "title": "Gehandicaptenparkeerplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//waarmerken-kopie",
+    "title": "Waarmerken kopie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//echtscheiding-melden",
+    "title": "Echtscheiding melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtschVerz"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//tweede-nederlands-paspoort-of-zakenpaspoort-aanvragen",
+    "title": "Tweede Nederlands paspoort of zakenpaspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//vluchtelingen-of-vreemdelingenpaspoort-aanvragen",
+    "title": "Vluchtelingen- of vreemdelingenpaspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//nederlandse-nationaliteit-opgeven-of-verliezen",
+    "title": "Nederlandse nationaliteit opgeven of verliezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_afstand_nederlandse_nationaliteit"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//individuele-inkomenstoeslag-aanvragen",
+    "title": "Individuele inkomenstoeslag aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//verhuizen-binnen-nederland",
+    "title": "Verhuizen binnen Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//alcohol-schenken-en-verkopen",
+    "title": "Alcohol schenken en verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//gevonden-of-verloren-voorwerpen-melden",
+    "title": "Gevonden of verloren voorwerpen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//uitkering-voor-oudere-en-arbeidsongeschikte-werklozen",
+    "title": "Uitkering voor oudere en arbeidsongeschikte werklozen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanvInkVzOuder"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//sollicitatieplicht",
+    "title": "Sollicitatieplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//gehandicaptenparkeerkaart-aanvragen",
+    "title": "Gehandicaptenparkeerkaart aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart_bestuurder"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//stedenbouwkundige-plannen-van-de-gemeente-inzien",
+    "title": "Stedenbouwkundige plannen van de gemeente inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//groenstrook-kopen",
+    "title": "Groenstrook kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//verkeerd-huisnummer-melden",
+    "title": "Verkeerd huisnummer melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//vergoeding-aanvragen-voor-schade-door-een-bestemmingsplan",
+    "title": "Vergoeding aanvragen voor schade door een bestemmingsplan ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//voornaam-of-achternaam-wijzigen",
+    "title": "Voornaam of achternaam wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//kabels-en-leidingen-aanleggen",
+    "title": "Kabels en leidingen aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//jeugdhulp",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulpdossier"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//gokautomaat-plaatsen",
+    "title": "Gokautomaat plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//vertrekken-uit-nederland-emigreren",
+    "title": "Vertrekken uit Nederland (emigreren)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//avondwinkel-openen",
+    "title": "Avondwinkel openen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdenontheffing"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//reclame-plaatsen-ontheffing",
+    "title": "Reclame plaatsen, ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//ongedierte-bestrijden",
+    "title": "Ongedierte bestrijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//bouwplannen-en-bouwtekeningen-inzien",
+    "title": "Bouwplannen en bouwtekeningen inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//kopie-van-de-aanslag-gemeentebelastingen-aanvragen",
+    "title": "Kopie van de aanslag gemeentebelastingen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_kopie"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//persoonsgebonden-budget",
+    "title": "Persoonsgebonden budget",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgebonden_budget"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//bijstand-voor-jongeren-aanvragen",
+    "title": "Bijstand voor jongeren aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//bewijs-van-nederlanderschap-aanvragen",
+    "title": "Bewijs van Nederlanderschap aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//handtekening-laten-legaliseren-en-garantstelling",
+    "title": "Handtekening laten legaliseren en garantstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//berm-gebruiken",
+    "title": "Berm gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//rioolklacht-melden",
+    "title": "Rioolklacht melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//alcohol-tijdelijk-schenken",
+    "title": "Alcohol tijdelijk schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//spandoek-ophangen",
+    "title": "Spandoek ophangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//uitkeringsfraude-melden",
+    "title": "Uitkeringsfraude melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//reclamemateriaal-verspreiden",
+    "title": "Reclamemateriaal verspreiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamemateriaalverspreiding_ontheffing"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//leegstaand-pand-tijdelijk-verhuren",
+    "title": "Leegstaand pand tijdelijk verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woning_tijdelijke_verhuurvergunning"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//geregistreerd-partnerschap-beeindigen",
+    "title": "Geregistreerd partnerschap beeindigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_ontbinding"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//individuele-studietoeslag-aanvragen",
+    "title": "Individuele studietoeslag aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//betalingsregeling-voor-gemeentebelastingen",
+    "title": "Betalingsregeling voor gemeentebelastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetUitst"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//basisregistratie-adressen-en-gebouwen-inzien",
+    "title": "Basisregistratie adressen en gebouwen inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bagInz"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//bibob-onderzoek",
+    "title": "Bibob-onderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/integriteitsbeoordeling"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//opnieuw-inschrijven-in-nederland",
+    "title": "Opnieuw inschrijven in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//adresonderzoek-aanvragen",
+    "title": "Adresonderzoek aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//aangifte-doen-van-overlijden",
+    "title": "Aangifte doen van overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//rioolheffing",
+    "title": "Rioolheffing ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//ontheffing-aanvragen-voor-exceptioneel-transport",
+    "title": "Ontheffing aanvragen voor exceptioneel transport",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegenverkeerswetontheffing"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//geld-of-spullen-inzamelen-voor-een-goed-doel",
+    "title": "Geld of spullen inzamelen voor een goed doel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//opstijgen-of-landen-met-een-luchtvaartuig",
+    "title": "Opstijgen of landen met een luchtvaartuig",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tijdelijk_luchtvaartterrein_ontheffing"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//bijzondere-bijstand-aanvragen",
+    "title": "Bijzondere bijstand aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//bewijs-van-in-leven-zijn-of-attestatie-de-vita",
+    "title": "Bewijs van in leven zijn of attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//voorschot-op-bijstandsuitkering",
+    "title": "Voorschot op bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//gevaarlijke-stoffen-vervoeren",
+    "title": "Gevaarlijke stoffen vervoeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegenverkeerswetontheffing"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//informatie-over-bodem-en-bestemmingsplannen-aanvragen",
+    "title": "Informatie over bodem en bestemmingsplannen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//melding-over-openbare-ruimte-indienen",
+    "title": "Melding over openbare ruimte indienen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//geheimhouding-persoonsgegevens-aanvragen",
+    "title": "Geheimhouding persoonsgegevens aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringslening"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//medische-keuring-voor-uw-rijbewijs",
+    "title": "Medische keuring voor uw rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbGezVerkl"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//uittreksel-uit-basisregistratie-personen-opvragen",
+    "title": "Uittreksel uit basisregistratie personen opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//regiotaxi",
+    "title": "Regiotaxi",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//kwijtschelding-belastingen-en-heffingen",
+    "title": "Kwijtschelding belastingen en heffingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//bijstandsuitkering-aanvragen",
+    "title": "Bijstandsuitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//bijstand-voor-zelfstandigen-aanvragen",
+    "title": "Bijstand voor zelfstandigen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//kinderopvang-starten",
+    "title": "Kinderopvang starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//een-kind-erkennen-en-naam-kiezen",
+    "title": "Een kind erkennen en naam kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//marktstandplaats-aanvragen",
+    "title": "Marktstandplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktstandplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//defecte-voertuigen-reclamevoertuigen-of-kampeermiddelen-parkeren-op-de-openbare-weg",
+    "title": "Defecte voertuigen, reclamevoertuigen of kampeermiddelen parkeren op de openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//voorlopige-voorziening-aanvragen",
+    "title": "Voorlopige voorziening aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voorlVoorz"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//uittreksel-of-afschrift-van-de-burgerlijke-stand-aanvragen",
+    "title": "Uittreksel of afschrift van de burgerlijke stand aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//koninklijke-onderscheiding-lintje-aanvragen",
+    "title": "Koninklijke onderscheiding (lintje) aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//geboorteaangifte-doen",
+    "title": "Geboorteaangifte doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//bijen-houden",
+    "title": "Bijen houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijenhoudonth"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//gegevens-in-basisregistratie-personen-brp-aanpassen",
+    "title": "Gegevens in basisregistratie personen (BRP) aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//landmeetkundige-gegevens-inzien",
+    "title": "Landmeetkundige gegevens inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//registreren-en-aangifte-doen-van-een-levenloos-geboren-kind",
+    "title": "Registreren en aangifte doen van een levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//paasvuur",
+    "title": "Paasvuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//zienswijze-indienen",
+    "title": "Zienswijze indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zienswijze"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//woonwagen-of-woonwagenstandplaats-huren",
+    "title": "Woonwagen of woonwagenstandplaats huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonwagenstandplaats"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//eenvoudige-bodemverontreiniging-melden",
+    "title": "Eenvoudige bodemverontreiniging melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemverontreiniging_melding"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//verklaring-omtrent-het-gedrag-aanvragen",
+    "title": "Verklaring omtrent het gedrag aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//ondersteuning-voor-mantelzorger-aanvragen",
+    "title": "Ondersteuning voor mantelzorger aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//uitkering-voor-oudere-gestopte-ondernemers",
+    "title": "Uitkering voor oudere gestopte ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanvInkVzOuder"
+  },
+  {
+    "identifier": "https://www.coevorden.nl//hemelwater-afkoppelen",
+    "title": "Hemelwater afkoppelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Coevorden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  }
+]

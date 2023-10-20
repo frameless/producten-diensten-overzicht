@@ -1,0 +1,675 @@
+[
+  {
+    "identifier": "https://www.bloemendaal.nl/hulp-zorg-en-inkomen/welzijnssubsidie-aanvragen",
+    "title": "Welzijnssubsidie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/in-of-uitrit-aanleggen-omgevingsvergunning",
+    "title": "In- of uitrit aanleggen, omgevingsverunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/afval/brengparkjes-voor-glas-textiel-papier-en-karton",
+    "title": "Brengparkjes voor glas, textiel, papier en karton",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/afval/afval-plastic-blik-en-drinkpakken",
+    "title": "Afval, plastic, blik en drinkpakken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalInzPMDK"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/onderscheiding-aanvragen",
+    "title": "Onderscheiding aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/bewijs-van-in-leven-zijn-of-attestatie-de-vita",
+    "title": "Bewijs van in leven zijn of Attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/trouwen-of-geregistreerd-partnerschap/trouwambtenaar",
+    "title": "Trouwambtenaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/incidentele-festiviteit",
+    "title": "Melding incidentele festiviteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/nederlander-worden",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/belastingen/precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/afval/rolemmer-aanvragen-omruilen-en-schade-melden",
+    "title": "Rolemmer aanvragen, omruilen, inleveren of kapot",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/aansluiting-op-gemeenteriool",
+    "title": "Aanvraag aansluiting op gemeenteriool",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/principeverzoek",
+    "title": "Principeverzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/vergunning-voor-overige-activiteiten",
+    "title": "Toestemming overige activiteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/afval/afval-restafval",
+    "title": "Afval, restafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/echtscheiding-melden",
+    "title": "Echtscheiding melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/slopen-en/of-asbest-verwijderen",
+    "title": "Slopen en/of asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/hulp-zorg-en-inkomen/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/aansprakelijk-stellen-van-de-gemeente",
+    "title": "Aansprakelijk stellen van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/melden-en-meedoen/bestrijden-van-gladheid",
+    "title": "Gladheidsbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/belastingen/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/over-de-gemeente/mijn-zaak",
+    "title": "Melding doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/hulp-zorg-en-inkomen/hulp-bij-opvoeden-en-opgroeien",
+    "title": "Hulp bij opvoeden en opgroeien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/bloemendaal-aan-zee/parkeren-bij-het-strand",
+    "title": "Parkeren bij strand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/over-de-gemeente/geluidsbelastingkaarten",
+    "title": "Gelluidsbelastingkaarten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/bezwaar-maken-besluit-gemeente",
+    "title": "Bezwaar maken besluit gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/schetsplan",
+    "title": "Principeverzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/belastingen/woz",
+    "title": "WOZ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/verklaring-omtrent-gedrag-vog",
+    "title": "Verklaring omtrent gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/discriminatie-melden",
+    "title": "Discriminatie klacht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/alcoholwetvergunning",
+    "title": "Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/hulp-zorg-en-inkomen/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/over-de-gemeente/verordeningen-en-andere-regelingen",
+    "title": "Verordening en andere regelgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/belastingen/monumenten",
+    "title": "Monumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/overlijden-aangifte",
+    "title": "Aangifte overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/belastingen/parkeerbelasting",
+    "title": "Parkeerbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerbelasting"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/over-de-gemeente/bedrijf-inschrijven",
+    "title": "Bedrijf inschrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/hulp-zorg-en-inkomen/woning-aanpassen",
+    "title": "Woonvoorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/elektrische-laadpaal",
+    "title": "Elektrische laadpaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/reclame-omgevingsvergunning",
+    "title": "Reclame, omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/aanvraag-ligplaats",
+    "title": "Ligplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ligplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/belastingen/onroerendezaakbelasting-ozb",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/milieu-omgevingsvergunning",
+    "title": "Milieu, omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/belastingen/bezwaar-maken-belastingaanslag-woz-waarde",
+    "title": "Bezwaar maken belastingaanslag, WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/buurt-straat-of-tuinfeest",
+    "title": "Buurt- straat- of tuinfeest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/belastingen/taxatieverslag",
+    "title": "Taxatieverslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-taxatieverslag"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/hulp-zorg-en-inkomen/bijstand-voor-jongeren",
+    "title": "Werk zoeken (jonger dan 27 jaar)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/afval/afval-textiel",
+    "title": "Afval, textiel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/verhuizen-buitenland",
+    "title": "Verhuizen buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/trouwen-of-geregistreerd-partnerschap",
+    "title": "Trouwen of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/openbaar-groen-adopteren-en-beheren",
+    "title": "Openbaar groen adopteren en beheren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/over-de-gemeente/milieustraat",
+    "title": "Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/deelscooters",
+    "title": "Aanpak overlast deelscooters",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/over-de-gemeente/woo-verzoek-indienen-en-inzien",
+    "title": "Wob-verzoek indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verzoek_overheidsinformatie"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/belastingen/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/afval/afval-grof-huisvuil",
+    "title": "Afval, grof huisvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/bouwdossier-bekijken",
+    "title": "Verzoek bouwdossier bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/collectevergunning",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/hulp-zorg-en-inkomen/bijstand-voor-zelfstandigen",
+    "title": "Ondernemer, financiële problemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/paspoort",
+    "title": "Paspoort",
+    "language": "NL",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/belastingen/kwijtschelding",
+    "title": "Kwijtschelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/monument-omgevingsvergunning",
+    "title": "Monument, omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/belastingen/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/alcohol-schenken-en-verkopen",
+    "title": "Alcohol schenken en verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/akte-of-afschrift-burgerlijke-stand",
+    "title": "Akte of afschrift burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/inschrijving-vanuit-het-buitenland",
+    "title": "Inschrijving vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/hulp-zorg-en-inkomen/hulp-bij-burenruzie",
+    "title": "Buurtbemiddeling bij burenruzie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/hulp-zorg-en-inkomen/bijstand-uitkering",
+    "title": "Bijstandsuitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/over-de-gemeente/sportverenigingen-en-sporthallen",
+    "title": "Sportvereniging en sporthallen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/exploitatievergunning-horeca",
+    "title": "Exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/hulp-zorg-en-inkomen/hulp-bij-vervoer-regiorijder",
+    "title": "Hulp bij vervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/aankoop-gemeentelijk-snippergroen",
+    "title": "Bewijs van in leven zijn of Attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/hulp-zorg-en-inkomen/wmo-raad-sociaal-domein",
+    "title": "Wmo-raad sociaal domein",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/hulp-zorg-en-inkomen/hulp-bij-mantelzorg",
+    "title": "Mantelzorg, ondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/uittreksel-brp-persoonsgegevens",
+    "title": "Uittreksel BRP (persoonsgegevens)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/afval/afval-papier-en-karton",
+    "title": "Afval, papier en karton",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/geboorte-aangifte",
+    "title": "Aangifte geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/producten-en-diensten/dood-dier-melden",
+    "title": "Dood dier melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/over-de-gemeente/klacht-over-medewerker-of-bestuurder",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/hulp-zorg-en-inkomen/huishoudelijke-ondersteuning",
+    "title": "Huishoudelijke hulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/bouwen-en-verbouwen-omgevingsvergunning",
+    "title": "Bouwen en verbouwen, omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/afval/afval-glas",
+    "title": "Afval, glas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_glas"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/aanvragen-en-regelen/kind-erkennen",
+    "title": "Kind erkennen voor de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/hulp-zorg-en-inkomen/hulp-bij-schulden",
+    "title": "Hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/afval/afval-groente-fruit-en-tuin-gft",
+    "title": "Afval, groente- fruit- en tuin (gft)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/parkeervergunning",
+    "title": "Parkeervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/melden-en-meedoen/milieuklacht",
+    "title": "Milieuklacht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/afval/afval-grof-tuinafval",
+    "title": "Afval, grof tuinafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/sluitingstijd-horeca-ontheffing",
+    "title": "Ontheffing sluitingstijd horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/over-de-gemeente/beleidsstukken",
+    "title": "Beleidsstukken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/werkterreinvergunning-voorwerpen-plaatsen-op-openbare-weg",
+    "title": "Voorwerpen plaatsen op de",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/over-de-gemeente/open-data",
+    "title": "Open data",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/hulp-zorg-en-inkomen/vrijwilligerswerk",
+    "title": "Vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/afval/afval-klein-chemisch-afval-kca",
+    "title": "Afval, klein chemisch afval (KCA)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/vergunningen/strand-op-of-afrijden",
+    "title": "Strand op- of afrijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/belastingen/erfafscheidingen",
+    "title": "Erfafscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.bloemendaal.nl/afval/toegang-centrale-aanbiedplaatsen",
+    "title": "Afval, glas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Bloemendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_glas"
+  }
+]

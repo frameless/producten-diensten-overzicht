@@ -1,0 +1,863 @@
+[
+  {
+    "identifier": "https://www.veere.nl/caravan-parkeren-op-de-openbare-weg",
+    "title": "Caravan parkeren op de openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/caravParkOnth"
+  },
+  {
+    "identifier": "https://www.veere.nl/verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.veere.nl/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.veere.nl/brandveiligheid-melding-of-vergunning",
+    "title": "Brandveiligheid, melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.veere.nl/bodemvervuiling-verwijderen",
+    "title": "Bodemvervuiling verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemsanering_melding_voornemen"
+  },
+  {
+    "identifier": "https://www.veere.nl/stedenbouwkundige-plannen-bekijken",
+    "title": "Stedenbouwkundige plannen bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.veere.nl/inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.veere.nl/monument-subsidie",
+    "title": "Monument, subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.veere.nl/verhuizen-naar-het-buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/grafsteen-of-gedenkteken-plaatsen",
+    "title": "Grafsteen of gedenkteken plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/gedenkteken_plaatsingsvergunning"
+  },
+  {
+    "identifier": "https://www.veere.nl/paspoort-identiteitskaart-kwijt-of-gestolen",
+    "title": "Paspoort / identiteitskaart, kwijt of gestolen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.veere.nl/afvalwater-lozen",
+    "title": "Afvalwater lozen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalwatermelding"
+  },
+  {
+    "identifier": "https://www.veere.nl/woonwagen-standplaats",
+    "title": "Woonwagen, standplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonwagenstandplaats"
+  },
+  {
+    "identifier": "https://www.veere.nl/bodembeleid-brochure",
+    "title": "Bodembeleid, brochure",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/bestemmingsplan-bekijken",
+    "title": "Bestemmingsplan bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.veere.nl/begraven-of-cremeren",
+    "title": "Begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/verlBegraven"
+  },
+  {
+    "identifier": "https://www.veere.nl/geheimhouden-persoonsgegevens",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.veere.nl/bodeminformatie-digitaal",
+    "title": "Bodeminformatie, digitaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.veere.nl/bromfietsrijbewijs",
+    "title": "Bromfietsrijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.veere.nl/afval-huishoudelijk-afval",
+    "title": "Afval, huishoudelijk afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.veere.nl/standplaats-aanvragen",
+    "title": "Standplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.veere.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.veere.nl/graf-op-gemeentelijke-begraafplaats-aanvragen",
+    "title": "Graf op gemeentelijke begraafplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.veere.nl/boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.veere.nl/uploaden-bestanden",
+    "title": "Uploaden bestanden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/demonstratie-of-protestactie-houden",
+    "title": "Demonstratie of protestactie houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/betogDemonsMld"
+  },
+  {
+    "identifier": "https://www.veere.nl/afval-grofvuil",
+    "title": "Afval, grofvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.veere.nl/bedrijveninvesteringszone-biz",
+    "title": "Bedrijveninvesteringszone (BIZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/ontgronding",
+    "title": "Ontgronding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/ontgrondingsvergunning"
+  },
+  {
+    "identifier": "https://www.veere.nl/onkruidbestrijding",
+    "title": "Onkruidbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/onkruidbestrijding"
+  },
+  {
+    "identifier": "https://www.veere.nl/bodemenergie",
+    "title": "Bodemenergie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.veere.nl/monument-aanwijzen",
+    "title": "Monument aanwijzen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentaanwijzing"
+  },
+  {
+    "identifier": "https://www.veere.nl/archeologie",
+    "title": "Archeologie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.veere.nl/bedrijfsactiviteiten-wijzigen",
+    "title": "Bedrijfsactiviteiten wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/wet_milieubeheermelding"
+  },
+  {
+    "identifier": "https://www.veere.nl/bouwplannen-inloopspreekuur",
+    "title": "Bouwplannen, inloopspreekuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/nieuwe-straatnaam-voorstellen",
+    "title": "Nieuwe straatnaam voorstellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/vooroverleg",
+    "title": "Vooroverleg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/voorovrlg"
+  },
+  {
+    "identifier": "https://www.veere.nl/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.veere.nl/achternaam-kind-kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.veere.nl/afstand-doen-van-de-nederlandse-nationaliteit",
+    "title": "Afstand doen van de Nederlandse nationaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_afstand_nederlandse_nationaliteit"
+  },
+  {
+    "identifier": "https://www.veere.nl/naamswijziging-voornaam",
+    "title": "Naamswijziging voornaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/voornaamwijziging"
+  },
+  {
+    "identifier": "https://www.veere.nl/overlijden-aangifte",
+    "title": "Overlijden, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.veere.nl/vuur-stoken",
+    "title": "Vuur stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.veere.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.veere.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.veere.nl/ontheffing-voertuigen-op-strand-duin-en-dijk",
+    "title": "Ontheffing voertuigen op strand, duin- en dijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/zwerfafval",
+    "title": "Zwerfafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/verklaring-onder-ede-of-belofte",
+    "title": "Verklaring onder ede of belofte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgegevens_verklaring_onder_eed_of_belofte"
+  },
+  {
+    "identifier": "https://www.veere.nl/omgevingsvergunning-strijdig-gebruik",
+    "title": "Omgevingsvergunning strijdig gebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.veere.nl/verloren-of-gevonden-voorwerpen-melden",
+    "title": "Verloren of gevonden voorwerpen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/paspoort-en-id-kaart",
+    "title": "Paspoort en ID-kaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/verwijderen-privacygevoelige-persoonsgegevens",
+    "title": "Verwijderen privacygevoelige persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/dood-dier-opruimen",
+    "title": "Dood dier opruimen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/dodeGezelschDierenOpr"
+  },
+  {
+    "identifier": "https://www.veere.nl/openingstijden-horeca-eenmalig-aanpassen",
+    "title": "Openingstijden horeca eenmalig aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.veere.nl/kind-erkennen-na-de-geboorte",
+    "title": "Kind erkennen ná de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.veere.nl/bouw-en-verbouwing-welstand",
+    "title": "Bouw en verbouwing, welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.veere.nl/nee-nee-sticker-nee-ja-sticker",
+    "title": "NEE-NEE sticker, NEE-JA sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.veere.nl/veerse-waarderingsonderscheiding",
+    "title": "Veerse Waarderingsonderscheiding ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/hotel-camping-of-ander-recreatieverblijf-starten",
+    "title": "Hotel, camping of ander recreatieverblijf starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/nederlander-worden-door-optie",
+    "title": "Nederlander worden door optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalOptie"
+  },
+  {
+    "identifier": "https://www.veere.nl/waarmerken-kopie-of-afschrift",
+    "title": "Waarmerken kopie of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "https://www.veere.nl/gebruik-achternaam-veranderen",
+    "title": "Gebruik achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.veere.nl/mishandeling-of-huiselijk-geweld",
+    "title": "Mishandeling of huiselijk geweld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/parkeren-duin-en-strandovergang-ontheffing",
+    "title": "Parkeren duin- en strandovergang, ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://www.veere.nl/overledene-naar-het-buitenland-vervoeren",
+    "title": "Overledene naar het buitenland vervoeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/recreatiewoning-bewonen",
+    "title": "Recreatiewoning bewonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnVergRecr"
+  },
+  {
+    "identifier": "https://www.veere.nl/onroerend-goed-beperkingen",
+    "title": "Onroerend goed, beperkingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaak_gebruiksbeperking"
+  },
+  {
+    "identifier": "https://www.veere.nl/woning-uit-de-woonruimtevoorraad-halen",
+    "title": "Woning uit de woonruimtevoorraad halen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijkomen_woonruimtemelding"
+  },
+  {
+    "identifier": "https://www.veere.nl/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.veere.nl/echtscheiding-of-einde-geregistreerd-partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.veere.nl/opgraven-en-herbegraven-of-cremeren",
+    "title": "Opgraven en herbegraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/herbegraven_of_alsnog_cremeren"
+  },
+  {
+    "identifier": "https://www.veere.nl/olietanks-in-particuliere-grond-verwijderen",
+    "title": "Olietanks in particuliere grond verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/olietankMld"
+  },
+  {
+    "identifier": "https://www.veere.nl/bodeminformatie",
+    "title": "Bodeminformatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.veere.nl/sportaccommodaties-huren",
+    "title": "Sportaccommodaties huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/scholen",
+    "title": "Scholen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/reizen-met-kinderen",
+    "title": "Reizen met kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.veere.nl/mantelzorgwoning",
+    "title": "Mantelzorgwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.veere.nl/mest-tijdelijke-opslag-vast-dierlijke-mest",
+    "title": "Mest, tijdelijke opslag vast dierlijke mest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/nederlander-worden-door-naturalisatie",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.veere.nl/opvragen-persoonsgegevens",
+    "title": "Opvragen persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "https://www.veere.nl/afschrift-uittreksel-burgerlijke-stand",
+    "title": "Afschrift (uittreksel) burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.veere.nl/afval-plastic-blik-en-drinkpakken",
+    "title": "Afval, plastic, blik en drinkpakken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalInzPMDK"
+  },
+  {
+    "identifier": "https://www.veere.nl/buitenlandse-documenten-legaliseren-en-verifieren",
+    "title": "Buitenlandse documenten legaliseren en verifiëren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/exploitatievergunning-horecabedrijf-inclusief-terras",
+    "title": "Exploitatievergunning horecabedrijf inclusief terras",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.veere.nl/bodemonderzoek-vrijstelling",
+    "title": "Bodemonderzoek vrijstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.veere.nl/afval-glas",
+    "title": "Afval, glas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_glas"
+  },
+  {
+    "identifier": "https://www.veere.nl/carillon-stadhuis-veere-bespelingen",
+    "title": "Carillon Stadhuis Veere (bespelingen)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/sluitingsuur-strandpaviljoens-ontheffing",
+    "title": "Sluitingsuur strandpaviljoens, ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/bewijs-van-garantstelling-enof-logiesverstrekking",
+    "title": "Bewijs van garantstelling en/of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.veere.nl/bouw-en-verbouwing-controle",
+    "title": "Bouw en verbouwing, controle",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanschrijving"
+  },
+  {
+    "identifier": "https://www.veere.nl/gemeentelijke-informatie-aanvragen",
+    "title": "Gemeentelijke informatie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/voorkeursrecht-van-de-gemeente",
+    "title": "Voorkeursrecht van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwgronduitgifte"
+  },
+  {
+    "identifier": "https://www.veere.nl/bouwplannen-en-bouwtekeningen-bekijken",
+    "title": "Bouwplannen en bouwtekeningen bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.veere.nl/tijdelijke-verhuur-leegstaand-pand",
+    "title": "Tijdelijke verhuur leegstaand pand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnTijdVerhVerg"
+  },
+  {
+    "identifier": "https://www.veere.nl/as-verstrooien",
+    "title": "As verstrooien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/asverstrooiing"
+  },
+  {
+    "identifier": "https://www.veere.nl/afval-bedrijven",
+    "title": "Afval, bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalinzameling"
+  },
+  {
+    "identifier": "https://www.veere.nl/rioolverstopping",
+    "title": "Rioolverstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.veere.nl/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.veere.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.veere.nl/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.veere.nl/afvalkalender",
+    "title": "Afvalkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.veere.nl/uittreksel-persoonsgegevens-brp",
+    "title": "Uittreksel persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.veere.nl/milieustraat",
+    "title": "Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.veere.nl/aanpassen-onjuiste-persoonsgegevens",
+    "title": "Aanpassen onjuiste persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.veere.nl/ontkenning-vaderschap-door-moeder",
+    "title": "Ontkenning vaderschap door moeder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/vaderschapsontkenning_verklaring"
+  },
+  {
+    "identifier": "https://www.veere.nl/trouwen-in-het-buitenland",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/afval-textiel",
+    "title": "Afval, textiel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_textiel"
+  },
+  {
+    "identifier": "https://www.veere.nl/ongediertebestrijding",
+    "title": "Ongediertebestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.veere.nl/vrijwilligersverzekering",
+    "title": "Vrijwilligersverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.veere.nl/basisregistratie-adressen-en-gebouwen-bag",
+    "title": "Basisregistratie Adressen en Gebouwen (BAG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.veere.nl/levenloos-geboren-kind-registreren",
+    "title": "Levenloos geboren kind registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.veere.nl/attestatie-de-vita-internationaal-bewijs-van-in-leven-zijn",
+    "title": "Attestatie de vita (internationaal bewijs van in leven zijn)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.veere.nl/bouwvlak-in-bestemmingsplan",
+    "title": "Bouwvlak in bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.veere.nl/onroerend-goed-van-gemeente-kopen-huren-of-pachten",
+    "title": "Onroerend goed van gemeente kopen, huren of pachten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaak_huur_pacht_koop"
+  },
+  {
+    "identifier": "https://www.veere.nl/gemeentegrond-gebruiken",
+    "title": "Gemeentegrond gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.veere.nl/alcoholvergunning",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.veere.nl/afval-oud-papier-en-karton",
+    "title": "Afval, oud papier en karton",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_oud_papier"
+  },
+  {
+    "identifier": "https://www.veere.nl/afval-klein-chemisch-afval",
+    "title": "Afval, klein chemisch afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_chemisch_afval"
+  },
+  {
+    "identifier": "https://www.veere.nl/naamswijziging-achternaam",
+    "title": "Naamswijziging achternaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.veere.nl/kabels-en-leidingen-leggen-in-openbare-grond",
+    "title": "Kabels en leidingen leggen in openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.veere.nl/bouwstoffen-op-of-in-de-bodem-toepassen",
+    "title": "Bouwstoffen op- of in de bodem toepassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere"
+  },
+  {
+    "identifier": "https://www.veere.nl/gladheid-bestrijden",
+    "title": "Gladheid bestrijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.veere.nl/bedrijf-vestigen",
+    "title": "Bedrijf vestigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veere",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  }
+]

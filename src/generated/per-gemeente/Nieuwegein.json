@@ -1,0 +1,429 @@
+[
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/trouwen-en-scheiden/scheiden-of-partnerschap-beeindigen",
+    "title": "Scheiden of partnerschap beëindigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/geboorte/erkenning-van-kind",
+    "title": "Erkenning van kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/overlijden/kosten-en-voorwaarden-begraven",
+    "title": "Kosten en voorwaarden begraven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/paspoort-id-kaart-en-rijbewijs/rijbewijs-aanvragen",
+    "title": "Rijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/hulp-en-ondersteuning/zelfstandig-blijven-wonen/verzorgd-wonen",
+    "title": "Verzorgd Wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/verhuizen/urgentie-aanvragen",
+    "title": "Urgentie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/urgBewWoning"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/parkeren-en-vervoer/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/vergunningen/wonen-en-verbouwen/huisvestingsvergunning",
+    "title": "Huisvestingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisvestingsvergunning"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/trouwen-en-scheiden/naamgebruik-veranderen",
+    "title": "Naamgebruik veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/hulp-en-ondersteuning/hulp-vanuit-de-wmo",
+    "title": "Hulp vanuit de Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/overlijden/aangifte-van-overlijden",
+    "title": "Aangifte van overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/hulp-en-ondersteuning/nieuwegein-stadspas",
+    "title": "Nieuwegein Stadspas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/stadspas"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/verhuizen/naar-het-buitenland-emigreren",
+    "title": "Naar het buitenland (emigreren)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/paspoort-id-kaart-en-rijbewijs/speciale-paspoorten/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/verhuizen/verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/immigratie-en-naturalisatie/participatieverklaring",
+    "title": "Participatieverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/hulp-en-ondersteuning/hulp-bij-werk-vinden",
+    "title": "Hulp bij werk vinden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/vergunningen/evenementen/geluidsontheffing",
+    "title": "Geluidsontheffing festiviteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/uittreksels-en-aktes/handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/contact/gevonden-en-verloren-voorwerpen",
+    "title": "Gevonden en verloren voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/wonen-en-leefomgeving/bouwen-en-verbouwen/riolering",
+    "title": "Riolering aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/hulp-en-ondersteuning/participatiewet",
+    "title": "Participatiewet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/begWerk"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/paspoort-id-kaart-en-rijbewijs/identiteitskaart-aanvragen",
+    "title": "Identiteitskaart aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/wonen-en-leefomgeving/wonen-en-groen/groenonderhoud/snippergroen",
+    "title": "Snippergroen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/immigratie-en-naturalisatie/nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/uittreksels-en-aktes/uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel Basisregistratie Personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/uittreksels-en-aktes/afschrift-akte-van-de-burgerlijke-stand",
+    "title": "Afschrift akte van de burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/verhuizen/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/trouwen-en-scheiden/huwelijk-of-partnerschap-melden",
+    "title": "Huwelijk of partnerschap melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/wonen-en-leefomgeving/bouwen-en-verbouwen/bestemmingsplannen",
+    "title": "Bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/wonen-en-leefomgeving/bouwen-en-verbouwen/legestarieven-bouwactiviteiten",
+    "title": "Legestarieven bouwactiviteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/leges"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/vergunningen/wonen-en-verbouwen/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/geboorte/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/uittreksels-en-aktes/verklaring-omtrent-gedrag-vog",
+    "title": "Verklaring Omtrent Gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/uittreksels-en-aktes/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/verhuizen/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/geboorte/achternaam-kind-kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/paspoort-id-kaart-en-rijbewijs/rijbewijs-verlengen",
+    "title": "Rijbewijs verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbVerlengen"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/wonen-en-leefomgeving/milieu-en-duurzaam/bodem/olietank",
+    "title": "Olietank in mijn tuin",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/olietankMld"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/paspoort-id-kaart-en-rijbewijs/speciale-paspoorten/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/uittreksels-en-aktes/attestatie-de-vita",
+    "title": "Attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/wonen-en-leefomgeving/bouwen-en-verbouwen/principeaanvraag/vooroverleg",
+    "title": "Principeaanvraag/vooroverleg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/voorovrlg"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/parkeren-en-vervoer/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/paspoort-id-kaart-en-rijbewijs/buitenlands-rijbewijs-omwisselen",
+    "title": "Buitenlands rijbewijs omwisselen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs_buitenlands_omwisseling"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/wonen-en-leefomgeving/milieu-en-duurzaam/bodeminformatie",
+    "title": "Bodeminformatie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/verhuizen/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/paspoort-id-kaart-en-rijbewijs/speciale-paspoorten/zakenpaspoort",
+    "title": "Zakenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/overlijden/begraafplaatsen",
+    "title": "Begraafplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/opvoeding-en-onderwijs/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/opvoeding-en-onderwijs/jeugdhulp",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/overlijden/aangifte-levenloos-geboren-kind",
+    "title": "Aangifte levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/uittreksels-en-aktes/bewijs-van-garantstelling-of-onderdak",
+    "title": "Bewijs van garantstelling of onderdak",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/uittreksels-en-aktes/geslacht-wijzigen",
+    "title": "Geslacht wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/geslachtswijzigingsaangifte"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/verhuizen/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/trouwen-en-scheiden/geregistreerd-partnerschap-omzetten",
+    "title": "Geregistreerd partnerschap omzetten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_omzetting_in_huwelijk"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/verhuizen/opnieuw-verhuizen-naar-nederland",
+    "title": "Opnieuw verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/paspoort-id-kaart-en-rijbewijs/paspoort-aanvragen",
+    "title": "Paspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/paspoort-id-kaart-en-rijbewijs/speciale-paspoorten/tweede-paspoort",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/burgerzaken/paspoort-id-kaart-en-rijbewijs/gezondheidsverklaring",
+    "title": "Gezondheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/vergunningen/wonen-en-verbouwen/splitsen-/-omzetten-woonruimte",
+    "title": "Splitsen/omzetten woonruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonruimte_splitsingsvergunning"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/wonen-en-leefomgeving/wonen-en-groen/boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/parkeren-en-vervoer/parkeren",
+    "title": "Parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.nieuwegein.nl/parkeren-en-vervoer/vergunningen-en-ontheffingen",
+    "title": "Verkeersontheffingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nieuwegein",
+    "product": "http://standaarden.overheid.nl/owms/terms/routeplichtontheffing_vervoer_gevaarlijke_stoffen"
+  }
+]

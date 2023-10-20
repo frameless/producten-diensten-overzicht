@@ -1,0 +1,940 @@
+[
+  {
+    "identifier": "https://www.dinkelland.nl/collectieve-zorgverzekering",
+    "title": "Collectieve zorgverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/financiele-hulp-voor-ondernemers",
+    "title": "Financiële hulp voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/economische_ontwikkelingssubsidie"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/erkennen-van-een-kind",
+    "title": "Erkennen van een kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/ruimtelijke-plannen",
+    "title": "Ruimtelijke Plannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/aandacht-voor-elkaar",
+    "title": "Aandacht voor elkaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/welstandsnota",
+    "title": "Welstandsnota",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouw_en_verbouw_welstandsadvies"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/verkiezingen-2019",
+    "title": "Verkiezingen 2019",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/kiezerspas"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/naamskeuze-kind",
+    "title": "Naamskeuze kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel Basisregistratie Personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/huiselijk-geweld",
+    "title": "Huiselijk geweld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/huiselijk_geweldondersteuning"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/afvalwater-lozen-op-riool",
+    "title": "Afvalwater lozen op riool",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/echtscheiding",
+    "title": "Echtscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/vrijwilligersverzekering",
+    "title": "Vrijwilligersverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/coronavirus-en-sport",
+    "title": "Coronavirus en sport",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportactiviteitensubsidie"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/energietoeslag",
+    "title": "Energietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/automatische-incasso-0",
+    "title": "Automatische incasso",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/asbest",
+    "title": "Asbest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/bedrijven-investeringszones-biz-bijdrage",
+    "title": "Bedrijven Investeringszones (BIZ)-bijdrage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/biz-bijdrage"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/vertrek-naar-het-buitenland-emigratie-doorgeven",
+    "title": "Vertrek naar het buitenland (emigratie) doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/lang-zult-u-wonen",
+    "title": "Lang zult u wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/kleine-kansspelen-vergunning-bingo",
+    "title": "Kleine kansspelen vergunning  (bingo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/vooroverleg-bouwen",
+    "title": "Vooroverleg bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwvoorschriften"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/contactformulier",
+    "title": "Contactformulier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/mededelingen"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/zakenpaspoort-0",
+    "title": "Zakenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/bekendmaking-voorgenomen-uitgiften",
+    "title": "Bekendmaking voorgenomen uitgiften",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaak_huur_pacht_koop"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/subsidieregeling-groene-cheque",
+    "title": "Subsidieregeling Groene Cheque",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/milieuvriendelijk_bouwsubsidie"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/omgevingsvergunning-0",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/leerplicht",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/bijdrage-om-mee-te-doen",
+    "title": "Bijdrage om mee te doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/online-database-voor-ondernemers",
+    "title": "Online database voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/mededelingen"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/subsidieregeling-isolatie",
+    "title": "Subsidieregeling isolatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/openbare-laadpalen",
+    "title": "Openbare laadpalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verkeersbesluit"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/algemene-bijstand",
+    "title": "Algemene bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/jeugdkamperen-2023",
+    "title": "Jeugdkamperen 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/kampeerterrein_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/meldpunt-goed-verhuurderschap",
+    "title": "Meldpunt goed verhuurderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanschrijving_gemeente"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/dossier-stikstof",
+    "title": "Dossier stikstof",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/klein-chemisch-afval",
+    "title": "Klein chemisch afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/terugwinnaars",
+    "title": "Terugwinnaars",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/nieuwsbrief-voor-ondernemers",
+    "title": "Nieuwsbrief voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/mededelingen"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/melding-gevonden-en-verloren-voorwerpen",
+    "title": "Melding gevonden en verloren voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/omgevingsvergunning-milieu",
+    "title": "Omgevingsvergunning milieu",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/kopie-waarmerken",
+    "title": "Kopie waarmerken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/waarmerken_document"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/kwijtschelding",
+    "title": "Kwijtschelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/precario",
+    "title": "Precario",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbesluit"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/groslijsten",
+    "title": "Groslijsten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeenschappelijke_regelingen"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/ontvangt-u-giften",
+    "title": "Ontvangt u giften?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/verkiezingen-2021",
+    "title": "Verkiezingen 2021",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/mededelingen"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/e-facturatie",
+    "title": "E-facturatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeenschappelijke_regelingen"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/uittreksel-burgerlijke-stand",
+    "title": "Uittreksel Burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/ontkenning-vaderschap",
+    "title": "Ontkenning vaderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/vaderschapsontkenning_verklaring"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/adressen-kinderopvang-0",
+    "title": "Adressen kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/legalisatie-handtekening",
+    "title": "Legalisatie handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/over-klachten",
+    "title": "Over klachten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/contact-ondernemers",
+    "title": "Contact ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsverzamelgebouw_toewijzing_en_beheer"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/melding-openbare-ruimte",
+    "title": "Melding openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/verkiezingen-2024",
+    "title": "Verkiezingen 2024",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/vooroverleg-bouwen-0",
+    "title": "Vooroverleg bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/rioolaansluiting",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/tweede-paspoort",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/omgevingsvergunning-bouwen",
+    "title": "Omgevingsvergunning bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/aanvraag-schulddienstverlening",
+    "title": " Aanvraag schulddienstverlening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/identiteitsfraude",
+    "title": "Identiteitsfraude",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/forensenbelasting",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/leefbaarheidsfonds",
+    "title": "Leefbaarheidsfonds",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/tweede-kamerverkiezingen-2023",
+    "title": "Tweede Kamerverkiezingen 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/individuele-studietoeslag",
+    "title": "Individuele Studietoeslag ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderwijssubsidie"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/parkeervergunningen",
+    "title": "Parkeervergunningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/subsidie-aanvragen",
+    "title": "Subsidie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulpverlening_en_jongerenwerksubsidie"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/wonen-dinkelland",
+    "title": "Wonen in Dinkelland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/ja-nee-sticker",
+    "title": "Ja - Nee sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/voor-en-vroegschoolse-educatie-vve",
+    "title": "Voor- en vroegschoolse educatie (VVE)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/alcoholvergunning",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/whatsapp-buurtpreventie",
+    "title": "WhatsApp Buurtpreventie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rechtshulp"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/ozb",
+    "title": "OZB",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/gokautomaten-aanwezigheidsvergunning",
+    "title": "Gokautomaten, aanwezigheidsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/aanvragen-extra-huisnummer",
+    "title": "Aanvragen extra huisnummer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/melding-klacht-over-bedrijven",
+    "title": "Melding of klacht over bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(milieu)"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/scholen",
+    "title": "Scholen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/blijverslening",
+    "title": "Blijverslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwblokverzoek"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/handhavingsverzoek",
+    "title": "Handhavingsverzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanschrijving_gemeente"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/gehandicaptenparkeerplaats-0",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bewoners"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/geboorte-aangifte",
+    "title": "Geboorte aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/verkiezingen-2023",
+    "title": "Verkiezingen 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding  persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgegevens_verklaring_onder_eed_of_belofte"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/gezondheidsverklaring",
+    "title": "Gezondheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs_eigen_verklaring"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/ondernemers-die-kansen-zien",
+    "title": "Ondernemers die kansen zien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/startend_ondernemerschapsubsidie"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/register-kinderopvang",
+    "title": "Register Kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderdagverblijf"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/maatschappelijke-en-vrijwilligersorganisaties",
+    "title": "Maatschappelijke- en vrijwilligersorganisaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/mededelingen"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/contact-met-sociale-zaken",
+    "title": "Contact met Sociale Zaken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/bewijs-van-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/verhuizen-vanuit-het-buitenland",
+    "title": "Verhuizen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/woz",
+    "title": "WOZ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/verklaring-omtrent-gedrag-vog",
+    "title": "Verklaring Omtrent Gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/afvalbrengpunt",
+    "title": "Afvalbrengpunt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/compliment-geven",
+    "title": "Compliment geven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/inkoop-en-aanbestedingen",
+    "title": "Inkoop en aanbestedingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijf_aan_huis_melding"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/verkiezingen-2022",
+    "title": "Verkiezingen 2022 ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/afspraak-maken",
+    "title": "Afspraak maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/aangifte-registratie-levenloos-geboren-kind",
+    "title": "Aangifte / registratie levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/naamgebruik-wijzigen",
+    "title": "Naamgebruik wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/rijbewijs-persoonlijk-aanvragen",
+    "title": "Rijbewijs persoonlijk aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/bijstandsfraude",
+    "title": "Bijstandsfraude",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/rijbewijs-online-aanvragen",
+    "title": "Rijbewijs online aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/afvalinzameling",
+    "title": "Afvalinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/ondernemers-zzpers",
+    "title": "Ondernemers & ZZP’ers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/economische_ontwikkelingssubsidie"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/aanvullende-bijdrage-kinderopvang",
+    "title": "Aanvullende bijdrage kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/trouwengeregistreerd-partnerschap-dinkelland",
+    "title": "Trouwen/geregistreerd partnerschap in Dinkelland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/zienswijze-bezwaar-en-beroep",
+    "title": "Zienswijze/ Bezwaar en beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/ontheffing-stookverbod",
+    "title": "Ontheffing stookverbod",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/aankoop-groen-reststroken",
+    "title": "Aankoop groen- of reststroken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/slooplijst",
+    "title": "Slooplijst",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/loterij-kansspelvergunning",
+    "title": "Loterij (kansspelvergunning)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/vergunningsvrij-bouwen",
+    "title": "Vergunningsvrij bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/persoonlijke-internet-pagina",
+    "title": "Persoonlijke Internet Pagina",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/mededelingen"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/aangifte-van-overlijden",
+    "title": "Aangifte van overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/bezwaar-belastingen-woz-leges",
+    "title": "Bezwaar Belastingen / WOZ / Leges",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/kapvergunning",
+    "title": "Kapvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/opvang-vluchtelingen",
+    "title": "Opvang vluchtelingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/mededelingen"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/archiefbezoek",
+    "title": "Archiefbezoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/visvergunning"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/minima-regelingen-en-bijzondere-bijstand",
+    "title": "Minima regelingen en Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.dinkelland.nl/slopen",
+    "title": "Slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dinkelland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  }
+]

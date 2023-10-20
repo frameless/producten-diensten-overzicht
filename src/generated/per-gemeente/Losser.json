@@ -1,0 +1,509 @@
+[
+  {
+    "identifier": "https://www.losser.nl/Klacht_en_melding/Bezwaar_maken_tegen_besluit",
+    "title": "Bezwaar maken tegen besluit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Bouwen_en_verbouwen_vergunningen/Airco_of_warmtepomp_plaatsen_bij_woning",
+    "title": "Airco of warmtepomp plaatsen bij woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Parkeren_en_verkeer/Ontheffing_verkeersregels_en_verkeerstekens",
+    "title": "Ontheffing verkeersregels en verkeerstekens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Bouwen_en_verbouwen_vergunningen/Omgevingsvergunning_slopen",
+    "title": "Omgevingsvergunning slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.losser.nl/Uittreksels_en_verklaringen/Verklaring_omtrent_het_gedrag_VOG",
+    "title": "Verklaring omtrent het gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.losser.nl/Ondernemen/Milieuregels",
+    "title": "Milieuregels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/milieuinformatie"
+  },
+  {
+    "identifier": "https://www.losser.nl/Belastingen/WOZ_aanslag_bekijken",
+    "title": "WOZ-aanslag bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-taxatieverslag"
+  },
+  {
+    "identifier": "https://www.losser.nl/Belastingen/Rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.losser.nl/Uittreksels_en_verklaringen/Afstand_doen_van_Nederlandse_nationaliteit",
+    "title": "Afstand doen van Nederlandse nationaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afstand_doen_nederlandse_nationaliteit"
+  },
+  {
+    "identifier": "https://www.losser.nl/Bouwen_verbouwen_en_wonen/Bouwen_en_verbouwen/Afwijken_van_bestemmingsplan",
+    "title": "Afwijken van bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.losser.nl/Paspoort_identiteitskaart_en_rijbewijs/Paspoort_of_identiteitskaart_kwijt_of_gestolen",
+    "title": "Paspoort of identiteitskaart kwijt of gestolen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Snoeihout_verbranden_en_paasvuren",
+    "title": "Snoeihout verbranden en paasvuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.losser.nl/Klacht_en_melding/Reinigen_openbare_weg_melding_klacht",
+    "title": "Reinigen openbare weg, melding klacht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.losser.nl/Belastingen/Onroerendezaakbelasting_OZB",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Parkeren_en_verkeer/Gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.losser.nl/Verhuizen/Verhuizen_naar_het_buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Parkeren_en_verkeer/Gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.losser.nl/Uittreksels_en_verklaringen/Buitenlands_document_registreren",
+    "title": "Buitenlands document registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInschrBuitAkte"
+  },
+  {
+    "identifier": "https://www.losser.nl/Belastingen/Kwijtschelding_belastingen",
+    "title": "Kwijtschelding belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.losser.nl/Uittreksels_en_verklaringen/Uittreksel_Basisregistratie_Personen",
+    "title": "Uittreksel Basisregistratie Personen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.losser.nl/Trouwen_en_partnerschap/Gebruik_achternaam_veranderen",
+    "title": "Gebruik achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.losser.nl/Uittreksels_en_verklaringen/Uittreksel_burgerlijke_stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.losser.nl/Uittreksels_en_verklaringen/Bewijs_van_in_leven_zijn_of_Attestatie_de_vita",
+    "title": "Bewijs van in leven zijn of Attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.losser.nl/Verhuizen/Nederlander_worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://www.losser.nl/Paspoort_identiteitskaart_en_rijbewijs/Buitenlands_rijbewijs_omwisselen",
+    "title": "Buitenlands rijbewijs omwisselen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs_buitenlands_omwisseling"
+  },
+  {
+    "identifier": "https://www.losser.nl/Uittreksels_en_verklaringen/Boete_voor_onjuiste_persoonsgegevens",
+    "title": "Boete voor onjuiste persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.losser.nl/Belastingen/Afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.losser.nl/Paspoort_identiteitskaart_en_rijbewijs/Paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.losser.nl/Belastingen/Betalen_van_gemeentelijke_belastingen",
+    "title": "Betalen van gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.losser.nl/Verhuizen/Verhuizing_doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Horeca_en_evenementen/Alcoholvergunning",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Horeca_en_evenementen/Tijdelijk_alcohol_schenken",
+    "title": "Tijdelijk alcohol schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.losser.nl/Hulp_bij_geldzaken/Studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.losser.nl/Belastingen/Toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.losser.nl/Trouwen_en_partnerschap/Echtscheiding_doorgeven",
+    "title": "Echtscheiding doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Bouwen_en_verbouwen_vergunningen/Brandveilig_gebruik_gebouwen",
+    "title": "Brandveilig gebruik gebouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.losser.nl/Uittreksels_en_verklaringen/Verklaring_van_huwelijksbevoegdheid",
+    "title": "Verklaring van huwelijksbevoegdheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_huwelijksbevoegdheid"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Bingo_loterij_of_kansspel_organiseren",
+    "title": "Bingo, loterij of kansspel organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.losser.nl/Jeugd/Kinderopvang",
+    "title": "Kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://www.losser.nl/Paspoort_identiteitskaart_en_rijbewijs/Vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.losser.nl/Hulp_bij_geldzaken/Individuele_inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.losser.nl/Paspoort_identiteitskaart_en_rijbewijs/Rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Parkeren_en_verkeer/Toestemming_voor_parkeren_ontheffing",
+    "title": "Toestemming voor parkeren (ontheffing)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://www.losser.nl/Geboorte/Geboorte_doorgeven",
+    "title": "Geboorte doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.losser.nl/Uittreksels_en_verklaringen/Handtekening_legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.losser.nl/Hulp_bij_zorg/Wet_maatschappelijke_ondersteuning_Wmo",
+    "title": "Wet maatschappelijke ondersteuning (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.losser.nl/Paspoort_identiteitskaart_en_rijbewijs/Identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Bouwen_en_verbouwen_vergunningen/Inrit_of_uitrit_aanleggen",
+    "title": "Inrit of uitrit aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Bouwen_en_verbouwen_vergunningen/Monument_verbouwen",
+    "title": "Monument verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.losser.nl/Overlijden/Overlijden_doorgeven",
+    "title": "Overlijden doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.losser.nl/Paspoort_identiteitskaart_en_rijbewijs/Vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.losser.nl/Klacht_en_melding/Klacht_over_medewerker_van_de_gemeente",
+    "title": "Klacht over medewerker van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.losser.nl/Hulp_bij_geldzaken/Bijzondere_bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Reclame_plaatsen",
+    "title": "Reclame plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Verkopen_of_bord_plaatsen_aan_openbare_weg",
+    "title": "Verkopen of bord plaatsen aan openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.losser.nl/Hulp_bij_geldzaken/Woonkostentoeslag",
+    "title": "Woonkostentoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonkostentoeslag"
+  },
+  {
+    "identifier": "https://www.losser.nl/Verhuizen/Verhuizen_naar_Nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_binnen_nederland"
+  },
+  {
+    "identifier": "https://www.losser.nl/Uittreksels_en_verklaringen/Persoonsgegevens_bekijken",
+    "title": "Persoonsgegevens bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Bouwen_en_verbouwen_vergunningen/Omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Collectevergunning",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.losser.nl/Overlijden/Registratie_levenloos_geboren_kind",
+    "title": "Registratie levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInschrOverlKind"
+  },
+  {
+    "identifier": "https://www.losser.nl/Uittreksels_en_verklaringen/Waarmerken_kopie_paspoort_identiteitskaart_of_rijbewijs",
+    "title": "Waarmerken kopie paspoort, identiteitskaart of rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/waarmerken_document"
+  },
+  {
+    "identifier": "https://www.losser.nl/Uittreksels_en_verklaringen/Geslacht_geboorteakte_wijzigen",
+    "title": "Geslacht geboorteakte wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geslachtswijzigingsaangifte"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Bouwen_en_verbouwen_vergunningen/Boom_kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Horeca_en_evenementen/Vergunning_voor_gokautomaten",
+    "title": "Vergunning voor gokautomaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.losser.nl/Geboorte/Kind_erkennen",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.losser.nl/Trouwen_en_partnerschap/Trouwen_of_partnerschap_registreren",
+    "title": "Trouwen of partnerschap registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.losser.nl/Uittreksels_en_verklaringen/Bewijs_van_Nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.losser.nl/Verhuizen/Inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inbExamAanmeld"
+  },
+  {
+    "identifier": "https://www.losser.nl/Contact/Iets_verloren_of_gevonden",
+    "title": "Iets verloren of gevonden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)"
+  },
+  {
+    "identifier": "https://www.losser.nl/Vergunningen/Vergunning_kledinginzameling",
+    "title": "Vergunning kledinginzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inzamelingsvergunning"
+  },
+  {
+    "identifier": "https://www.losser.nl/Uittreksels_en_verklaringen/Geheimhouding_persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Losser_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  }
+]

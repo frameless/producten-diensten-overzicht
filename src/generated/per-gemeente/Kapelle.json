@@ -1,0 +1,1248 @@
+[
+  {
+    "identifier": "https://www.kapelle.nl/vrijwilligersverzekering",
+    "title": "Vrijwilligersverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/restafval",
+    "title": "Restafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/nieuwe-inwoners-0",
+    "title": "Nieuwe inwoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/geluidswagen-gebruiken",
+    "title": "Geluidswagen gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/sociale-huurwoning",
+    "title": "Sociale huurwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/vakantie-melden",
+    "title": "Vakantie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/bouwleges",
+    "title": "Bouwleges",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leges"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/aanpassen-onjuiste-persoonsgegevens",
+    "title": "Aanpassen onjuiste persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/uittreksel-persoonsgegevens-brp",
+    "title": "Uittreksel persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/drank-en-horecavergunning",
+    "title": "Drank- en horecavergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/omgevingsvergunning-bouwen-slopen-en-kappen",
+    "title": "Omgevingsvergunning bouwen, slopen en kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/informatiestand-plaatsen",
+    "title": "Informatiestand plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/informatiestandplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/afvalscheidingswijzer",
+    "title": "Afvalscheidingswijzer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/subsidie-gemeentelijke-monumenten",
+    "title": "Subsidie gemeentelijke monumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/demonstratie-protestactie-houden",
+    "title": "Demonstratie of protestactie houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/verkiezingsuitslag-tweede-kamerverkiezing-2021",
+    "title": "Verkiezingsuitslag Tweede Kamerverkiezing 2021",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/collectevergunning",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/werkzaamheden-westzijde-kapelle",
+    "title": "Werkzaamheden westzijde Kapelle",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/welstand",
+    "title": "Welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouw_en_verbouw_welstandsadvies"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/kadastrale-informatie",
+    "title": "Kadastrale informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/achternaam-kind-kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/glas",
+    "title": "Glas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_glas"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/kapelle-leeft-0",
+    "title": "Kapelle Leeft",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/bewijs-van-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/grafsteen-gedenkteken-plaatsen",
+    "title": "Grafsteen of gedenkteken plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/jaarlijkse-welzijnssubsidies",
+    "title": "Jaarlijkse welzijnssubsidies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welzijnswerksubsidie"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/zorgtoeslag",
+    "title": "Zorgtoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zorgtoeslag"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/buurtteam",
+    "title": "Buurtteam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/evenement-waar-moet-u-aan-denken",
+    "title": "Evenement: waar moet u aan denken?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/omzetten-partnerschap-huwelijk",
+    "title": "Omzetten partnerschap in huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_omzetting_in_huwelijk"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-werknemers-ioaw",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte werknemers (IOAW)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaw-uitkering"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/verandering-doorgeven",
+    "title": "Verandering doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/dieren-houden",
+    "title": "Dieren houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dierenhOnth"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/afvalwater-lozen",
+    "title": "Afvalwater lozen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalwaterlozingontheffing"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/forensenbelasting",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/onroerendezaakbelasting-ozb",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/grof-afval-aanbieden",
+    "title": "Grof afval aanbieden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/vvd",
+    "title": "VVD",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/grafmonument",
+    "title": "Grafmonument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafmonumentenvergunning"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/kind-adopteren",
+    "title": "Kind adopteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adoptie"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/scholen",
+    "title": "Scholen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/christenunie",
+    "title": "ChristenUnie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/sgp",
+    "title": "SGP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/afvalkalender",
+    "title": "Afvalkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/echtscheiding-einde-geregistreerd-partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtschVerz"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/kermis-organiseren",
+    "title": "Kermis organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kermisvergunning"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/opplussen-van-woningen",
+    "title": "Opplussen van woningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/veelgestelde-vragen",
+    "title": "Veelgestelde vragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/controle",
+    "title": "Controle",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/begraven-cremeren",
+    "title": "Begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verlBegraven"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/brandveiligheidsvoorschriften",
+    "title": "Brandveiligheidsvoorschriften",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brandveiligheidadvies"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/bouwvlak-bestemmingsplan",
+    "title": "Bouwvlak in bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/betalingsregeling",
+    "title": "Betalingsregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/bodeminformatie",
+    "title": "Bodeminformatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/dood-dier-opruimen",
+    "title": "Dood dier opruimen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/informatie-opvragen-woo-verzoek",
+    "title": "Informatie opvragen (Woo-verzoek)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/bedrijf-vestigen",
+    "title": "Bedrijf vestigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/grond-bagger-en-bouwstoffen-gebruiken",
+    "title": "Grond, bagger en bouwstoffen gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwstoffenmelding"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/bijstand-voor-zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/masterplan-wemeldinge",
+    "title": "Masterplan Wemeldinge",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/brandveiligheid-melding-vergunning",
+    "title": "Brandveiligheid: melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brandveiligheidadvies"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/buitenlandse-documenten-legaliseren-en-verifieren",
+    "title": "Buitenlandse documenten legaliseren en verifiëren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_van_buitenlandse_documenten"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/alcohol-schenken-tijdens-evenement",
+    "title": "Alcohol schenken tijdens evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/pmd-plastic-metaal-en-drinkpakken",
+    "title": "PMD (Plastic, Metaal en drinkpakken)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalInzPMDK"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/trouwambtenaren",
+    "title": "Trouwambtenaren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ambtBurgStnd"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/standplaats-aanvragen",
+    "title": "Standplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/afvalbeleid",
+    "title": "Afvalbeleid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/vuur-stoken",
+    "title": "Vuur stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/verklaring-omtrent-gedrag-vog",
+    "title": "Verklaring Omtrent Gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/teruggave",
+    "title": "Teruggave",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingteruggave"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/wegenplan",
+    "title": "Wegenplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/kabels-en-leidingen-leggen-openbare-grond",
+    "title": "Kabels en leidingen leggen in openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/gebruik-achternaam-veranderen",
+    "title": "Gebruik achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/melden-afval-openbare-ruimte",
+    "title": "Melden afval openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/vrijwilligerswerk",
+    "title": "Vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/waar-kan-ik-terecht-voor",
+    "title": "Waar kan ik terecht voor...?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/dopomoga-na-prozhivannya",
+    "title": "Допомога на проживання ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/hondenbelasting-0",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/handleiding-subsidiebeleid-en-subsidieverstrekking",
+    "title": "Handleiding subsidiebeleid en subsidieverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/gemeentebelang",
+    "title": "Gemeentebelang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/kind-erkennen-voor-de-geboorte",
+    "title": "Kind erkennen vóór de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/griffier",
+    "title": "Griffier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/geluidsapparatuur-horecabedrijf",
+    "title": "Geluidsapparatuur horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats_op_kenteken"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/zakken-plastic-afval",
+    "title": "Zakken plastic afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/bouwplannen-en-bouwtekeningen-bekijken",
+    "title": "Bouwplannen en bouwtekeningen bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/geheimhouden-persoonsgegevens",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/zienswijze-indienen",
+    "title": "Zienswijze indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zienswijze"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/vragen-klachten-over-afvalinzameling",
+    "title": "Vragen of klachten over afvalinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/bijen-houden",
+    "title": "Bijen houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijenhoudonth"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/textiel",
+    "title": "Textiel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_textiel"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/ongediertebestrijding",
+    "title": "Ongediertebestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/verplichte-verbetering-woning",
+    "title": "Verplichte verbetering woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/kinderopvangtoeslag",
+    "title": "Kinderopvangtoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/koninklijke-onderscheiding-lintje",
+    "title": "Koninklijke onderscheiding, lintje",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/korting-afvalstoffenheffing-bij-medisch-afval",
+    "title": "Korting afvalstoffenheffing bij medisch afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstortontheffing"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/zuidhoek-3",
+    "title": "Zuidhoek 3",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/antenne-schotelantenne-plaatsen",
+    "title": "Antenne of schotelantenne plaatsen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/antenne(schotel)_plaatsingsvergunning"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/hofleverancier-worden",
+    "title": "Hofleverancier worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijk_predicaataanvraag"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/afgezet-gebied-binnengaan",
+    "title": "Afgezet gebied binnengaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afgezette_gebieden_betreden_ontheffing"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/trouwen-het-buitenland",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/leerplicht",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/verhuizen-naar-het-buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/gemeentearchief-0",
+    "title": "Gemeentearchief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/archiefInzage"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/sport-en-bewegen",
+    "title": "Sport en bewegen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/pvda",
+    "title": "PvdA",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/huisnummer-aanvragen-veranderen",
+    "title": "Huisnummer aanvragen of veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/berm-gebruiken",
+    "title": "Berm gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bermgebruikontheffing"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/huwelijk-geregistreerd-partnerschap",
+    "title": "Huwelijk / Geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/exploitatievergunning-horecabedrijf",
+    "title": "Exploitatievergunning horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/project-zuidhoek-3",
+    "title": "Project Zuidhoek 3",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/verloren-gevonden",
+    "title": "Verloren of gevonden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/welstandscommissie-vergaderingen",
+    "title": "Welstandscommissie (vergaderingen)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/attestatie-de-vita-internationaal-bewijs-van-leven-zijn",
+    "title": "Attestatie de vita (internationaal bewijs van in leven zijn)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/woz-waarde",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/gokautomaat-plaatsen",
+    "title": "Gokautomaat plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/nederlander-worden-naturalisatie-optie",
+    "title": "Nederlander worden, naturalisatie/ optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/ehbo-evenement",
+    "title": "EHBO evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/veiligheidsplan",
+    "title": "Veiligheidsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-zelfstandigen-ioaz",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte zelfstandigen (IOAZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaz-uitkering"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/incidentele-welzijnssubsidies",
+    "title": "Incidentele welzijnssubsidies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welzijnswerksubsidie"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/d66",
+    "title": "D66",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/privacyverklaringen",
+    "title": "Privacyverklaringen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verwpersgegverantwpl"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/verhuizen",
+    "title": "Verhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_binnen_nederland"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/loterij-prijsvraag-bingo-organiseren",
+    "title": "Loterij, prijsvraag, bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/loterijvergunning"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/uitkering",
+    "title": "Uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/bedrijfspandbedrijventerrein-huren-kopen",
+    "title": "Bedrijfspand/bedrijventerrein huren of kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsterrein_huren_of_kopen"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/geheimhouden-persoonsgegevens-0",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/oud-papier-en-karton",
+    "title": "Oud papier en karton",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_oud_papier"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/automatische-incasso-aanvragen-gemeentelijke-belastingen",
+    "title": "Automatische incasso aanvragen gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/kopie-aanslag",
+    "title": "Kopie aanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_kopie"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/klein-chemisch-afval",
+    "title": "Klein chemisch afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_chemisch_afval"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/alarmsysteem-installeren",
+    "title": "Alarmsysteem installeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/ramp-crisis",
+    "title": "Ramp of crisis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/crisismtrgl"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/bedrijfsactiviteiten-wijzigen",
+    "title": "Bedrijfsactiviteiten wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/milieuzorg-bij-bedrijven",
+    "title": "Milieuzorg bij bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsinterne_milieuzorg"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/basisscholen-wemeldinge",
+    "title": "Basisscholen Wemeldinge",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/gladheid-bestrijden",
+    "title": "Gladheid bestrijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/kwijtschelding",
+    "title": "Kwijtschelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/verwijderen-privacygevoelige-persoonsgegevens",
+    "title": "Verwijderen privacygevoelige persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/overlijden-aangifte",
+    "title": "Overlijden, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/leefgeld-aanvragen",
+    "title": "Leefgeld aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/afschrift-uittreksel-burgerlijke-stand",
+    "title": "Afschrift (uittreksel) burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/weer-gaan-werken",
+    "title": "Weer gaan werken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/bestemmingsplan-aanpassen",
+    "title": "Bestemmingsplan aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/bodemvervuiling-verwijderen",
+    "title": "Bodemvervuiling verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/milieustraat-kapelle",
+    "title": "Milieustraat Kapelle",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/kind-erkennen-na-de-geboorte",
+    "title": "Kind erkennen ná de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/evenementenbeleid",
+    "title": "Evenementenbeleid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/jaarwisseling",
+    "title": "Jaarwisseling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/gft-groente-fruit-en-tuinafval",
+    "title": "GFT (Groente, fruit en tuinafval)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_gft"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/algemene-informatie-franse-herdenking",
+    "title": "Algemene informatie Franse Herdenking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/centrum-voor-jeugd-en-gezin",
+    "title": "Centrum voor Jeugd en Gezin",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/nieuwbouw-schore",
+    "title": "Nieuwbouw Schore",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/risicoscan",
+    "title": "Risicoscan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.kapelle.nl/cda",
+    "title": "CDA",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Kapelle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  }
+]

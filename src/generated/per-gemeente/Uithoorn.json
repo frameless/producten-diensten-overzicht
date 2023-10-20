@@ -1,0 +1,648 @@
+[
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Belastingen/WOZ_beschikking_Wet_waardering_onroerende_zaken",
+    "title": "WOZ-waarde en taxatieverslag inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/wonen/Leegstaande_woning_tijdelijk_verhuren",
+    "title": "Leegstaande woning tijdelijk verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Vergunningen_drank_en_horeca/Gebouw_als_woning_gebruiken",
+    "title": "Gebouw als woning gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Uittreksels_en_verklaringen/Nederlandse_nationaliteit_aanvragen",
+    "title": "Nederlandse nationaliteit aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Vergunningen_drank_en_horeca/Festiviteit_horeca_organiseren",
+    "title": "Festiviteit horeca organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Uittreksels_en_verklaringen/Andere_achternaam_gebruiken",
+    "title": "Andere achternaam gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Leefomgeving/Milieumelding_doen",
+    "title": "Milieumelding doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wet_milieubeheermelding"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Paspoort_ID_en_rijbewijs/Waarmerken_kopie",
+    "title": "Waarmerken kopie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Uittreksels_en_verklaringen/Uittreksel_Basisregistratie_personen",
+    "title": "Uittreksel Basisregistratie personen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Afval/Grofvuil_inleveren_of_ophalen",
+    "title": "Grofvuil inleveren of ophalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Parkeren_Verkeer_en_vervoer/Verkeersontheffing_aanvragen",
+    "title": "Verkeersontheffing aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Vergunningen_drank_en_horeca/Kansspel_organiseren",
+    "title": "Kansspel organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Ondernemen/Subsidie_incidenteel_en_structureel",
+    "title": "Subsidies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Uittreksels_en_verklaringen/Verklaring_omtrent_het_gedrag_aanvragen",
+    "title": "Verklaring omtrent het gedrag aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Verhuizen/Opnieuw_inschrijven_in_Nederland",
+    "title": "Opnieuw inschrijven in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Ondernemen/Vuurwerk_opslaan_of_verkopen",
+    "title": "Vuurwerk opslaan of verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vuurwerkverkoopvergunning"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Uittreksels_en_verklaringen/Verzoek_over_persoonsgegevens_indienen",
+    "title": "Verzoek over persoonsgegevens indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Hulp_zorg_en_ondersteuning/Wmo_vervoer_Amstelland",
+    "title": "Wmo-vervoer Amstelland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Afval/Asbest_verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Jeugd_onderwijs_en_kinderopvang/Kinderopvang_starten",
+    "title": "Kinderopvang starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Leefomgeving/Omgevingsvergunning_aanvragen",
+    "title": "Omgevingsvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Vergunningen_drank_en_horeca/Terrasvergunning_aanvragen",
+    "title": "Terrasvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Leefomgeving/Verkeerd_huisnummer_melden",
+    "title": "(Huis)nummeraanduiding aanvragen of wijzigen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Vergunningen_drank_en_horeca/Gokautomaten_plaatsten",
+    "title": "Gokautomaten plaatsten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Jeugd_onderwijs_en_kinderopvang/Inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Afval/Plastic_metaal_en_drankenkartons_inleveren",
+    "title": "Plastic, metaal en drankenkartons inleveren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_plastic"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Trouwen_of_scheiden/Echtscheiding_melden",
+    "title": "Echtscheiding melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Verhuizen/Briefadres_aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Vergunningen_drank_en_horeca/Marktstandplaats_aanvragen",
+    "title": "Marktstandplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Geboorte_en_overlijden/Overlijden_aangifte_doen",
+    "title": "Overlijden, aangifte doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Afval/Oud_papier_inleveren",
+    "title": "Oud papier inleveren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_oud_papier"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Veiligheid_in_Uithoorn/Rampenbestrijdingsplan",
+    "title": "Crisisplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/crisisplan"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Bestuur_en_organisatie/Koninklijke_onderscheiding_lintje_aanvragen",
+    "title": "Koninklijke onderscheiding (lintje) aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Vergunningen_drank_en_horeca/Horecabedrijf_beginnen",
+    "title": "Exploitatievergunning horecabedrijf aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Leefomgeving/Bodemonderzoek_aanvragen",
+    "title": "Bodemonderzoek aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Paspoort_ID_en_rijbewijs/Paspoort_of_identiteitskaart_voor_Nederlanders_die_in_het_buitenland_wonen",
+    "title": "Paspoort of identiteitskaart voor Nederlanders die in het buitenland wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Evenementen/Een_evenement_organiseren",
+    "title": "Een evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Vergunningen_drank_en_horeca/Filmopnamen_maken",
+    "title": "Filmopnamen maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/strArtOptrOnth"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Contact_met_de_gemeente/Bezwaarschrift_indienen",
+    "title": "Bezwaarschrift indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Leefomgeving/Uitweg",
+    "title": "Uitweg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Evenementen/Reclameborden_plaatsen_voor_een_evenement",
+    "title": "Reclameborden plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Vergunningen_drank_en_horeca/Standplaatsvergunning_aanvragen",
+    "title": "Standplaatsvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Uittreksels_en_verklaringen/Informatieaanvraag_Wet_open_overheid_Woo",
+    "title": "Informatieaanvraag Wet open overheid (Woo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Ondernemen/Aanvraag_vaststelling_subsidie",
+    "title": "Aanvraag vaststelling subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Contact_met_de_gemeente/Zienswijze_indienen",
+    "title": "Zienswijze indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Geboorte_en_overlijden/Een_kind_erkennen_en_naam_kiezen",
+    "title": "Een kind erkennen en naam kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Vergunningen_drank_en_horeca/Langere_openingstijden_voor_uw_horecabedrijf_aanvragen",
+    "title": "Langere openingstijden voor uw horecabedrijf aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Contact_met_de_gemeente/Gevonden_of_verloren_voorwerpen_melden",
+    "title": "Gevonden of verloren voorwerpen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Contact_met_de_gemeente/Klacht_over_de_gemeente_indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Verhuizen/Adresonderzoek_aanvragen",
+    "title": "Adresonderzoek aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Vergunningen_drank_en_horeca/Bibob_onderzoek",
+    "title": "Bibob-onderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/integriteitsbeoordeling"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Verhuizen/Verhuizen_naar_het_buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Geboorte_en_overlijden/Levenloos_geboren_kind_aangifte",
+    "title": "Levenloos geboren kind, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Paspoort_ID_en_rijbewijs/Paspoort_of_identiteitskaart_aanvragen",
+    "title": "Paspoort of identiteitskaart aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Ondernemen/Digitaal_Opkopers_Register",
+    "title": "Digitaal Opkopers Register",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Uittreksels_en_verklaringen/Verstrekkingsbeperking_persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens BRP aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Leefomgeving/Bomen_kappen",
+    "title": "Bomen kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Verhuizen/Inschrijven_in_Nederland_voor_studie_of_werk",
+    "title": "Inschrijven in Nederland voor studie of werk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Verhuizen/Eerste_inschrijving_in_Nederland",
+    "title": "Eerste inschrijving in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Leefomgeving/Ontheffing_aanvragen_voor_geluidsoverlast_bij_bouwen_en_slopen",
+    "title": "Ontheffing aanvragen voor geluidsoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Leefomgeving/Bestemmingsplannen/Vergoeding_aanvragen_voor_schade_door_een_bestemmingsplan",
+    "title": "Vergoeding aanvragen voor schade door een bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Geboorte_en_overlijden/Ouderlijk_gezag_en_voogdij_aanvragen",
+    "title": "Ouderlijk gezag, gezamenlijk gezag en voogdij aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Leefomgeving/Riolering_en_wateroverlast/Rioolaansluiting_aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Paspoort_ID_en_rijbewijs/Burgerservicenummer",
+    "title": "Burgerservicenummer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerservicenummer_(bsn)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Configuratie/pdc_uithoorn/Producten_op_alfabet/M/Melding_over_openbare_ruimte_indienen",
+    "title": "Melding over openbare ruimte indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Geboorte_en_overlijden/Geboorteaangifte_doen",
+    "title": "Geboorteaangifte doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Bestuur_en_organisatie/Ter_inzage/Inzage_bouwarchief",
+    "title": "Inzage bouwarchief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Evenementen/Buurtbarbecue_buurtfeest_organiseren",
+    "title": "Buurtbarbecue/buurtfeest organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Trouwen_of_scheiden/Buitenlandse_echtscheiding_melden",
+    "title": "Buitenlandse echtscheiding melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Vergunningen_drank_en_horeca/Geld_of_spullen_inzamelen_voor_een_goed_doel",
+    "title": "Geld of spullen inzamelen voor een goed doel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Evenementen/Spandoek_ophangen",
+    "title": "Spandoek ophangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Leefomgeving/Gemeentegrond_gebruiken",
+    "title": "Gemeentegrond gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwgronduitgifte"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Veiligheid_in_Uithoorn/Alarm_bij_gevaar",
+    "title": "Alarm bij gevaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Leefomgeving/Kabels_en_leidingen_aanleggen",
+    "title": "Kabels en leidingen aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/wonen/Starterslening_aanvragen",
+    "title": "Starterslening aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Evenementen/Reclame_plaatsen",
+    "title": "Reclame plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Paspoort_ID_en_rijbewijs/Bezoek_uit_het_buitenland_ontvangen",
+    "title": "Garant staan voor bezoek uit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Uithoorn_doet_duurzaam/Duurzaam_wonen/Energiebespaarlening",
+    "title": "Energiebespaarlening aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Verhuizen/Verhuizing_doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Evenementen/Een_klein_evenement_organiseren",
+    "title": "Een klein evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Jeugd_onderwijs_en_kinderopvang/Leerlingenvervoer_aanvragen",
+    "title": "Leerlingenvervoer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Veiligheid_in_Uithoorn/AED_apparaat_gebruiken",
+    "title": "AED-apparaat gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Werk_en_inkomen/Vakantie_doorgeven_bij_bijstandsuitkering",
+    "title": "Vakantie doorgeven bij bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Uittreksels_en_verklaringen/Bewijs_van_in_leven_zijn_of_attestatie_de_vita",
+    "title": "Bewijs van in leven zijn of attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Uittreksels_en_verklaringen/Voornaam_of_achternaam_wijzigen",
+    "title": "Voornaam of achternaam wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voornaamwijziging"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Vergunningen_drank_en_horeca/Alcohol_tijdelijk_schenken",
+    "title": "Alcohol tijdelijk schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Leefomgeving/Kadastrale_gegevens_opvragen",
+    "title": "Kadastrale gegevens opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Trouwen_of_scheiden/Buitenlands_huwelijk_in_Nederland_registreren",
+    "title": "Buitenlands huwelijk of partnerschap registreren in Nederland ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Paspoort_ID_en_rijbewijs/Rijbewijs_aanvragen_en_verlengen",
+    "title": "Rijbewijs aanvragen en verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Leefomgeving/Brandveilig_gebruik_van_gebouwen",
+    "title": "Brandveilig gebruik van gebouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Vergunningen_drank_en_horeca/Melding_wijziging_leidinggevende_horecabedrijf",
+    "title": "Melding wijziging leidinggevende horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Uittreksels_en_verklaringen/Uittreksel_of_afschrift_van_de_burgerlijke_stand_aanvragen",
+    "title": "Uittreksel of afschrift burgerlijke stand aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Parkeren_Verkeer_en_vervoer/Ontheffing_voor_het_inrijverbod_op_de_Drechtdijk_Halfweg",
+    "title": "Ontheffing voor het inrijverbod op de Drechtdijk / Halfweg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Contact_met_de_gemeente/Melding_over_openbare_ruimte_indienen",
+    "title": "Melding over openbare ruimte indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Contact_met_de_gemeente/Gemeente_aansprakelijk_stellen",
+    "title": "Gemeente aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Paspoort_ID_en_rijbewijs/Handtekening_laten_legaliseren",
+    "title": "Handtekening laten legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Contact_met_de_gemeente/Informatieaanvraag_Wet_open_overheid_Woo",
+    "title": "Informatieaanvraag Wet open overheid (Woo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Afval/Takkendagen",
+    "title": "Takkendagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uithoorn.nl/Home/Vergunningen_drank_en_horeca/Alcohol_schenken_en_verkopen",
+    "title": "Alcohol schenken en verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uithoorn_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  }
+]

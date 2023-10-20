@@ -1,0 +1,1205 @@
+[
+  {
+    "identifier": "https://www.nijkerk.eu/verlof-tot-begraven",
+    "title": "Verlof tot begraven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verlBegraven"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/ondersteuning-voor-mantelzorgers",
+    "title": "Ondersteuning voor mantelzorgers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/achternaam-kind-kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/geocaching",
+    "title": "Geocaching",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/camperplaats",
+    "title": "Camperplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/vuur-stoken-0",
+    "title": "Vuur stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/schoolkosten-bijdrage",
+    "title": "Schoolkosten, bijdrage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderwBijdSchKstVoTgk"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/stedenbouwkundige-plannen-bekijken",
+    "title": "Stedenbouwkundige plannen bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/sociaal-team",
+    "title": "Sociaal Team",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/verzoek-om-handhaving",
+    "title": "Verzoek om handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/woning-uit-de-woonruimtevoorraad-halen",
+    "title": "Woning uit de woonruimtevoorraad halen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bezwaarmaken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/alcohol-schenken-tijdens-evenement",
+    "title": "Alcohol schenken tijdens evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zwAlcDrankVerk"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bodeminformatie",
+    "title": "Bodeminformatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/grafsteen-of-gedenkteken-plaatsen",
+    "title": "Grafsteen of gedenkteken plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gedenkteken_plaatsingsvergunning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/overzicht-geleverde-persoonsgegevens-opvragen",
+    "title": "Overzicht geleverde persoonsgegevens opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/persoonsgebonden-budget-pgb",
+    "title": "Persoonsgebonden budget (pgb)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgebonden_budget"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/wonen-in-woonzorgcomplex",
+    "title": "Wonen in woonzorgcomplex",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/standplaats-aanvragen",
+    "title": "Standplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/collecte",
+    "title": "Collecte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bijstand-jaaropgave",
+    "title": "Bijstand, jaaropgave",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/sloopmelding-gebouw-of-deel-gebouw",
+    "title": "Sloopmelding gebouw of deel gebouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/dood-dier-opruimen",
+    "title": "Dood dier opruimen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dodeGezelschDierenOpr"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/vuurwerk-verkopen",
+    "title": "Vuurwerk verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vuurwerkverkoopvergunning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/luchtruim-gebruiken",
+    "title": "Luchtruim gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tijdelijk_luchtvaartterrein_ontheffing"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/in-gebreke-stellen-gemeente-bij-te-laat-beslissen",
+    "title": "In gebreke stellen gemeente bij te laat beslissen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dwangsomNietTijdBesl"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/huisnummer-aanvragen-of-veranderen",
+    "title": "Huisnummer aanvragen of veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/parkeerdag-uitrijkaarten-online-bestellen",
+    "title": "Parkeerdag-/uitrijkaarten online bestellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/reizen-met-kinderen",
+    "title": "Reizen met kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/hofleverancier-worden",
+    "title": "Hofleverancier worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hofleverancieraanvraag"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/ondersteuning-bij-werk-zoeken",
+    "title": "Ondersteuning bij werk zoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bijstand-instelling-of-tehuis",
+    "title": "Bijstand, instelling of tehuis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bijstand-vrijwilligerswerk",
+    "title": "Bijstand, vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bijstand-tegenprestatie",
+    "title": "Bijstand, tegenprestatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandTegenpr"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/naamswijziging-achternaam",
+    "title": "Naamswijziging achternaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/grofvuil",
+    "title": "Afval, grofvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/straatartiest-optreden",
+    "title": "Straatartiest optreden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/strArtOptrOnth"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/attestatie-de-vita-internationaal-bewijs-van-in-leven-zijn",
+    "title": "Attestatie de vita (internationaal bewijs van in leven zijn)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bouwdossier-bestaand-of-bodemonderzoek-inzage",
+    "title": "Bouwdossier (bestaand) of bodemonderzoek, inzage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/woz-waarde",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/stempas-kwijt",
+    "title": "Stempas kwijt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/vuurwerk-afsteken",
+    "title": "Vuurwerk afsteken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vuurwerk_ontbrandingstoestemming"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/psychische-hulp-melding",
+    "title": "Psychische hulp, melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/mantelzorgwoning",
+    "title": "Mantelzorgwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/recreatiewoning-bewonen",
+    "title": "Recreatiewoning bewonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnVergRecr"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/verkiezingen-stemmen-vanuit-een-andere-gemeente",
+    "title": "Verkiezingen, stemmen vanuit een andere gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kiezerspas"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/echtscheiding-of-einde-geregistreerd-partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/seksbedrijf-starten",
+    "title": "Seksbedrijf starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/seksbedrijf_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/uitrit-of-inrit-aanleggen",
+    "title": "Uitrit of inrit aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgUitweg"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/sociale-huurwoning-urgentieverklaring",
+    "title": "Sociale huurwoning, urgentieverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/urgBewWoning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/monument-verbouwen-herstellen-of-onderhouden",
+    "title": "Monument verbouwen, herstellen of onderhouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/aanpassen-onjuiste-persoonsgegevens",
+    "title": "Aanpassen onjuiste persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/verzorgingshuis-of-thuiszorg-indicatie",
+    "title": "Verzorgingshuis of thuiszorg, indicatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/paspoort-identiteitskaart-rijbewijs-kwijt-of-gestolen",
+    "title": "Paspoort, identiteitskaart, rijbewijs, kwijt of gestolen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/huisvestingsvergunning",
+    "title": "Huisvestingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisvestingsvergunning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/watervergunning",
+    "title": "Watervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/watervergunning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bijen-houden",
+    "title": "Bijen houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijenhoudonth"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/grafonderhoud",
+    "title": "Grafonderhoud",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafonderhoud"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/verwijderen-privacygevoelige-persoonsgegevens",
+    "title": "Verwijderen privacygevoelige persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/afval-klein-chemisch-afval",
+    "title": "Afval, klein chemisch afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_chemisch_afval"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/overledene-naar-het-buitenland-vervoeren",
+    "title": "Overledene naar het buitenland vervoeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/verklaring-omtrent-het-gedrag-vog",
+    "title": "Verklaring omtrent het gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/uittreksel-persoonsgegevens-brp",
+    "title": "Uittreksel persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/parkeervergunning",
+    "title": "Parkeervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/caravan-parkeren-op-de-openbare-weg",
+    "title": "Caravan parkeren op de openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/caravParkOnth"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/parkeren-centrum-nijkerk",
+    "title": "Parkeren centrum Nijkerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerbelasting"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/kind-erkennen-voor-de-geboorte",
+    "title": "Kind erkennen vóór de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/voertuig-te-koop-aanbieden-op-de-openbare-weg",
+    "title": "Voertuig te koop aanbieden op de openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voertuig_te_koop_aanbieden_op_openbare_weg_ontheffing"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/nieuwe-straatnaam-voorstellen",
+    "title": "Nieuwe straatnaam voorstellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/milieu-vergunning-of-melding",
+    "title": "Milieu, vergunning of melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/hotel-bed-and-breakfast-of-camping-starten",
+    "title": "Hotel, bed and breakfast of camping starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/reclamemateriaal-verspreiden",
+    "title": "Reclamemateriaal verspreiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bouwplannen-en-bouwtekeningen-bekijken",
+    "title": "Bouwplannen en bouwtekeningen bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/waarmerken-kopie-of-afschrift",
+    "title": "Waarmerken kopie of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/verklaring-onder-ede-of-belofte",
+    "title": "Verklaring onder ede of belofte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgegevens_verklaring_onder_eed_of_belofte"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/afschrift-uittreksel-burgerlijke-stand",
+    "title": "Afschrift (uittreksel) burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/opgraven-en-herbegraven-of-cremeren",
+    "title": "Opgraven en herbegraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/gebruik-achternaam-veranderen",
+    "title": "Gebruik achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/gokautomaat-plaatsen",
+    "title": "Gokautomaat plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bouw-en-verbouwing-welstand",
+    "title": "Bouw en verbouwing, welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/kadastrale-informatie",
+    "title": "Kadastrale informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/verkiezingen-een-ander-machtigen",
+    "title": "Verkiezingen, een ander machtigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/volmachtbewijs_verkiezingen"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/handtekening-legaliseren",
+    "title": "Handtekening legaliseren ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/informatie-opvragen-bij-gemeente-wet-open-overheid-woo",
+    "title": "Informatie opvragen bij gemeente, Wet open overheid (Woo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/openingstijden-horeca-eenmalig-aanpassen",
+    "title": "Openingstijden horeca eenmalig aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/rijbewijs-online-verlengen",
+    "title": "Rijbewijs, online verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/melding-woon-en-leefomgeving",
+    "title": "Melding woon- en leefomgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/demonstratie-of-manifestatie-houden",
+    "title": "Demonstratie of manifestatie houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/betogDemonsMld"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/geheimhouden-persoonsgegevens",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/rioolverstopping",
+    "title": "Rioolverstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/milieustraat",
+    "title": "Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bodemvervuiling-verwijderen",
+    "title": "Bodemvervuiling verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemsanering_melding_voornemen"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/begraven-of-cremeren",
+    "title": "Begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verlBegraven"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/terras-plaatsen",
+    "title": "Terras plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/gemeente-aansprakelijk-stellen",
+    "title": "Gemeente aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bijstand-voor-jongeren",
+    "title": "Bijstand voor jongeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/leegstand-melden",
+    "title": "Leegstand melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/afstand-doen-van-de-nederlandse-nationaliteit",
+    "title": "Afstand doen van de Nederlandse nationaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_afstand_nederlandse_nationaliteit"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/kermis-organiseren",
+    "title": "Kermis organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/spandoek-ophangen",
+    "title": "Spandoek ophangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bijstand-voor-zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/voorkeursrecht-van-de-gemeente",
+    "title": "Voorkeursrecht van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwgronduitgifte"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bewijs-van-garantstelling-enof-logiesverstrekking",
+    "title": "Bewijs van garantstelling en/of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/garVerklVerblNL"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bouwwerk-gereedmelding",
+    "title": "Bouwwerk, gereedmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwwerk_voltooiingsverklaring"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bijstand-heronderzoek",
+    "title": "Bijstand, heronderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/omgevingsvergunning-strijdig-gebruik",
+    "title": "Omgevingsvergunning strijdig gebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/opvragen-persoonsgegevens",
+    "title": "Opvragen persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/sportaccommodaties-en-velden-huren",
+    "title": "Sportaccommodaties en velden huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/voertuig-weggesleept",
+    "title": "Voertuig weggesleept?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/cremeren-en-as-verstrooien",
+    "title": "Cremeren en as verstrooien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asverstrooiing"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/informatie-over-beleid-of-besluiten-opvragen-who-verzoek",
+    "title": "Informatie over beleid of besluiten opvragen (Who-verzoek)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bestemmingsplan-bekijken",
+    "title": "Bestemmingsplan bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/antenne-of-schotelantenne-plaatsen",
+    "title": "Antenne of schotelantenne plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/kostendelersnorm",
+    "title": "Kostendelersnorm",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/openingstijden-winkels",
+    "title": "Openingstijden winkels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdeninformatie"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/naamswijziging-voornaam",
+    "title": "Naamswijziging voornaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voornaamwijziging"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bodemenergie",
+    "title": "Bodemenergie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/kind-erkennen-na-de-geboorte",
+    "title": "Kind erkennen ná de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/brandveiligheid-melding-of-vergunning",
+    "title": "Brandveiligheid, melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/tijdelijke-verhuur-leegstaand-pand",
+    "title": "Tijdelijke verhuur leegstaand pand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnTijdVerhVerg"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/graafmelding",
+    "title": "Graafmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/graafmelding"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/sociale-huurwoning",
+    "title": "Sociale huurwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnZkIns"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/basisregistratie-adressen-en-gebouwen-bag",
+    "title": "Basisregistratie Adressen en Gebouwen (BAG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bagInz"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/onroerend-goed-beperkingen",
+    "title": "Onroerend goed, beperkingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/woonwagen-standplaats",
+    "title": "Woonwagen, standplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/koninklijk-predicaat",
+    "title": "Koninklijk Predicaat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijk_predicaataanvraag"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/nederlander-worden-door-optie",
+    "title": "Nederlander worden door optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalOptie"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/geslachtswijziging",
+    "title": "Geslachtswijziging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geslachtswijzigingsaangifte"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/ontkenning-vaderschap-door-moeder",
+    "title": "Ontkenning vaderschap door moeder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vaderschapsontkenning_verklaring"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bedrijfsactiviteiten-wijzigen",
+    "title": "Bedrijfsactiviteiten wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wet_milieubeheermelding"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/kind-adopteren",
+    "title": "Kind adopteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/materialen-lenen",
+    "title": "Materialen lenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/overlijden-aangifte",
+    "title": "Overlijden, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/olietanks-in-particuliere-grond-verwijderen",
+    "title": "Olietanks in particuliere grond verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/olietankMld"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/informatiestand-plaatsen",
+    "title": "Informatiestand plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/ramp-of-crisis",
+    "title": "Ramp of crisis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rampen_en_zware_ongevallen_informatieplicht"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/koninklijke-erepenning",
+    "title": "Koninklijke Erepenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bouwvlak-in-bestemmingsplan",
+    "title": "Bouwvlak in bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/levenloos-geboren-kind-registreren",
+    "title": "Levenloos geboren kind registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/monument-aanwijzen",
+    "title": "Monument aanwijzen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bestemmingsplan-aanpassen",
+    "title": "Bestemmingsplan aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/reclame-plaatsen",
+    "title": "Reclame plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/venten",
+    "title": "Venten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/afval-glas",
+    "title": "Afval, glas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_glas"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/kinderopvangtoeslag",
+    "title": "Kinderopvangtoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/verkeersonveilige-situatie-melden",
+    "title": "Verkeersonveilige situatie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verzoekschrift"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/regenton-met-korting-aanschaffen",
+    "title": "Regenton met korting aanschaffen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/gemeentegrond-gebruiken",
+    "title": "Gemeentegrond gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwgronduitgifte"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/loterij-prijsvraag-bingo-organiseren",
+    "title": "Loterij, prijsvraag, bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/nederlander-worden-door-naturalisatie",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bouw-en-verbouwing-controle",
+    "title": "Bouw en verbouwing, controle",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanschrijving"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/nee-nee-sticker-nee-ja-sticker",
+    "title": "NEE-NEE sticker, NEE-JA sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/koninklijke-onderscheiding-lintje",
+    "title": "Koninklijke onderscheiding,  lintje",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/exploitatievergunning-horecabedrijf",
+    "title": "Exploitatievergunning horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/bromfietsrijbewijs",
+    "title": "Bromfietsrijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/afval-oud-papier",
+    "title": "Afval, oud papier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_oud_papier"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/trouwen-in-het-buitenland",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_huwelijksbevoegdheid"
+  },
+  {
+    "identifier": "https://www.nijkerk.eu/rommelmarkt",
+    "title": "Rommelmarkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nijkerk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/snuffelmarktvergunning"
+  }
+]

@@ -1,0 +1,519 @@
+[
+  {
+    "identifier": "https://www.nederweert.nl/afval-klein-chemisch-afval",
+    "title": "Afval, klein chemisch afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_chemisch_afval"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/koninklijk-predicaat",
+    "title": "Koninklijk Predicaat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijk_predicaataanvraag"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/gemeentelijke-gezondheidsdienst-ggd",
+    "title": "Gemeentelijke Gezondheidsdienst (GGD)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gezondheidsdienst"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/afschrift-uittreksel-burgerlijke-stand",
+    "title": "Afschrift (uittreksel) burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/levenloos-geboren-kind-registreren",
+    "title": "Levenloos geboren kind registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bijstand-terugbetalen-door-ex-partner-of-ouder",
+    "title": "Bijstand terugbetalen door ex-partner of ouder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/dieren-houden",
+    "title": "Dieren houden ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dierenhOnth"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bouwwerk-gereedmelding",
+    "title": "Bouwwerk, gereedmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwwerk_voltooiingsverklaring"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/achternaam-kind-kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/afval-doorzoeken",
+    "title": "Afval doorzoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bijstand-voor-zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/gokautomaat-plaatsen",
+    "title": "Gokautomaat plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/exploitatievergunning-horecabedrijf",
+    "title": "Exploitatievergunning horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/kind-adopteren",
+    "title": "Kind adopteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/buitenlandse-documenten-legaliseren-en-verifieren",
+    "title": "Buitenlandse documenten legaliseren en verifiëren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bestemmingsplan-bekijken",
+    "title": "Bestemmingsplan bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/informatie-over-beleid-of-besluiten-opvragen-who-verzoek",
+    "title": "Informatie over beleid of besluiten opvragen (Who-verzoek)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hergebOvInfo"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/gemeente-aansprakelijk-stellen",
+    "title": "Gemeente aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bijstand-instelling-of-tehuis",
+    "title": "Bijstand, instelling of tehuis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bijstand-vrijwilligerswerk",
+    "title": "Bijstand, vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/voorwerp-plaatsen-op-of-aan-de-weg",
+    "title": "Voorwerp plaatsen op of aan de weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/afval-grofvuil",
+    "title": "Afval, grofvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/woonwagen-standplaats",
+    "title": "Woonwagen, standplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonwagenstandplaats"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bouw-en-verbouwing-welstand",
+    "title": "Bouw en verbouwing, welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bodemvervuiling-verwijderen",
+    "title": "Bodemvervuiling verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemsanering_melding_voornemen"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/afkoppelen-van-hemelwater-subsidie",
+    "title": "Afkoppelen van hemelwater, subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/attestatie-de-vita-internationaal-bewijs-van-in-leven-zijn",
+    "title": "Attestatie de vita (internationaal bewijs van in leven zijn)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/milieu-vergunning-of-melding",
+    "title": "Milieu, vergunning of melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bijzonder-transport",
+    "title": "Bijzonder transport",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegenverkeerswetontheffing"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/automatische-incasso-machtiging",
+    "title": "Automatische incasso, machtiging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/berm-gebruiken",
+    "title": "Berm gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bewijs-van-garantstelling-enof-logiesverstrekking",
+    "title": "Bewijs van garantstelling en/of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/afval-huishoudelijk-afval",
+    "title": "Afval, huishoudelijk afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/kabels-en-leidingen-leggen-in-openbare-grond",
+    "title": "Kabels en leidingen leggen in openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/gemeentegrond-gebruiken",
+    "title": "Gemeentegrond gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwgronduitgifte"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/graf-op-gemeentelijke-begraafplaats-aanvragen",
+    "title": "Graf op gemeentelijke begraafplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bijstand-heronderzoek",
+    "title": "Bijstand, heronderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/gemeentearchief",
+    "title": "Gemeentearchief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/archiefInzage"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bijstand-voor-jongeren",
+    "title": "Bijstand voor jongeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/kadastrale-informatie",
+    "title": "Kadastrale informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/belastingen-en-heffingen-kwijtschelding",
+    "title": "Belastingen en heffingen, kwijtschelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/afval-bedrijven",
+    "title": "Afval, bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalinzameling"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/aanpassen-onjuiste-persoonsgegevens",
+    "title": "Aanpassen onjuiste persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bijstand-jaaropgave",
+    "title": "Bijstand, jaaropgave",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/alcoholvergunning",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/as-verstrooien",
+    "title": "As verstrooien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asverstrooiing"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/belastingen-betalingsregeling",
+    "title": "Belastingen, betalingsregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bodeminformatie",
+    "title": "Bodeminformatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/afvalwater-lozen",
+    "title": "Afvalwater lozen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalwatermelding"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/gebruik-achternaam-veranderen",
+    "title": "Gebruik achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/stedenbouwkundige-plannen-bekijken",
+    "title": "Stedenbouwkundige plannen bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bouwplannen-en-bouwtekeningen-bekijken",
+    "title": "Bouwplannen en bouwtekeningen bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/festiviteit-bedrijf-vereniging-of-school",
+    "title": "Festiviteit bedrijf, vereniging of school",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/alcohol-schenken-tijdens-evenement",
+    "title": "Alcohol schenken tijdens evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/begraven-of-cremeren",
+    "title": "Begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verlBegraven"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/bestemmingsplan-aanpassen",
+    "title": "Bestemmingsplan aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/woonvoorzieningen",
+    "title": "Woonvoorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.nederweert.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Nederweert_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  }
+]

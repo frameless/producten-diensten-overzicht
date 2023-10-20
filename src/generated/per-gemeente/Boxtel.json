@@ -1,0 +1,705 @@
+[
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/in-de-openbare-ruimte/dieren-in-onze-gemeente",
+    "title": "Dieren in onze gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/in-de-gemeente/veiligheid-en-leefbaarheid/veiligheid",
+    "title": "Veiligheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/zorg-inkomen-en-jeugd/werk-inkomen-en-bijstand/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/paspoort-rijbewijs-en-uittreksels/uittreksel-burgerlijke-stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/gladheidsbestrijding",
+    "title": "Gladheids­bestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/belastingen/reclamebelasting",
+    "title": "Reclame­belasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/belastingen/belasting-betalen-met-automatische-incasso",
+    "title": "Belasting betalen met automatische incasso",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/belastingen/afvalstoffen-heffing",
+    "title": "Afvalstoffen­heffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/bestuur-en-organisatie/organisatie/meewerkend-boxtel",
+    "title": "Meewerkend boxtel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/afval",
+    "title": "Afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/in-de-gemeente/vrije-tijd",
+    "title": "Vrije tijd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/in-en-om-het-huis/grof-huisvuil-op-laten-halen",
+    "title": "Grof huisvuil op laten halen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/duurzaam-boxtel/wat-kan-ik-als-inwoner-doen-aan-duurzaamheid/oplaadpalen-elektrische-auto",
+    "title": "Oplaadpalen elektrische auto",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/subsidies/subsidies-voor-ondernemers",
+    "title": "Subsidies voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/bouwen-en-verbouwen/bodem-en-grond",
+    "title": "Bodem en grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/wonen-en-leven/afval/snoeihout-stoken",
+    "title": "Snoeihout stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/in-de-gemeente/wonen/langer-zelfstandig-wonen",
+    "title": "Langer zelfstandig wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/duurzaam-boxtel/wat-kan-ik-als-ondernemer-doen-aan-duurzaamheid/energiebesparingsplicht",
+    "title": "Energiebesparings|plicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/gemeenteraad",
+    "title": "Gemeenteraad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/bestuur-en-organisatie/bestuur/college-van-burgemeester-en-wethouders",
+    "title": "College van burgemeester en wethouders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/zorg-inkomen-en-jeugd/jeugd-en-onderwijs/opvoeden-en-opgroeien",
+    "title": "Opvoeden en opgroeien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/contact",
+    "title": "Contact",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/duurzaam-wonen",
+    "title": "Duurzaam wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/zorg-inkomen-en-jeugd/werk-inkomen-en-bijstand/bijstandsuitkering",
+    "title": "Bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/in-en-om-het-huis/container-restafval-en-gft",
+    "title": "Container, restafval en gft",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/afval/klein-chemisch-afval",
+    "title": "Klein chemisch afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/energietoeslag",
+    "title": "Energietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/in-de-gemeente/honden-uitlaten",
+    "title": "Honden uitlaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/duurzaam-boxtel/wat-kan-ik-als-sportvereniging-doen-aan-duurzaamheid/andere-financieringsmogelijkheden",
+    "title": "Andere financierings|mogelijkheden ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/belastingen/woz-waarde",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/bekendmakingen",
+    "title": "Bekendmakingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/duurzaam-boxtel/wat-kan-ik-als-inwoner-doen-aan-duurzaamheid/samen-slim-rijden",
+    "title": "Samen Slim Rijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/vergunningen/inrit-of-uitrit-maken-of-veranderen",
+    "title": "Inrit of uitrit maken of veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/bouwen-en-verbouwen/bouwtekening-of-bouwdossier-opvragen-of-inzien",
+    "title": "Bouwtekening of bouwdossier opvragen of inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/belastingen/belastingbalie",
+    "title": "Belastingbalie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/integratie-en-naturalisatie/nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/evenementenkalender",
+    "title": "Evenementenkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/afval/papier-en-karton",
+    "title": "Papier en karton",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/evenementen-en-horeca/alcoholvergunning-aanvragen",
+    "title": "Alcoholvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/in-de-openbare-ruimte/melding-openbare-ruimte",
+    "title": "Melding openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/ondernemen/financiele-hulp-voor-ondernemers",
+    "title": "Financiële hulp voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/toegankelijkheidsverklaring",
+    "title": "Toegankelijkheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/integratie-en-naturalisatie/inburgeren-en-de-participatie-verklaring",
+    "title": "Inburgeren en de participatie­verklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/pmd",
+    "title": "Plastic verpakkingen, metalen verpakkingen en drinkpakken ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/bestuur-en-organisatie/organisatie/bezwaar-klacht-of-aansprakelijk-stellen",
+    "title": "Bezwaar, klacht of aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/uitschrijvingbrp",
+    "title": "Uitschrijving uit de BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/duurzaam-boxtel/wat-kan-ik-als-ondernemer-doen-aan-duurzaamheid/ondernemersplein",
+    "title": "Ondernemersplein",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/evenementen-en-horeca/klein-evenement-aanvragen",
+    "title": "Klein evenement aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/persoonsgegevens/mijn-persoons-gegevens-geheim-houden",
+    "title": "Mijn persoons­gegevens geheim­houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/bestuur-en-organisatie/bestuur/adviesraad-sociaal-domein",
+    "title": "Adviesraad Sociaal Domein",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/zorg-inkomen-en-jeugd/zorg/vervoer-en-bewegen",
+    "title": "Vervoer en Bewegen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/eikenprocessierups",
+    "title": "Eiken­processie­rups ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/in-de-gemeente/duurzaamheid/duurzaam-boxtel/wat-kan-ik-als-inwoner-doen-aan-duurzaamheid/duurzaam-thuis-wonen-lening",
+    "title": "Duurzaam Thuis Wonen Lening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/vergunningen/verzoek-om-handhaving",
+    "title": "Verzoek om handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/privacyverklaring",
+    "title": "Privacyverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/verhuizing/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/evenementen-en-horeca/evenementenvergunning-aanvragen",
+    "title": "Evenementenvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/belastingen/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/in-en-om-het-huis/snoeihout",
+    "title": "Snoeihout",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/duurzaam-boxtel/wat-kan-ik-als-sportvereniging-doen-aan-duurzaamheid/landelijke-subsidie-sportverenigingen",
+    "title": "Landelijke subsidie sportverenigingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/zorg-inkomen-en-jeugd/zorg/mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/zorg-inkomen-en-jeugd/jeugd-en-onderwijs/leerplicht",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/verhuizing/verhuizen",
+    "title": "Verhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/geboorte-trouwen-en-overlijden/erkenning-kind",
+    "title": "Erkenning kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/bladinzameling",
+    "title": "Bladinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/afval/zwerfafval-opruimen",
+    "title": "Zwerfafval opruimen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/zorg-inkomen-en-jeugd/jeugd-en-onderwijs/heb-je-moeite-met-lezen-of-schrijven",
+    "title": "Heb je moeite met lezen of schrijven?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/in-de-gemeente/duurzaamheid/gemeentelijk-rioleringsplan",
+    "title": "Gemeentelijk Rioleringsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/belastingen/onroerendezaakbelasting-ozb",
+    "title": "Onroerende­zaak­belas­ting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/geboorte-trouwen-en-overlijden/geboorte-aangeven",
+    "title": "Geboorte aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/afval/milieustraat",
+    "title": "Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/paspoort-rijbewijs-en-uittreksels/vluchtelingenpaspoort-en-vreemdelingenpaspoort",
+    "title": "Reisdocument voor vluchteling of vreemdeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/zorg-inkomen-en-jeugd/jeugd-en-onderwijs/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/vog",
+    "title": "Verklaring omtrent gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/duurzaam-boxtel/wat-kan-ik-als-sportvereniging-doen-aan-duurzaamheid/duurzaamheidsplatform-ssnb",
+    "title": "Duurzaamheidsplat|form SSNB ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/geboorte-trouwen-en-overlijden/melden-voorgenomen-huwelijk-of-geregistreerd-partnerschap",
+    "title": "Melden voorgenomen huwelijk of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/ondernemen/ondernemen-in-gemeente-boxtel",
+    "title": "Ondernemen in gemeente Boxtel ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/evenementen-en-horeca",
+    "title": "Evenementen en Horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/bouwen/bouwcontainer-bouwkeet-of-steiger-plaatsen",
+    "title": "Bouwcontainer, bouwkeet of steiger plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/in-de-gemeente/parkeren",
+    "title": "Parkeren ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/in-de-gemeente/begraafplaats-munsel",
+    "title": "Begraafplaats Munsel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/zorg-inkomen-en-jeugd/werk-inkomen-en-bijstand/vrijwilligerswerk",
+    "title": "Vrijwilligers|werk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/in-de-gemeente/duurzaamheid/duurzaam-boxtel/duurzaamheidslening-ondernemers-verenigingen-vves",
+    "title": "Duurzaamheidslening Ondernemers, verenigingen, VVE's",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/persoonsgegevens/geslacht-op-geboorteakte-veranderen",
+    "title": "Geslacht op geboorteakte veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/afval/luiers-inleveren",
+    "title": "Luiers inleveren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/belastingen/toeristenbelasting",
+    "title": "Toeristen­belasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/bestuur-en-organisatie/bestuur/advies-commissies",
+    "title": "Advies­commissies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/wonen-en-leven/paspoort-rijbewijs-en-uittreksels/legalisatie-handtekening",
+    "title": "Legalisatie handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/bouwen-en-verbouwen/bestemmings-plannen-ruimtelijke-plannen",
+    "title": "Bestemmings­plannen / ruimtelijke plannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/onderscheidingen/koninklijke-onderscheidingen",
+    "title": "Koninklijke onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/zorg-inkomen-en-jeugd/werk-inkomen-en-bijstand/vergoedingen",
+    "title": "Vergoedingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/evenementen-en-horeca/exploitatievergunning-aanvragen",
+    "title": "Exploitatievergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/paspoort-rijbewijs-en-uittreksels/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/energiehulp",
+    "title": "Energiehulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/collegebesluiten",
+    "title": "Openbare collegebesluiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/woo",
+    "title": "Wet open overheid (WOO)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/rijbewijs",
+    "title": "Rijbewijs ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/in-de-openbare-ruimte/verloren-of-gevonden-voorwerpen",
+    "title": "Verloren of gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/collegebesluiten-2019",
+    "title": "Openbare collegebesluiten 2019",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/omgevingsvergunning",
+    "title": "Omgevings­vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/afval/afvalwijzer",
+    "title": "Afvalkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/geboorte-trouwen-en-overlijden/trouwen-of-geregistreerd-partnerschap",
+    "title": "Trouwen of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/naamgebruik-veranderen",
+    "title": "Naamgebruik veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/evenementen-en-horeca/aanvraag-ontheffing-geluid-en-sluitingstijd",
+    "title": "Aanvraag ontheffing geluid en sluitingstijd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/kinderopvang",
+    "title": "Kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/geboorte-trouwen-en-overlijden/overlijden-aangeven",
+    "title": "Overlijden aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/persoonsgegevens/persoonsgegevens-aanpassen",
+    "title": "Persoonsgegevens aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/bestuur-en-organisatie/beleid/lokaal-beleid",
+    "title": "Lokaal beleid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/reisdocumenten",
+    "title": "Paspoort of identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/bouwen-en-verbouwen/asbest",
+    "title": "Asbest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/aanvragen-regelen-en-melden/paspoort-rijbewijs-en-uittreksels/uittreksel-basisregistratie-personen",
+    "title": "Uittreksel Basisregistratie Personen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/belastingen/bezwaar-tegen-belastingaanslag",
+    "title": "Bezwaar tegen belastingaanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.boxtel.nl/wegwerkzaamheden",
+    "title": "Wegwerkzaamheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Boxtel_(gemeente)"
+  }
+]

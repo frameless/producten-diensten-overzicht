@@ -1,0 +1,664 @@
+[
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/bezwaar-maken-besluit-gemeente",
+    "title": "Bezwaar maken besluit gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/vergunningen/straatfeest-buurtfeest",
+    "title": "Straatfeest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/bestuur-en-organisatie/vrijwilligerswerk",
+    "title": "Vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/discriminatie-melden",
+    "title": "Discriminatie klacht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/gemeentegrond-gebruiken",
+    "title": "Gemeentegrond gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwgronduitgifte"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/afval/glasafval",
+    "title": "Afval, glas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_glas"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/woo-verzoek-indienen",
+    "title": "Informatieverzoek indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/trouwen-of-geregistreerd-partnerschap",
+    "title": "Trouwen of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/afval/oud-papier-en-karton",
+    "title": "Afval, oud papier en karton",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgegevens_verklaring_onder_eed_of_belofte"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/nederlander-worden",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/vergunningen/marktstandplaatsvergunning",
+    "title": "Marktstandplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktstandplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/parkeervergunning",
+    "title": "Parkeervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/rolstoel-en-andere-hulpmiddelen",
+    "title": "Rolstoel en andere hulpmiddelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/over-de-gemeente/open-data",
+    "title": "Open data",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/woonvoorzieningen",
+    "title": "Woonvoorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/vergunningen/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/bouwtekeningen-bekijken",
+    "title": "Bouwtekeningen bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/vergunningen/collectevergunning",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/over-de-gemeente/bedrijf-inschrijven",
+    "title": "Bedrijf inschrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/over-de-gemeente/verordeningen-en-andere-regelingen",
+    "title": "Verordeningen en andere regelingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/bijstand-voor-zelfstandigen",
+    "title": "Ondernemer, financiele problemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/bijstand-voor-jongeren",
+    "title": "Werk zoeken (jonger dan 27 jaar)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/werkloosheidsuitkering-ww-aanvragen",
+    "title": "Werkloosheidsuitkering (WW) aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/ventvergunning",
+    "title": "Ventvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/over-de-gemeente/bedrijvenloket",
+    "title": "Bedrijvenloket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/bestuur-en-organisatie/ramp-of-crisis",
+    "title": "Ramp of crisis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/crisisplan"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/overlijden-aangifte",
+    "title": "Overlijden, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/collecteren-en-venten",
+    "title": "Collecteren en venten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/afval/grof-huisvuil",
+    "title": "Afval, grof huisvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/afval/rolcontainers-restafval-en-gft",
+    "title": "Rolemmer aanvragen, omruilen, kapot of inleveren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/bestuur-en-organisatie/zwembad",
+    "title": "Zwembad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/vergunningen/standplaatsvergunning-aanvragen",
+    "title": "Standplaatsvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/openbare-laadpalen-voor-elektrische-auto",
+    "title": "Laadpaal voor elektrische auto",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/kadastrale-informatie",
+    "title": "Kadastrale informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/belastingen/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/bestuur-en-organisatie/openingstijden-winkels",
+    "title": "Openingstijden winkels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdeninformatie"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/bijstand-uitkering",
+    "title": "Bijstandsuitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/kwijtschelding",
+    "title": "Kwijtschelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/aansprakelijk-stellen-van-de-gemeente",
+    "title": "Aansprakelijk stellen van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/hulp-bij-opvoeden-en-opgroeien",
+    "title": "Hulp bij opvoeden en opgroeien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/onderscheidingen",
+    "title": "Onderscheiding aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/belastingen/woz",
+    "title": "WOZ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/aansluiting-op-gemeenteriool",
+    "title": "Aanvraag aansluiting op gemeenteriool",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/openbaar-groen-adopteren-en-beheren",
+    "title": "Openbaar groen adopteren en beheren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/belastingen/bezwaar-maken-belastingaanslag-woz-waarde",
+    "title": "Bezwaar maken belastingaanslag, WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/bestuur-en-organisatie/sportverenigingen-en-sporthallen",
+    "title": "Sportverenigingen en sporthallen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/bewijs-van-in-leven-zijn-of-attestatie-de-vita",
+    "title": "Bewijs van in leven zijn of Attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/afval/gft-en-etensresten",
+    "title": "Afval, groente- fruit en tuinafval (GFT)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/klacht-over-medewerker-of-bestuurder",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/verhuizing-buitenland",
+    "title": "Verhuizing buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/belastingen/onroerendezaakbelasting-ozb",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/aangifte-levenloos-geboren-kind",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/afval/pbd-afval",
+    "title": "Afval, plastic",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalInzPMDK"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/kortdurend-verblijf",
+    "title": "Kortdurend verblijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/hulp-bij-schulden",
+    "title": "Hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/vergunningen/slopen-en/of-asbest-verwijderen-omgevingsvergunning",
+    "title": "Slopen en/of asbest verwijderen, omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/urgentieverklaring-huurwoning",
+    "title": "Urgentieverklaring huurwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/eigen-bijdrage",
+    "title": "Eigen bijdrage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/belastingen/precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/vergunningen/in-of-uitrit-aanleggen-omgevingsvergunning",
+    "title": "In- of uitrit aanleggen, omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/vergunningen/milieu-omgevingsvergunning",
+    "title": "Milieu, omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/vergunningen/alcohol-schenken-en-verkopen",
+    "title": "Alcohol verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/geboorte-aangifte",
+    "title": "Geboorte, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/echtscheiding-melden",
+    "title": "Echtscheiding melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/ligplaatsvergunning",
+    "title": "Ligplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ligplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/scholen-en-kinderopvang/leerplicht-bijzonder-verlof-of-vrijstelling",
+    "title": "Leerplicht, bijzonder verlof of vrijstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/hulp-bij-laag-inkomen",
+    "title": "Hulp bij laag inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/belastingen/taxatieverslag",
+    "title": "Taxatieverslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-taxatieverslag"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/gele-huisvuilzakken",
+    "title": "Gele huisvuilzakken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/vergunningen/terrasvergunning",
+    "title": "Terrasvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/belastingen/parkeerbelasting",
+    "title": "Parkeerbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerbelasting"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/vergunningen/monument-omgevingsvergunning",
+    "title": "Monument, omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/verklaring-omtrent-gedrag-vog",
+    "title": "Verklaring omtrent gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/uittreksel-brp-persoonsgegevens",
+    "title": "Uittreksel BRP (persoonsgegevens)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/vergunningen/reclame-plaatsen",
+    "title": "Reclame plaatsen, omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/vergunningen/vergunning-voor-bouwen-en-verbouwen",
+    "title": "Bouwen en verbouwen, omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/afval/textielafval",
+    "title": "Afval, textiel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/hulp-bij-burenruzie",
+    "title": "Buurtbemiddeling bij burenruzie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/inschrijving-vanuit-het-buitenland",
+    "title": "Inschrijving vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/afval/klein-chemisch-afval-kca",
+    "title": "Afval, klein chemisch afval (KCA)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/over-de-gemeente/vliegen-met-drones",
+    "title": "Vliegen met drones",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/leerlingenvervoer-aanvraag",
+    "title": "Leerlingenvervoer, aanvraag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/registratie-vluchtelingen-oekraine",
+    "title": "Inschrijving vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/afval/grof-tuinafval",
+    "title": "Afval, grof tuinafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/afval/huishoudelijk-afval-restafval",
+    "title": "Afval, huishoudelijk afval (restafval)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/belastingen/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/kind-erkennen",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/over-de-gemeente/hondenlosloopgebieden",
+    "title": "Hondenlosloopgebieden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/huishoudelijke-hulp",
+    "title": "Huishoudelijke hulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/afschrift-of-uittreksel-burgerlijke-stand",
+    "title": "Akte of afschrift burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/aanvragen-en-regelen/bouwen-en-verbouwen-welstand",
+    "title": "Bouwen en verbouwen, welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/vergunningen/bomen-kappen-en-herplanten",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/zorg-werk-en-jeugd/hulp-bij-vervoer",
+    "title": "Hulp bij vervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/afval/milieustraat",
+    "title": "Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.heemstede.nl/vergunningen/alcoholwetvergunning",
+    "title": "Alcoholwet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)"
+  }
+]

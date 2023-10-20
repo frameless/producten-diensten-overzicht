@@ -1,0 +1,829 @@
+[
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Meldingen_schade_of_klachten/Nadeelcompensatie",
+    "title": "Nadeelcompensatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/nadeelcompensatie"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Geboorte_en_overlijden/Geboorte_en_kind/Naamskeuze_kind",
+    "title": "Naamskeuze kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Bouwen/Bouwen/Bouw_en_verbouw_welstandscommissie",
+    "title": "Bouw en verbouw, welstandscommissie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Evenementen_organiseren/Banierenlocaties_aanvragen",
+    "title": "Banierenlocaties aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.stroomopwaarts.nl/inwoners/inkomen/extra-s-bij-een-laag-inkomen#Studietoeslagvlaardingen",
+    "title": "Individuele Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "https://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Wonen/Groenstroken_restgronden_kopen_of_in_erfpacht_verkrijgen",
+    "title": "Groenstroken/restgronden kopen of in erfpacht krijgen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Evenementen_organiseren/Collectieve_festiviteit",
+    "title": " Collectieve festiviteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collIncFest"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Evenementen_organiseren/Vuurwerk_afsteken",
+    "title": " Vuurwerk afsteken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/subsidies/Subsidieregister",
+    "title": "Subsidieregister",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Bouwen/Bouwen/Kadastrale_informatie",
+    "title": "Kadastrale informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Bouwen/Bouwen/Sloopmelding",
+    "title": "Sloopmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.stroomopwaarts.nl/inwoners/inkomen/extra-s-bij-een-laag-inkomen#Inkomenstoeslagvlaardingen",
+    "title": "Individuele Inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "https://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Bouwen/Bouwen/Archeologie_bij_verbouwprojecten",
+    "title": "Archeologie bij (ver)bouwprojecten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Cultuur_en_historie/Monumenten/Aanvragen_subsidie_voor_monument_beeldbepalend_pand",
+    "title": "Aanvragen subsidie voor monument/beeldbepalend pand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Vergunningen/Exploitatievergunning_sexinrichting",
+    "title": "Exploitatievergunning seksinrichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/seksbedrijf_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Bouwen/Bouwen/Omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Paspoort_rijbewijs_uittreksels/Persoonsgegevens/Naam_wijzigen",
+    "title": "Naam wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verkeer_en_parkeren/Fietsen/Parkeren_in_fietstrommel",
+    "title": "Parkeren in fietstrommel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verkeer_en_parkeren/Parkeervergunningen/Bedrijfsparkeervergunning_markt",
+    "title": "Parkeervergunning markt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bedrijven"
+  },
+  {
+    "identifier": "https://www.stroomopwaarts.nl/inwoners/inkomen/een-bijstandsuitkering-aanvragen#vlaardingen",
+    "title": "Bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Geboorte_en_overlijden/Overlijden/Aangifte_doen_van_een_levenloos_geboren_kind",
+    "title": "Aangifte doen van een levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Ondernemersloket/Ondernemen/Horeca/Horecavergunningen/Voorlopige_exploitatievergunning_horeca",
+    "title": "Voorlopige exploitatievergunning horeca ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Ondernemersloket/Ondernemen/Horeca/Horecavergunningen/Exploitatievergunning_horeca",
+    "title": "Exploitatievergunning horeca ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Bouwen/Landmeetkundige_digitale_gegevens",
+    "title": "Landmeetkundige digitale gegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Cultuur_en_historie/Stadsarchief/Genealogisch_onderzoek",
+    "title": "Genealogisch onderzoek uitvoeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.stroomopwaarts.nl/inwoners/schulden/ik-wil-hulp-bij-mijn-schulden#vlaardingen",
+    "title": "Schuldhulpverlening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Nederlander_worden/Naturalisatie_aanvraag_Nederlandse_nationaliteit",
+    "title": "Naturalisatie, aanvraag Nederlandse nationaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Ondernemersloket/Ondernemen/Detailhandel/Winkelopeningstijden_en_sluitingstijden_horeca",
+    "title": "Winkelopeningstijden en sluitingstijden horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Evenementen_organiseren/Collecteren_inzamelen_geld_of_goederen",
+    "title": "Collecteren, inzamelen geld of goederen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Openbare_ruimte_en_duurzaamheid/Afvalwater_lozing",
+    "title": "Afvalwater lozen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalwatermelding"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Meldingen_schade_of_klachten/Planschade",
+    "title": "Vergoeding planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Wonen/Vergunning_tijdelijk_verhuren_koopwoning_Leegstandwet",
+    "title": "Vergunning tijdelijk verhuren koopwoning (Leegstandwet)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Evenementen_organiseren/Alcohol_tijdelijk_schenken_ontheffing",
+    "title": " Alcohol tijdelijk schenken, ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Bouwen/Basisregistratie_Adressen_en_Gebouwen_BAG",
+    "title": "Basisregistratie Adressen en Gebouwen (BAG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verkeer_en_parkeren/Verkeersontheffingen/Luchtruim_gebruiken_landen_en_opstijgen",
+    "title": "Luchtruim gebruiken, landen en opstijgen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Ondernemersloket/Ondernemen/Horeca/Terras_exploiteren/Incidentele_festiviteit_en_melding_verlenging_openingstijd",
+    "title": "Incidentele festiviteit en melding verlenging openingstijd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verkeer_en_parkeren/Parkeervergunningen/Parkeervergunning_bestelbus_camper_Broekweg",
+    "title": "Parkeervergunning bestelbus / camper Broekweg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Ondernemersloket/Ondernemen/Horeca/Horecavergunningen/Alcoholwetvergunning",
+    "title": "Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verkeer_en_parkeren/Parkeervergunningen/Parkeervergunning_bedrijven",
+    "title": "Parkeervergunning bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bedrijven"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/subsidies/Kunst_en_cultuursubsidie_aanvragen",
+    "title": "Kunst- en cultuursubsidie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Bouwen/Bouwen/Bouwtekeningen",
+    "title": "Bouwtekeningen opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Paspoort_rijbewijs_uittreksels/Paspoorten_en_identiteitskaarten/Paspoort",
+    "title": "Paspoort of identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Wonen/Gemeentelijke_belastingen",
+    "title": "Gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Geboorte_en_overlijden/Geboorte_en_kind/Geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verkeer_en_parkeren/Camperplaats",
+    "title": "Camperplaats ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Paspoort_rijbewijs_uittreksels/Uittreksels_afschriften_en_VOG/Uittreksel_of_afschrift_burgerlijke_stand",
+    "title": "Uittreksel of afschrift burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verkeer_en_parkeren/Parkeren_voor_gehandicapten/Gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Evenementen_organiseren/Evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Geboorte_en_overlijden/Overlijden/Overlijdensaangifte",
+    "title": "Overlijdensaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Openbare_ruimte_en_duurzaamheid/Afvalwaterzuivering_De_Groote_Lucht",
+    "title": "Afvalwaterzuivering De Groote Lucht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verkeer_en_parkeren/Fietsen/Parkeren_in_fietsenstalling",
+    "title": "Parkeren in fietsenstalling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Nederlander_worden/Optie_aanvraag_Nederlandse_nationaliteit",
+    "title": "Optie, aanvraag Nederlandse nationaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Contact/Gevonden_en_verloren_voorwerpen",
+    "title": "Gevonden en verloren voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Paspoort_rijbewijs_uittreksels/Paspoorten_en_identiteitskaarten/Tweede_paspoort",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Wonen/Milieustraat",
+    "title": "Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Meldingen_schade_of_klachten/Schadedeclaraties",
+    "title": "Schade melden ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Cultuur_en_historie/Monumenten/Aanvragen_schildje_beeldbepalend_pand",
+    "title": "Schildje voor op de gevel aanvragen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Meldingen_schade_of_klachten/Klachten",
+    "title": "Klachten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Bouwen/Bouwen/Asbest_verwijderen_en_inleveren",
+    "title": "Asbest verwijderen en inleveren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Vergunningen/Standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Bouwen/Grond_afgraven_en_verplaatsen",
+    "title": "Grond afgraven en verplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verkeer_en_parkeren/Verkeersontheffingen/Ontheffing_vervoer_gevaarlijke_stoffen",
+    "title": "Ontheffing vervoer gevaarlijke stoffen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Bouwen/Bestemmingsplannen",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verkeer_en_parkeren/Parkeervergunningen/Parkeervergunning_zorgverlener",
+    "title": "Parkeervergunning zorgverlener",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_diensten"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Cultuur_en_historie/Rotterdampas",
+    "title": "Rotterdampas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Evenementen_organiseren/Draaiorgelvergunning",
+    "title": " Draaiorgelvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verhuizen_of_inschrijven/Adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verkeer_en_parkeren/Parkeervergunningen/Parkeervergunning_mantelzorgontvanger",
+    "title": "Parkeervergunning mantelzorgontvanger",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Ondernemersloket/Ondernemen/Subsidies/Subsidieregeling_Binnenstad_Vlaardingen_2021_2023",
+    "title": "Subsidieregeling Binnenstad Vlaardingen 2021-2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Paspoort_rijbewijs_uittreksels/Persoonsgegevens/Inschrijving_van_een_buitenlandse_akte",
+    "title": "Inschrijving van een buitenlandse akte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Vergunningen/Brandpreventie_gebruiksvergunning",
+    "title": "Brandpreventie, gebruiksvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Ondernemersloket/Ondernemen/Horeca/Terras_exploiteren",
+    "title": "Terras exploiteren ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Paspoort_rijbewijs_uittreksels/Persoonsgegevens/Melding_beeindiging_huwelijk_of_geregistreerd_partnerschap",
+    "title": "Melding beeindiging huwelijk of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Wonen/Woning_verhuren",
+    "title": "Woning verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woning_tijdelijke_verhuurvergunning"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Bestuur/Regelgeving_en_bekendmakingen/Bezwaarschrift_tegen_bestuurlijke_besluiten",
+    "title": "Bezwaarschrift tegen bestuurlijke besluiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Openbare_ruimte_en_duurzaamheid/Rioolonderhoud",
+    "title": "Rioolonderhoud",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/subsidies/Subsidie_aanvragen_klimaatadaptieve_activiteiten",
+    "title": "Subsidie aanvragen klimaatadaptieve activiteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Projecten_in_de_stad/Projecten_West/Afvalwaterzuivering_De_Groote_Lucht",
+    "title": "Afvalwaterzuivering De Groote Lucht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Onderwijs_en_opgroeien/Peuteropvang_en_kinderopvang/Vergoeding_kinderopvang",
+    "title": "Vergoeding kinderopvang ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verkeer_en_parkeren/Parkeren_voor_bezoekers",
+    "title": "Parkeren voor bezoekers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.stroomopwaarts.nl/inwoners/werk/werken-met-een-arbeidsbeperking#vlaardingen",
+    "title": "Wajong-uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "https://standaarden.overheid.nl/owms/terms/wajong-uitkering"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Trouwen/Huwelijk_geregistreerd_partnerschap_en_melding",
+    "title": "Huwelijk, geregistreerd partnerschap en melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Ondernemersloket/Ondernemen/Horeca/Horecavergunningen/Alcoholwetvergunning/Kies_een_vergunning/Alcoholwetvergunning_commercieel",
+    "title": "Alcoholwetvergunning (commercieel) ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Cultuur_en_historie/Stadsarchief/Huizenonderzoek_en_bouwtekeningen/Eigendoms_en_bewoningsonderzoek",
+    "title": "Eigendoms- en bewoningsonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/subsidies/Subsidieregeling_verwijderen_rookkanalen",
+    "title": "Subsidie voor verwijderen rookkanalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Openbare_ruimte_en_duurzaamheid/Milieu/Geluidsoverlast_of_stankoverlast",
+    "title": "Geluidsoverlast of stankoverlast?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Ondernemersloket/Ondernemen/Horeca/Horecavergunningen/Alcoholwetvergunning/Kies_een_vergunning/Alcoholwetvergunning_niet_commercieel",
+    "title": "Alcoholwetvergunning (niet-commercieel) ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Onderwijs_en_opgroeien/Leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Ondernemersloket/Ondernemen/Horeca/Horecavergunningen/Wijzigen_leidinggevenden_horeca",
+    "title": "Wijzigen leidinggevende(n) horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Paspoort_rijbewijs_uittreksels/Waarmerken_kopie_officieel_document",
+    "title": "Waarmerken kopie officieel document",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/waarmerken_document"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Paspoort_rijbewijs_uittreksels/Persoonsgegevens/Correctieverzoek_BRP",
+    "title": "Correctieverzoek BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Paspoort_rijbewijs_uittreksels/Uittreksels_afschriften_en_VOG/Uittreksel_Basisregistratie_Personen",
+    "title": "Uittreksel Basisregistratie Personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Ondernemersloket/Ondernemen/Detailhandel/Uitstallingen",
+    "title": "Uitstallingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verkeer_en_parkeren/Parkeren_voor_gehandicapten/Gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeervergunning"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Vergunningen/Vergunning_speelautomaten",
+    "title": "Vergunning speelautomaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verkeer_en_parkeren/Verkeersontheffingen/Ontheffing_nachtelijk_rijverbod",
+    "title": "Ontheffing nachtelijk rijverbod",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verhuizen_of_inschrijven/Verhuizing_naar_het_buitenland_emigratie",
+    "title": "Verhuizing naar het buitenland (emigratie) ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Evenementen_organiseren/Flyeren",
+    "title": "Flyeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verhuizen_of_inschrijven/Briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Evenementen_organiseren/Donateurs_werven",
+    "title": "Donateurs werven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Wonen/Woononderzoek",
+    "title": "Woononderzoek 2022",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woning_tijdelijke_verhuurvergunning"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Paspoort_rijbewijs_uittreksels/Rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Wonen/Starterslening_aanvragen",
+    "title": "Starterslening aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Paspoort_rijbewijs_uittreksels/Uittreksels_afschriften_en_VOG/Verklaring_omtrent_het_gedrag",
+    "title": "Verklaring omtrent het gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verkeer_en_parkeren/Verkeersontheffingen/Ontheffing_rijverbod",
+    "title": "Ontheffing rijverbod",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Paspoort_rijbewijs_uittreksels/Paspoorten_en_identiteitskaarten/Vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Cultuur_en_historie/Stadsarchief/Collectie_stadsarchief/Reserveren_archiefstukken_en_literatuur",
+    "title": "Reserveren archiefstukken en literatuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Trouwen/Verklaring_huwelijksbevoegdheid",
+    "title": "Verklaring huwelijksbevoegdheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_huwelijksbevoegdheid"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Paspoort_rijbewijs_uittreksels/Persoonsgegevens/Wijziging_geslacht_in_BRP",
+    "title": "Wijziging geslacht in BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Bouwen/Bouwen/Bouwmaterialen_containers_plaatsen",
+    "title": " Bouwmaterialen, containers plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Geboorte_en_overlijden/Overlijden/Begraafplaatsen",
+    "title": "Begraafplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Geboorte_en_overlijden/Geboorte_en_kind/Erkenning_kind",
+    "title": "Erkenning kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Trouwen/Naamgebruik",
+    "title": "Naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Evenementen_organiseren/Demonstratie_houden",
+    "title": " Demonstratie houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Bouwen/Bouwen/Riolering/Aansluitvergunning_riolering/Aanvragen_aansluitvergunning_riolering",
+    "title": "Aanvragen aansluitvergunning riolering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verhuizen_of_inschrijven/Verhuizen_vanuit_het_buitenland",
+    "title": "Verhuizen vanuit het buitenland (immigratie)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Geboorte_en_overlijden/Overlijden/Begraven_cremeren_en_grafrecht",
+    "title": "Begraven, cremeren en grafrecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Paspoort_rijbewijs_uittreksels/Persoonsgegevens/Geheimhouding_persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Meldingen_schade_of_klachten/De_Buitenlijn_meldpunt_openbare_ruimte",
+    "title": "De Buitenlijn (meldpunt openbare ruimte)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verkeer_en_parkeren/Verkeersontheffingen/Parkeren_grote_voertuigen",
+    "title": "Ontheffing parkeerverbod",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Vergunningen/Kledinginzameling",
+    "title": "Kledinginzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanwInzam"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Paspoort_rijbewijs_uittreksels/Garantverklaring_verblijf_in_Nederland",
+    "title": "Garantverklaring verblijf in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verkeer_en_parkeren/Parkeervergunningen/Parkeervergunning_bewoners",
+    "title": "Parkeervergunning bewoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bewoners"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Bouwen/Milieu_vergunning_of_melding_bedrijf",
+    "title": "Milieu, vergunning of melding bedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Cultuur_en_historie/Monumenten/Aanwijzing_monument_of_beeldbepalend_pand",
+    "title": "Aanwijzen monument of beeldbepalend pand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Verhuizen_of_inschrijven/Verhuizen_binnen_Nederland",
+    "title": "Verhuizen (binnen Nederland)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_binnen_gemeente"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Paspoort_rijbewijs_uittreksels/Paspoorten_en_identiteitskaarten/Vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.vlaardingen.nl/Onderwerpen/Evenementen_organiseren/Bingo_en_loterij",
+    "title": "Bingo en loterij",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vlaardingen_(gemeente)"
+  }
+]

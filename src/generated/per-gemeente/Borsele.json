@@ -1,0 +1,576 @@
+[
+  {
+    "identifier": "https://www.borsele.nl/rommelmarkt",
+    "title": "Rommelmarkt ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rommelmarktvergunning"
+  },
+  {
+    "identifier": "https://www.borsele.nl/volmacht",
+    "title": "Volmacht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/volmachtbewijs_verkiezingen"
+  },
+  {
+    "identifier": "https://www.borsele.nl/tijdelijke-bestemmingsplanstop",
+    "title": "Tijdelijke bestemmingsplanstop",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.borsele.nl/omgevingsvergunning-vergunningsvrij",
+    "title": "Omgevingsvergunning, vergunningsvrij",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.borsele.nl/uittreksel-persoonsgegevens-brp",
+    "title": "Uittreksel persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.borsele.nl/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.borsele.nl/uittreksel-afschrift-van-de-burgerlijke-stand",
+    "title": "Uittreksel of afschrift van de burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.borsele.nl/wijzigen-naamgebruik",
+    "title": "Wijzigen naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.borsele.nl/huisvestingsvergunning",
+    "title": "Huisvestingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisvestingsvergunning"
+  },
+  {
+    "identifier": "https://www.borsele.nl/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.borsele.nl/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.borsele.nl/bouwplannen-en-bouwtekeningen-bekijken",
+    "title": "Bouwplannen en bouwtekeningen bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.borsele.nl/alcohol-schenken-tijdens-evenement",
+    "title": "Alcohol schenken tijdens evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/demonstratiebetoging-aanmelden",
+    "title": "Demonstratie/betoging aanmelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/betogDemonsMld"
+  },
+  {
+    "identifier": "https://www.borsele.nl/echtscheiding-einde-geregistreerd-partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.borsele.nl/alcoholwetvergunning",
+    "title": "Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.borsele.nl/bedrijfspandbedrijventerrein-huren-kopen",
+    "title": "Bedrijfspand/bedrijventerrein huren of kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsterrein_huren_of_kopen"
+  },
+  {
+    "identifier": "https://www.borsele.nl/meldpunt-ongewenst-verhuurgedrag",
+    "title": "Meldpunt ongewenst verhuurgedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/melding-kapotte-straatverlichting",
+    "title": "Melding kapotte straatverlichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(straatverlichting)"
+  },
+  {
+    "identifier": "https://www.borsele.nl/melding-vergunning-brandveiligheid",
+    "title": "Melding of vergunning brandveiligheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.borsele.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.borsele.nl/overlijdensaangifte",
+    "title": "Overlijdensaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.borsele.nl/inzagerecht",
+    "title": "Inzagerecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "https://www.borsele.nl/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.borsele.nl/adoptie",
+    "title": "Adoptie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adoptie"
+  },
+  {
+    "identifier": "https://www.borsele.nl/geslachtswijziging",
+    "title": "Geslachtswijziging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geslachtswijzigingsaangifte"
+  },
+  {
+    "identifier": "https://www.borsele.nl/woz-waarde",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/controle-op-verbouwingen",
+    "title": "Controle op verbouwingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.borsele.nl/nederlandse-nationaliteit-aanvragen",
+    "title": "Nederlandse nationaliteit aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.borsele.nl/kinderopvangtoeslag",
+    "title": "Kinderopvangtoeslag ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://www.borsele.nl/verkeersmaatregelen-tijdens-zlm-tour",
+    "title": "Verkeersmaatregelen tijdens ZLM Tour",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/onroerendezaakbelasting-ozb",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.borsele.nl/kiezerspas-0",
+    "title": "Kiezerspas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/woo-verzoek-0",
+    "title": "Woo-verzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/kind-erkennen",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.borsele.nl/gemeentelijk-pand-gebruiken",
+    "title": "Gemeentelijk pand gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruik_gemeentelijke_panden"
+  },
+  {
+    "identifier": "https://www.borsele.nl/collecte",
+    "title": "Collecte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.borsele.nl/sloopmelding-gebouw-deel-gebouw",
+    "title": "Sloopmelding gebouw of deel gebouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/levenloos-geboren-kind",
+    "title": "Levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/subsidie-verwijderen-asbestdak-0",
+    "title": "Subsidie verwijderen asbestdak",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verwAsbestdakSubs"
+  },
+  {
+    "identifier": "https://www.borsele.nl/verhuizen-binnen-nederland",
+    "title": "Verhuizen binnen Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_binnen_gemeente"
+  },
+  {
+    "identifier": "https://www.borsele.nl/meldpunt-kindermishandeling-en-huiselijk-geweld",
+    "title": "Meldpunt kindermishandeling en huiselijk geweld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/meldpuntAlg"
+  },
+  {
+    "identifier": "https://www.borsele.nl/rijbewijs-verlengen-categorie-uitbreiding",
+    "title": "Rijbewijs verlengen of categorie-uitbreiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbVerlengen"
+  },
+  {
+    "identifier": "https://www.borsele.nl/garantstelling",
+    "title": "Garantstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/omgevingsvergunning-aanvraag",
+    "title": "Omgevingsvergunning, aanvraag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.borsele.nl/materialen-lenen",
+    "title": "Materialen lenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/uitlening_gemeentelijke_materialen"
+  },
+  {
+    "identifier": "https://www.borsele.nl/verhuizen-naar-buitenland",
+    "title": "Verhuizen naar buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.borsele.nl/kindgebonden-budget",
+    "title": "Kindgebonden budget",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kindGebBud"
+  },
+  {
+    "identifier": "https://www.borsele.nl/berm-gebruiken",
+    "title": "Berm gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bermgebruikontheffing"
+  },
+  {
+    "identifier": "https://www.borsele.nl/eerste-aanvraag-rijbewijs",
+    "title": "Eerste aanvraag rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.borsele.nl/verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.borsele.nl/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.borsele.nl/bezwaar-en-beroep",
+    "title": "Bezwaar en beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/omgevingsvergunning-beeldkwaliteitsadvies-voorheen-welstand",
+    "title": "Omgevingsvergunning, Beeldkwaliteitsadvies (voorheen welstand)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.borsele.nl/aanpassen-onjuiste-persoonsgegevens",
+    "title": "Aanpassen onjuiste persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/ctb",
+    "title": "CTB",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.borsele.nl/privacy",
+    "title": "Privacy",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.borsele.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.borsele.nl/stookontheffing",
+    "title": "Stookontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/exploitatievergunning-horecabedrijf",
+    "title": "Exploitatievergunning horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.borsele.nl/verklaring-omtrent-gedrag-vog",
+    "title": "Verklaring omtrent gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.borsele.nl/iedereen-doet-mee-borsele",
+    "title": "Iedereen doet mee in Borsele",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/bewijs-van-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.borsele.nl/graafmelding",
+    "title": "Graafmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/graafmelding"
+  },
+  {
+    "identifier": "https://www.borsele.nl/toestemming-reisdocument-minderjarigen-0",
+    "title": "Toestemming reisdocument minderjarigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/vaste-mest-opslaan",
+    "title": "Vaste mest opslaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/zorgtoeslag",
+    "title": "Zorgtoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zorgtoeslag"
+  },
+  {
+    "identifier": "https://www.borsele.nl/tijdelijke-verhuur-leegstaand-pand",
+    "title": "Tijdelijke verhuur leegstaand pand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woning_tijdelijke_verhuurvergunning"
+  },
+  {
+    "identifier": "https://www.borsele.nl/spandoek-ophangen",
+    "title": "Spandoek ophangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/spandoekvergunning"
+  },
+  {
+    "identifier": "https://www.borsele.nl/attestatie-de-vita",
+    "title": "Attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.borsele.nl/trouwengeregistreerd-partnerschap",
+    "title": "Trouwen/geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/legalisatie-handtekening",
+    "title": "Legalisatie handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.borsele.nl/eenmalig-aanpassen-openingstijden-horeca",
+    "title": "Eenmalig aanpassen openingstijden horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.borsele.nl/begraven-cremeren",
+    "title": "Begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borsele.nl/terrasvergunning-aanvragen",
+    "title": "Terrasvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.borsele.nl/geboorte-aangifte",
+    "title": "Geboorte aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.borsele.nl/omgevingsvergunning-conceptaanvraag-voorheen-overleg",
+    "title": "Omgevingsvergunning, conceptaanvraag (voorheen overleg)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouw_en_verbouw_welstandsadvies"
+  },
+  {
+    "identifier": "https://www.borsele.nl/geheimhouden-persoonsgegevens",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.borsele.nl/ongediertebestrijding",
+    "title": "Ongediertebestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.borsele.nl/huurtoeslag",
+    "title": "Huurtoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borsele_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huurtoeslag"
+  }
+]

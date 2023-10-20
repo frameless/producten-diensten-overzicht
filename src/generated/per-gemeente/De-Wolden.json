@@ -1,0 +1,714 @@
+[
+  {
+    "identifier": "https://www.dewolden.nl/geboorte-en-overlijden/begraafplaatsen",
+    "title": "Begraafplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/sport-en-vrije-tijd/weekmarkten",
+    "title": "Weekmarkten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktgelden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/parkeren-verkeer-en-vervoer/parkeerplaats-voor-gehandicapten",
+    "title": "Parkeerplaats voor gehandicapten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/belastingen/forensenbelasting",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/melding-idee-klacht-en-bezwaar/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/trouwen/melden-trouwplannen-of-geregistreerd-partnerschap",
+    "title": "Melden trouwplannen of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/vergunningen/boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/melding-idee-klacht-en-bezwaar/aansprakelijkheid-bij-schade",
+    "title": "Aansprakelijkheid bij schade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/jeugd-en-onderwijs/jeugdhulp",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/uittreksels-en-verklaringen/geheimhouden-persoonsgegevens-aanvragen",
+    "title": "Geheimhouden persoonsgegevens aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/jeugd-en-onderwijs/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/ondernemen/hulp-voor-gevestigde-en-startende-ondernemers",
+    "title": "Hulp voor gevestigde en startende ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/vergunningen/balievergunning",
+    "title": "Balievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/vergunningen/alcoholvergunning",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/melding-idee-klacht-en-bezwaar/melding-doen",
+    "title": "Melding doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/belastingen/onroerendezaakbelasting-ozb",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/melding-idee-klacht-en-bezwaar/ombudsman",
+    "title": "Contact met de ombudsman",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/melding-idee-klacht-en-bezwaar/gevonden-en-verloren-voorwerpen",
+    "title": "Gevonden en verloren voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/melding-idee-klacht-en-bezwaar/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/belastingen/kwijtschelding-gemeentelijke-belastingen",
+    "title": "Kwijtschelding gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/verhuizen/adresonderzoek-aanvragen",
+    "title": "Adresonderzoek aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/subsidies-en-leningen/stimuleringslening",
+    "title": "Stimuleringslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/afval/afvalkalender-bekijken",
+    "title": "Afvalkalender bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/laag-inkomen/betaaldatum-uitkering",
+    "title": "Betaaldatum uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/sport/sportruimte-huren",
+    "title": "Sportruimte huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/belastingen/rioolheffing-betalen",
+    "title": "Rioolheffing betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/belastingen/gemeentelijke-belasting-betalen",
+    "title": "Gemeentelijke belasting betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/hulp-en-zorg/hulp-in-uw-dagelijks-leven/rolstoelvoorziening",
+    "title": "Rolstoelvoorziening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/hulp-en-zorg/wmo-vervoer/wmo-vervoershulpmiddelen",
+    "title": "Wmo vervoershulpmiddelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/bouwen/inzien-bouwtekeningen-en-vergunningen",
+    "title": "Inzien bouwtekeningen en vergunningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/afval/afval-scheiden",
+    "title": "Afval scheiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/uittreksels-en-verklaringen/verklaring-omtrent-het-gedrag-vog",
+    "title": "Verklaring Omtrent het Gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/bouwen/overzicht-bestemmingsplannen",
+    "title": "Overzicht bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/vergunningen/vuur-stoken",
+    "title": "Vuur stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/belastingen/toeristenbelasting-betalen",
+    "title": "Toeristenbelasting betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/raad-en-college/woo-verzoek",
+    "title": "Woo-verzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/laag-inkomen/collectieve-zorgverzekering",
+    "title": "Collectieve zorgverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/zkKstVerzCol"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/uittreksels-en-verklaringen/handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/hulp-en-zorg/wmo-hulp-melden",
+    "title": "Wmo hulp melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/subsidies-en-leningen/subsidieregeling-initiatiefrijk-de-wolden",
+    "title": "Subsidieregeling Initiatiefrijk De Wolden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/paspoort-id-kaart-en-rijbewijs/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/hulp-en-zorg/hulp-in-uw-dagelijks-leven/begeleiding-of-dagbesteding",
+    "title": "Begeleiding of dagbesteding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/subsidies-en-leningen/verzilverlening",
+    "title": "Verzilverlening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/afval/milieustraat",
+    "title": "Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/hulp-en-zorg/hulp-in-uw-dagelijks-leven/wmo-hulp-bij-het-huishouden",
+    "title": "Wmo hulp bij het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/hulp-en-zorg/hulp-in-uw-dagelijks-leven/wmo-woningaanpassing",
+    "title": "Wmo woningaanpassing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/paspoort-id-kaart-en-rijbewijs/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/laag-inkomen/uitkering-aanvragen",
+    "title": "Uitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/laag-inkomen/extra-ondersteuning-bij-laag-inkomen",
+    "title": "Extra ondersteuning bij laag inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/afval/grofvuil-laten-ophalen",
+    "title": "Grofvuil laten ophalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/laag-inkomen/extra-ondersteuning-bij-laag-inkomen/tegemoetkoming-lidmaatschap-sportvereniging",
+    "title": "Tegemoetkoming lidmaatschap (sport)vereniging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdsportsubsidie"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/uittreksels-en-verklaringen/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/laag-inkomen/hulp-bij-geldzorgen",
+    "title": "Hulp bij geldzorgen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/geboorte-en-overlijden/geboorteaangifte-doen",
+    "title": "Geboorteaangifte doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/paspoort-id-kaart-en-rijbewijs/bezorgen-reisdocument",
+    "title": "Bezorgen reisdocument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/trouwen/trouwen-of-geregistreerd-partnerschap",
+    "title": "Trouwen of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/belastingen/bezwaar-maken-tegen-gemeentelijke-belastingen",
+    "title": "Bezwaar maken tegen gemeentelijke heffingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/belastingen/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/vergunningen/ontheffing-voor-paasvuur",
+    "title": "Ontheffing voor paasvuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/verhuizen/garantstelling-visum-kort-verblijf",
+    "title": "Garantstelling visum kort verblijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/verhuizen/emigreren",
+    "title": "Emigreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/verhuizen/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/uittreksels-en-verklaringen/uittreksel-burgerlijke-stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/hulp-en-zorg/hulp-bij-het-regelen-van-zorg",
+    "title": "Hulp bij het regelen van zorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/hulp-en-zorg/hulp-voor-mantelzorgers",
+    "title": "Hulp voor mantelzorgers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/verhuizen/briefadres-aanvragen",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/vergunningen/evenementenvergunning-aanvragen",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/sport/gezonde-jeugd-gezonde-toekomst-jogg",
+    "title": "Gezonde jeugd gezonde toekomst (JOGG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/afval/afvalcontainer-aanvragen",
+    "title": "Afvalcontainer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/afval/antireclamesticker-aanvragen",
+    "title": "Antireclamesticker aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/uittreksels-en-verklaringen/uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel Basisregistratie Personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/vergunningen/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/ondernemen/subsidie-voor-ondernemers",
+    "title": "Subsidie voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/startend_ondernemerschapsubsidie"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/paspoort-id-kaart-en-rijbewijs/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/verhuizen/verhuizen-vanuit-buitenland",
+    "title": "Verhuizen vanuit buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/paspoort-id-kaart-en-rijbewijs/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/paspoort-id-kaart-en-rijbewijs/nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/bouwen/conceptaanvraag-indienen",
+    "title": "Conceptaanvraag indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/melding-idee-klacht-en-bezwaar/beroep-indienen",
+    "title": "Beroep indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/beroep"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/melding-idee-klacht-en-bezwaar/schade-melden-als-vrijwilliger",
+    "title": "Schade melden als vrijwilliger",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/vergunningen/drank-schenken-bij-een-evenement",
+    "title": "Drank schenken bij een evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/belastingen/woz-waarde-en-taxatieverslag",
+    "title": "WOZ-waarde en taxatieverslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/ondernemen/digitaal-opkopersregister",
+    "title": "Digitaal opkopersregister",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/opkoperreg"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/geboorte-en-overlijden/begraven",
+    "title": "Begraven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafrechten"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/melding-klacht-en-bezwaar/vergoeding-planschade",
+    "title": "Vergoeding planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/vergunningen/standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/belastingen/verhuizen-en-belastingen",
+    "title": "Verhuizen en belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/parkeren-verkeer-en-vervoer/parkeerkaart-voor-gehandicapten",
+    "title": "Parkeerkaart voor gehandicapten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/sport-en-vrije-tijd/koopavonden-en-koopzondagen",
+    "title": "Koopavonden en koopzondagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/koopzondageninformatie"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/jeugd-en-onderwijs/leerwerkloket",
+    "title": "LeerWerkLoket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/belastingen/afvalstoffenheffing-betalen",
+    "title": "Afvalstoffenheffing betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/jeugd-en-onderwijs/leerplicht",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/trouwen/geregistreerd-partnerschap-omzetten-in-een-huwelijk",
+    "title": "Geregistreerd partnerschap omzetten in een huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_omzetting_in_huwelijk"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/hulp-en-zorg/wmo-vervoer/wmo-pas-aanvragen",
+    "title": "Wmo-pas aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/afval/asbest-wegbrengen",
+    "title": "Asbest wegbrengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/paspoort-id-kaart-en-rijbewijs/zakenpaspoort",
+    "title": "Zakenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/hulp-en-zorg/hulp-in-uw-dagelijks-leven/beschermd-wonen",
+    "title": "Beschermd wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/bouwen/sloopmelding",
+    "title": "Sloopmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/geboorte-en-overlijden/overlijden-aangeven",
+    "title": "Overlijden aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/paspoort-id-kaart-en-rijbewijs/identiteitskaart",
+    "title": "ID-kaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/bouwen/bestemmingsplannen-bekijken",
+    "title": "Bestemmingsplannen bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/trouwen/gewijzigde-achternaam-doorgeven",
+    "title": "Gewijzigde achternaam doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/geboorte-en-overlijden/kind-erkennen",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/uittreksels-en-verklaringen/bewijs-nederlanderschap",
+    "title": "Bewijs Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/geboorte-en-overlijden/registratie-levenloos-geboren-kind",
+    "title": "Registratie levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.dewolden.nl/paspoort-id-kaart-en-rijbewijs/tweede-paspoort",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Wolden",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  }
+]

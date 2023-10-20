@@ -1,0 +1,437 @@
+[
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/bedrijf-starten.html",
+    "title": "Bedrijf starten / Bedrijf en beroep aan huis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/geheimhouding-persoonsgegevens.html",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-geheimhoudingsverzoek"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/erkenning-ongeboren-kind.html",
+    "title": "Erkenning (ongeboren) kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/vrijwilligerswerk",
+    "title": "Vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/omwisselen-buitenlands-rijbewijs.html",
+    "title": "Omwisselen buitenlands rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs_buitenlands_omwisseling"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/alcoholwetvergunning.html",
+    "title": "Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/nederlander-worden-door-naturalisatie.html",
+    "title": "Nederlander worden door naturalisatie / inburgering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/omgevingsvergunning.html",
+    "title": "Omgevingsvergunning / bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/crisis-of-ramp.html",
+    "title": "Crisis of ramp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rampenplan"
+  },
+  {
+    "identifier": "https://www.waalre.nl/burgerinitiatief",
+    "title": "Burgerinitiatief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/rijbewijs.html",
+    "title": "Rijbewijs aanvragen/verlengen bij gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/verklaring-omtrent-het-gedrag-vog.html",
+    "title": "Verklaring omtrent gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/bestemmingsplannen-overzicht.html",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/bezwaar-tegen-gemeentelijke-belastingen.html",
+    "title": "Bezwaar tegen gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/geboorteaangifte.html",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/verklaring-naamgebruik.html",
+    "title": "Verklaring naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/verhuizen-naar-het-buitenland.html",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/melding-doen.html",
+    "title": "Melding openbare ruimte (MOR)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/vergunningen-overige.html",
+    "title": "Standplaatsvergunning / collecterooster",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/legaliseren-handtekening.html",
+    "title": "Legaliseren handtekening / Bewijs van garantstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/huren-sportzaal-of-accommodatie.html",
+    "title": "Verhuur sporthallen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/gehandicaptenparkeerplaats.html",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats_op_kenteken"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/laag-inkomen-minima-regelingen",
+    "title": "Collectieve zorgverzekering via gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectieve_ziektekostenverzekering"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/milieustraat.html",
+    "title": "Milieustraat, kringloopwinkel en asbest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/rioolaansluiting-aanvragen.html",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/evenement-melding-of-vergunning.html",
+    "title": "Evenement: melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/kliko.html",
+    "title": "Kliko aanvragen/omruilen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/achternaam-van-uw-kind-kiezen.html",
+    "title": "Achternaam van uw kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieceremonie"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/rioolheffing.html",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/uittreksel-brp.html",
+    "title": "Uittreksel basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-uittreksel"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/planschade.html",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-correctieverzoek"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/trouwen-geregistreerd-partnerschap.html",
+    "title": "Trouwen/geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/bomen-kappen.html",
+    "title": "Bomen kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/kind-en-onderwijs",
+    "title": "Kind en onderwijs en Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/afvalkalender.html",
+    "title": "Afvalkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/afvalstoffenheffing.html",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reinigingsrecht"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/bewijs-van-in-leven-zijn.html",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/subsidies.html",
+    "title": "Subsidies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/paspoort",
+    "title": "Aanvraag paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/gehandicaptenparkeerkaart.html",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/gemeentelijke-onderscheidingen.html",
+    "title": "Gemeentelijke onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentelijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/uitkering-voor-zelfstandig-ondernemers",
+    "title": "Uitkering voor zelfstandig ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering_zelfstandigen"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/brp-correctieverzoek",
+    "title": "BRP-correctieverzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-correctieverzoek"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/hervestiging-uit-het-buitenland.html",
+    "title": "Hervestiging uit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hervestiging_vanuit_het_buitenland"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/langdurigheidstoeslag"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/eerste-inschrijving-in-nederland.html",
+    "title": "Eerste inschrijving in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/melding-slopen-woning-pand.html",
+    "title": "Melding slopen pand / container op weg plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/gemeentelijke-begraafplaats.html",
+    "title": "Gemeentelijke begraafplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/wet-maatschappelijke-ondersteuning",
+    "title": "Persoonsgebonden budget",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgebonden_budget"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/woz-en-onroerendezaakbelastingen.html",
+    "title": "WOZ en onroerendezaakbelastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/klacht-indienen.html",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/koninklijke-onderscheiding.html",
+    "title": "Koninklijke onderscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/big-bags.html",
+    "title": "Big Bags",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_bouw-_en_sloopafval"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/speelruimte.html",
+    "title": "Speelruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/speelvoorziening_kinderen"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/toeristenbelasting.html",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/nederlander-worden-door-optie.html",
+    "title": "Nederlander worden door optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/gezondheidsverklaring-rijbewijs.html",
+    "title": "Gezondheidsverklaring rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs_eigen_verklaring"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/identiteitskaart.html",
+    "title": "Aanvraag identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/overlijdensaangifte.html",
+    "title": "Overlijdensaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/hondenuitlaatregels.html",
+    "title": "Hondenuitlaatregels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/afschrift-burgelijke-stand.html",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.waalre.nl/inwoners-en-ondernemers/verhuizing-doorgeven.html",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waalre_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  }
+]

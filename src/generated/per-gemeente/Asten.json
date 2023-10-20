@@ -1,0 +1,550 @@
+[
+  {
+    "identifier": "https://www.asten.nl/zorg-werk-en-jeugd/werk-en-inkomen/buitenlandse-werknemers-pracownicy-zagraniczni",
+    "title": "Buitenlandse werknemers - Pracownicy zagraniczni",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/gemeentelijke-belastingen-en-woz/reclamebelasting",
+    "title": "Reclamebelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamebelasting"
+  },
+  {
+    "identifier": "https://www.asten.nl/verkeer-en-vervoer/vegen-van-wegen",
+    "title": "Vegen van wegen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/gemeentelijke-belastingen-en-woz/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.asten.nl/meldingen-klachten-en-bezwaar/melding-milieuklacht",
+    "title": "Melding milieuklacht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/bouwen-en-verbouwen/grond-en-vastgoed/rioolaansluiting",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.asten.nl/wonen-en-verhuizen/verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.asten.nl/zorg-werk-en-jeugd/werk-en-inkomen/hulp-bij-werk-inkomen-en-schulden",
+    "title": "Hulp bij werk, inkomen en schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/geboorte-huwelijk-en-overlijden/trouwen-of-partnerschap-registreren",
+    "title": "Trouwen of partnerschap registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/zorg-werk-en-jeugd/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.asten.nl/geboorte-huwelijk-en-overlijden/trouwen-of-partnerschap-registreren/voorkeur-naamgebruik",
+    "title": "Voorkeur naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/wonen-en-verhuizen/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.asten.nl/geboorte-huwelijk-en-overlijden/geboorte",
+    "title": "Geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/activiteit-buurtfeest-organiseren",
+    "title": "Activiteit, buurtfeest organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/paspoort-rijbewijs-uittreksels/verklaring-omtrent-gedrag",
+    "title": "Verklaring omtrent gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.asten.nl/zorg-werk-en-jeugd/advies-en-ondersteuning-ondernemers/bedrijfscontacten",
+    "title": "Bedrijfscontacten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/bouwen-en-verbouwen/grond-en-vastgoed/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.asten.nl/gemeentelijke-belastingen-en-woz/kwijtschelding-gemeentelijke-belastingen",
+    "title": "Kwijtschelding gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.asten.nl/meldingen-klachten-en-bezwaar/melding-overlast-plaagdieren",
+    "title": "Melding overlast plaagdieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/wonen-en-verhuizen/leegstandvergunning",
+    "title": "Leegstandvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leegstandvergunning"
+  },
+  {
+    "identifier": "https://www.asten.nl/meldingen-klachten-en-bezwaar/meldpunt-bezorgdheid",
+    "title": "Meldpunt bezorgdheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/wonen-en-verhuizen/verhuizen-naar-het-buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.asten.nl/gemeentelijke-belastingen-en-woz/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.asten.nl/afval-en-groen/kliko-vermist-of-omwisselen",
+    "title": "Kliko vermist of omwisselen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/bouwen-en-verbouwen/projecten-en-weg-werkzaamheden",
+    "title": "Projecten en (weg-)werkzaamheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/verkeer-en-vervoer/gladheid-en-strooien",
+    "title": "Gladheid en strooien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/weekmarkt",
+    "title": "Weekmarkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/gemeentelijke-belastingen-en-woz/woz-en-onroerend-zaakbelasting-ozb",
+    "title": "WOZ en onroerend zaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/structurele-en-incidentele-subsidie",
+    "title": "Structurele en incidentele subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/afval-en-groen/bladkorven",
+    "title": "Bladkorven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bladkorf"
+  },
+  {
+    "identifier": "https://www.asten.nl/meldingen-klachten-en-bezwaar/melding-zwerfdieren-aangereden-wild",
+    "title": "Melding zwerfdieren, (aangereden) wild",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/gemeentelijke-belastingen-en-woz/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.asten.nl/geboorte-huwelijk-en-overlijden/trouwen-of-partnerschap-registreren/trouwambtenaren",
+    "title": "Trouwambtenaren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/afval-en-groen/afval-scheiden",
+    "title": "Afval scheiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/verkeer-en-vervoer/ontheffing-gebruik-parkeerschijf",
+    "title": "Ontheffing gebruik parkeerschijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/horeca-en-alcohol/kansspelautomaten",
+    "title": "Kansspelautomaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/meldingen-klachten-en-bezwaar/melding-woon-of-leefomgeving",
+    "title": "Melding woon- of leefomgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/bouwen-en-verbouwen/kabels-en-leidingen",
+    "title": "Kabels en leidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.asten.nl/meldingen-klachten-en-bezwaar/een-idee-geef-het-ons-mee",
+    "title": "Een idee? Geef het ons mee",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/zorg-werk-en-jeugd/zorg-en-ondersteuning/mantelzorgcompliment",
+    "title": "Mantelzorgcompliment",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgcompliment"
+  },
+  {
+    "identifier": "https://www.asten.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/uittreksel-burgerlijke-stand",
+    "title": "Uittreksel Burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/zorg-werk-en-jeugd/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.asten.nl/wonen-en-verhuizen/vergunning-huisvesting-arbeidsmigranten",
+    "title": "Vergunning huisvesting arbeidsmigranten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisvVerblGer"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/verkoop-en-reclame/standplaats-en-marktvergunning",
+    "title": "Standplaats en marktvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/verkeer-en-vervoer/tijdelijke-verkeersmaatregel",
+    "title": "Tijdelijke verkeersmaatregel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/verkoop-en-reclame/gevelreclame",
+    "title": "Gevelreclame",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/zorg-werk-en-jeugd/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.asten.nl/zorg-werk-en-jeugd/advies-en-ondersteuning-ondernemers/bedrijfskavel",
+    "title": "Bedrijfskavel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/geboorte-huwelijk-en-overlijden/overlijden",
+    "title": "Overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/horeca-en-alcohol/alcoholwetvergunning",
+    "title": "Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/wonen-en-verhuizen/ramp-en-crisis",
+    "title": "Ramp en crisis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/kermis",
+    "title": "Kermis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/verkoop-en-reclame/tijdelijke-aankondigingsborden",
+    "title": "Tijdelijke aankondigingsborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/zorg-werk-en-jeugd/kinderopvang",
+    "title": "Starten kinderopvang of gastouder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/gemeentelijke-belastingen-en-woz/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.asten.nl/gemeentebestuur-en-organisatie/gedragsregels",
+    "title": "Gedragsregels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/gemeentebestuur-en-organisatie/contact/afspraak-maken",
+    "title": "Afspraak maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezafspr"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/horeca-en-alcohol/horecaterras",
+    "title": "Horecaterras",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/verkoop-en-reclame/venten-en-flyeren",
+    "title": "Venten en flyeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/verkeer-en-vervoer/parkeren",
+    "title": "Parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.asten.nl/bouwen-en-verbouwen/grond-en-vastgoed/bouwgrond-kopen",
+    "title": "Bouwgrond kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/bouwen-en-verbouwen/omgevingsvergunning/welstand",
+    "title": "Welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/horeca-en-alcohol/ontheffing-sluitingstijden",
+    "title": "Ontheffing sluitingstijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/bouwen-en-verbouwen/bestemmingsplannen/plannen-in-procedure",
+    "title": "Plannen in procedure",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/wonen-en-verhuizen/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/horeca-en-alcohol/seksbedrijf",
+    "title": "Seksbedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/gemeentebestuur-en-organisatie/contact/openingstijden-en-contact",
+    "title": "Openingstijden en contact",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/wonen-en-verhuizen/honden",
+    "title": "Honden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/paspoort-rijbewijs-en-uittreksels/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.asten.nl/wonen-en-verhuizen/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.asten.nl/afval-en-groen/milieupas",
+    "title": "Milieupas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/geboorte-huwelijk-en-overlijden/erkenning-kind",
+    "title": "Erkenning kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.asten.nl/afval-en-groen/afval-wegbrengen-milieustraat",
+    "title": "Afval wegbrengen - Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/straatartiesten",
+    "title": "Straatartiesten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/wonen-en-verhuizen/briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/vvv-toeristische-informatie",
+    "title": "VVV: toeristische informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/verkoop-en-reclame/winkelopenstelling",
+    "title": "Winkelopenstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/bouwen-en-verbouwen/omgevingsvergunning/slopen-asbest-verwijderen",
+    "title": "Slopen, asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/meldingen-klachten-en-bezwaar/bezwaar-maken-tegen-belasting",
+    "title": "Bezwaar maken tegen belasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel Basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/afval-en-groen/afvalinzameling",
+    "title": "Afvalinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.asten.nl/gemeentelijke-belastingen-en-woz/automatische-incasso",
+    "title": "Automatische incasso",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.asten.nl/wonen-en-verhuizen/stoken",
+    "title": "Stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.asten.nl/evenementen-horeca-en-recreatie/horeca-en-alcohol/exploitatievergunning-horecabedrijf",
+    "title": "Exploitatievergunning horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Asten_(gemeente)"
+  }
+]

@@ -1,0 +1,417 @@
+[
+  {
+    "prefLabel": "Netherlands Space Office",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/nso",
+    "startDate": "2009-01-01"
+  },
+  {
+    "prefLabel": "Agentschap CBI",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Agentschap_CBI"
+  },
+  {
+    "prefLabel": "Agentschap NL",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Agentschap_NL",
+    "startDate": "2010-01-01",
+    "endDate": "2013-12-31"
+  },
+  {
+    "prefLabel": "Agentschap SZW",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Agentschap_SZW"
+  },
+  {
+    "prefLabel": "Agentschap Telecom",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Agentschap_Telecom",
+    "startDate": "2002-07-19",
+    "endDate": "2022-12-31"
+  },
+  {
+    "prefLabel": "Algemene Inspectiedienst",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Algemene_Inspectiedienst",
+    "endDate": "2012-02-18"
+  },
+  {
+    "prefLabel": "Arbeidsinspectie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Arbeidsinspectie",
+    "endDate": "2011-12-31"
+  },
+  {
+    "prefLabel": "Basisadministratie Persoonsgegevens en Reisdocumenten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Basisadministratie_Persoonsgegevens_en_Reisdocumenten"
+  },
+  {
+    "prefLabel": "Belastingdienst",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Belastingdienst"
+  },
+  {
+    "prefLabel": "CIBG",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/cibg"
+  },
+  {
+    "prefLabel": "Centraal Informatiepunt Beroepen Gezondheidszorg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Centraal_Informatiepunt_Beroepen_Gezondheidszorg"
+  },
+  {
+    "prefLabel": "Centraal Justitieel Incassobureau",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Centraal_Justitieel_Incassobureau"
+  },
+  {
+    "prefLabel": "Centrale Archief Selectiedienst",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Centrale_Archief_Selectiedienst",
+    "endDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Centrale Financiën Instelling",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Centrale_Financien_Instelling"
+  },
+  {
+    "prefLabel": "Defensie Telematica Organisatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Defensie_Telematica_Organisatie"
+  },
+  {
+    "prefLabel": "Dienst ICT Uitvoering",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Dienst_ICT_Uitvoering"
+  },
+  {
+    "prefLabel": "Dienst Justitiële Inrichtingen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Dienst_Justitiele_Inrichtingen"
+  },
+  {
+    "prefLabel": "Dienst Landelijk Gebied",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Dienst_Landelijk_Gebied"
+  },
+  {
+    "prefLabel": "Dienst Publiek en Communicatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Dienst_Publiek_en_Communicatie"
+  },
+  {
+    "prefLabel": "Dienst Regelingen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Dienst_Regelingen",
+    "endDate": "2013-12-31"
+  },
+  {
+    "prefLabel": "Dienst Uitvoering Onderwijs",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Dienst_Uitvoering_Onderwijs",
+    "startDate": "2010-01-01"
+  },
+  {
+    "prefLabel": "Dienst Vastgoed Defensie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Dienst_Vastgoed_Defensie",
+    "endDate": "2015-12-31"
+  },
+  {
+    "prefLabel": "Dienst van de Huurcommissie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/dhc"
+  },
+  {
+    "prefLabel": "Domeinen Roerende Zaken",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Domeinen_Roerende_Zaken"
+  },
+  {
+    "prefLabel": "EVD",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/EVD",
+    "endDate": "2009-12-31"
+  },
+  {
+    "prefLabel": "Erfgoedinspectie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Erfgoedinspectie",
+    "startDate": "2006-11-01"
+  },
+  {
+    "prefLabel": "FMHaaglanden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/fmh"
+  },
+  {
+    "prefLabel": "Gemeenschappelijk Dienstencentrum ICT",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Gemeenschappelijk_Dienstencentrum_ICT"
+  },
+  {
+    "prefLabel": "Groenservice Zuid-Holland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Groenservice_Zuid-Holland",
+    "endDate": "2016-05-25"
+  },
+  {
+    "prefLabel": "Havenbedrijf Rotterdam",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/hbrdam",
+    "startDate": "2004-01-01"
+  },
+  {
+    "prefLabel": "Immigratie- en Naturalisatiedienst",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Immigratie-_en_Naturalisatiedienst"
+  },
+  {
+    "prefLabel": "Inspectie Jeugdzorg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Inspectie_Jeugdzorg"
+  },
+  {
+    "prefLabel": "Inspectie Leefomgeving en Transport",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Inspectie_Leefomgeving_en_Transport",
+    "startDate": "2012-01-01"
+  },
+  {
+    "prefLabel": "Inspectie Openbare Orde en Veiligheid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Inspectie_Openbare_Orde_en_Veiligheid"
+  },
+  {
+    "prefLabel": "Inspectie SZW",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Inspectie_SZW",
+    "startDate": "2012-01-01"
+  },
+  {
+    "prefLabel": "Inspectie Verkeer en Waterstaat",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Inspectie_Verkeer_en_Waterstaat",
+    "endDate": "2011-12-31"
+  },
+  {
+    "prefLabel": "Inspectie Werk en Inkomen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Inspectie_Werk_en_Inkomen",
+    "endDate": "2011-12-31"
+  },
+  {
+    "prefLabel": "Inspectie van het Onderwijs",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Inspectie_van_het_Onderwijs"
+  },
+  {
+    "prefLabel": "Inspectie voor de Gezondheidszorg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Inspectie_voor_de_Gezondheidszorg"
+  },
+  {
+    "prefLabel": "Inspectie voor de Sanctietoepassing",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Inspectie_voor_de_Sanctietoepassing"
+  },
+  {
+    "prefLabel": "Justis",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Justis"
+  },
+  {
+    "prefLabel": "Justitiële ICT Organisatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/jio",
+    "startDate": "2022-01-01"
+  },
+  {
+    "prefLabel": "Justitiële Informatiedienst",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/justid",
+    "startDate": "2022-01-01"
+  },
+  {
+    "prefLabel": "Justitiële Uitvoeringsdienst Toetsing, Integriteit, Screening",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Justitiele_Uitvoeringsdienst_Toetsing_Integriteit_Screening"
+  },
+  {
+    "prefLabel": "Koninklijk Nederlands Meteorologisch Instituut",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Koninklijk_Nederlands_Meteorologisch_Instituut"
+  },
+  {
+    "prefLabel": "Landelijke Faciliteit Rampenbestrijding",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Landelijke_Faciliteit_Rampenbestrijding"
+  },
+  {
+    "prefLabel": "Logius",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Logius"
+  },
+  {
+    "prefLabel": "Nationaal Archief",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nationaal_Archief"
+  },
+  {
+    "prefLabel": "Nationaal Coördinator Groningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ncg"
+  },
+  {
+    "prefLabel": "Nationaal Coördinator Terrorismebestrijding en Veiligheid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/nctv",
+    "startDate": "2011-07-01"
+  },
+  {
+    "prefLabel": "Nederlands Forensisch Instituut",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlands_Forensisch_Instituut"
+  },
+  {
+    "prefLabel": "Nederlands Vaccin Instituut",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlands_Vaccin_Instituut"
+  },
+  {
+    "prefLabel": "Nederlandse Emissieautoriteit",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Emissieautoriteit"
+  },
+  {
+    "prefLabel": "Nederlandse Voedsel- en Warenautoriteit",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Voedsel_en_Warenautoriteit",
+    "startDate": "2012-02-19"
+  },
+  {
+    "prefLabel": "Octrooicentrum Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Octrooicentrum_Nederland",
+    "endDate": "2009-12-31"
+  },
+  {
+    "prefLabel": "Openbaar Ministerie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Openbaar_Ministerie"
+  },
+  {
+    "prefLabel": "Organisatie en Personeel Rijk",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/oenpr",
+    "startDate": "2023-01-01"
+  },
+  {
+    "prefLabel": "P-Direkt",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/P-Direkt",
+    "endDate": "2022-12-31"
+  },
+  {
+    "prefLabel": "PIANOo",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/pianoo"
+  },
+  {
+    "prefLabel": "Paresto",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Paresto"
+  },
+  {
+    "prefLabel": "Parket centrale verwerking openbaar ministerie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/cvom"
+  },
+  {
+    "prefLabel": "Plantenziektenkundige Dienst",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Plantenziektenkundige_Dienst",
+    "endDate": "2012-02-18"
+  },
+  {
+    "prefLabel": "Rijksdienst voor Archeologie, Cultuurlandschap en Monumenten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_Archeologie_Cultuurlandschap_en_Monumenten"
+  },
+  {
+    "prefLabel": "Rijksdienst voor Identiteitsgegevens",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rvig"
+  },
+  {
+    "prefLabel": "Rijksdienst voor Ondernemend Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/RVO",
+    "startDate": "2014-01-01"
+  },
+  {
+    "prefLabel": "Rijksdienst voor de Monumentenzorg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_de_Monumentenzorg",
+    "endDate": "2006-01-01"
+  },
+  {
+    "prefLabel": "Rijksdienst voor het Cultureel Erfgoed",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed"
+  },
+  {
+    "prefLabel": "Rijksdienst voor het Oudheidkundig Bodemonderzoek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Oudheidkundig_Bodemonderzoek",
+    "endDate": "2006-01-01"
+  },
+  {
+    "prefLabel": "Rijksgebouwendienst",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rijksgebouwendienst"
+  },
+  {
+    "prefLabel": "Rijksinspectie Digitale Infrastructuur",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rdi",
+    "startDate": "2002-07-19"
+  },
+  {
+    "prefLabel": "Rijksinstituut voor Volksgezondheid en Milieu",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rijksinstituut_voor_Volksgezondheid_en_Milieu"
+  },
+  {
+    "prefLabel": "Rijksorganisatie Beveiliging en Logistiek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rbl",
+    "startDate": "2023-01-01"
+  },
+  {
+    "prefLabel": "Rijksvastgoed- en Ontwikkelingsbedrijf",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rijksvastgoed-_en_Ontwikkelingsbedrijf",
+    "endDate": "2015-12-31"
+  },
+  {
+    "prefLabel": "Rijksvastgoedbedrijf",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rvb",
+    "startDate": "2016-01-01"
+  },
+  {
+    "prefLabel": "Rijkswaterstaat",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat"
+  },
+  {
+    "prefLabel": "Rijkswaterstaat - Dienst Limburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rwsdli",
+    "endDate": "2013-03-31"
+  },
+  {
+    "prefLabel": "Rijkswaterstaat - Dienst Noord-Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rwsdnb",
+    "endDate": "2013-03-31"
+  },
+  {
+    "prefLabel": "Rijkswaterstaat - Dienst Noord-Holland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rwsdnh",
+    "endDate": "2013-03-31"
+  },
+  {
+    "prefLabel": "Rijkswaterstaat - Dienst Noord-Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rwsdnn",
+    "endDate": "2013-03-31"
+  },
+  {
+    "prefLabel": "Rijkswaterstaat - Dienst Oost-Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rwsdon",
+    "endDate": "2013-03-31"
+  },
+  {
+    "prefLabel": "Rijkswaterstaat - Dienst Utrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rwsdut",
+    "endDate": "2013-03-31"
+  },
+  {
+    "prefLabel": "Rijkswaterstaat - Dienst Zeeland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rwsdzl",
+    "endDate": "2013-03-31"
+  },
+  {
+    "prefLabel": "Rijkswaterstaat - Dienst Zuid-Holland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rwsdzh",
+    "endDate": "2013-03-31"
+  },
+  {
+    "prefLabel": "SSC-ICT",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sscict"
+  },
+  {
+    "prefLabel": "Schadefonds Geweldsmisdrijven",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sfgm",
+    "startDate": "2012-01-01"
+  },
+  {
+    "prefLabel": "SenterNovem",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/SenterNovem",
+    "endDate": "2009-12-31"
+  },
+  {
+    "prefLabel": "Staatstoezicht op de Mijnen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Staatstoezicht_op_de_Mijnen"
+  },
+  {
+    "prefLabel": "Uitvoeringsorganisatie Bedrijfsvoering Rijk",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ubr",
+    "endDate": "2022-12-31"
+  },
+  {
+    "prefLabel": "VROM-Inspectie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/VROM-Inspectie",
+    "endDate": "2011-12-31"
+  },
+  {
+    "prefLabel": "Voedsel en Waren Autoriteit",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Voedsel_en_Waren_Autoriteit",
+    "endDate": "2012-02-18"
+  },
+  {
+    "prefLabel": "Werkmaatschappij",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Werkmaatschappij"
+  },
+  {
+    "prefLabel": "agentschap College ter Beoordeling van Geneesmiddelen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Agentschap_College_ter_Beoordeling_van_Geneesmiddelen"
+  }
+]

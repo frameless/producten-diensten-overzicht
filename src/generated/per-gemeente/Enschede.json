@@ -1,0 +1,1255 @@
+[
+  {
+    "identifier": "https://www.enschede.nl//openbare-laadpaal",
+    "title": "Openbare laadpaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/laadpaalverzoek"
+  },
+  {
+    "identifier": "https://www.enschede.nl//openbaar-groen-kopen",
+    "title": "Openbaar groen kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//sportsubsidie",
+    "title": "Sportsubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportactiviteitensubsidie"
+  },
+  {
+    "identifier": "https://www.enschede.nl//en/moving-abroad",
+    "title": "Moving abroad",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.enschede.nl//graven-in-de-openbare-ruimte",
+    "title": "Graven in de openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(groenvoorziening)"
+  },
+  {
+    "identifier": "https://www.enschede.nl//hulp-voor-kinderen-en-jongeren",
+    "title": "Hulp voor kinderen en jongeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//bezwaar-maken-tegen-een-beslissing",
+    "title": "Bezwaar maken tegen een beslissing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//snoeiafval-verbranden",
+    "title": "Snoeiafval verbranden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//hulp-bij-onderwijs",
+    "title": "Hulp bij onderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//verhuizen-naar-het-buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.enschede.nl//woonoverlast",
+    "title": "Woonoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//kind-erkennen",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.enschede.nl//handhaving",
+    "title": "Handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//subsidie-regenton-wateropslag",
+    "title": "Subsidie regenton (wateropslag)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//ongewenste-plantensoorten",
+    "title": "Ongewenste plantensoorten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(groenvoorziening)"
+  },
+  {
+    "identifier": "https://www.enschede.nl//overlijden-doorgeven",
+    "title": "Overlijden doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.enschede.nl//toeslagen-en-bijdragen",
+    "title": "Toeslagen en bijdragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.enschede.nl//loonkostensubsidie",
+    "title": "Loonkostensubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/loonkostSub"
+  },
+  {
+    "identifier": "https://www.enschede.nl//briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.enschede.nl//inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//reclame-plaatsen",
+    "title": "Reclame plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamemateriaalverspreiding_ontheffing"
+  },
+  {
+    "identifier": "https://www.enschede.nl//vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.enschede.nl//individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.enschede.nl//en/report-your-relocation",
+    "title": "Report your relocation",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.enschede.nl//en/moving-netherlands",
+    "title": "Moving to the Netherlands",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.enschede.nl//ontheffing-verkeersmaatregelen",
+    "title": "Ontheffing verkeersmaatregelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//grondwater-oppompen",
+    "title": "Grondwater oppompen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grondwateronttrekkingsvergunning"
+  },
+  {
+    "identifier": "https://www.enschede.nl//verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdVerhMld"
+  },
+  {
+    "identifier": "https://www.enschede.nl//gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.enschede.nl//grondwateroverlast",
+    "title": "Grondwateroverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.enschede.nl//collectevergunning",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.enschede.nl//explosieven-in-de-grond-melden",
+    "title": "Explosieven in de grond melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//geluidsoverlast",
+    "title": "Geluidsoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//kwetsbaarheid-melden-responsible-disclosure",
+    "title": "Kwetsbaarheid melden (Responsible Disclosure)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//subsidie-belevingswaarde-binnenstad",
+    "title": "Subsidie belevingswaarde binnenstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.enschede.nl//omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.enschede.nl//planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.enschede.nl//toegang-tot-stadserf",
+    "title": "Toegang tot Stadserf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//huisnummer-aanvragen",
+    "title": "Huisnummer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.enschede.nl//bijstand-inkomsten-doorgeven",
+    "title": "Bijstand: inkomsten doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//havengeld",
+    "title": "Havengeld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//collectieve-zorgverzekering",
+    "title": "Collectieve zorgverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectieve_ziektekostenverzekering"
+  },
+  {
+    "identifier": "https://www.enschede.nl//echtscheiding-doorgeven",
+    "title": "Echtscheiding doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtschVerz"
+  },
+  {
+    "identifier": "https://www.enschede.nl//bijstand-voor-zelfstandigen-bbz",
+    "title": "Bijstand voor zelfstandigen (Bbz)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.enschede.nl//vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.enschede.nl//vergunning-smartshop-headshop-of-giftshop",
+    "title": "Vergunning smartshop, headshop of giftshop",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//tegelwippen",
+    "title": "Tegelwippen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//spreekuur-welstand",
+    "title": "Spreekuur welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.enschede.nl//subsidie-verbetering-straatbeeld-binnenstad",
+    "title": "Subsidie verbetering straatbeeld binnenstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.enschede.nl//subsidie-voor-evenementen",
+    "title": "Subsidie voor evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.enschede.nl//hulp-bij-wonen",
+    "title": "Hulp bij wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//brandveilig-gebruik-gebouwen",
+    "title": "Brandveilig gebruik gebouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.enschede.nl//toegang-tot-afgesloten-weg",
+    "title": "Toegang tot afgesloten weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//bijstand-veranderingen-verplicht-doorgeven",
+    "title": "Bijstand: veranderingen verplicht doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.enschede.nl//asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.enschede.nl//openbare-verlichting",
+    "title": "Openbare verlichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(straatverlichting)"
+  },
+  {
+    "identifier": "https://www.enschede.nl//toestemming-geluid-bij-bouw-of-sloop",
+    "title": "Toestemming geluid bij bouw of sloop",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.enschede.nl//jobcoach-hulp-voor-werknemers-met-arbeidsbeperking",
+    "title": "Jobcoach: hulp voor werknemers met arbeidsbeperking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//afstand-doen-van-nederlandse-nationaliteit",
+    "title": "Afstand doen van Nederlandse nationaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_afstand_nederlandse_nationaliteit"
+  },
+  {
+    "identifier": "https://www.enschede.nl//bodemonderzoek",
+    "title": "Bodemonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.enschede.nl//vergoeding-hulpmiddelen-werk",
+    "title": "Vergoeding hulpmiddelen werk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/medhlpmiddeis"
+  },
+  {
+    "identifier": "https://www.enschede.nl//iets-verloren-of-gevonden",
+    "title": "Iets verloren of gevonden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.enschede.nl//tijdelijk-alcohol-schenken",
+    "title": "Tijdelijk alcohol schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//extra-geld-voor-jongeren-voor-cultuur-en-sport",
+    "title": "Extra geld voor jongeren voor cultuur en sport",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//grond-verplaatsen-grondverzet",
+    "title": "Grond verplaatsen (grondverzet)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//bewijs-van-in-leven-zijn-of-attestatie-de-vita",
+    "title": "Bewijs van in leven zijn of Attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.enschede.nl//geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-geheimhoudingsverzoek"
+  },
+  {
+    "identifier": "https://www.enschede.nl//bingo-loterij-of-kansspel-organiseren",
+    "title": "Bingo, loterij of kansspel organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.enschede.nl//studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.enschede.nl//wegomleiding-of-verkeersmaatregelen-aanvragen",
+    "title": "Wegomleiding of verkeersmaatregelen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//subsidie-voor-jeugdverenigingen",
+    "title": "Subsidie voor jeugdverenigingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.enschede.nl//subsidie-aanleg-geveltuin",
+    "title": "Subsidie aanleg geveltuin",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.enschede.nl//woz-aanslag-bekijken",
+    "title": "WOZ-aanslag bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.enschede.nl//groente-fruit-en-etenswaren-gfe",
+    "title": "Groente, fruit en etenswaren (Gfe)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//jeugdlintje",
+    "title": "Jeugdlintje",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentelijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.enschede.nl//gevaarlijke-stoffen-vervoeren",
+    "title": "Gevaarlijke stoffen vervoeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/routeplichtontheffing_vervoer_gevaarlijke_stoffen"
+  },
+  {
+    "identifier": "https://www.enschede.nl//verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.enschede.nl//paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.enschede.nl//geslacht-geboorteakte-wijzigen",
+    "title": "Geslacht geboorteakte wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geslachtswijzigingsaangifte"
+  },
+  {
+    "identifier": "https://www.enschede.nl//bomen-behouden",
+    "title": "Bomen behouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//contact-met-de-wijkwijzer",
+    "title": "Contact met de Wijkwijzer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//onafhankelijke-clientondersteuning",
+    "title": "Onafhankelijke cliëntondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//welzijn",
+    "title": "Welzijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//registratie-levenloos-geboren-kind",
+    "title": "Registratie levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//geboorte-doorgeven",
+    "title": "Geboorte doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.enschede.nl//hulp-en-advies-bij-zwangerschap",
+    "title": "Hulp en advies bij zwangerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//kaarten-en-plattegronden",
+    "title": "Kaarten en plattegronden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//betalen-van-gemeentelijke-belastingen",
+    "title": "Betalen van gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//openingstijden-winkels-en-koopzondagen",
+    "title": "Openingstijden winkels en koopzondagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdenontheffing"
+  },
+  {
+    "identifier": "https://www.enschede.nl//identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.enschede.nl//natuurwater-dode-dieren-melden",
+    "title": "Natuurwater: dode dieren melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//buitenlands-rijbewijs-omwisselen",
+    "title": "Buitenlands rijbewijs omwisselen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs_buitenlands_omwisseling"
+  },
+  {
+    "identifier": "https://www.enschede.nl//taal-hulp-bij-lezen",
+    "title": "Taal: hulp bij lezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//uittreksel-burgerlijke-stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//hulp-bij-opvoeden",
+    "title": "Hulp bij opvoeden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.enschede.nl//verklaring-omtrent-het-gedrag-vog",
+    "title": "Verklaring omtrent het gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.enschede.nl//leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.enschede.nl//gebruik-achternaam-veranderen",
+    "title": "Gebruik achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternGebrBeeind"
+  },
+  {
+    "identifier": "https://www.enschede.nl//subsidie-culturele-activiteiten",
+    "title": "Subsidie culturele activiteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/cultuursubsidie"
+  },
+  {
+    "identifier": "https://www.enschede.nl//geld-voor-dagelijkse-dingen",
+    "title": "Geld voor dagelijkse dingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//fraude-met-bijstand",
+    "title": "Fraude met bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.enschede.nl//reageren-op-ontwerp-van-bestemmingsplan",
+    "title": "Reageren op ontwerp van bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.enschede.nl//bijstand-vakantiegeld-en-vakantie",
+    "title": "Bijstand: vakantiegeld en vakantie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vakMldWw"
+  },
+  {
+    "identifier": "https://www.enschede.nl//uittreksel-basisregistratie-personen",
+    "title": "Uittreksel Basisregistratie Personen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.enschede.nl//bijstandsuitkering",
+    "title": "Bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//digid-aanvragen-vanuit-het-buitenland",
+    "title": "DigiD aanvragen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//buitenlands-document-registreren",
+    "title": "Buitenlands document registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_van_buitenlandse_documenten"
+  },
+  {
+    "identifier": "https://www.enschede.nl//persoonsgegevens-bekijken-of-veranderen",
+    "title": "Persoonsgegevens bekijken of veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "https://www.enschede.nl//bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.enschede.nl//mobiel-breken-van-puin",
+    "title": "Mobiel breken van puin",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mobPuinbrGebr"
+  },
+  {
+    "identifier": "https://www.enschede.nl//nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://www.enschede.nl//overlast-bedrijven-bouwwerkzaamheden-en-evenementen",
+    "title": "Overlast bedrijven, bouwwerkzaamheden en evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//hulp-regelen-de-wmo",
+    "title": "Hulp regelen via de WMO",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//kortingskaarten-parkeergarages",
+    "title": "Kortingskaarten parkeergarages",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//milieuregels",
+    "title": "Milieuregels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//vrijwilligerswerk",
+    "title": "Vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//inrit-of-uitrit-aanleggen",
+    "title": "Inrit of uitrit aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_inrit"
+  },
+  {
+    "identifier": "https://www.enschede.nl//rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.enschede.nl//subsidie-groenblauw-enschede",
+    "title": "Subsidie GroenBlauw Enschede",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//subsidie-dakconstructieberekening-voor-ondernemers",
+    "title": "Subsidie dakconstructieberekening voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.enschede.nl//alcoholvergunning-aanvragen",
+    "title": "Alcoholvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.enschede.nl//parkeerboete",
+    "title": "Parkeerboete",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerboete"
+  },
+  {
+    "identifier": "https://www.enschede.nl//subsidie-groen-dak",
+    "title": "Subsidie groen dak",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//melding-doen",
+    "title": "Melding doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.enschede.nl//verklaring-bestemming-en-gebruik",
+    "title": "Verklaring bestemming en gebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//gemeente-aansprakelijk-stellen",
+    "title": "Gemeente aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.enschede.nl//rioolaansluiting",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.enschede.nl//betalingsregeling",
+    "title": "Betalingsregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldsan"
+  },
+  {
+    "identifier": "https://www.enschede.nl//onroerendezaakbelasting-ozb",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//monument-verbouwen",
+    "title": "Monument verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//subsidie-voor-amateurkunst",
+    "title": "Subsidie voor amateurkunst",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/amateurkunstsubsidie"
+  },
+  {
+    "identifier": "https://www.enschede.nl//woonkostentoeslag",
+    "title": "Woonkostentoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonkostentoeslag"
+  },
+  {
+    "identifier": "https://www.enschede.nl//parkeervergunning",
+    "title": "Parkeervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.enschede.nl//ontheffing-horecatijden",
+    "title": "Ontheffing horecatijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.enschede.nl//meedoen",
+    "title": "Meedoen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//bodemsanering",
+    "title": "Bodemsanering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.enschede.nl//adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.enschede.nl//subsidie-proeftuin-binnenstad",
+    "title": "Subsidie proeftuin binnenstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.enschede.nl//marktplaatsvergunning",
+    "title": "Marktplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktstandplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.enschede.nl//voorwerp-plaatsen-in-de-openbare-ruimte",
+    "title": "Voorwerp plaatsen in de openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//subsidie-voor-groenere-tuin",
+    "title": "Subsidie voor groenere tuin",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//subsidie-voor-opvang-begeleiding-en-beschermd-wonen",
+    "title": "Subsidie voor opvang, begeleiding en beschermd wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//iow-uitkering-oudere-werkloze",
+    "title": "IOW: uitkering oudere werkloze",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/iowUitkering"
+  },
+  {
+    "identifier": "https://www.enschede.nl//eikenprocessierups",
+    "title": "Eikenprocessierups",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.enschede.nl//energietoeslag-voor-lage-inkomens",
+    "title": "Energietoeslag voor lage inkomens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//parkeerontheffing-binnenstad",
+    "title": "Parkeerontheffing binnenstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://www.enschede.nl//toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.enschede.nl//proef-kabelgoottegels-elektrische-auto",
+    "title": "Proef kabelgoottegels elektrische auto",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//vergunning-voor-gokautomaten",
+    "title": "Vergunning voor gokautomaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//leegstaande-woning-verhuren",
+    "title": "Leegstaande woning verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leegstandvergunning"
+  },
+  {
+    "identifier": "https://www.enschede.nl//toestemming-extra-geluid-en-licht-bij-festiviteit",
+    "title": "Toestemming extra geluid en licht bij festiviteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//verklaring-van-huwelijksbevoegdheid",
+    "title": "Verklaring van huwelijksbevoegdheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_huwelijksbevoegdheid"
+  },
+  {
+    "identifier": "https://www.enschede.nl//bestemmingsplan",
+    "title": "Bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.enschede.nl//kwijtschelding-belastingen",
+    "title": "Kwijtschelding belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.enschede.nl//subsidie-afkoppelen-regenwater",
+    "title": "Subsidie afkoppelen regenwater",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.enschede.nl//bibob-onderzoek",
+    "title": "Bibob-onderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/integriteitsbeoordeling"
+  },
+  {
+    "identifier": "https://www.enschede.nl//ioaw-uitkering-oudere-gedeeltelijk-arbeidsongeschikte-werkloze",
+    "title": "IOAW: uitkering oudere, gedeeltelijk arbeidsongeschikte werkloze",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//subsidie-gevels-binnenstad",
+    "title": "Subsidie gevels binnenstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//kinderopvang-starten-of-wijzigen",
+    "title": "Kinderopvang starten of wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kindopvinreis"
+  },
+  {
+    "identifier": "https://www.enschede.nl//administratie-en-advies",
+    "title": "Administratie en advies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//ontmoeten",
+    "title": "Ontmoeten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//idee-voor-jouw-wijk-of-buurt-jij-maakt-de-buurt",
+    "title": "Idee voor jouw wijk of buurt: Jij maakt de buurt!",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//kwijtschelding-of-afkoop-van-schuld",
+    "title": "Kwijtschelding of afkoop van schuld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldsan"
+  },
+  {
+    "identifier": "https://www.enschede.nl//trouwen-of-partnerschap-registreren",
+    "title": "Trouwen of partnerschap registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.enschede.nl//abonnement-parkeergarage",
+    "title": "Abonnement parkeergarage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//juridisch-loket",
+    "title": "Juridisch loket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enschede.nl//vergunning-seksbedrijven",
+    "title": "Vergunning seksbedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/seksbedrijf_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.enschede.nl//paasvuur-melden",
+    "title": "Paasvuur melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.enschede.nl//handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.enschede.nl//waarmerken-kopie-paspoort-identiteitskaart-of-rijbewijs",
+    "title": "Waarmerken kopie paspoort, identiteitskaart of rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enschede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/waarmerken_document"
+  }
+]

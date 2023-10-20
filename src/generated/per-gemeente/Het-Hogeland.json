@@ -1,0 +1,673 @@
+[
+  {
+    "identifier": "https://hethogeland.nl/paspoort-id-kaart-en-rijbewijs/gezondheidsverklaring",
+    "title": "Gezondheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbGezVerkl"
+  },
+  {
+    "identifier": "https://hethogeland.nl/geboorte-huwelijk-en-overlijden/overlijden-aangeven",
+    "title": "Overlijden aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://hethogeland.nl/paspoort-id-kaart-en-rijbewijs/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://hethogeland.nl/geboorte-huwelijk-en-overlijden/erkennen-kind",
+    "title": "Erkennen kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://hethogeland.nl/vergunningen-en-toestemming/ontheffing-carbidschieten",
+    "title": "Ontheffing carbidschieten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/carbidschietenmelding"
+  },
+  {
+    "identifier": "https://hethogeland.nl/ondernemen/winkeltijden",
+    "title": "Winkeltijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland"
+  },
+  {
+    "identifier": "https://hethogeland.nl/iets-melden/groen/schade-aan-bomen-of-ander-groen",
+    "title": "Schade aan bomen of ander groen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(groenvoorziening)"
+  },
+  {
+    "identifier": "https://hethogeland.nl/bestuur-en-organisatie/onderscheidingen/koninklijke-onderscheidingen",
+    "title": "Koninklijke onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland"
+  },
+  {
+    "identifier": "https://hethogeland.nl/paspoort-id-kaart-en-rijbewijs/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://hethogeland.nl/uittreksels-en-verklaringen/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://hethogeland.nl/afval/afvalcontainer-aanvragen",
+    "title": "Afvalcontainer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://hethogeland.nl/vergunningen-en-toestemming/ontheffing-vuur-stoken",
+    "title": "Ontheffing vuur stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland"
+  },
+  {
+    "identifier": "https://hethogeland.nl/belastingen/forensenbelasting",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://hethogeland.nl/belastingen/reclamebelasting",
+    "title": "Reclamebelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamebelasting"
+  },
+  {
+    "identifier": "https://hethogeland.nl/vergunningen-en-toestemming/collecte-of-verkoopactie",
+    "title": "Collecte of verkoopactie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://hethogeland.nl/iets-melden/groen/overlast-van-bomen-of-struiken",
+    "title": "Overlast van bomen of struiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(groenvoorziening)"
+  },
+  {
+    "identifier": "https://hethogeland.nl/iets-melden/gebrek-of-schade-aan-gemeentelijk-gebouw",
+    "title": "Gebrek of schade aan gemeentelijk gebouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://hethogeland.nl/uittreksels-en-verklaringen/verklaring-omtrent-gedrag",
+    "title": "Verklaring omtrent gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://hethogeland.nl/zorg-en-ondersteuning/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland"
+  },
+  {
+    "identifier": "https://hethogeland.nl/plannen-en-projecten/ulrum/bedrijvenpark-de-marne-ulrum",
+    "title": "Bedrijvenpark De Marne Ulrum",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland"
+  },
+  {
+    "identifier": "https://hethogeland.nl/geboorte-huwelijk-en-overlijden/geboorte-aangeven",
+    "title": "Geboorte aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://hethogeland.nl/iets-melden/wegen/problemen-met-sloten-of-duikers",
+    "title": "Problemen met sloten of duikers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://hethogeland.nl/belastingen/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://hethogeland.nl/iets-melden/gevonden-en-verloren-voorwerpen",
+    "title": "Gevonden en verloren voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://hethogeland.nl/vergunningen-en-toestemming/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland"
+  },
+  {
+    "identifier": "https://hethogeland.nl/vergunningen-en-toestemming/ontheffing-geluidshinder",
+    "title": "Ontheffing geluidhinder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://hethogeland.nl/ondernemen/bedrijfshuisvesting",
+    "title": "Bedrijfshuisvesting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsverzamelgebouw_toewijzing_en_beheer"
+  },
+  {
+    "identifier": "https://hethogeland.nl/vergunningen-en-toestemming/evenementen/klein-evenement-melden",
+    "title": "Klein evenement melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://hethogeland.nl/berichten-en-regels",
+    "title": "Berichten en regels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://hethogeland.nl/vergunningen-en-toestemming/marktvergunning",
+    "title": "Marktvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktvergunning"
+  },
+  {
+    "identifier": "https://hethogeland.nl/uittreksels-en-verklaringen/handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://hethogeland.nl/plannen-en-projecten/bestemmingsplannen",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://hethogeland.nl/geboorte-huwelijk-en-overlijden/begraven",
+    "title": "Begraven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verlBegraven"
+  },
+  {
+    "identifier": "https://hethogeland.nl/subsidies-en-leningen/subsidies-leefbaarheid",
+    "title": "Subsidies leefbaarheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://hethogeland.nl/geboorte-huwelijk-en-overlijden/achternaam-kiezen-voor-uw-kind",
+    "title": "Achternaam kiezen voor je kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://hethogeland.nl/belastingen/reinigingsrechten",
+    "title": "Reinigingsrechten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/reinigingsrecht"
+  },
+  {
+    "identifier": "https://hethogeland.nl/uittreksels-en-verklaringen/bewijs-nederlanderschap",
+    "title": "Bewijs Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://hethogeland.nl/ondernemen/geldzaken/subsidies-voor-startende-ondernemers",
+    "title": "Subsidies voor startende ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland"
+  },
+  {
+    "identifier": "https://hethogeland.nl/paspoort-id-kaart-en-rijbewijs/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland"
+  },
+  {
+    "identifier": "https://hethogeland.nl/vergunningen-en-toestemming/leegstaande-woning-verhuren",
+    "title": "Leegstaande woning verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnTijdVerhVerg"
+  },
+  {
+    "identifier": "https://hethogeland.nl/verhuizen/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://hethogeland.nl/belastingen/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://hethogeland.nl/paspoort-id-kaart-en-rijbewijs/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland"
+  },
+  {
+    "identifier": "https://hethogeland.nl/verhuizen/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://hethogeland.nl/iets-melden/overlast/ongedierte-bestrijden",
+    "title": "Ongedierte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://hethogeland.nl/uittreksels-en-verklaringen/uittreksel-basisregistratie-personen",
+    "title": "Uittreksel basisregistratie personen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://hethogeland.nl/iets-melden/wegen/schade-aan-wegen-bruggen-fietspaden-of-trottoirs",
+    "title": "Schade aan wegen, bruggen, fietspaden of stoepen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland"
+  },
+  {
+    "identifier": "https://hethogeland.nl/uittreksels-en-verklaringen/bewijs-van-in-leven-zijn-attestatie-de-vita",
+    "title": "Bewijs van in leven zijn / Attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://hethogeland.nl/zorg-en-ondersteuning/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland"
+  },
+  {
+    "identifier": "https://hethogeland.nl/vergunningen-en-toestemming/evenementen/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://hethogeland.nl/klacht-bezwaar-en-beroep/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://hethogeland.nl/vergunningen-en-toestemming/toestemming-starten-kinderopvang",
+    "title": "Toestemming starten kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://hethogeland.nl/plannen-en-projecten/bedum/nieuwe-inrichting-de-vlijt",
+    "title": "Nieuwe inrichting De Vlijt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderhoud_infrastructuur"
+  },
+  {
+    "identifier": "https://hethogeland.nl/vergunningen-en-toestemming/uitrit-aanleggen-melden",
+    "title": "Uitrit aanleggen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgUitweg"
+  },
+  {
+    "identifier": "https://hethogeland.nl/klacht-bezwaar-en-beroep/gemeente-in-gebreke-stellen",
+    "title": "Gemeente in gebreke stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://hethogeland.nl/belastingen/onroerende-zaakbelasting",
+    "title": "Onroerende zaakbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://hethogeland.nl/toeristische-informatie/zwembaden",
+    "title": "Zwembaden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://hethogeland.nl/belastingen/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://hethogeland.nl/vergunningen-en-toestemming/drank-en-horeca/exploitatievergunning-horeca",
+    "title": "Exploitatievergunning horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://hethogeland.nl/te-koop-te-huur/bouwkavel-kopen/waterwereld-bedum",
+    "title": "Waterwereld Bedum",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwgronduitgifte"
+  },
+  {
+    "identifier": "https://hethogeland.nl/paspoort-id-kaart-en-rijbewijs/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://hethogeland.nl/iets-melden/groen/maaien",
+    "title": "Maaien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(groenvoorziening)"
+  },
+  {
+    "identifier": "https://hethogeland.nl/belastingen/bezwaar-tegen-belasting-gemeente",
+    "title": "Bezwaar tegen belasting gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://hethogeland.nl/verkeer-en-vervoer/gladheidsbestrijding",
+    "title": "Gladheidsbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://hethogeland.nl/iets-melden/dieren",
+    "title": "Dieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/dodeGezelschDierenOpr"
+  },
+  {
+    "identifier": "https://hethogeland.nl/geboorte-huwelijk-en-overlijden/trouwen-of-partnerschap-laten-registreren",
+    "title": "Trouwen of partnerschap laten registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland"
+  },
+  {
+    "identifier": "https://hethogeland.nl/uitkering-en-werk/werk",
+    "title": "Werk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/werkbegeleiding_werkzoekenden"
+  },
+  {
+    "identifier": "https://hethogeland.nl/vergunningen-en-toestemming/ligplaatsvergunning",
+    "title": "Ligplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/ligplaatsvergunning"
+  },
+  {
+    "identifier": "https://hethogeland.nl/iets-melden/illegale-stort-of-zwerfafval",
+    "title": "Illegale stort of zwerfafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://hethogeland.nl/berichten-over-uw-buurt/gemeentenieuws",
+    "title": "Gemeentenieuws",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/mededelingen"
+  },
+  {
+    "identifier": "https://hethogeland.nl/zorg-en-ondersteuning/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://hethogeland.nl/belastingen/kwijtschelding-belasting-gemeente",
+    "title": "Kwijtschelding belasting gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://hethogeland.nl/iets-melden/groen/onkruid-bestrijden",
+    "title": "Onkruid bestrijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/onkruidbestrijding"
+  },
+  {
+    "identifier": "https://hethogeland.nl/zorg-en-ondersteuning/opvoeden-opgroeien-en-jeugdhulp",
+    "title": "Opvoeden, opgroeien en jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland"
+  },
+  {
+    "identifier": "https://hethogeland.nl/iets-melden/wegen/gevaarlijke-verkeerssituatie",
+    "title": "Gevaarlijke verkeerssituatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://hethogeland.nl/iets-melden/overlast/overlast-in-uw-omgeving",
+    "title": "Overlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://hethogeland.nl/iets-melden/melding-kapotte-straatlantaarn",
+    "title": "Melding kapotte straatlantaarn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(straatverlichting)"
+  },
+  {
+    "identifier": "https://hethogeland.nl/geboorte-huwelijk-en-overlijden/naamgebruik-wijzigen",
+    "title": "Naamgebruik wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://hethogeland.nl/afval/sticker-tegen-kranten-en-folders",
+    "title": "Sticker tegen kranten en folders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://hethogeland.nl/belastingen/betalingsregeling-belasting-gemeente",
+    "title": "Betalingsregeling belasting gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://hethogeland.nl/vergunningen-en-toestemming/drank-en-horeca/ontheffing-zwak-alcoholische-drank",
+    "title": "Ontheffing zwak-alcoholische drank",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://hethogeland.nl/ondernemen/contactpersoon-bedrijven",
+    "title": "Contactpersoon bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland"
+  },
+  {
+    "identifier": "https://hethogeland.nl/toerisme-en-cultuur",
+    "title": "Toerisme en cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdeninformatie"
+  },
+  {
+    "identifier": "https://hethogeland.nl/zorg-en-ondersteuning/ondersteuning-voor-mantelzorgers",
+    "title": "Ondersteuning voor mantelzorgers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://hethogeland.nl/belastingen/taxatieverslag",
+    "title": "Taxatieverslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-taxatieverslag"
+  },
+  {
+    "identifier": "https://hethogeland.nl/vergunningen-en-toestemming/loterijvergunning",
+    "title": "Loterijvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://hethogeland.nl/verhuizen/verhuizen-binnen-nederland",
+    "title": "Verhuizen binnen Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://hethogeland.nl/iets-melden/wegen/beschadiging-aan-straat-of-wegmeubilair",
+    "title": "Beschadiging aan straat- of wegmeubilair",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(straatmeubilair)"
+  },
+  {
+    "identifier": "https://hethogeland.nl/belastingen/automatische-incasso",
+    "title": "Automatische incasso",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://hethogeland.nl/belastingen/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://hethogeland.nl/uittreksels-en-verklaringen/persoonsgegevens-inzien-of-wijzigen",
+    "title": "Persoonsgegevens inzien of wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "https://hethogeland.nl/aardbevingen/verlaging-woz-waarde-bij-aardbevingsschade",
+    "title": "Verlaging WOZ-waarde bij aardbevingsschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://hethogeland.nl/vergunningen-en-toestemming/vrijstelling-leerplicht-aanvragen",
+    "title": "Vrijstelling leerplicht aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://hethogeland.nl/toeristische-informatie/week-en-jaarmarkten",
+    "title": "Week- en jaarmarkten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdeninformatie"
+  },
+  {
+    "identifier": "https://hethogeland.nl/ondernemen/subsidies-en-fondsen",
+    "title": "Subsidies en fondsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland"
+  },
+  {
+    "identifier": "https://hethogeland.nl/vergunningen-en-toestemming/inzien-vergunning-of-vergunningaanvraag",
+    "title": "Inzien vergunning of vergunningaanvraag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://hethogeland.nl/uittreksels-en-verklaringen/uittreksel-burgerlijke-stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://hethogeland.nl/verhuizen/verhuizen-vanuit-buitenland",
+    "title": "Verhuizen vanuit buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Het_Hogeland",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  }
+]

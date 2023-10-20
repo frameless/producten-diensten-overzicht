@@ -1,0 +1,169 @@
+[
+  {
+    "prefLabel": "Bedrijfschap Afbouw",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Bedrijfschap_Afbouw"
+  },
+  {
+    "prefLabel": "Bedrijfschap Horeca en Catering",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Bedrijfschap_Horeca_en_Catering"
+  },
+  {
+    "prefLabel": "Bedrijfschap Natuursteenbedrijf",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Bedrijfschap_Natuursteenbedrijf"
+  },
+  {
+    "prefLabel": "Bedrijfschap voor het Slagersbedrijf",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Bedrijfschap_voor_het_Slagersbedrijf"
+  },
+  {
+    "prefLabel": "Bosschap",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Bosschap"
+  },
+  {
+    "prefLabel": "Hoofdbedrijfschap Afbouw en Onderhoud",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Hoofdbedrijfschap_Afbouw_en_Onderhoud"
+  },
+  {
+    "prefLabel": "Hoofdbedrijfschap Agrarische Groothandel",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Hoofdbedrijfschap_Agrarische_Groothandel"
+  },
+  {
+    "prefLabel": "Hoofdbedrijfschap Ambachten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Hoofdbedrijfschap_Ambachten"
+  },
+  {
+    "prefLabel": "Hoofdbedrijfschap Detailhandel",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Hoofdbedrijfschap_Detailhandel"
+  },
+  {
+    "prefLabel": "Hoofdproductschap Akkerbouw",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Hoofdproductschap_Akkerbouw"
+  },
+  {
+    "prefLabel": "Koninklijk Nederlands Instituut van Registeraccountants",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Koninklijk_Nederlands_Instituut_van_Registeraccountants",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Koninklijke_Beroepsorganisatie_van_Gerechtsdeurwaarders"
+  },
+  {
+    "prefLabel": "Koninklijke Nederlandse Beroepsorganisatie van Accountants",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/NBA",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Koninklijke Notariële Beroepsorganisatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Koninklijke_Notariele_Beroepsorganisatie"
+  },
+  {
+    "prefLabel": "Nederlandse Loodsencorporatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Loodsencorporatie"
+  },
+  {
+    "prefLabel": "Nederlandse Orde van Accountants-Administratieconsulenten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Orde_van_Accountants-Administratieconsulenten",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Nederlandse Orde van Advocaten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Orde_van_Advocaten"
+  },
+  {
+    "prefLabel": "Nederlandse Orde van Register EDP-Auditors",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/norea"
+  },
+  {
+    "prefLabel": "Orde van Advocaten Amsterdam",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ovaams"
+  },
+  {
+    "prefLabel": "Orde van Advocaten Den Haag",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ovadh"
+  },
+  {
+    "prefLabel": "Orde van Advocaten Gelderland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ovagld"
+  },
+  {
+    "prefLabel": "Orde van Advocaten Limburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ovalim"
+  },
+  {
+    "prefLabel": "Orde van Advocaten Midden-Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ovamnl"
+  },
+  {
+    "prefLabel": "Orde van Advocaten Noord-Holland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ovanhol"
+  },
+  {
+    "prefLabel": "Orde van Advocaten Noord-Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ovannl"
+  },
+  {
+    "prefLabel": "Orde van Advocaten Oost-Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ovaobr"
+  },
+  {
+    "prefLabel": "Orde van Advocaten Overijssel",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ovaov"
+  },
+  {
+    "prefLabel": "Orde van Advocaten Rotterdam",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ovarot"
+  },
+  {
+    "prefLabel": "Orde van Advocaten Zeeland-West-Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ovazwb"
+  },
+  {
+    "prefLabel": "Orde van Octrooigemachtigden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Orde_van_Octrooigemachtigden"
+  },
+  {
+    "prefLabel": "Productschap Diervoeder",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Productschap_Diervoeder"
+  },
+  {
+    "prefLabel": "Productschap Dranken",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Productschap_Dranken"
+  },
+  {
+    "prefLabel": "Productschap Granen, Zaden en Peulvruchten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Productschap_Granen,_Zaden_en_Peulvruchten"
+  },
+  {
+    "prefLabel": "Productschap Margarine, Vetten en Oliën",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Productschap_Margarine,_Vetten_en_Olien"
+  },
+  {
+    "prefLabel": "Productschap Tuinbouw",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Productschap_Tuinbouw"
+  },
+  {
+    "prefLabel": "Productschap Vis",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Productschap_Vis"
+  },
+  {
+    "prefLabel": "Productschap Wijn",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Productschap_Wijn"
+  },
+  {
+    "prefLabel": "Productschap Zuivel",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Productschap_Zuivel"
+  },
+  {
+    "prefLabel": "Productschappen Vee, Vlees en Eieren",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Productschappen_Vee,_Vlees_en_Eieren"
+  },
+  {
+    "prefLabel": "Raad voor het Zelfstandig Ondernemerschap",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Raad_voor_het_Zelfstandig_Ondernemerschap"
+  },
+  {
+    "prefLabel": "Sociaal Economische Raad",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Sociaal_Economische_Raad"
+  }
+]

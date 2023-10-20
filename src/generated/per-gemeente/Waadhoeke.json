@@ -1,0 +1,1935 @@
+[
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/recreatie-en-toerisme/projecten/op-paad-lans-it-waad",
+    "title": "Op Paad lâns it Waad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/factuurinformatie",
+    "title": "Factuur versturen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/klacht-en-melden/aansprakelijk-stellen-gemeente",
+    "title": "Aansprakelijk stellen gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/evenement-organiseren/ontheffing-sandwichborden",
+    "title": "Ontheffing sandwichborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/recreatie-en-toerisme/projecten",
+    "title": "Projecten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/bouwgrond",
+    "title": "Bouwgrond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/evenement-organiseren/ontheffing-geluidshinder",
+    "title": "Ontheffing geluidshinder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/pc/voorzieningen-en-veiligheid",
+    "title": "Voorzieningen en veiligheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/rijbewijs/rijbewijs-verlengen-of-categorie-uitbreiden",
+    "title": "Rijbewijs verlengen of categorie uitbreiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/bedankt",
+    "title": "Bedankt voor je inschrijving!",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/afwijken-van-een-bestemmingsplan",
+    "title": "Afwijken van een bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/veiligheid/aanmeld-en-registratieplicht-voor-handelaren-en-opkopers",
+    "title": "Aanmeld- en registratieplicht voor handelaren en opkopers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwen-partnerschap/huwelijk/melden",
+    "title": "Melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/partijen-sam",
+    "title": "SAM",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/overlijden-en-begraven/begraven-en-cremeren",
+    "title": "Begraven en cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/begroting",
+    "title": "Begroting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/subsidie",
+    "title": "Subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/klacht-en-melden/zienswijze",
+    "title": "Zienswijze",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/zienswijze"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/belasting/onroerende-zaakbelasting",
+    "title": "Onroerende zaakbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/over-deze-website/recht-op-inzage",
+    "title": "Recht op inzage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/vergunningen-voor-ondernemers",
+    "title": "Vergunningen voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/afval/neeja-sticker",
+    "title": "Nee/Ja-sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/veiligheid",
+    "title": "Veiligheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/parkeervergunning/parkeervergunning-voor-bewoners",
+    "title": "Parkeervergunning voor bewoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/agenda",
+    "title": "Agenda",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwen-partnerschap/naamgebruik",
+    "title": "Veranderen aanschrijfnaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/gemeentelijk-groen",
+    "title": "Gemeentelijk groen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/nieuwsbrieven",
+    "title": "Nieuwsbrieven Waadhoeke",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/nevenfuncties",
+    "title": "Nevenfuncties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/overlijden-en-begraven/achternaam-kiezen-kind",
+    "title": "Achternaam kiezen kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/id-kaart/id-kaart-voor-kind-onder-12-jaar-aanvragen",
+    "title": "ID-kaart voor kind onder 12 jaar aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/parkeerinformatie",
+    "title": "Parkeerinformatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/riolering/afkoppelen-van-regenwater",
+    "title": "Afkoppelen van regenwater",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/kentekens-aanmelden",
+    "title": "Kentekens aanmelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/laatste-nieuws",
+    "title": "Laatste nieuws",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/chatten",
+    "title": "Chatten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/contact",
+    "title": "Contact en openingstijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/geld-en-zorg/financiele-hulp",
+    "title": "Financiële hulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwen-partnerschap/trouwlocaties",
+    "title": "Trouwlocaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/woz",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/netwerken",
+    "title": "Netwerken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/locaties-aanplakborden",
+    "title": "Locaties verkiezingsborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheidslening",
+    "title": "Duurzaamheidslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/duurzhLening"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/advies-en-contact/karin-ijsbrandy",
+    "title": "Karin IJsbrandy",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/afval/afval-ophalen",
+    "title": "Afval ophalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/geld-en-zorg/tegemoetkoming-kinderopvang",
+    "title": "Tegemoetkoming kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/parkeervergunning",
+    "title": "Parkeervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/riolering/wateroverlast-in-en-rondom-de-woning",
+    "title": "Wateroverlast in en rondom de woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/pc/bewoners-en-ondernemers",
+    "title": "Informatie voor bewoners en ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwambtenaar/machteld-kort",
+    "title": "Machteld Wijnja- Kort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/recreatie-en-toerisme/projecten/eerste-toeristisch-overstappunt-in-gemeente-waadhoeke",
+    "title": "Toeristisch overstappunt (TOP) in gemeente Waadhoeke",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/advies-en-contact/bert-kroese",
+    "title": "Bert Kroese",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/advies-en-contact/baukje-postma",
+    "title": "Baukje Postma",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/evenement-organiseren/melding-klein-evenement",
+    "title": "Melding klein evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/parkeervergunning/parkeervergunning-voor-bedrijven/parkeervergunning-voor-bedrijven-binnenstad",
+    "title": "Parkeren bedrijven binnenstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/afspraak",
+    "title": "Maak een afspraak",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/parkeervergunning/parkeervergunning-voor-bewoners/parkeervergunning-voor-bewoners-schil",
+    "title": "Parkeren bewoners Schil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/melding/straatverlichting",
+    "title": "Melding straatverlichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/subsidie-regenwater",
+    "title": "Subsidie voor opvang regenwater en meer groen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/gemeentegrond-gebruiken",
+    "title": "Gemeentegrond gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/parkeervergunning/parkeervergunning-voor-bedrijven",
+    "title": "Parkeervergunning voor bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/duurzaam-ondernemen/energiescan",
+    "title": "Energiescan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vraag-over-hulp-of-zorg",
+    "title": "Vraag stellen over hulp of zorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/laatste-nieuws",
+    "title": "Laatste nieuws",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/coalitieakkoord",
+    "title": "Coalitieakkoord in vier talen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/over-deze-website/toegankelijkheid",
+    "title": "Toegankelijkheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/parkeren/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/sdgs",
+    "title": "SDG's",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/over-deze-website/archief",
+    "title": "Archief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/college/wethouder-marja-van-der-meer",
+    "title": "Wethouder Marja van der Meer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/college/wethouder-rene-de-vries",
+    "title": "Wethouder René de Vries",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/slopen-en-asbest-verwijderen",
+    "title": "Slopen en asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/bestemmingsplannen",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/evenement-organiseren/stookontheffing",
+    "title": "Stookontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/organisatie",
+    "title": "Organisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwen-partnerschap/trouwlocatie-gemeentehuis",
+    "title": "Trouwlocatie gemeentehuis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/bouwkavels",
+    "title": "Bouwkavels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/laadpaal-aanvragen",
+    "title": "Laadpaal aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/liveinwaadhoeke",
+    "title": "Informatie voor arbeidsmigranten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/omgevingswet/resultaten",
+    "title": "Resultaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/coronavirus/laatste-nieuws",
+    "title": "Laatste nieuws",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/riolering/beerput",
+    "title": "Beerput",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/overlast-gevaar-schade-melden",
+    "title": "Overlast, schade of gevaar melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/klacht-en-melden/dwangsom",
+    "title": "Dwangsom",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/parkeervergunning/plechtigheidsvergunning",
+    "title": "Plechtigheidsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/uittreksels/uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/melding/groen",
+    "title": "Melding groen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/agenda-welstandscommissie",
+    "title": "Agenda welstandscommissie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwambtenaar",
+    "title": "Trouwambtenaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/partijen-cda",
+    "title": "CDA",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/coronavirus/voor-ouders",
+    "title": "Voor ouders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/afval/container-aanvragen",
+    "title": "Container aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/verhuizen/verhuizen-in-of-naar-de-gemeente-waadhoeke",
+    "title": "Verhuizen in of naar de gemeente Waadhoeke",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/rijbewijs-online-verlengen",
+    "title": "Rijbewijs online verlengen via RDW",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/paspoort-id-kaart",
+    "title": "Paspoort en ID-kaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/bezwaar",
+    "title": "Bezwaar en beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/afval/afval-wegbrengen",
+    "title": "Afval wegbrengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/leidinggevende-wijzigen",
+    "title": "Leidinggevende aanmelden of wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwen-partnerschap/geregistreerd-partnerschap/kosten",
+    "title": "Kosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/groslijst",
+    "title": "Inschrijven op een groslijst",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/id-kaart/id-kaart-aanvragen-of-vernieuwen",
+    "title": "ID-kaart aanvragen of vernieuwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/geld-en-zorg/meldpunt-voor-verward-gedrag",
+    "title": "Meldpunt voor verward gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/kwijtschelding",
+    "title": "Kwijtschelding aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/internationaal-ondernemen",
+    "title": "Internationaal ondernemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/riolering/water-op-straat",
+    "title": "Water op straat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/watwaarwaadhoeke",
+    "title": "Projectenkaart WatWaarWaadhoeke",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/gebiedsteam",
+    "title": "Gebiedsteam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/advies-en-contact/rinze-kiemel",
+    "title": "Rinze Kiemel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/oekraine/english-information-for-refugees",
+    "title": "English information for refugees",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/klacht-en-melden",
+    "title": "Klacht en bezwaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/organisatie/kernen-en-inwoners",
+    "title": "Kernen en inwoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/tegemoetkoming-planschade",
+    "title": "Tegemoetkoming planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/recreatie-en-toerisme/projecten/sense-of-place",
+    "title": "Sense of Place",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/parkeervergunning/parkeervergunning-voor-bedrijven/parkeervergunning-voor-bedrijven-schil",
+    "title": "Parkeren bedrijven Schil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/rijbewijs/gezondheidsverklaring-aanvragen",
+    "title": "Gezondheidsverklaring aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/paspoort/paspoort-aanvragen-na-diefstal-of-vermissing",
+    "title": "Paspoort aanvragen na diefstal of vermissing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/melding/afval",
+    "title": "Melding afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/melding/verstopt-riool",
+    "title": "Melding verstopt riool",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/omgevingsloket",
+    "title": "Omgevingsloket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/belasting/belasting-betalen",
+    "title": "Belasting betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/maaibeleid-1",
+    "title": "Gemeentelijk maaibeleid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwambtenaar/corry-bouma-de-jong",
+    "title": "Corry Bouma - de Jong",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/beleid",
+    "title": "Hoezo duurzaamheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/overlijden-en-begraven/kind-erkennen",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/starters/belastingdienst",
+    "title": "Belastingdienst",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/omgevingswet/resultaten-verdiepingsgesprekken",
+    "title": "Resultaten verdiepingsgesprekken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/id-kaart/id-kaart-aanvragen-na-diefstal-of-vermissing",
+    "title": "ID-kaart aanvragen na diefstal of vermissing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/riolering",
+    "title": "Riolering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/nieuwsbrief-voor-ondernemers",
+    "title": "Nieuwsbrief voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/voor-bedrijven",
+    "title": "Voor bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/aed/ervaringsverhalen",
+    "title": "Ervaringsverhalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/recreatie-en-toerisme",
+    "title": "Recreatie en toerisme",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwambtenaar/boukje-van-der-meer-dijkstra",
+    "title": "Boukje van der Meer-Dijkstra",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/overlijden-en-begraven/levenloos-geboren-kindje-registreren-in-de-brp",
+    "title": "Levenloos geboren kindje registreren in de BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen",
+    "title": "Vergunningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/advies-en-contact",
+    "title": "Advies en contact",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/varen/betaling-aan-havenmeester",
+    "title": "Betaling aan havenmeester",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/evenement-organiseren/ontheffing-tijdelijk-alcohol-schenken",
+    "title": "Ontheffing tijdelijk alcohol schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwambtenaar/griet-de-boer-zoodsma",
+    "title": "Griet de Boer-Zoodsma",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/verhaalvanwaadhoeke",
+    "title": "Het verhaal van Waadhoeke: 3000 jaar leven met water",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/niet-gevonden-wat-u-zocht",
+    "title": "Niet gevonden wat u zocht?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/omgevingswet",
+    "title": "Omgevingswet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/contact-en-openingstijden/routeplanner",
+    "title": "Routeplanner",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/langskomen",
+    "title": "Langskomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/riolering/rioolaansluiting",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/aed/reanimatieburgerhulpverlening-r-bhver",
+    "title": "Reanimatie burgerhulpverlening (r-bhv'er)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/onderhoud-en-vervanging-van-aeds",
+    "title": "Onderhoud en vervanging van AED’s",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/koploperproject",
+    "title": "Koploperproject West-Fryslân",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/evenement-organiseren/bingo-organiseren",
+    "title": "Bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwen-partnerschap/huwelijk",
+    "title": "Trouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwambtenaar/nienke-vogel-van-der-maar",
+    "title": "Nienke Vogel – Van der Maar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/welkom",
+    "title": "Welkom",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwen-partnerschap/geregistreerd-partnerschap/zo-werkt-het",
+    "title": "Zo werkt het",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/uittreksels/document-waarmerken",
+    "title": "Document waarmerken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/parkeervergunning/parkeervergunning-voor-bewoners/bezoekersvergunning-schil",
+    "title": "Parkeren bezoekers Schil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/afval",
+    "title": "Afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwen-partnerschap/getuigen-kiezen",
+    "title": "Getuigen kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/college/wethouder-kees-arendz",
+    "title": "Wethouder Kees Arendz",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/overlijden-en-begraven/overlijden-aangeven",
+    "title": "Overlijden aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/college/besluitenlijst-college",
+    "title": "Besluitenlijst college",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vrijgeleide-ad",
+    "title": "Vrijgeleide AD",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/verklaring-omtrent-gedrag",
+    "title": "Verklaring omtrent gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/paspoort/paspoort-aanvragen-of-vernieuwen",
+    "title": "Paspoort aanvragen of vernieuwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwambtenaar/jan-deelstra",
+    "title": "Jan Deelstra",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwen-partnerschap/geregistreerd-partnerschap",
+    "title": "Geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/verkiezingen",
+    "title": "Verkiezingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/rijbewijs/rijbewijs-aanvragen-na-diefstal-of-vermissing",
+    "title": "Rijbewijs aanvragen na diefstal of vermissing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/riolering/rioolverstopping",
+    "title": "Rioolverstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/college/bestuurder-uitnodigen",
+    "title": "Bestuurder uitnodigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/duurzaam-ondernemen",
+    "title": "Duurzaam ondernemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/parkeerboete",
+    "title": "Parkeerboete",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/melding/verkeer",
+    "title": "Melding verkeer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/organisatie/koninklijke-onderscheiding-aanvragen",
+    "title": "Koninklijke onderscheiding aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/duurzaam-ondernemen/milieubarometer",
+    "title": "Milieubarometer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/programma-toekomstgericht-ondernemen",
+    "title": "Programma toekomstgericht ondernemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ophalen",
+    "title": "Document ophalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/contact-en-openingstijden/contact-en-openingstijden-gemeentehuis",
+    "title": "Contact en openingstijden gemeentehuis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/starters",
+    "title": "Starters",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/milieustraat",
+    "title": "Openingstijden milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/oekraine/veelgestelde-vragen",
+    "title": "Veelgestelde vragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/evenement-organiseren/loterijvergunning",
+    "title": "Loterijvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/verhuizen/vestigen-uit-het-buitenland",
+    "title": "Vestigen uit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/gladheid",
+    "title": "Strooien bij gladheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/warmtenet",
+    "title": "Warmtenet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/oekraine/opvanglocaties-in-waadhoeke",
+    "title": "Opvanglocaties in Waadhoeke",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/windenergie",
+    "title": "Windenergie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/afval/afvalkalender",
+    "title": "Afvalkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/veiligheid/bescherm-je-bedrijf-tegen-cybercriminaliteit",
+    "title": "Bescherm je bedrijf tegen cybercrime",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwen-partnerschap/geregistreerd-partnerschap/melden",
+    "title": "Melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/varen/openingstijden-bruggen",
+    "title": "Openingstijden bruggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/omgevingsvisie",
+    "title": "Omgevingsvisie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/zonnepanelen",
+    "title": "Zonnepanelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/overlijden-en-begraven/vlinderrots",
+    "title": "Vlinderrots",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/advies-en-contact/nynke-nicolai",
+    "title": "Nynke Nicolai",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwen-partnerschap/huwelijk/kosten",
+    "title": "Kosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/recreatie-en-toerisme/projecten/dijk-van-een-wijf",
+    "title": "Dijk van een Wijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/uitvaart-door-de-gemeente",
+    "title": "Uitvaart door de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/belasting/vraag-en-antwoord",
+    "title": "Vraag en antwoord",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/parkeren/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats op kenteken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/welstand",
+    "title": "Welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/meldenbijeenkomst",
+    "title": "Melding bijeenkomst niet-commerciële instelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/uittreksels/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/bellen",
+    "title": "Bellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/parkeren/gehandicaptenparkeerkaart-voor-instellingen",
+    "title": "Gehandicaptenparkeerkaart voor instellingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/leegstaande-woonruimte-verhuren",
+    "title": "Leegstaande woonruimte verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnTijdVerhVerg"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/varen/controle-ligplaatsen",
+    "title": "Actieve controle ligplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/duurzaamheid-subsidies",
+    "title": "Duurzaamheid subsidies en leningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/vestigen",
+    "title": "Vestigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/geld-en-zorg/vrijwilligerswerk-en-mantelzorg",
+    "title": "Vrijwilligerswerk en mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/rijbewijs/eerste-rijbewijs-aanvragen",
+    "title": "Eerste rijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/varen/kosten-ligplaats",
+    "title": "Kosten ligplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/energiecoach",
+    "title": "EnergieCoach",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/paspoort/paspoort-voor-kind-onder-18-jaar-aanvragen",
+    "title": "Paspoort voor kind onder 18 jaar aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/belasting/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/openingstijden",
+    "title": "Openingstijden gemeentehuis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/melding/openbare-ruimte",
+    "title": "Melding openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/partijen-christenunie",
+    "title": "Christenunie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/oekraine/vrijwilliger-worden-meld-je-aan-bij-de-skule-welzijn",
+    "title": "Vrijwilliger worden? Meld je aan bij Connexa",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/leefgeld",
+    "title": "Leefgeld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/geld-en-zorg/de-dienst-noardwest-fryslan",
+    "title": "De Dienst Noardwest Fryslân",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/verloren-gevonden",
+    "title": "Verloren en gevonden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/nieuws",
+    "title": "Nieuws",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwambtenaar/albert-nauta",
+    "title": "Albert Nauta",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwen-partnerschap/trouwlocatie-stadhuis",
+    "title": "Trouwlocatie Stadhuis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/college/gemeentesecretaris-jeroen-ijkema",
+    "title": "Gemeentesecretaris Jeroen IJkema",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/gebiedsteam/videogesprek",
+    "title": "Videogesprek gebiedsteam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/organisatie/werken-bij-waadhoeke",
+    "title": "Werken bij Waadhoeke",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/college",
+    "title": "College van burgemeester en wethouders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/sitemap",
+    "title": "Sitemap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/bouwen-en-wonen-vergunningen",
+    "title": "Bouwen en wonen vergunningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/klacht-en-melden/wet-open-overheid-woo",
+    "title": "Wet open overheid (Woo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/melding/wegen",
+    "title": "Melding wegen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/melding",
+    "title": "Melding doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/varen/ligplaatsen-waadhoeke",
+    "title": "Ligplaatsen Waadhoeke",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/geld-en-zorg/taxipas-collectief-vervoer",
+    "title": "Taxipas collectief vervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/post",
+    "title": "Een brief sturen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/aed-aanmelden",
+    "title": "AED aanmelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/maatregelenondernemers",
+    "title": "Corona en ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vrijgeleide",
+    "title": "Vrijgeleide",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/berichtenbox",
+    "title": "Berichtenbox",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/stappenplan-verwarmen-zonder-aardgas",
+    "title": "Stappenplan: verwarmen zonder aardgas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/verkiezingen/ondersteuningsverklaring",
+    "title": "Ondersteuningsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/ondrstverkl"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/verkiezingen-buitenland",
+    "title": "Stemmen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/stemmen_per_brief"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/parkeervergunning/parkeervergunning-voor-bewoners/parkeervergunning-voor-bewoners-binnenstad",
+    "title": "Parkeren bewoners binnenstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie",
+    "title": "Duurzaamheid en energie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/belasting/reclamebelasting",
+    "title": "Reclamebelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/uittreksels/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/raad",
+    "title": "Gemeenteraad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/pc/bezoekers",
+    "title": "Informatie voor bezoekers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/duurzaam-ondernemen/ynbusiness",
+    "title": "Ynbusiness",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/mailen",
+    "title": "Mailen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/volg-ons",
+    "title": "Volg ons",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/aed-subsidies",
+    "title": "AED subsidies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/over-deze-website/colofon",
+    "title": "Colofon",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/online-regelen",
+    "title": "Online regelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/partijen-vvd",
+    "title": "VVD",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/evenement-organiseren/standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/aed-beleid",
+    "title": "Hartveilige gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/uittreksels",
+    "title": "Uittreksels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/advies-en-contact/jeanette-van-der-lei",
+    "title": "Jeanette van der Lei",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/verduurzaam-uw-woning",
+    "title": "(Geld) hulp bij verduurzamen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen",
+    "title": "Ondernemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/uittreksels/uittreksel-burgerlijke-stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwambtenaar/angelique-grovenstein-gijsbertsen",
+    "title": "Angélique Grovenstein-Gijsbertsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/college/wethouder-jan-dijkstra",
+    "title": "Wethouder Jan Dijkstra",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/de-warmtetransitie",
+    "title": "De warmtetransitie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/over-omgevingswet",
+    "title": "De nieuwe omgevingswet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwen-partnerschap/huwelijk/zo-werkt-het",
+    "title": "Zo werkt het",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/wegwerkzaamheden",
+    "title": "Wegwerkzaamheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/verkiezingen-machtigen",
+    "title": "Machtigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/beleid-voor-ondernemers",
+    "title": "Beleid voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/subsidies-en-regelingen",
+    "title": "Subsidies en regelingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/organisatie/bekendmakingen",
+    "title": "Bekendmakingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/partijen-fnp",
+    "title": "FNP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/beleid/energie-armoede",
+    "title": "Energiearmoede",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/klimaatlandschap",
+    "title": "Klimaatlandschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/starters/ondernemersschool",
+    "title": "Ondernemersschool",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/duurzaamheid-en-energie/beleid/interviews",
+    "title": "Interviews",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/oekraine",
+    "title": "Oekraïne/Україна",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/organisatie/wetten-en-lokale-regels",
+    "title": "Wetten en lokale regels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeenschappelijke_regelingen"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/varen",
+    "title": "Varen in Waadhoeke",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/wat-is-een-aed",
+    "title": "Wat is een AED",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwen-partnerschap/trouwlocatie-eigen-keuze",
+    "title": "Trouwlocatie eigen keuze",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/id-kaart",
+    "title": "ID-kaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/parkeervergunning/parkeervergunning-voor-bedrijven/parkeervergunning-voor-overige-bedrijven",
+    "title": "Parkeren bedrijven overig",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/energietoeslag",
+    "title": "Energietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/aed",
+    "title": "AED",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/klacht-en-melden/klacht-insturen",
+    "title": "Klacht insturen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwen-partnerschap/geregistreerd-partnerschap/registratie-omzetten",
+    "title": "Geregistreerd partnerschap omzetten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/inkoop-en-aanbesteden",
+    "title": "Inkoop en aanbesteden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/college/burgemeester-marga-waanders",
+    "title": "Burgemeester Marga Waanders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/trouwen-partnerschap/melding-trouwen-of-geregistreerd-partnerschap/videogesprek-plannen",
+    "title": "Videogesprek plannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/vergunningen/alcoholwetvergunning",
+    "title": "Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/privacy",
+    "title": "Privacy",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/verhuizen/emigreren",
+    "title": "Vertrek naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/kabels-en-leidingen",
+    "title": "Kabels en leidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/over-deze-website/uw-reactie",
+    "title": "Uw reactie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/verschil-trouwen-en-geregistreerd-partnerschap",
+    "title": "Verschil trouwen en geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/over-deze-website/melden-datalek",
+    "title": "Melden datalek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/oekraine/situatie-in-oekraine",
+    "title": "Situatie in Oekraïne",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/partijen-gemeentebelangen",
+    "title": "Gemeentebelangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  },
+  {
+    "identifier": "https://www.waadhoeke.nl/ondernemen/starters/verzekeringen",
+    "title": "Verzekeringen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Waadhoeke"
+  }
+]

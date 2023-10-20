@@ -1,0 +1,984 @@
+[
+  {
+    "identifier": "https://www.oirschot.nl/uittreksel-persoonsgegevens-brp",
+    "title": "Uittreksel persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/parkeren-in-de-blauwe-zone",
+    "title": "Parkeren in de blauwe zone",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_blauwe_zone"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/openingstijden-winkels",
+    "title": "Openingstijden winkels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdeninformatie"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/uitrit-of-inrit-aanleggen-vergunning",
+    "title": "Uitrit of inrit aanleggen, vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/seksbedrijf-starten",
+    "title": "Seksbedrijf starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/seksbedrijf_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/overlijden-aangifte",
+    "title": "Overlijden, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/dieren-opvang-zwervende-dieren",
+    "title": "Dieren, opvang zwervende dieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/vuur-stoken",
+    "title": "Vuur stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/parkeren-voor-autobedrijven",
+    "title": "Parkeren voor autobedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_autobedrijven"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/voorwerp-plaatsen-op-of-aan-de-weg",
+    "title": "Voorwerp plaatsen op of aan de weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/woz-waarde",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/verklaring-onder-ede-of-belofte",
+    "title": "Verklaring onder ede of belofte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgegevens_verklaring_onder_eed_of_belofte"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/afstand-doen-van-de-nederlandse-nationaliteit",
+    "title": "Afstand doen van de Nederlandse nationaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_afstand_nederlandse_nationaliteit"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/waarmerken-kopie-of-afschrift",
+    "title": "Waarmerken kopie of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/woning-uit-de-woonruimtevoorraad-halen",
+    "title": "Woning uit de woonruimtevoorraad halen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/automatische-incasso-machtiging",
+    "title": "Automatische incasso, machtiging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/kadastrale-informatie",
+    "title": "Kadastrale informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/bouw-en-verbouwing-welstand",
+    "title": "Bouw en verbouwing, welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/alcohol-schenken-tijdens-evenement",
+    "title": "Alcohol schenken tijdens evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/vergoeding-huisvestingsvoorzieningen-scholen",
+    "title": "Vergoeding huisvestingsvoorzieningen scholen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisvestingsvergunning"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/onroerend-goed-van-gemeente-kopen-huren-of-pachten",
+    "title": "Onroerend goed van gemeente kopen, huren of pachten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaak_huur_pacht_koop"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/bestemmingsplan-aanpassen",
+    "title": "Bestemmingsplan aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/monument-verbouwen-herstellen-of-onderhouden",
+    "title": "Monument verbouwen, herstellen of onderhouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/nederlander-worden-door-optie",
+    "title": "Nederlander worden door optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalOptie"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-zelfstandigen-ioaz",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte zelfstandigen (IOAZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaz-uitkering"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/kinderopvang-controle",
+    "title": "Kinderopvang controle",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/demonstratie-of-protestactie-houden",
+    "title": "Demonstratie of protestactie houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/betogDemonsMld"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/afval-bedrijven",
+    "title": "Afval, bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalinzameling"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/reclame-plaatsen",
+    "title": "Reclame plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/sportaccommodaties-en-velden-huren",
+    "title": "Sportaccommodaties en velden huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/basisregistratie-adressen-en-gebouwen-bag",
+    "title": "Basisregistratie Adressen en Gebouwen (BAG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/woning-splitsen",
+    "title": "Woning splitsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonruimte_splitsingsvergunning"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/milieu-vergunning-of-melding",
+    "title": "Milieu, vergunning of melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/weer-gaan-werken",
+    "title": "Weer gaan werken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/re-integratie"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/ongediertebestrijding",
+    "title": "Ongediertebestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/reclamemateriaal-verspreiden",
+    "title": "Reclamemateriaal verspreiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/informatie-over-beleid-of-besluiten-opvragen-who-verzoek",
+    "title": "Informatie over beleid of besluiten opvragen (Who-verzoek)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hergebOvInfo"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/begraven-of-cremeren",
+    "title": "Begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verlBegraven"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/aanpassen-onjuiste-persoonsgegevens",
+    "title": "Aanpassen onjuiste persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/caravan-parkeren-op-de-openbare-weg",
+    "title": "Caravan parkeren op de openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/caravParkOnth"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/bijstand-verandering-doorgeven",
+    "title": "Bijstand, verandering doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/bodemvervuiling-verwijderen",
+    "title": "Bodemvervuiling verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemsanering_melding_voornemen"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/bodemenergie",
+    "title": "Bodemenergie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/leegstand-melden",
+    "title": "Leegstand melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/in-gebreke-stellen-gemeente-bij-te-laat-beslissen",
+    "title": "In gebreke stellen gemeente bij te laat beslissen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dwangsomNietTijdBesl"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/olietanks-in-particuliere-grond-verwijderen",
+    "title": "Olietanks in particuliere grond verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/olietankMld"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/opgraven-en-herbegraven-of-cremeren",
+    "title": "Opgraven en herbegraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/herbegraven_of_alsnog_cremeren"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/bouwwerk-gereedmelding",
+    "title": "Bouwwerk, gereedmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwwerk_voltooiingsverklaring"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/reizen-met-kinderen",
+    "title": "Reizen met kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/onroerendezaakbelasting-ozb-kopie-aanslag",
+    "title": "Onroerendezaakbelasting (OZB), kopie aanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)_kopie_aanslag"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/kind-erkennen-na-de-geboorte",
+    "title": "Kind erkennen ná de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/vuurwerk-afsteken",
+    "title": "Vuurwerk afsteken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vuurwerk_ontbrandingstoestemming"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/openingstijden-horeca-eenmalig-aanpassen",
+    "title": "Openingstijden horeca eenmalig aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/antenne-of-schotelantenne-plaatsen",
+    "title": "Antenne of schotelantenne plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/kind-adopteren",
+    "title": "Kind adopteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adoptie_aangifte"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/overzicht-geleverde-persoonsgegevens-opvragen",
+    "title": "Overzicht geleverde persoonsgegevens opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/terras-plaatsen",
+    "title": "Terras plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/onroerendezaakbelasting-ozb",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/naamswijziging-voornaam",
+    "title": "Naamswijziging voornaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voornaamwijziging"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/afvalwater-lozen",
+    "title": "Afvalwater lozen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalwatermelding"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/verzoek-om-handhaving",
+    "title": "Verzoek om handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/standplaats-aanvragen",
+    "title": "Standplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/verloren-of-gevonden-voorwerpen-melden",
+    "title": "Verloren of gevonden voorwerpen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/sloopmelding-gebouw-of-deel-gebouw",
+    "title": "Sloopmelding gebouw of deel gebouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/naamswijziging-achternaam",
+    "title": "Naamswijziging achternaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/natuurgebied-in-gaan",
+    "title": "Natuurgebied in gaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/as-verstrooien",
+    "title": "As verstrooien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asverstrooiing"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/bouwplannen-en-bouwtekeningen-bekijken",
+    "title": "Bouwplannen en bouwtekeningen bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/rioolverstopping",
+    "title": "Rioolverstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/verkeersonveilige-situatie-melden",
+    "title": "Verkeersonveilige situatie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verzoekschrift"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/kermis-organiseren",
+    "title": "Kermis organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/venten",
+    "title": "Venten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/bewijs-van-garantstelling-enof-logiesverstrekking",
+    "title": "Bewijs van garantstelling en/of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/kinderopvang-starten",
+    "title": "Kinderopvang starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/afval-grofvuil",
+    "title": "Afval, grofvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/nederlander-worden-door-naturalisatie",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/collecte",
+    "title": "Collecte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/trouwen-in-het-buitenland",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/kabels-en-leidingen-leggen-in-openbare-grond",
+    "title": "Kabels en leidingen leggen in openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/leerplicht-bijzonder-verlof-of-vrijstelling",
+    "title": "Leerplicht, bijzonder verlof of vrijstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/belastingen-en-heffingen-kwijtschelding",
+    "title": "Belastingen en heffingen, kwijtschelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/onroerend-goed-beperkingen",
+    "title": "Onroerend goed, beperkingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/kinderopvangtoeslag",
+    "title": "Kinderopvangtoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/belastingen-betalingsregeling",
+    "title": "Belastingen, betalingsregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/tijdelijke-verhuur-leegstaand-pand",
+    "title": "Tijdelijke verhuur leegstaand pand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnTijdVerhVerg"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/regelingen-voor-mensen-met-een-laag-inkomen",
+    "title": "Regelingen voor mensen met een laag inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/water-plaatsen-voorwerpen-in",
+    "title": "Water, plaatsen voorwerpen in",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/materialen-lenen",
+    "title": "Materialen lenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/uitlening_gemeentelijke_materialen"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/verhuizen-naar-het-buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/voorkeursrecht-van-de-gemeente",
+    "title": "Voorkeursrecht van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voorkRechtAanw"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/koninklijk-predicaat",
+    "title": "Koninklijk Predicaat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijk_predicaataanvraag"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/verwijderen-privacygevoelige-persoonsgegevens",
+    "title": "Verwijderen privacygevoelige persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/melding-woon-en-leefomgeving",
+    "title": "Melding woon- en leefomgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/milieustraat",
+    "title": "Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/verkeersontheffing-aanvragen",
+    "title": "Verkeersontheffing aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegenverkeerswetontheffing"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/brandveiligheid-melding-of-vergunning",
+    "title": "Brandveiligheid, melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/achternaam-kind-kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/sociale-huurwoning-urgentieverklaring",
+    "title": "Sociale huurwoning, urgentieverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/urgBewWoning"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/bijzonder-transport",
+    "title": "Bijzonder transport",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegenverkeerswetontheffing"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/ontkenning-vaderschap-door-moeder",
+    "title": "Ontkenning vaderschap door moeder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vaderschapsontkenning_verklaring"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/mantelzorgwoning",
+    "title": "Mantelzorgwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/kind-erkennen-voor-de-geboorte",
+    "title": "Kind erkennen vóór de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/voorwerp-plaatsen-bij-hoogspanningslijnen",
+    "title": "Voorwerp plaatsen bij hoogspanningslijnen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hoogspanningslijn_objecten_plaatsen_onder"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/bouw-en-verbouwing-controle",
+    "title": "Bouw en verbouwing, controle",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanschrijving"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-werknemers-ioaw",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte werknemers (IOAW)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaw-uitkering"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/ramp-of-crisis",
+    "title": "Ramp of crisis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/crisisplan"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/levenloos-geboren-kind-registreren",
+    "title": "Levenloos geboren kind registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/trouwen",
+    "title": "Trouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/schoolkosten-bijdrage",
+    "title": "Schoolkosten, bijdrage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderwBijdSchKstVoTgk"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/volwasseneneducatie",
+    "title": "Volwasseneneducatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/volwasseneneducatiesubsidie"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/verklaring-omtrent-het-gedrag-vog",
+    "title": "Verklaring omtrent het gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/verkiezingen-een-ander-machtigen",
+    "title": "Verkiezingen, een ander machtigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/volmachtbewijs_verkiezingen"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/voertuig-te-koop-aanbieden-op-de-openbare-weg",
+    "title": "Voertuig te koop aanbieden op de openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voertuig_te_koop_aanbieden_op_openbare_weg_ontheffing"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/sociale-huurwoning",
+    "title": "Sociale huurwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/bedrijfsactiviteiten-wijzigen",
+    "title": "Bedrijfsactiviteiten wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wet_milieubeheermelding"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/nieuwe-straatnaam-voorstellen",
+    "title": "Nieuwe straatnaam voorstellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/marktplaats-aanvragen",
+    "title": "Marktplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/milieuvervuiling-melden",
+    "title": "Milieuvervuiling melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/bijstand-voor-zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/wildkamperen",
+    "title": "Wildkamperen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kampeeronth"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/ontgronding",
+    "title": "Ontgronding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ontgrondingsvergunning"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/bijstand-uitkering",
+    "title": "Bijstand, uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/lening",
+    "title": "Lening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)"
+  },
+  {
+    "identifier": "https://www.oirschot.nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oirschot_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  }
+]

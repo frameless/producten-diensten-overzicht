@@ -1,0 +1,919 @@
+[
+  {
+    "identifier": "https://www.middendrenthe.nl/trouwen/trouwen-of-geregistreerd-partnerschap",
+    "title": "Trouwen of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/melding-doen/geuroverlast-etp-terrein",
+    "title": "Geuroverlast ETP-terrein",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/onderwijs/kinderopvang",
+    "title": "Kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/bestuur-organisatie/over-de-gemeente/ramp-of-crisis",
+    "title": "Ramp of crisis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/rampenplan"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/bijstandsuitkering",
+    "title": "Bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/verhuizen",
+    "title": "Verhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/bestuur-organisatie/over-de-gemeente/gemeentearchief",
+    "title": "Gemeentearchief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/bouwen-wonen/omgevingswet",
+    "title": "Omgevingswet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/extra-hulp-bij-weinig-geld/uitkering-voor-activiteiten",
+    "title": "Uitkering voor activiteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/extra-hulp-bij-weinig-geld/zorgkostenregeling",
+    "title": "Zorgkostenregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/overlijden/begraafplaatsen",
+    "title": "Begraafplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/verkiezingen-tweede-kamer/stembureaus",
+    "title": "Stembureaus",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/belastingen/betalen-gemeentelijke-belasting",
+    "title": "Betalen gemeentelijke belasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/duurzaam-midden-drenthe/openbare-laadpaal-aanvragen",
+    "title": "Openbare laadpaal aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/laadpaalverzoek"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/overlijden/overlijden-doorgeven",
+    "title": "Overlijden doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/afval/plastic-afval-in-oranje-container",
+    "title": "Plastic-, metaal-, en drinkpakken(Pmd) in oranje container",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/verkiezingen-tweede-kamer/stemmen-bij-volmacht-iemand-anders-gaat-voor-u-stemmen",
+    "title": "Stemmen bij volmacht: iemand anders gaat voor u stemmen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/volmachtbewijs_verkiezingen"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/uittreksels-en-akten/uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel Basisregistratie Personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/zorg-ondersteuning/hulp-bij-huishouden",
+    "title": "Hulp bij huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/schoonmaakhulp"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/subsidies/subsidie-voor-muziekverenigingen-en-amateurkunst",
+    "title": "Subsidie muziekverenigingen en amateurkunst",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/amateuristische_kunstbeoefeningsubsidie"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/rechtmatigheidsformulier-rmf-voor-bijstandsuitkering",
+    "title": "Rechtmatigheidsformulier (RMF) voor bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/rechtmatigheidsformulier"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/uittreksels-en-akten/verklaring-omtrent-het-gedrag-vog",
+    "title": "Verklaring Omtrent het Gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/zorg-ondersteuning/hulp-bij-vervoer",
+    "title": "Hulp bij vervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/vervoersvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/vergunningen-ontheffingen/alcohol-schenken",
+    "title": "Alcohol schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/zwAlcDrankVerk"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/overlijden/tarieven-begraafplaats",
+    "title": "Tarieven begraafplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/belastingen/bedrijven-investeringszone-biz-bijdrage",
+    "title": "Bedrijven Investeringszone (BIZ) bijdrage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/biz-bijdrage"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/onderwijs/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/belastingen/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstbel"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/trouwen/trouwlocaties",
+    "title": "Trouwlocaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/belastingen/bezwaar-maken-gemeentelijke-belastingen",
+    "title": "Bezwaar maken gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/melding-doen/klacht-over-medewerker-of-bestuurder",
+    "title": "Klacht over medewerker of bestuurder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/bestuur-organisatie/koninklijke-onderscheiding",
+    "title": "Koninklijke onderscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/hulp-bij-schulden",
+    "title": "Hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/extra-hulp-bij-weinig-geld",
+    "title": "Extra hulp bij weinig geld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/extra-hulp-bij-weinig-geld/lening-voor-computer",
+    "title": "Lening voor computer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/webarchief",
+    "title": "Webarchief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/verhuizen/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/bouwen-wonen/bestemmingsplannen-bekijken",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/vergunningen-ontheffingen/alcoholvergunning",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/wegwerkzaamheden",
+    "title": "Wegwerkzaamheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/extra-hulp-bij-weinig-geld/studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/afval/gft-in-de-groene-afvalcontainer",
+    "title": "GFT in groene afvalcontainer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_gft"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/onderwijs/scholen",
+    "title": "Scholen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/sporthal-huren",
+    "title": "Sportaccommodatie huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/vergunningen-ontheffingen/spandoek-plaatsen",
+    "title": "Spandoek plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/spandoekvergunning"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/vergunningen-ontheffingen/collectevergunning",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/trouwen/trouwen-in-het-buitenland",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/vergunningen-ontheffingen/bezwaar-maken-tegen-gemeentelijk-besluit",
+    "title": "Bezwaar maken tegen gemeentelijk besluit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/bestuur-organisatie/rekenkamercommissie",
+    "title": "Rekenkamercommissie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/uittreksels-en-akten/echtscheiding-inschrijven",
+    "title": "Echtscheiding inschrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/bouwen-wonen/in-of-uitrit-aanleggen",
+    "title": "In- of uitrit aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_inrit"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/extra-hulp-bij-weinig-geld/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/bouwen-wonen/gebouw-of-woning-slopen",
+    "title": "Gebouw of woning slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/onderwijs/leerplicht",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/trouwen/trouwambtenaar-kiezen",
+    "title": "Trouwambtenaar kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/ambtBurgStnd"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/verhuizen/ja-nee-en-nee-nee-sticker",
+    "title": "Ja-Nee en Nee-Nee-sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/vergunningen-ontheffingen/reclamebord-plaatsen",
+    "title": "Reclamebord plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/afval/milieustraat",
+    "title": "Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/paspoort-rijbewijs-en-uittreksels/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/verhuizen/verhuizing-naar-buitenland",
+    "title": "Verhuizing naar buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/belastingen/onroerendezaakbelasting-ozb",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/subsidies/subsidie-voor-kunst-en-cultuur",
+    "title": "Subsidie voor kunst en cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/beeldende_kunstsubsidie"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/geldzorgen-bij-ondernemers/bijstand-voor-zelfstandigen-bbz",
+    "title": "Bijstand voor zelfstandigen (Bbz)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/verhuizen/inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/proclaimer",
+    "title": "Proclaimer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/afval/restafval-in-grijze-container",
+    "title": "Restafval in grijze container",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/afval/klein-chemisch-afval",
+    "title": "Klein chemisch afval (Kca)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_chemisch_afval"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/uitkering-voor-oudere-zelfstandig-ondernemer-ioaz",
+    "title": "Uitkering voor oudere zelfstandig ondernemer (IOAZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaz-uitkering"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/vergunningen-ontheffingen/loterij-prijsvraag-of-bingo-organiseren",
+    "title": "Loterij, prijsvraag of bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/loterijvergunning"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/gemeente-aansprakelijk-stellen",
+    "title": "Aansprakelijk stellen van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/paspoort-rijbewijs-en-uittreksels/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/uittreksels-en-akten/attestatie-de-vita",
+    "title": "Attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/vergunningen-ontheffingen/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/melding-doen",
+    "title": "Iets melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/paspoort-rijbewijs-en-uittreksels/id-kaart-identiteitskaart",
+    "title": "ID-kaart (Identiteitskaart)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/paspoort-rijbewijs-en-uittreksels/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/verhuizen/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/geboorte/achternaam-kind-kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/verkiezingen-tweede-kamer/stempas",
+    "title": "Stempas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/overlijden/bosbegraafplaats-witteveen",
+    "title": "Bosbegraafplaats Witteveen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/wmo-raad",
+    "title": "Wmo-raad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/bestuur-organisatie/college-van-burgemeester-en-wethouders/gemeentesecretaris-mike-hacking",
+    "title": "Gemeentesecretaris Mike Hacking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/onderwijs/jeugdzorg",
+    "title": "Jeugdzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/bestuur-organisatie/bekendmakingen",
+    "title": "Bekendmakingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/zorg-ondersteuning/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/extra-hulp-bij-weinig-geld/energietoeslag",
+    "title": "Energietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/duurzaam-midden-drenthe/hulp-bij-energie-besparen",
+    "title": "Hulp bij energie besparen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/strooiroutes-bij-gladheid",
+    "title": "Strooiroutes bij gladheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/uittreksels-en-akten/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/bouwen-wonen/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/geboorte/geboorte-doorgeven",
+    "title": "Geboorte doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/bouwen-wonen/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/melding-doen/iets-gevonden-of-verloren",
+    "title": "Iets verloren of gevonden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/melding-doen/datalek-melden",
+    "title": "Datalek melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/afval/zwerfafval-opruimen",
+    "title": "Zwerfafval opruimen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/zorg-ondersteuning/individuele-begeleiding",
+    "title": "Individuele begeleiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/zorg-ondersteuning/hulpmiddelen",
+    "title": "Hulpmiddelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/loophulpmiddel"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/uittreksels-en-akten/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/belastingen/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/melding-doen/ongedierte-zoals-ratten-muizen-en-wespen",
+    "title": "Ongedierte zoals ratten, muizen en wespen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/uittreksels-en-akten/afschrift-burgerlijke-stand",
+    "title": "Afschrift burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/bouwen-wonen/bouwen-en-verbouwen",
+    "title": "Bouwen of verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/betaaldagen-bijstandsuitkering",
+    "title": "Betaaldagen bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/zorg-ondersteuning/mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/belastingen/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/uittreksels-en-akten/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/afval/grofvuil-laten-ophalen",
+    "title": "Grofvuil laten ophalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/belastingen/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/vergunningen-ontheffingen/driehoeksborden-plaatsen",
+    "title": "Driehoeksborden plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/bouwen-wonen/vooroverleg-aanvragen",
+    "title": "Vooroverleg aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/voorovrlg"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/geboorte/kind-erkennen",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/belastingen/forensenbelasting",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/zorg-ondersteuning/dagbesteding-en-sociale-activiteiten",
+    "title": "Dagbesteding en sociale activiteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/dagactiviteitencentrum"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/bestuur-organisatie/informatie-opvragen-woo-verzoek",
+    "title": "Informatie opvragen (Woo-verzoek)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/melding-doen/riool-verstopt",
+    "title": "Riool verstopt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/belastingen/woz-waarde-en-taxatieverslag",
+    "title": "WOZ-waarde en taxatieverslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/privacyverklaring",
+    "title": "Privacyverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/afval/afvalcontainer-aanvragen-kapot-of-omruilen",
+    "title": "Afvalcontainer aanvragen, kapot of omruilen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/belastingen/kwijtschelding-gemeentelijke-belastingen",
+    "title": "Kwijtschelding gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/vergunningen-ontheffingen/boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/uittreksels-en-akten/handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/extra-hulp-bij-weinig-geld/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/afval/glas-in-de-glasbak",
+    "title": "Glas in de glasbak",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_glas"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/verkiezingen-tweede-kamer/kiezerspas",
+    "title": "Kiezerspas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/kiezerspas"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/uitkering-voor-oudere-werkzoekende-ioaw",
+    "title": "Uitkering voor oudere werkzoekende (IOAW)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaw-uitkering"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/zorg-ondersteuning/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/paspoort-rijbewijs-en-uittreksels/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/extra-hulp-bij-weinig-geld/collectieve-zorgverzekering",
+    "title": "Collectieve zorgverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/zorg-ondersteuning/aanpassingen-aan-uw-woning",
+    "title": "Aanpassingen aan uw woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/extra-hulp-bij-weinig-geld/kindpakket",
+    "title": "Kindpakket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/sociaal-raadsvrouw-voor-hulp-en-advies",
+    "title": "Sociaal raadsvrouw: voor hulp en advies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/werk-bijstand-en-hulp-bij-geldzorgen/weer-aan-het-werk",
+    "title": "Weer aan het werk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/begWerk"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/afval/ophaaldagen-afval",
+    "title": "Ophaaldagen afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/afval/afvalcontainer-niet-geleegd",
+    "title": "Afvalcontainer niet geleegd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/voor-of-achternaam-veranderen",
+    "title": "Voor- of achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe"
+  },
+  {
+    "identifier": "https://www.middendrenthe.nl/bouwen-wonen/monument-verbouwen",
+    "title": "Monument verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Drenthe",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  }
+]

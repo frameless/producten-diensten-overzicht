@@ -1,0 +1,801 @@
+[
+  {
+    "identifier": "https://www.winterswijk.nl/overlast-van-bedrijven",
+    "title": "Overlast van bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/kinderopvang-starten",
+    "title": "Kinderopvang starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/paspoort-of-id-kaart-kwijt-of-gestolen",
+    "title": "Paspoort of ID-kaart kwijt of gestolen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/textiel",
+    "title": "Textiel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_textiel"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/onroerendezaakbelastingen-ozb-en-woz-waarde-ondernemers",
+    "title": "Onroerendezaakbelastingen (OZB) en WOZ-waarde ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/bouwen-en-verbouwen-vergunning",
+    "title": "Bouwen en verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/bouwafval-sloopafval-asbest",
+    "title": "Bouwafval, sloopafval, asbest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/geluidsoverlast-bij-een-privefeest",
+    "title": "Geluidsoverlast bij een privéfeest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/speelautomaten-in-de-horeca",
+    "title": "Speelautomaten in de horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/bijstand-voor-zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/predicaat-hofleverancier",
+    "title": "Predicaat Hofleverancier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hofleverancieraanvraag"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/bewijs-van-garantstellinglogiesverstrekking",
+    "title": "Bewijs van garantstelling/logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/heffing-voor-riool-en-waterzorg",
+    "title": "Heffing voor riool en waterzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/bedrijf-vestigen-verhuizen-of-uitbreiden",
+    "title": "Bedrijf vestigen, verhuizen of uitbreiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/monument-verbouwen",
+    "title": "Monument verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/alcohol-verkopen-bij-een-evenement-of-feest",
+    "title": "Alcohol verkopen bij een evenement of feest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/leerplicht",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/reclamebelasting-voor-ondernemers-in-het-centrum",
+    "title": "Reclamebelasting voor ondernemers in het centrum",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamebelasting"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/vergunning-voor-een-evenement",
+    "title": "Vergunning voor een evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/slopen-enof-asbest-verwijderen",
+    "title": "Slopen en/of asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/klein-chemisch-afval-kca",
+    "title": "Klein chemisch afval (KCA)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_chemisch_afval"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/bomen-kappen",
+    "title": "Bomen kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/echtscheiding-of-einde-geregistreerd-partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/brandveilig-gebruik-tijdelijk-bouwwerk",
+    "title": "Brandveilig gebruik tijdelijk bouwwerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/aangifte-overlijden",
+    "title": "Aangifte overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/wmo",
+    "title": "Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/restafval-grof-huishoudelijk-afval",
+    "title": "Restafval, grof huishoudelijk afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/verhuizen-naar-buitenland",
+    "title": "Verhuizen naar buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/legaliseren-handtekening",
+    "title": "Legaliseren handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/marktvergunning",
+    "title": "Marktvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktvergunning"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/container-omruilen-of-vervangen",
+    "title": "Container omruilen of vervangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/mantelzorgwoning",
+    "title": "Mantelzorgwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/forensenbelasting",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/laadpaal-elektrische-autos-aanvragen",
+    "title": " Laadpaal elektrische auto&#039;s aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/laadpaalverzoek"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/flitshuwelijk-of-flits-partnerschapregistratie",
+    "title": "Flitshuwelijk of flits-partnerschapregistratie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/afschrift-burgerlijke-stand",
+    "title": "Afschrift burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/uitrit-aanleggen-of-veranderen",
+    "title": "Uitrit aanleggen of veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgUitweg"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/terrasvergunning",
+    "title": "Terrasvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/koninklijke-erepenning",
+    "title": "Koninklijke Erepenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/plastic-verpakkingen-metalen-verpakkingen-en-drankenkartons-pmd",
+    "title": "Plastic verpakkingen, metalen verpakkingen en drankenkartons (PMD)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalInzPMDK"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/object-plaatsen-op-gemeentegrond-particulieren",
+    "title": "Object plaatsen op gemeentegrond, particulieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/kind-erkennen-voor-de-geboorte",
+    "title": "Kind erkennen vóór de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel Basisregistratie Personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/naamgebruik-veranderen",
+    "title": "Naamgebruik veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/milieubrengstation-rova",
+    "title": "Milieubrengstation (ROVA)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/exploitatievergunning",
+    "title": "Exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/vertaald-document-meertalig-modelformulier",
+    "title": "Vertaald document, meertalig modelformulier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/oud-papier-en-karton",
+    "title": "Oud papier en karton",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_oud_papier"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/wildkamperen",
+    "title": "Wildkamperen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kampeeronth"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/kind-erkennen-na-de-geboorte",
+    "title": "Kind erkennen ná de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/laden-en-lossen-in-het-centrum",
+    "title": "Laden en lossen in het centrum",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afgezette_gebieden_betreden_ontheffing"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/glas",
+    "title": "Glas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_glas"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/voorwerpen",
+    "title": "Verloren of gevonden voorwerpen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/buitenlandse-echtscheiding",
+    "title": "Buitenlandse echtscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/kopie-belastingaanslag-of-taxatierapport",
+    "title": "Kopie belastingaanslag of taxatierapport",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/parkeerplaats-voor-gehandicapten",
+    "title": "Parkeerplaats voor gehandicapten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/activiteitensubsidie-subsidie-voor-jaarlijkse-activiteiten",
+    "title": "Activiteitensubsidie, subsidie voor jaarlijkse activiteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportactiviteitensubsidie"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/promotie-van-een-evenement",
+    "title": "Promotie van een evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dienstverlening_op_of_aan_de_openbare_weg_vergunning"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/verklaring-omtrent-gedrag-vog",
+    "title": "Verklaring Omtrent Gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/organiseren-bingo-of-loterij",
+    "title": "Organiseren bingo of loterij",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/vuur-stoken",
+    "title": "Vuur stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/object-plaatsen-op-gemeentegrond-ondernemers",
+    "title": "Object plaatsen op gemeentegrond, ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/tijdelijk-verhuren-leegstaand-pand",
+    "title": "Tijdelijk verhuren leegstaand pand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/projectsubsidie-eenmalige-subsidie-voor-verbeteren-van-de-ruimte",
+    "title": "Projectsubsidie, eenmalige subsidie voor verbeteren van de ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/bestemmingsplan-bekijken",
+    "title": "Bestemmingsplan bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/vergunning-voor-het-plaatsen-van-reclame",
+    "title": "Vergunning voor het plaatsen van reclame",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/bouwtekeningen-opvragen-uit-archief",
+    "title": "Bouwtekeningen opvragen uit archief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/feest-met-extra-geluid-bij-horeca-of-vereniging",
+    "title": "Feest met extra geluid bij horeca of vereniging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collIncFest"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/levenloos-geboren-kind-registreren",
+    "title": "Levenloos geboren kind registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/melding-woon-en-leefomgeving",
+    "title": "Melding woon- en leefomgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/betalen-van-de-belastingaanslag",
+    "title": "Betalen van de belastingaanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/trouwen-en-geregistreerd-partnerschap",
+    "title": "Trouwen en geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/online-verlengen-rijbewijs",
+    "title": "Online verlengen rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbAanvraag"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/waarmerken-kopie-document",
+    "title": "Waarmerken kopie document",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/neenee-sticker-jaja-sticker",
+    "title": "Nee/Nee sticker, Ja/Ja sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/sportaccommodatie-huren",
+    "title": "Sportaccommodatie huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/wonen-in-een-recreatiewoning",
+    "title": "Wonen in een recreatiewoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/blauwe-zone-ontheffing",
+    "title": "Blauwe zone, ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_blauwe_zone"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/brandveilig-gebouw-melding-of-vergunning",
+    "title": "Brandveilig gebouw, melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/afwijken-openingstijden-horeca",
+    "title": "Afwijken openingstijden horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/bezwaar-maken-tegen-de-belastingaanslag",
+    "title": "Bezwaar maken tegen de belastingaanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/alcoholvergunning",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/groente-fruit-tuinafval-gft",
+    "title": "Groente-, fruit-, tuinafval (gft)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/rioolverstopping",
+    "title": "Rioolverstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/straatartiest-optreden",
+    "title": "Straatartiest optreden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/strArtOptrOnth"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/buitenlands-huwelijk-registreren",
+    "title": "Buitenlands huwelijk registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_huwelijksbevoegdheid"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/parkeerkaart-voor-gehandicapten",
+    "title": "Parkeerkaart voor gehandicapten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/predicaat-koninklijk",
+    "title": "Predicaat Koninklijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijk_predicaataanvraag"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/kinderopvang",
+    "title": "Kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/koninklijke-onderscheiding-lintje",
+    "title": "Koninklijke onderscheiding,  lintje",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/bezwaar-maken-tegen-de-belastingaanslag-of-woz-waarde",
+    "title": "Bezwaar maken tegen de belastingaanslag of WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/vergunning-voor-collecte-of-inzameling",
+    "title": "Vergunning voor collecte of inzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/partnerschap-omzetten-in-huwelijk",
+    "title": "Partnerschap omzetten in huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschapaangifte"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/achternaam-officieel-wijzigen",
+    "title": "Achternaam officieel wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.winterswijk.nl/trouwlocaties",
+    "title": "Trouwlocaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Winterswijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/trouwlocatie"
+  }
+]

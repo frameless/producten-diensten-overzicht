@@ -1,0 +1,556 @@
+[
+  {
+    "identifier": "https://www.zeewolde.nl/bingo-loterij-of-prijsvraag-organiseren",
+    "title": "Bingo, loterij of prijsvraag organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/begraven-en-cremeren",
+    "title": "Begraven en cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/tegemoetkoming-planschade",
+    "title": "Tegemoetkoming planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/geheimhouden-persoonsgegevens",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/lokale-onderscheidingen",
+    "title": "Lokale onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentelijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/bestemmingsplan-aanpassen",
+    "title": "Bestemmingsplan aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/uittreksel-burgerlijke-stand-aanvragen",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/verklaring-omtrent-het-gedrag",
+    "title": "Verklaring omtrent het gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/alcoholvergunning-aanvragen",
+    "title": "Alcoholvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/achternaam-kind-kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/vergunningcheck-voor-bouwplannen",
+    "title": "Vergunningcheck voor bouwplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/brandveilig-gebruik-gebouwen",
+    "title": "Brandveilig gebruik gebouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/onderzoek-naar-uw-inschrijving-in-de-basisregistratie-personen",
+    "title": "Onderzoek naar uw inschrijving in de Basisregistratie Personen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/algemene-plaatselijke-verordening",
+    "title": "Algemene plaatselijke verordening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/gebruik-achternaam-veranderen",
+    "title": "Gebruik achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/overschrijden-geluidsnormen",
+    "title": "Overschrijden geluidsnormen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/grond-kopen-huren-of-pachten",
+    "title": "Grond kopen, huren of pachten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/weekmarkt-en-standplaats",
+    "title": "Weekmarkt en standplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/barbecue-in-openbaar-gebied-organiseren",
+    "title": "Barbecue in openbaar gebied organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/afvalinzameling-hvc",
+    "title": "Afvalinzameling HVC",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/reclame-plaatsen",
+    "title": "Reclame plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/bouwplannen-en-bouwtekeningen-bekijken",
+    "title": "Bouwplannen en bouwtekeningen bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/gemeente-aansprakelijk-stellen",
+    "title": "Gemeente aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/zienswijze-indienen",
+    "title": "Zienswijze indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zienswijze"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/bedrijventerreinen-zeewolde",
+    "title": "Bedrijventerreinen Zeewolde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsterrein_huren_of_kopen"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/garantstelling-visum-kort-verblijf",
+    "title": "Garantstelling visum kort verblijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/informatie-opvragen-via-woo-en-who",
+    "title": "Informatie opvragen via Woo en Who",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/aangifte-van-overlijden",
+    "title": "Aangifte van overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/vignet-ontheffing-buitengebied-aanvragen",
+    "title": "Vignet ontheffing buitengebied aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegenverkeerswetontheffing"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/begraafplaats-zeewolde",
+    "title": "Begraafplaats Zeewolde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/gezondheidsverklaring-rijbewijs",
+    "title": "Gezondheidsverklaring rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbGezVerkl"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/afvalcontainers-ondergronds-voor-glas",
+    "title": "Afvalcontainers (ondergronds) voor glas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_glas"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/gemeentelijke-belastingen",
+    "title": "Gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/stappenplan-trouwen-of-partnerschap-registreren",
+    "title": "Stappenplan trouwen of partnerschap registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/leerlingenvervoer-aanvragen",
+    "title": "Leerlingenvervoer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/collectevergunning-aanvragen",
+    "title": "Collectevergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/terrasoverkapping-carport-of-bijgebouw-plaatsen",
+    "title": "Terrasoverkapping, carport of bijgebouw plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/koninklijke-onderscheiding",
+    "title": "Koninklijke onderscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/afvalcontainers-ondergronds-voor-restafval",
+    "title": "Afvalcontainers (ondergronds) voor restafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/omgevingsvergunning-aanvragen",
+    "title": "Omgevingsvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/dakkapel-plaatsen",
+    "title": "Dakkapel plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/evenementenbord-plaatsen",
+    "title": "Evenementenbord plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/afval-wegbrengen",
+    "title": "Afval wegbrengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/welstand-en-welstandscommissie",
+    "title": "Welstand en welstandscommissie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/caravan-of-aanhanger-op-de-openbare-weg-parkeren",
+    "title": "Caravan of aanhanger op de openbare weg parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/caravParkOnth"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/bewijs-van-in-leven-zijn-aanvragen",
+    "title": "Bewijs van in leven zijn aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/afvalcontainer-aanvragen-of-omwisselen",
+    "title": "Afvalcontainer aanvragen of omwisselen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/duurzaamheidslening-aanvragen",
+    "title": "Duurzaamheidslening aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/honden-uitlaten-regels",
+    "title": "Honden uitlaten: regels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbesluit"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/subsidie-aanvragen-en-verantwoorden",
+    "title": "Subsidie aanvragen en verantwoorden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/vuurwerk-afsteken",
+    "title": "Vuurwerk afsteken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vuurwerkverkoopvergunning"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/werk-en-inkomen",
+    "title": "Werk en inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/kabels-en-leidingen-leggen-in-openbare-grond",
+    "title": "Kabels en leidingen leggen in openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/erkennen-van-kind",
+    "title": "Erkennen van een kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/kwijtschelding-gemeentelijke-belastingen-aanvragen",
+    "title": "Kwijtschelding gemeentelijke belastingen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/principeplan-indienen-voor-bouw-of-verbouwing",
+    "title": "Principeplan indienen voor bouw of verbouwing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/erfafscheiding-schutting-of-hek-plaatsen",
+    "title": "Erfafscheiding, schutting of hek plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/bedrijf-starten-overnemen-of-vestigen",
+    "title": "Bedrijf starten, overnemen of vestigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsterreinuitgifte"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/administratief-beroep-indienen",
+    "title": "Administratief beroep indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/document-waarmerken",
+    "title": "Document waarmerken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/levenloos-geboren-kindje-registreren",
+    "title": "Levenloos geboren kindje registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/leerplicht",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/nederlandse-nationaliteit-opgeven",
+    "title": "Nederlandse nationaliteit opgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_afstand_nederlandse_nationaliteit"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/terras-plaatsen",
+    "title": "Terras plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/omgevingsdienst-flevoland-gooi-en-vechtstreek",
+    "title": "Omgevingsdienst Flevoland & Gooi en Vechtstreek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wet_milieubeheermelding"
+  },
+  {
+    "identifier": "https://www.zeewolde.nl/toezicht-en-handhaving",
+    "title": "Toezicht en handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zeewolde_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  }
+]

@@ -1,0 +1,884 @@
+[
+  {
+    "identifier": "https://www.goes.nl/rioolaansluiting-aanvragen-1",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.goes.nl/informatiebericht-verkiezingsborden-tweede-kamerverkiezingen-2023",
+    "title": "Informatiebericht verkiezingsborden Tweede Kamerverkiezingen 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.goes.nl/volmacht",
+    "title": "Volmacht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/volmachtbewijs_verkiezingen"
+  },
+  {
+    "identifier": "https://www.goes.nl/afvalbak-kliko-afvalpas-kwijt-gestolen-kapot",
+    "title": "Afvalbak (kliko) of afvalpas kwijt, gestolen of kapot",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.goes.nl/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.goes.nl/terras-plaatsen",
+    "title": "Terras plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.goes.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats_op_kenteken"
+  },
+  {
+    "identifier": "https://www.goes.nl/vul-je-fietspaspoort",
+    "title": "Vul je fietspaspoort in!",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/fietsenregister"
+  },
+  {
+    "identifier": "https://www.goes.nl/ongehuwdverklaring-aanvragen",
+    "title": "Ongehuwdverklaring aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.goes.nl/vermoeden-fraude-met-kopie-reisdocument-melden",
+    "title": "Vermoeden fraude met (kopie) reisdocument melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.goes.nl/trouwambtenaren",
+    "title": "Trouwambtenaren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.goes.nl/drank-en-horecavergunning",
+    "title": "Drank- en horecavergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.goes.nl/parkeerabonnement",
+    "title": "Parkeerabonnement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerbelasting"
+  },
+  {
+    "identifier": "https://www.goes.nl/overlijdensaangifte",
+    "title": "Overlijdensaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.goes.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.goes.nl/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.goes.nl/ik-heb-iets-gevonden",
+    "title": "Ik heb iets gevonden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.goes.nl/aanpassing-gegevens-de-registratie-niet-ingezetenen-rni",
+    "title": "Aanpassing gegevens in de Registratie Niet Ingezetenen (RNI)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rniInschr"
+  },
+  {
+    "identifier": "https://www.goes.nl/handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.goes.nl/echtscheiding-einde-geregistreerd-partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtschVerz"
+  },
+  {
+    "identifier": "https://www.goes.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_binnen_nederland"
+  },
+  {
+    "identifier": "https://www.goes.nl/uittreksel-registratie-niet-ingezetenen-rni",
+    "title": "Uittreksel Registratie Niet-Ingezetenen (RNI)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rniInschr"
+  },
+  {
+    "identifier": "https://www.goes.nl/subsidie-incidenteel",
+    "title": "Subsidie incidenteel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.goes.nl/ontheffing-verkeersmaatregel",
+    "title": "Ontheffing verkeersmaatregel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://www.goes.nl/verandering-naamgebruik-aanvragen",
+    "title": "Verandering naamgebruik aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.goes.nl/adviesverzoek-omgevingsvergunning",
+    "title": "Adviesverzoek omgevingsvergunning ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voorovrlg"
+  },
+  {
+    "identifier": "https://www.goes.nl/diftar",
+    "title": "Diftar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.goes.nl/aanmelden-grof-huisvuil",
+    "title": "Aanmelden grof huisvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.goes.nl/marktplaats-aanvragen",
+    "title": "Marktplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktstandplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.goes.nl/dagdeelkaarten-bewoners",
+    "title": "Dagdeelkaarten bewoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerbelasting"
+  },
+  {
+    "identifier": "https://www.goes.nl/melding-water",
+    "title": "Melding water",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/watermelding"
+  },
+  {
+    "identifier": "https://www.goes.nl/leges-betalen",
+    "title": "Leges betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leges"
+  },
+  {
+    "identifier": "https://www.goes.nl/ophaaldagen-afval-en-ledigingen-digid",
+    "title": "Ophaaldagen afval en ledigingen (DigiD)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.goes.nl/en/identity-card-id-card",
+    "title": "Identity card (ID card)",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.goes.nl/openingstijden-horeca-eenmalig-aanpassen",
+    "title": "Openingstijden horeca eenmalig aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.goes.nl/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.goes.nl/werk-inkomen-en-zorg",
+    "title": "Werk, inkomen en Zorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.goes.nl/vergunningvrij-bouwen",
+    "title": "Vergunningvrij bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.goes.nl/subsidie-buurtbonus",
+    "title": "Subsidie buurtbonus",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.goes.nl/aanmelden-evenement-2024",
+    "title": "Aanmelden evenement 2024",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.goes.nl/huwelijksakte-akte-geregistreerd-partnerschap-aanvragen",
+    "title": "Huwelijksakte of akte geregistreerd partnerschap aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.goes.nl/melding-openbare-ruimte-fixi",
+    "title": "Melding openbare ruimte (Fixi)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.goes.nl/gemeentegrond-gebruiken",
+    "title": "Gemeentegrond gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.goes.nl/geluidsoverlast",
+    "title": "Geluidsoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.goes.nl/rijbewijs-verloren",
+    "title": "Rijbewijs verloren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.goes.nl/verklaring-omtrent-het-gedrag-vog",
+    "title": "Verklaring omtrent het gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.goes.nl/levenloos-geboren-kindje-registreren",
+    "title": "Levenloos geboren kindje registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.goes.nl/subsidie-culturele-raad",
+    "title": "Subsidie Culturele Raad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.goes.nl/parkeervergunning-voor-bedrijven",
+    "title": "Parkeervergunning voor bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bedrijven"
+  },
+  {
+    "identifier": "https://www.goes.nl/emigratie",
+    "title": "Emigratie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.goes.nl/standplaats-aanvragen",
+    "title": "Standplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.goes.nl/gokautomaat-plaatsen",
+    "title": "Gokautomaat plaatsen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.goes.nl/melding-verkeerssituatie-verzoek-tot-handhaving",
+    "title": "Melding verkeerssituatie of verzoek tot handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.goes.nl/trouwen-op-een-aangewezen-locatie",
+    "title": "Trouwen op een aangewezen locatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/trouwlocatie"
+  },
+  {
+    "identifier": "https://www.goes.nl/huwelijk-geregistreerd-partnerschap-melden",
+    "title": "Huwelijk of geregistreerd partnerschap melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.goes.nl/nederlandse-nationaliteit-aanvragen",
+    "title": "Nederlandse nationaliteit aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.goes.nl/buitenlands-rijbewijs-omruilen",
+    "title": "Buitenlands rijbewijs omruilen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs_buitenlands_omwisseling"
+  },
+  {
+    "identifier": "https://www.goes.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.goes.nl/beleidsregels-subsidies-samenleving-gemeente-goes-2022",
+    "title": "Beleidsregels subsidies Samenleving gemeente Goes 2022",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.goes.nl/subsidie-bewonersorganisatiebudget",
+    "title": "Subsidie Bewonersorganisatiebudget",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.goes.nl/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.goes.nl/compliment-klacht",
+    "title": "Compliment of klacht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.goes.nl/milieustraat",
+    "title": "Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.goes.nl/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.goes.nl/evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.goes.nl/loterij-prijsvraag-bingo-organiseren",
+    "title": "Loterij, prijsvraag, bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/loterijvergunning"
+  },
+  {
+    "identifier": "https://www.goes.nl/en/extract-registry-non-residents-rni",
+    "title": "Extract from the Registry for Non-Residents (RNI)",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rniInschr"
+  },
+  {
+    "identifier": "https://www.goes.nl/rijbewijs-verlengen",
+    "title": "Rijbewijs verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbVerlengen"
+  },
+  {
+    "identifier": "https://www.goes.nl/bewijs-van-leven-zijn-attestatie-de-vita",
+    "title": "Bewijs van in leven zijn, attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.goes.nl/demonstratie-protestactie-houden",
+    "title": "Demonstratie of protestactie houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/betogDemonsMld"
+  },
+  {
+    "identifier": "https://www.goes.nl/parkeervergunning-verbouwing-eigen-woning",
+    "title": "Parkeervergunning verbouwing eigen woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_diensten"
+  },
+  {
+    "identifier": "https://www.goes.nl/akte-burgerlijke-stand",
+    "title": "Akte burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.goes.nl/algemene-plaatselijke-verordening",
+    "title": "Algemene Plaatselijke Verordening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.goes.nl/medische-keuring-rijbewijs",
+    "title": "Medische keuring rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/medKeur"
+  },
+  {
+    "identifier": "https://www.goes.nl/uitstallingen-plaatsen",
+    "title": "Uitstallingen plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/uitstallingsvergunning"
+  },
+  {
+    "identifier": "https://www.goes.nl/geregistreerd-partnerschap-huwelijk-omzetten",
+    "title": "Geregistreerd partnerschap in huwelijk omzetten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_omzetting_in_huwelijk"
+  },
+  {
+    "identifier": "https://www.goes.nl/trouwen-goes-vaste-locaties-en-kosten",
+    "title": "Trouwen in Goes: vaste locaties en kosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.goes.nl/exploitatievergunning-horeca",
+    "title": "Exploitatievergunning horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.goes.nl/stemlokalen-tweede-kamerverkiezing-2023",
+    "title": "Stemlokalen Tweede Kamerverkiezing 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.goes.nl/alcohol-schenken-tijdens-evenementen",
+    "title": "Alcohol schenken tijdens evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.goes.nl/openingstijden-winkels",
+    "title": "Openingstijden winkels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdenontheffing"
+  },
+  {
+    "identifier": "https://www.goes.nl/internationaal-rijbewijs",
+    "title": "Internationaal rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs_internationaal"
+  },
+  {
+    "identifier": "https://www.goes.nl/nee-ja-sticker",
+    "title": "Nee-Ja sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.goes.nl/bijplaatsing",
+    "title": "Bijplaatsing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.goes.nl/erkennen-van-een-kind",
+    "title": "Erkennen van een kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.goes.nl/belastingen-betalingsregeling-kwijtschelding",
+    "title": "Belastingen betalingsregeling of kwijtschelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.goes.nl/subsidie-structureel",
+    "title": "Subsidie structureel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.goes.nl/bestemmingsplan-bekijken",
+    "title": "Bestemmingsplan bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.goes.nl/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.goes.nl/inschrijving-registratie-niet-ingezetenen-rni",
+    "title": "Inschrijving Registratie Niet Ingezetenen (RNI)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rniInschr"
+  },
+  {
+    "identifier": "https://www.goes.nl/uittreksel-persoonsgegevens-brp",
+    "title": "Uittreksel persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.goes.nl/sloopmelding-gebouw-deel-gebouw",
+    "title": "Sloopmelding gebouw of deel gebouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.goes.nl/parkeervergunning-voor-bewoners",
+    "title": "Parkeervergunning voor bewoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bewoners"
+  },
+  {
+    "identifier": "https://www.goes.nl/begraven-cremeren",
+    "title": "Begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verlBegraven"
+  },
+  {
+    "identifier": "https://www.goes.nl/vergunning-spandoeken",
+    "title": "Vergunning spandoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/spandoekvergunning"
+  },
+  {
+    "identifier": "https://www.goes.nl/eerste-rijbewijs-aanvragen",
+    "title": "Eerste rijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.goes.nl/tweede-paspoort",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "https://www.goes.nl/paspoort-identiteitskaart-verloren",
+    "title": "Paspoort of identiteitskaart verloren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reisdocument"
+  },
+  {
+    "identifier": "https://www.goes.nl/afvalinzameling-bedrijven",
+    "title": "Afvalinzameling bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalinzameling"
+  },
+  {
+    "identifier": "https://www.goes.nl/identiteitskaart-id-kaart",
+    "title": "Identiteitskaart (ID-kaart)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.goes.nl/milieu-omgevingsvergunning-melding",
+    "title": "Milieu, omgevingsvergunning of melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.goes.nl/dagdeelkaarten-bedrijven",
+    "title": "Dagdeelkaarten bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerbelasting"
+  },
+  {
+    "identifier": "https://www.goes.nl/kapotte-straatverlichting",
+    "title": "Kapotte straatverlichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(straatverlichting)"
+  },
+  {
+    "identifier": "https://www.goes.nl/opgraven-en-herbegraven-cremeren",
+    "title": "Opgraven en herbegraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/opgraven_herbegraven_en_grafruimenvergunning"
+  },
+  {
+    "identifier": "https://www.goes.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.goes.nl/subsidie-wijkbudget",
+    "title": "Subsidie wijkbudget",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.goes.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.goes.nl/woonfraude-melden",
+    "title": "Woonfraude melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.goes.nl/en/registering-non-resident-netherlands",
+    "title": "Registering as a non-resident in The Netherlands",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rniInschr"
+  },
+  {
+    "identifier": "https://www.goes.nl/getuigen-aanmelden",
+    "title": "Getuigen aanmelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.goes.nl/landelijke-en-regionale-duurzaamheidsubsidies",
+    "title": "Landelijke en regionale duurzaamheidsubsidies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.goes.nl/huwelijk-geregistreerd-partnerschap-aangaan",
+    "title": "Huwelijk of geregistreerd partnerschap aangaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.goes.nl/huwelijk-partnerschap-melden-als-een-partner-het-buitenland-woont",
+    "title": "Huwelijk of partnerschap melden als één partner in het buitenland woont",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.goes.nl/en/passport",
+    "title": "Passport",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.goes.nl/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.goes.nl/verklaring-van-huwelijksbevoegdheid-aanvragen",
+    "title": "Verklaring van huwelijksbevoegdheid aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.goes.nl/ik-ben-iets-verloren",
+    "title": "Ik ben iets verloren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.goes.nl/traineeships",
+    "title": "Traineeships",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.goes.nl/reclame-plaatsen",
+    "title": "Reclame plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.goes.nl/verhuizen-vanuit-het-buitenland",
+    "title": "Verhuizen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hervestiging_vanuit_het_buitenland"
+  },
+  {
+    "identifier": "https://www.goes.nl/mantelzorgvergunning",
+    "title": "Mantelzorgvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bezoekers"
+  },
+  {
+    "identifier": "https://www.goes.nl/werknemersvergunning",
+    "title": "Werknemersvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bedrijven"
+  },
+  {
+    "identifier": "https://www.goes.nl/beweegsubsidie",
+    "title": "Beweegsubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.goes.nl/welstand",
+    "title": "Welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouw_en_verbouw_welstandsadvies"
+  },
+  {
+    "identifier": "https://www.goes.nl/trouwboekje-partnerschapsboekje-aanvragen",
+    "title": "Trouwboekje of partnerschapsboekje aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.goes.nl/koninklijke-onderscheiding-lintje",
+    "title": "Koninklijke onderscheiding, lintje",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goes_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  }
+]

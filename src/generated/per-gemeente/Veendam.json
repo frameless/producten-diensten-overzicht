@@ -1,0 +1,865 @@
+[
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_evenementen/Activiteit_of_evenement_organiseren/Bingo_of_loterij_organiseren",
+    "title": "Bingo of loterij organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Ondernemen/Horeca/Horecabedrijf_beginnen",
+    "title": "Horecabedrijf beginnen of overnemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Ondernemen/Registratie_in_Landelijk_Register_Kinderopvang_LRK",
+    "title": "Registratie in Landelijk Register Kinderopvang (LRK)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_evenementen/Activiteit_of_evenement_organiseren/Informatieschermen",
+    "title": "Informatieschermen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Werk_en_inkomen/Wijziging_doorgeven_bijstandsuitkering",
+    "title": "Wijziging doorgeven bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Paspoort_identiteitskaart_en_rijbewijs/Nederlander_worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Bouwen_en_verbouwen/Groenstrook_kopen",
+    "title": "Groenstrook kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_evenementen/Burgerinitiatief",
+    "title": "Burgerinitiatief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Ondernemen/Horeca/Bibob_formulier_invullen",
+    "title": "Bibob-formulier invullen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/integriteitsbeoordeling"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Ondernemen/Melding_milieubeheer",
+    "title": "Melding milieubeheer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wet_milieubeheermelding"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Werk_en_inkomen/Inkomen_voor_oudere_zelfstandigen",
+    "title": "Inkomen oudere zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaz-uitkering"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Leefomgeving/Bomen_kappen",
+    "title": "Bomen kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Verklaringen_en_uittreksels/Uittreksel_basisregistratie_personen",
+    "title": "Uittreksel basisregistratie personen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Contact_met_de_gemeente/Bezwaar_en_beroep",
+    "title": "Bezwaar en beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Belastingen/Onroerendezaakbelasting",
+    "title": "Onroerendezaakbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Verkeer_parkeren_en_vervoer/Gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Verkeer_parkeren_en_vervoer/Gladheidsbestrijding",
+    "title": "Gladheidsbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_evenementen/Activiteit_of_evenement_organiseren/Carbidschieten",
+    "title": "Carbidschieten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/carbidschietenmelding"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Ondernemen/Exploitatievergunning_voor_seksbedrijf",
+    "title": "Exploitatievergunning voor seksbedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/seksbedrijf_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Belastingen/BIZ_bijdrage",
+    "title": "BIZ-bijdrage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/biz-bijdrage"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_evenementen/Activiteit_of_evenement_organiseren/Ontheffing_drank_en_horecawet",
+    "title": "Tapontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_evenementen/Activiteit_of_evenement_organiseren/Aanstelling_evenementenverkeersregelaar",
+    "title": "Evenementenverkeersregelaar aanstellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verkeersregelaar"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Contact_met_de_gemeente/Melden_bij_de_gemeente/Melding_kapotte_straatlantaarn",
+    "title": "Melding kapotte straatlantaarn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(straatverlichting)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Bouwen_en_verbouwen/Omzettingsvergunning_kamerverhuur",
+    "title": "Omzettingsvergunning kamerverhuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Afval/Afvalinzameling",
+    "title": "Afvalinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Hulp_en_ondersteuning/Beschermd_wonen",
+    "title": "Beschermd wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Ondernemen/Horeca/Aanwezigheidsvergunning_kansspelautomaten",
+    "title": "Speelautomaten toestemming",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Jeugd_onderwijs_en_ontwikkeling/Jeugd",
+    "title": "Jeugd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Geboorte_en_overlijden/Grafrechten_wijzigen",
+    "title": "Grafrechten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafrechten"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Belastingen/Gemeentebelastingen",
+    "title": "Bezwaar tegen gemeentebelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Werk_en_inkomen/Energietoeslag/Energietoeslagen/Energietoeslag_2023",
+    "title": "Energietoeslag 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Geboorte_en_overlijden/Geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Bestuur_en_organisatie/Klachtenprocedure_aanbestedingen",
+    "title": "Klachtenprocedure aanbestedingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Geboorte_en_overlijden/Overlijdensaangifte",
+    "title": "Overlijdensaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Verhuizen/Verhuizing_doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Verkeer_parkeren_en_vervoer/Parkeervergunning_voor_bewoners",
+    "title": "Parkeervergunning voor bewoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Hulp_en_ondersteuning/Overlast_en_Veiligheid",
+    "title": "Meldpunt Overlast en Veiligheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Verhuizen/Verhuizen_vanuit_het_buitenland",
+    "title": "Verhuizen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Ondernemen/Horeca/Nachtregister_bijhouden",
+    "title": "Nachtregister bijhouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Ondernemen/Horeca/Terras_voor_uw_zaak",
+    "title": "Terras voor uw zaak",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Werk_en_inkomen/Bijstand_voor_zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Verklaringen_en_uittreksels/Geheimhouden_persoonsgegevens",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Verklaringen_en_uittreksels/Bewijs_van_in_leven_zijn_of_Attestatie_de_vita",
+    "title": "Bewijs van in leven zijn of Attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Belastingen/Betalingsregeling_gemeentebelastingen",
+    "title": "Betalingsregeling gemeentebelastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Verhuizen/Verhuizen_naar_het_buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Geboorte_en_overlijden/Erkenning_van_een_kind",
+    "title": "Erkenning van een kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Hulp_en_ondersteuning/Wet_verplichte_GGZ_WvGGZ",
+    "title": "Wet verplichte GGZ (WvGGZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Leefomgeving/Onderhoud_aan_bermen_en_vergoten_biodiversiteit",
+    "title": "Onderhoud aan bermen en vergoten biodiversiteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Ondernemen/Horeca/Ontheffing_schenktijden_vereniging_of_stichting",
+    "title": "Ontheffing schenktijden vereniging of stichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Bouwen_en_verbouwen/Bestemmingsplannen",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Belastingen/Automatische_incasso_of_bankrekeningnummer_wijzigen",
+    "title": "Automatische incasso of bankrekeningnummer wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Bouwen_en_verbouwen/Toestemming_kabels_en_leidingen_leggen",
+    "title": "Toestemming kabels en leidingen leggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Contact_met_de_gemeente/Klacht_indienen",
+    "title": "Klacht over de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Paspoort_identiteitskaart_en_rijbewijs/Gezondheidsverklaring_rijbewijs",
+    "title": "Gezondheidsverklaring rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbGezVerkl"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Contact_met_de_gemeente/Woo_verzoek_doen",
+    "title": "Woo-verzoek doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verzoek_overheidsinformatie"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Verklaringen_en_uittreksels/Legalisatie_handtekening",
+    "title": "Legalisatie handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Ondernemen/Bedrijf_beginnen",
+    "title": "Bedrijf beginnen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Belastingen/Precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Hulp_en_ondersteuning/Wet_maatschappelijke_ondersteuning_Wmo",
+    "title": "Wet maatschappelijke ondersteuning (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_evenementen/Activiteit_of_evenement_organiseren/Een_gebouw_brandveilig_gebruiken",
+    "title": "Een gebouw brandveilig gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Afval/Nieuwe_container_aanvragen",
+    "title": "Nieuwe container aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Afval/Mijn_container_is_niet_geleegd",
+    "title": "Mijn container is niet geleegd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Bouwen_en_verbouwen/Bouwtekening_uit_het_archief_inzien",
+    "title": "Bouwtekening uit het archief inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Bouwen_en_verbouwen/Bouwplannen_bekijken",
+    "title": "Bouwplannen bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Ondernemen/Driehoeksreclameborden",
+    "title": "Driehoeksreclameborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Contact_met_de_gemeente/Zienswijze_indienen",
+    "title": "Zienswijze indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_evenementen/Activiteit_of_evenement_organiseren/Spandoek_of_bord_ophangen",
+    "title": "Spandoek of bord ophangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/spandoekvergunning"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Trouwen_en_partnerschap/Achternaam_veranderen",
+    "title": "Achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Ondernemen/Horeca/Alcohol_schenken_vergunning",
+    "title": "Alcohol schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Belastingen/Taxatieverslag_WOZ",
+    "title": "Taxatieverslag WOZ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-taxatieverslag"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_evenementen/Activiteit_of_evenement_organiseren/Evenement_organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Jeugd_onderwijs_en_ontwikkeling/Algemene_voorziening_Ambulante_Jeugdhulp",
+    "title": "Algemene voorziening Ambulante Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Contact_met_de_gemeente/Melden_bij_de_gemeente/Gevonden_en_verloren_voorwerpen",
+    "title": "Gevonden en verloren voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_evenementen/Activiteit_of_evenement_organiseren/Straatartiest_toestemming",
+    "title": "Straatartiest toestemming",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatartiestoptreden_toestemming"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Verkeer_parkeren_en_vervoer/Parkeren_in_het_centrum",
+    "title": "Parkeren in het centrum",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Bouwen_en_verbouwen/Melding_mobiele_puinbreker",
+    "title": "Melding mobiele puinbreker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Contact_met_de_gemeente/Melden_bij_de_gemeente/Uitkeringsfraude",
+    "title": "Uitkeringsfraude",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Werk_en_inkomen/Inkomen_oudere_werknemers",
+    "title": "Inkomen oudere werknemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaw-uitkering"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Bouwen_en_verbouwen/Splitsingsvergunning_woonruimte",
+    "title": "Splitsingsvergunning woonruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonruimte_splitsingsvergunning"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Contact_met_de_gemeente/Afspraak_maken",
+    "title": "Afspraak maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezafspr"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Bouwen_en_verbouwen/Omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Verklaringen_en_uittreksels/Bezoek_uit_het_buitenland",
+    "title": "Bezoek uit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Ondernemen/Horeca/Sluitingsuren_horeca",
+    "title": "Sluitingsuren horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Werk_en_inkomen/Maandverklaring_bijstandsuitkering",
+    "title": "Maandverklaring bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Werk_en_inkomen/Bijzondere_bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Geboorte_en_overlijden/Levenloos_geboren_kind_aangeven",
+    "title": "Levenloos geboren kind aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Hulp_en_ondersteuning/Meldpunt_Bezorgd",
+    "title": "Meldpunt Bezorgd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_evenementen/Subsidie_aanvragen",
+    "title": "Subsidie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Trouwen_en_partnerschap/Getuigen_aanmelden",
+    "title": "Getuigen aanmelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Contact_met_de_gemeente/Melden_bij_de_gemeente/Rioolonderhoud_en_verstoppingen",
+    "title": "Rioolonderhoud en verstoppingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Leefomgeving/Eikenprocessierups",
+    "title": "Eikenprocessierups",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Paspoort_identiteitskaart_en_rijbewijs/Rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Verklaringen_en_uittreksels/Verklaring_omtrent_het_gedrag_VOG",
+    "title": "Verklaring omtrent het gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_evenementen/Activiteit_of_evenement_organiseren/Gebruiksmelding_evenement_in_bouwsel",
+    "title": "Gebruiksmelding evenement in bouwsel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruiksmelding"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_evenementen/Activiteit_of_evenement_organiseren/Collectevergunning_aanvragen",
+    "title": "Collectevergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Ondernemen/Subsidie_voor_ondernemers_centrum_Veendam",
+    "title": "Subsidie voor ondernemers centrum Veendam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Hulp_en_ondersteuning/Hulp_voor_mantelzorgers",
+    "title": "Hulp voor mantelzorgers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Contact_met_de_gemeente/Melden_bij_de_gemeente/Melding_doen_openbare_ruimte",
+    "title": "Melding doen openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Ondernemen/Leegstand_melden",
+    "title": "Leegstand melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Ondernemen/Vrachtverkeer_Bareveldstraat",
+    "title": "Vrachtverkeer Bareveldstraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Werk_en_inkomen/Schuldhulpverlening",
+    "title": "Hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Belastingen/Kwijtschelding_gemeentebelastingen",
+    "title": "Kwijtschelding gemeentebelastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Trouwen_en_partnerschap/Trouwen_en_partnerschap_melden",
+    "title": "Trouwen en partnerschap melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Werk_en_inkomen/Bijstandsuitkering",
+    "title": "Bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Trouwen_en_partnerschap/Gratis_trouwen_en_partnerschap",
+    "title": "Gratis trouwen en partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Werk_en_inkomen/Studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Paspoort_identiteitskaart_en_rijbewijs/Vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_evenementen/Activiteit_of_evenement_organiseren/Flyeren_reclamemateriaal_verspreiden",
+    "title": "Flyeren (reclamemateriaal verspreiden)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamemateriaalverspreiding_ontheffing"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Verkeer_parkeren_en_vervoer/Gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Contact_met_de_gemeente/Schadeclaim_gemeente",
+    "title": "Schadeclaim gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_evenementen/Activiteit_of_evenement_organiseren/Ventvergunning",
+    "title": "Ventvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Ondernemen/Marktvergunning",
+    "title": "Marktvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktvergunning"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Jeugd_onderwijs_en_ontwikkeling/Leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Werk_en_inkomen/Individuele_inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Geboorte_en_overlijden/Begraven_en_cremeren",
+    "title": "Begraven en cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Trouwen_en_partnerschap/Trouwen_in_het_buitenland",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Actueel/Mijnbouw",
+    "title": "Mijnbouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Geboorte_en_overlijden/Grafbedekking",
+    "title": "Grafbedekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Jeugd_onderwijs_en_ontwikkeling/Uw_kind_aanmelden_voor_een_basisschool",
+    "title": "Uw kind aanmelden voor een basisschool",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Bouwen_en_verbouwen/Woonwagenstandplaats",
+    "title": "Woonwagenstandplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonwagenstandplaats"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Werk_en_inkomen/Hulp_bij_een_laag_inkomen",
+    "title": "Hulp bij een laag inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Werk_en_inkomen/Bijstandsuitkering_voor_jongeren",
+    "title": "Bijstandsuitkering voor jongeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Verklaringen_en_uittreksels/Uittreksel_burgerlijke_stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Recreatie_sport_en_evenementen/Activiteit_of_evenement_organiseren/Demonstratie_of_betoging_houden",
+    "title": "Demonstratie of betoging houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/betogDemonsMld"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Werk_en_inkomen/Collectieve_zorgverzekering_voor_lage_inkomens",
+    "title": "Collectieve zorgverzekering voor lage inkomens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zkKstVerzCol"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Bouwen_en_verbouwen/Rioolaansluiting_aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Paspoort_identiteitskaart_en_rijbewijs/Paspoort_en_identiteitskaart",
+    "title": "Paspoort en identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Trouwen_en_partnerschap/Echtscheiding_melden",
+    "title": "Echtscheiding melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtschVerz"
+  },
+  {
+    "identifier": "https://www.veendam.nl/Onderwerpen/Afval/Afval_wegbrengen",
+    "title": "Afval wegbrengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  }
+]

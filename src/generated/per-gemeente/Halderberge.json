@@ -1,0 +1,597 @@
+[
+  {
+    "identifier": "https://www.halderberge.nl/parkeren",
+    "title": "Parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/milieumelding",
+    "title": "Milieumelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/zakenpaspoort",
+    "title": "Zakenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/emigreren-lang-het-buitenland-verblijven",
+    "title": "Emigreren of lang in het buitenland verblijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/verhuur-van-te-koop-staande-leegstaande-woning",
+    "title": "Verhuur van te koop staande leegstaande woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/leegstandvergunning"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/bijzondere-bijstand",
+    "title": "Bijzondere bijstand ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/gehandicaptenparkeerkaart-aanvragen",
+    "title": "Gehandicaptenparkeerkaart aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/afvalinzameling",
+    "title": "Afvalinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/onroerendezaakbelasting",
+    "title": "Onroerendezaakbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/afschrift-burgerlijke-stand",
+    "title": "Afschrift burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-uittreksel"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/bestemmingsplan",
+    "title": "Bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/bouwen-en-verbouwen",
+    "title": "Bouwen en verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/inschrijven-registratie-niet-ingezetenen",
+    "title": "Inschrijven in Registratie Niet-Ingezetenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/rniInschr"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/aanvragen-speelautomatenvergunning",
+    "title": "Aanvragen speelautomatenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/speelautomaat_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/garantstelling-logiesverstrekking",
+    "title": "Garantstelling of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/uitritten",
+    "title": "In- of uitritten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_inrit"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/ontheffing-stookverbod",
+    "title": "Ontheffing stookverbod",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookvergunning"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/legaliseren-handtekening",
+    "title": "Legaliseren handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/mantelzorgvoorziening",
+    "title": "Mantelzorgvoorziening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/paspoort-identiteitskaart-kwijt",
+    "title": "Paspoort of identiteitskaart kwijt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/aanvraag-starterslening",
+    "title": "Aanvraag starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/geregistreerd-partnerschap-omzetten-huwelijk",
+    "title": "Geregistreerd partnerschap omzetten in huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_omzetting_in_huwelijk"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/hondenbelasting-en-hondenbeleid",
+    "title": "Hondenbelasting en hondenbeleid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/verkiezingen",
+    "title": "Verkiezingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/ondrstverkl"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/hervestigen-vanuit-het-buitenland",
+    "title": "(Her)vestigen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/hervestiging_vanuit_het_buitenland"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/tweede-paspoort",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/vervoer-en-mobiliteit",
+    "title": "Vervoer en mobiliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/vervoersvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/uitkering-aanvragen",
+    "title": "Uitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwUitkering"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/naamgebruik-veranderen",
+    "title": "Naamgebruik veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/bomen",
+    "title": "Bomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/weekmarktvergunning",
+    "title": "Weekmarktvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktvergunning"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/slopen",
+    "title": "Slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/monumenten",
+    "title": "Monumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/organiseren-loterij",
+    "title": "Organiseren loterij",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/loterijvergunning"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/trouwen-en-geregistreerd-partnerschap-halderberge",
+    "title": "Trouwen en geregistreerd partnerschap in Halderberge",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/omgevingsvergunning-aanvragen",
+    "title": "Omgevingsvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/rijbewijs-0",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/aanvragen-standplaatsvergunning",
+    "title": "Aanvragen standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/overlijden",
+    "title": "Overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/aansprakelijkheid-bij-schade",
+    "title": "Aansprakelijkheid bij schade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/gezondheidsverklaring",
+    "title": "Gezondheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbGezVerkl"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/erkenning-van-een-kind",
+    "title": "Erkenning van een kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/bezwaar-maken-tegen-belasting-gemeente",
+    "title": "Bezwaar maken tegen belasting gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/ondernemersadvisering",
+    "title": "Ondernemersadvisering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterskrediet_ondernemer"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/begeleiding",
+    "title": "Begeleiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/dagverzorging_ouderen"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/melden-scheiding",
+    "title": "Melden scheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/meteen-melden-0",
+    "title": "Meteen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/huishoudelijke-ondersteuning",
+    "title": "Huishoudelijke ondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/organiseren-klein-kansspel",
+    "title": "Organiseren klein kansspel ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/melding-brandveilig-gebruik-en-basishulpverlening-overige-plaatsen",
+    "title": "Melding brandveilig gebruik en basishulpverlening overige plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/wonen-halderberge",
+    "title": "Wonen in Halderberge",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwgronduitgifte"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/uittreksel-basisregistratie-personen",
+    "title": "Uittreksel basisregistratie personen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/kinderopvang-halderberge",
+    "title": "Kinderopvang in Halderberge",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderdagverblijf"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/verklaring-omtrent-gedrag",
+    "title": "Verklaring omtrent gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/subsidie-muziekonderwijs-enof-beeldende-kunst-en-vormgeving",
+    "title": "Subsidie muziekonderwijs en/of beeldende kunst en vormgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/beeldende_kunstsubsidie"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/zuid-west-380-kv-hoogspanningsverbinding",
+    "title": "Zuid-West 380 kV hoogspanningsverbinding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_schadevergoeding"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/graafwerkzaamheden",
+    "title": "Graafwerkzaamheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_binnen_gemeente"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/geheimhouding-persoonsgevens",
+    "title": "Geheimhouding persoonsgevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-geheimhoudingsverzoek"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/welzijnssubsidie",
+    "title": "Welzijnssubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/welzijnswerksubsidie"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/zwerfafval",
+    "title": "Zwerfafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/collecteren",
+    "title": "Collecteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/waarmerken-kopie",
+    "title": "Waarmerken kopie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/waarmerken_document"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/leges",
+    "title": "Leges",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/leges"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/aanpassingen-de-woning",
+    "title": "Aanpassingen in de woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/woningaanpassing"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/aangifte-geboorte",
+    "title": "Aangifte geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/hulp-bij-financiele-zorgen-schulden",
+    "title": "Hulp bij financiële zorgen of schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/correctieverzoek-brp",
+    "title": "Correctieverzoek BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/melden-voorgenomen-huwelijk-partnerschap",
+    "title": "Melden voorgenomen huwelijk of partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/riolering",
+    "title": "Riolering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/horeca",
+    "title": "Horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/naamskeuze-kind",
+    "title": "Naamskeuze kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.halderberge.nl/vrijwilligerswerk",
+    "title": "Vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Halderberge",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  }
+]

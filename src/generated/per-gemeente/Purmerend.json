@@ -1,0 +1,758 @@
+[
+  {
+    "identifier": "https://purmerend.nl/zorg-onderwijs-en-jeugd/zorg-en-ondersteuning/persoonsgebonden-budget-pgb",
+    "title": "Persoonsgebonden budget (Pgb)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgebonden_budget"
+  },
+  {
+    "identifier": "https://purmerend.nl/werk-inkomen-en-schulden/laag-inkomen/meerdoen-regelingen/scholieren-computer",
+    "title": "Scholieren computer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderwBijdSchKstDtVoVavoTgk"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/paspoort-en-identiteitskaart/paspoort-aanvragen",
+    "title": "Paspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://purmerend.nl/geboorte-huwelijk-en-overlijden/overlijden/aangifte-overlijden",
+    "title": "Aangifte overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://purmerend.nl/zorg-onderwijs-en-jeugd/onderwijs/informatie-voor-scholen/onderwijshuisvesting-basisgegevens-schoolgebouw",
+    "title": "Onderwijshuisvesting basisgegevens schoolgebouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ondHuisvVerord"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/vergunningen-voor-ondernemers/horecavergunningen/alcoholwetvergunning",
+    "title": "Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/overige-vergunningen/inzamelen-van-geld-goederen-en-donateurswerving",
+    "title": "Inzamelen van geld,  goederen en donateurswerving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/subsidies-en-belastingen/subsidieregelingen/subsidie-duurzame-energiemaatregelen",
+    "title": "Subsidie duurzame energiemaatregelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://purmerend.nl/parkeren-en-verkeer/vergunningen-openbare-weg/verkeersontheffing-rvv",
+    "title": "Verkeersontheffing (RVV)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dienstverlening_op_of_aan_de_openbare_weg_vergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/werk-inkomen-en-schulden/laag-inkomen/meerdoen-regelingen/zwemdiploma",
+    "title": "Zwemdiploma A",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schoolzwemmensubsidie"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/milieu-meldingen-en-ontheffingen/lozen-van-afvalwater-ontheffing",
+    "title": "Lozen van afvalwater - ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalwaterlozingontheffing"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://purmerend.nl/wonen-en-bouwen/wonen/aanleunwoning-inschrijving",
+    "title": "Inschrijving aanleunwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanleunwoning"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/overige-vergunningen/vergunning-kansspelen-en-loterijen",
+    "title": "Vergunning kansspelen en loterijen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/geboorte-huwelijk-en-overlijden/huwelijk-en-partnerschap/geregistreerd-partnerschap-omzetten-in-huwelijk",
+    "title": "Geregistreerd partnerschap omzetten in huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_omzetting_in_huwelijk"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/vergunningen-voor-ondernemers/horecavergunningen/evenementenvergunningen/verstrekken-zwak-alcoholhoudende-drank-ontheffing",
+    "title": "Verstrekken zwak alcoholhoudende drank, ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/afval-groen-en-dieren/afval/afvalpas",
+    "title": "Afvalpas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://purmerend.nl/werk-inkomen-en-schulden/laag-inkomen/meerdoen-regelingen/tegemoetkoming-hoge-zorgkosten",
+    "title": "Tegemoetkoming zorgkosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zorgtoeslag"
+  },
+  {
+    "identifier": "https://purmerend.nl/afval-groen-en-dieren/groen/openbaar-groen-adopteren",
+    "title": "Openbaar groen adopteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/identiteitskaart-aanvragen",
+    "title": "Identiteitskaart aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/document-waarmerken",
+    "title": "Document waarmerken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/waarmerken_document"
+  },
+  {
+    "identifier": "https://purmerend.nl/naamswijziging",
+    "title": "Naamswijziging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://purmerend.nl/bezoekersvergunning",
+    "title": "Bezoekersvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bezoekers"
+  },
+  {
+    "identifier": "https://purmerend.nl/zorg-onderwijs-en-jeugd/zorg-en-ondersteuning/hulp-bij-het-huishouden",
+    "title": "Hulp bij het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://purmerend.nl/werk-inkomen-en-schulden/schulden-en-geldzorgen/hulp-bij-schulden/hulp-bij-financien/preventie-werkt/voedselpakket-van-de-voedselbank-aanvragen",
+    "title": "Voedselpakket van de voedselbank aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/vergunningen-voor-ondernemers/horecavergunningen/terrasvergunning",
+    "title": "Terrasvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/garantstelling-visum-kort-verblijf",
+    "title": "Garantstelling visum kort verblijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://purmerend.nl/afval-groen-en-dieren/groen/bouwen-en-verbouwen/vergunningen/kapvergunning-bomen",
+    "title": "Kapvergunning bomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://purmerend.nl/subsidies-en-belastingen/subsidieregelingen/duurzaamheidslening",
+    "title": "Duurzaamheidslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://purmerend.nl/geboorte-huwelijk-en-overlijden/overlijden/begraven-cremeren",
+    "title": "Begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensakte"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/milieu-meldingen-en-ontheffingen/bodemenergiesysteem-melden",
+    "title": "bodemenergiesysteem melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/vergunningen-openbare-weg/laden-lossen-ontheffing",
+    "title": "Laden, lossen - ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dienstplOnth"
+  },
+  {
+    "identifier": "https://purmerend.nl/zorg-onderwijs-en-jeugd/onderwijs/onderwijshuisvesting",
+    "title": "Onderwijshuisvesting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ondHuisvVerord"
+  },
+  {
+    "identifier": "https://purmerend.nl/wonen-en-bouwen/bouwen-en-verbouwen/huisaansluiting-riool-aanvragen",
+    "title": "Huisaansluiting riool aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/geboorte-huwelijk-en-overlijden/geboorte/registreren-levenloos-geboren-kind",
+    "title": "Registeren levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/verklaring-van-huwelijksbevoegdheid",
+    "title": "Verklaring van huwelijksbevoegdheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_huwelijksbevoegdheid"
+  },
+  {
+    "identifier": "https://purmerend.nl/parkeren-en-verkeer/parkeervergunning/parkeerkaart-voor-gehandicapten",
+    "title": "Parkeerkaart voor gehandicapten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/evenementenvergunningen/evenementenborden-vergunning",
+    "title": "Evenementenborden vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://purmerend.nl/wonen-en-bouwen/wonen/verhuizen",
+    "title": "Verhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_binnen_gemeente"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://purmerend.nl/zorg-onderwijs-en-jeugd/zorg-en-ondersteuning/individuele-begeleiding",
+    "title": "Individuele begeleiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/vergunningen-voor-ondernemers/vergunning-warenuitstalling",
+    "title": "Vergunning warenuitstalling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://purmerend.nl/subsidies-en-belastingen/subsidieregelingen/maatschappelijke-subsidie",
+    "title": "Maatschappelijke subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://purmerend.nl/geboorte-huwelijk-en-overlijden/overlijden/uittreksels-en-verklaringen/stamboomonderzoek",
+    "title": "Stamboomonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://purmerend.nl/subsidies-en-belastingen/subsidieregelingen/monumentensubsidie",
+    "title": "Monumentensubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://purmerend.nl/zorg-onderwijs-en-jeugd/zorg-en-ondersteuning/dagbesteding",
+    "title": "Dagbesteding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dagbestOuderen"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/vergunningen-voor-ondernemers/horecavergunningen/melding-wijziging-leidinggevenden-alcoholwetvergunning",
+    "title": "Melding wijziging leidinggevende(n) alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/vergunningen-voor-ondernemers/winkeltijden-ontheffing",
+    "title": "Winkeltijden ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdenontheffing"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/vergunningen-voor-ondernemers/vergunningen-openbare-weg/geluidhinder-ontheffing-spoor-en-wegwerkzaamheden",
+    "title": "Geluidhinder, ontheffing spoor- en wegwerkzaamheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://purmerend.nl/werk-inkomen-en-schulden/laag-inkomen/meerdoen-regelingen/sportieve-en-culturele-activiteiten",
+    "title": "Sportieve en culturele activiteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportactiviteitensubsidie"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/evenementenvergunningen/standplaats-tijdens-koningsdag",
+    "title": "Standplaats tijdens Koningsdag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/digitaalopkopersloket",
+    "title": "register verkoop en inkoop gebruikte goederen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/opkoperreg"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/vergunningen-voor-ondernemers/horecavergunningen/slijterijvergunning",
+    "title": "Slijterijvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/zorg-onderwijs-en-jeugd/zorg-en-ondersteuning/woonvoorzieningen",
+    "title": "Woonvoorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://purmerend.nl/zorg-onderwijs-en-jeugd/zorg-en-ondersteuning/vervoersvoorzieningen",
+    "title": "Vervoersvoorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://purmerend.nl/geboorte-huwelijk-en-overlijden/huwelijk-en-partnerschap/melding-voorgenomen-huwelijk-geregistreerd-partnerschap",
+    "title": "Melding voorgenomen huwelijk of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/vergunningen-voor-ondernemers/horecavergunningen/melding-wijziging-inrichting-horecagelegenheid",
+    "title": "Melding wijziging inrichting horecagelegenheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/bouwen-en-verbouwen/woonvergunningen/vergunningen/vergunning-voor-woningvormingomzetting",
+    "title": "Woningvorming/omzetting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonruimte_onttrekkingsvergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/afval-groen-en-dieren/afval/zwerfafval-rapen-hulpmiddelen-lenen",
+    "title": "Zwerfafval rapen - hulpmiddelen lenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/vergunningen-voor-ondernemers/vergunningen-openbare-weg/reclamevergunning",
+    "title": "Reclamevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/bouwen-en-verbouwen/kabels-en-leidingenvergunning",
+    "title": "Kabels- en leidingenvergunningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/wonen/briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/vergunningen-voor-ondernemers/horecavergunningen/openings-en-sluitingstijden-horecabedrijven-ontheffing",
+    "title": "Opeings- en sluitingstijden horecabedrijven, ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://purmerend.nl/parkeren-en-verkeer/parkeervergunning/parkeervergunning-voor-werknemers",
+    "title": "Parkeervergunning werknemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/geboorte-huwelijk-en-overlijden/overlijden/uittreksels-en-verklaringen/overlijdensakte",
+    "title": "Overlijdensakte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensakte"
+  },
+  {
+    "identifier": "https://purmerend.nl/zorg-onderwijs-en-jeugd/zorg-en-ondersteuning/rolstoelvoorzieningen",
+    "title": "Rolstoelvoorziening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rolstoel"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/vergunningen-voor-ondernemers/evenementenvergunningen/vergunningen-openbare-weg/standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/bouwen-en-verbouwen/monument-wijzigen",
+    "title": "Monument wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/contact/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/wonen/adresonderzoek-aanvragen",
+    "title": "Adresonderzoek aanvragen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/evenementenvergunningen/evenementvergunning-melding",
+    "title": "Evenementenvergunning of -melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/parkeren-en-verkeer/parkeervergunning/parkeervergunning-voor-maatschappelijke-organisaties",
+    "title": "Parkeervergunning voor maatschappelijke organisaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/vergunningen-openbare-weg/ontheffing-voor-fietsverbod-centrumgebied",
+    "title": "Ontheffing voor fietsverbod centrumgebied",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/vergunningen-voor-ondernemers/horecavergunningen/horeca-exploitatievergunning",
+    "title": "Horeca exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://purmerend.nl/in-purmerend-en-beemster/wijken-en-dorpen/wijkbudget-aanvragen",
+    "title": "Wijkbudget aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/milieu-meldingen-en-ontheffingen/bodemgrond-afgraven-en-verplaatsen",
+    "title": "Bodem/grond afgaven en verplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/milieuontheffing"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/woonvergunningen/wonen/leegstandvergunning",
+    "title": "Leegstandvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leegstandvergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/zorg-onderwijs-en-jeugd/zorg-en-ondersteuning/mantelzorg-ondersteuning",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://purmerend.nl/parkeren-en-verkeer/parkeervergunning/parkeervergunning-voor-bewoners",
+    "title": "parkeervergunning bewoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bewoners"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/woonvergunningen/wonen/huisvestingsvergunning",
+    "title": "Huisvestingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisvestingsvergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/geboorte-huwelijk-en-overlijden/huwelijk-en-partnerschap/aanvraag-nieuwe-trouwlocatie",
+    "title": "Aanvraag nieuwe trouwlocatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://purmerend.nl/subsidies-en-belastingen/subsidieregelingen/evenementensubsidie",
+    "title": "Evenementensubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://purmerend.nl/parkeren-en-verkeer/parkeervergunning/parkeervergunning-wijzigen-opzeggen",
+    "title": "Parkeervergunning wijzigen of opzeggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bewoners"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/vergunningen-voor-ondernemers/milieu-meldingen-en-ontheffingen/milieuvergunning-milieumelding",
+    "title": "Milieuvergunning of milieumelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/milieuontheffing"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/vergunningen-voor-ondernemers/marktvergunning",
+    "title": "Marktvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktvergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/zorg-onderwijs-en-jeugd/zorg-en-ondersteuning/beschermd-wonen",
+    "title": "Beschermd wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/beschermde_leefomgeving_aanwijzing"
+  },
+  {
+    "identifier": "https://purmerend.nl/geboorte-huwelijk-en-overlijden/huwelijk-en-partnerschap/huwelijk-partnerschapsregistratie",
+    "title": "Huwelijk of partnerschapsregistratie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://purmerend.nl/wonen-en-bouwen/wonen/brievenbussticker",
+    "title": "Brievenbussticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://purmerend.nl/zorg-onderwijs-en-jeugd/onderwijs/informatie-voor-scholen/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/rijbewijs/rijbewijs-aanvragen",
+    "title": "Rijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/geslachtswijziging",
+    "title": "Geslachtswijziging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geslachtswijzigingsaangifte"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel Basisregistratie Personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/verklaring-omtrent-gedrag-vog",
+    "title": "Verklaring omtrent gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://purmerend.nl/zorg-onderwijs-en-jeugd/zorg-en-ondersteuning/kortdurend-verblijf",
+    "title": "Kortdurend verblijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://purmerend.nl/contact/iets-melden-niet-tevreden/bewonersmelding",
+    "title": "Bewonersmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://purmerend.nl/werk-inkomen-en-schulden/laag-inkomen/meerdoen-regelingen/collectieve-aanvullende-ziektekostenverzekering",
+    "title": "Collectieve Aanvullende Ziektekostenverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zkKstVerzCol"
+  },
+  {
+    "identifier": "https://purmerend.nl/geboorte-huwelijk-en-overlijden/geboorte/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/buitenlandse-brondocumenten-inleveren",
+    "title": "buitenlandse brondocumenten inleveren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "https://purmerend.nl/geboorte-huwelijk-en-overlijden/geboorte/erkenning",
+    "title": "Erkenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/wijziging-naamgebruik",
+    "title": "Wijziging naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://purmerend.nl/paspoort-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/uittreksel-burgerlijke-stand",
+    "title": "Uittreksel Burgerlijke Stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://purmerend.nl/vergunningen-en-ontheffingen/overige-vergunningen/betoging-aanmelden",
+    "title": "Betoging aanmelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/betoging-_of_demonstratievergunning"
+  },
+  {
+    "identifier": "https://purmerend.nl/werk-inkomen-en-schulden/laag-inkomen/meerdoen-regelingen/kindregeling-voor-schoolkosten",
+    "title": "Kindregeling voor schoolkosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kindGebBud"
+  },
+  {
+    "identifier": "https://purmerend.nl/werk-inkomen-en-schulden/laag-inkomen/toeslagen/energietoeslag",
+    "title": "Energietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://purmerend.nl/parkeren-en-verkeer/parkeren/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Purmerend_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats_op_kenteken"
+  }
+]

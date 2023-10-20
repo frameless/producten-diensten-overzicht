@@ -1,0 +1,548 @@
+[
+  {
+    "identifier": "https://www.heeze-leende.nl/kindregelingen",
+    "title": "Kindregelingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/verhuizen-naar-het-buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/informatiestand-plaatsen",
+    "title": "Informatiestand plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/bewijs-van-garantstelling-enof-logiesverstrekking",
+    "title": "Bewijs van garantstelling en/of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/kind-erkennen-na-de-geboorte",
+    "title": "Kind erkennen ná de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/milieustraat",
+    "title": "Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/hulp-voor-ouderen-zieken-mensen-met-een-beperking-wmo",
+    "title": "Hulp voor ouderen, zieken, mensen met een beperking (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/reclame-plaatsen",
+    "title": "Reclame plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/kostendelersnorm",
+    "title": "Kostendelersnorm",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/beschermd-wonen-wmo",
+    "title": "Beschermd wonen (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/geslachtswijziging",
+    "title": "Geslachtswijziging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/geslachtswijzigingsaangifte"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/bijstand-instelling-of-tehuis",
+    "title": "Bijstand, instelling of tehuis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/bijstand-tegenprestatie",
+    "title": "Bijstand, tegenprestatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandTegenpr"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/leer-werktraject-startkwalificatie-behalen",
+    "title": "Leer-werktraject, startkwalificatie behalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/kadastrale-informatie",
+    "title": "Kadastrale informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/bijstand-vrijwilligerswerk",
+    "title": "Bijstand, vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/rolstoel-aanvragen",
+    "title": "Rolstoel aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/rolstSctMob"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/brp-inzagerecht",
+    "title": "BRP inzagerecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/voorwerp-plaatsen-op-of-aan-de-weg",
+    "title": "Voorwerp plaatsen op of aan de weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/handtekening-legaliseren",
+    "title": "Handtekening legaliseren ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/bijstand-jaaropgave",
+    "title": "Bijstand, jaaropgave",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-zelfstandigen-ioaz",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte zelfstandigen (IOAZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaz-uitkering"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/afval-glas",
+    "title": "Afval, glas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_glas"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/bijstand-uitkering",
+    "title": "Bijstand, uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/hulp-bij-geldzaken-en-schulden",
+    "title": "Hulp bij geldzaken en schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/bijstand-heronderzoek",
+    "title": "Bijstand, heronderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/kleding-inzamelen",
+    "title": "Kleding inzamelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_textiel"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/bodeminformatie",
+    "title": "Bodeminformatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/verzorgingshuis-of-thuiszorg-indicatie",
+    "title": "Verzorgingshuis of thuiszorg, indicatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/thuiszorg"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/achternaam-kind-kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/geheimhouden-persoonsgegevens",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/jeugdgezondheidszorg",
+    "title": "Jeugdgezondheidszorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/attestatie-de-vita-internationaal-bewijs-van-in-leven-zijn",
+    "title": "Attestatie de vita (internationaal bewijs van in leven zijn)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/aanpassen-onjuiste-persoonsgegevens",
+    "title": "Aanpassen onjuiste persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/kinderopvang-starten",
+    "title": "Kinderopvang starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/koninklijke-onderscheiding-lintje",
+    "title": "Koninklijke onderscheiding,  lintje",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/kinderopvangtoeslag",
+    "title": "Kinderopvangtoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/woonvoorzieningen",
+    "title": "Woonvoorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/bouwplannen-en-bouwtekeningen-bekijken",
+    "title": "Bouwplannen en bouwtekeningen bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/voorziening-aanvragen-wmo",
+    "title": "Voorziening aanvragen (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/belastingen-en-heffingen-kwijtschelding",
+    "title": "Belastingen en heffingen, kwijtschelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/sociale-huurwoning",
+    "title": "Sociale huurwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/bromfietsrijbewijs",
+    "title": "Bromfietsrijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/afval-klein-chemisch-afval",
+    "title": "Afval, klein chemisch afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_chemisch_afval"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/vakantie-melden",
+    "title": "Vakantie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/kind-erkennen-voor-de-geboorte",
+    "title": "Kind erkennen vóór de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/het-geld-krijgen-waar-je-recht-op-hebt-door-de-voorzieningenwijzer",
+    "title": "Het geld krijgen waar je recht op hebt door de Voorzieningenwijzer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/verklaring-omtrent-het-gedrag-vog",
+    "title": "Verklaring omtrent het gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/opvang-wmo",
+    "title": "Opvang (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/dagbestOuderen"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/afschrift-uittreksel-burgerlijke-stand",
+    "title": "Afschrift (uittreksel) burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/waarmerken-kopie-of-afschrift",
+    "title": "Waarmerken kopie of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/afval-plastic-blik-en-drinkpakken",
+    "title": "Afval, plastic, blik en drinkpakken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalInzPMDK"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/kinderopvang-controle",
+    "title": "Kinderopvang controle",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-werknemers-ioaw",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte werknemers (IOAW)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaw-uitkering"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/leerplicht-bijzonder-verlof-of-vrijstelling",
+    "title": "Leerplicht, bijzonder verlof of vrijstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/bijstand-voor-zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/reizen-met-kinderen",
+    "title": "Reizen met kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/afval-grofvuil",
+    "title": "Afval, grofvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/bijstand-voor-jongeren",
+    "title": "Bijstand voor jongeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/hulp-bij-het-huishouden",
+    "title": "Hulp bij het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/jeugdhulp",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/jeugdhulp-geestelijke-gezondheidszorg-ggz",
+    "title": "Jeugdhulp, geestelijke gezondheidszorg (ggz)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.heeze-leende.nl/veranderingen-doorgeven",
+    "title": "Veranderingen doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heeze-Leende"
+  }
+]

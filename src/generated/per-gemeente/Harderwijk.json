@@ -1,0 +1,682 @@
+[
+  {
+    "identifier": "https://www.harderwijk.nl/subsidies/subsidie-maatregelen-klimaat",
+    "title": "Subsidie maatregelen duurzaamheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderwijssubsidie"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/wonen-en-verhuizen/woning-huren-of-kopen",
+    "title": "Woning huren of kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/zorg-en-ondersteuning/hulp-gedupeerden-kinderopvangtoeslag",
+    "title": "Kinderopvangtoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/KinderOpvToeslagTegemoetk"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/ondernemen/bedrijventerreinen-harderwijk",
+    "title": "Bedrijventerreinen Harderwijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/over-de-gemeente/weekmarkt-en-standplaats",
+    "title": "Weekmarkt en standplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/parkeren-verkeer-en-vervoer/gladheid-en-strooien",
+    "title": "Gladheid en strooien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/bouwen-en-vergunningen/bestemmingsplannen-en-structuurvisies/bestemmingsplan-aanpassen",
+    "title": "Bestemmingsplan aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/over-de-gemeente/dierenwelzijn",
+    "title": "Dierenwelzijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/wonen-en-verhuizen/lening-toekomstbestendig-wonen",
+    "title": "Toekomstbestendig Wonen Lening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/geboorte-trouwen-en-overlijden/overlijden/grafsteen-of-gedenksteen-plaatsen",
+    "title": "Grafsteen of gedenksteen plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/parkeren-verkeer-en-vervoer/parkeerterreinen",
+    "title": "Parkeerterreinen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerbelasting"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/meldingen-klachten-en-bezwaar/verloren-of-gevonden-voorwerpen",
+    "title": "Verloren of gevonden voorwerpen",
+    "language": "NL",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/meldingen-klachten-en-bezwaar/klacht-indienen-over-de-gemeente",
+    "title": "Klacht indienen over de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/paspoort-identiteitskaart-rijbewijs/nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/geboorte-trouwen-en-overlijden/trouwen-en-scheiden/trouwen-of-partnerschap-registreren",
+    "title": "Trouwen of partnerschap registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/over-de-gemeente/lijst-met-waardevolle-bomen",
+    "title": "Bomenlijst gemeente Harderwijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/geboorte-trouwen-en-overlijden/geboorte/levenloos-geboren-kindje-aangifte",
+    "title": "Levenloos geboren kindje aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/paspoort-identiteitskaart-rijbewijs/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/geboorte-trouwen-en-overlijden/trouwen-en-scheiden/gebruik-achternaam-veranderen",
+    "title": "Gebruik achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/evenementen-horeca-en-subsidies/evenementen/evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/wonen-en-verhuizen/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/over-de-gemeente/winkels-openingstijden-en-koopzondagen",
+    "title": "Winkels openingstijden en koopzondagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/over-de-gemeente/vogelgriep",
+    "title": "Vogelgriep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dodeGezelschDierenOpr"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/bouwen-en-vergunningen/omgevingsvergunning/welstand-en-welstandscommissie",
+    "title": "Welstand en welstandscommissie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/parkeren-verkeer-en-vervoer/bezoekersregeling-parkeren-voor-inwoners-binnenstad",
+    "title": "Bezoekersregeling parkeren voor inwoners binnenstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/bouwen-en-vergunningen/omgevingsvergunning/boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/zorg-en-ondersteuning/jeugdhulp-en-leerlingzaken",
+    "title": "Jeugdhulp en leerlingzaken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/subsidies/subsidies-onderwijs-en-peuteropvang",
+    "title": "Subsidies onderwijs en peuteropvang",
+    "language": "NL",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderwijssubsidie"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/geboorte-trouwen-en-overlijden/overlijden/grafonderhoud",
+    "title": "Grafonderhoud",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafonderhoud"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/geboorte-trouwen-en-overlijden/overlijden/overlijden-aangifte",
+    "title": "Overlijden aangifte",
+    "language": "NL",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/subsidies/subsidies-welzijn-cultuur-en-sport",
+    "title": "Subsidies welzijn, cultuur en sport",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/meldingen-klachten-en-bezwaar/iets-melden-bij-de-gemeente-snel-herstel",
+    "title": "Iets melden bij de gemeente (snel herstel)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/wonen-en-verhuizen/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/paspoort-identiteitskaart-rijbewijs/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/uittreksels-en-verklaringen/geheimhouden-persoonsgegevens",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/evenementen-en-horeca/horeca-en-alcohol/bibob-wet-bevordering-integriteitsbeoordelingen-door-het-openbaar-bestuur",
+    "title": "Bibob (wet Bevordering integriteitsbeoordelingen door het openbaar bestuur)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/zorg-en-ondersteuning/wet-maatschappelijke-ondersteuning-wmo",
+    "title": "Wet maatschappelijke ondersteuning (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/zorg-en-ondersteuning/leerlingenvervoer-aanvragen",
+    "title": "Leerlingenvervoer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/bouwen-en-vergunningen/omgevingsvergunning/omgevingsvergunning-aanvragen",
+    "title": "Omgevingsvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/wonen-en-verhuizen/melding-loden-leidingen",
+    "title": "Melding loden leidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/afval-en-groen/afvalcontainer-aanvragen-of-omwisselen",
+    "title": "Afvalcontainer aanvragen, omwisselen of afvalpas bestellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/parkeren-verkeer-en-vervoer/parkeren",
+    "title": "Parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/geboorte-trouwen-en-overlijden/geboorte/levenloos-geboren-kindje-registreren-in-de-brp",
+    "title": "Levenloos geboren kindje registreren in de BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInschrOverlKind"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/evenementen-en-horeca/horeca-en-alcohol/terras-plaatsen",
+    "title": "Terras plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/evenementen-en-horeca/horeca-en-alcohol/horecavergunningen",
+    "title": "Horecavergunningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/meldingen-klachten-en-bezwaar/rioolverstopping",
+    "title": "Rioolverstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/bouwen-en-vergunningen/bestemmingsplannen-en-structuurvisies/bestemmingsplan-bekijken",
+    "title": "Bestemmingsplan bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/geboorte-trouwen-en-overlijden/geboorte/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "NL",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/geboorte-trouwen-en-overlijden/overlijden/begraven-of-cremeren",
+    "title": "Begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/over-de-gemeente/honden-uitlaten",
+    "title": "Honden uitlaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/evenementen-horeca-en-subsidies/verzekering-voor-vrijwilligers",
+    "title": "Verzekering voor vrijwilligers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/afval-en-groen/afvalcontainers-ondergronds",
+    "title": "Afvalcontainers (ondergronds)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/meldingen-klachten-en-bezwaar/inspraak-en-bezwaar/gemeente-aansprakelijk-stellen",
+    "title": "Gemeente aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/evenementen-horeca-en-subsidies/evenementen/vuurwerk-afsteken",
+    "title": "Vuurwerk en carbid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/uittreksels-en-verklaringen/verklaring-omtrent-het-gedrag-vog",
+    "title": "Verklaring omtrent het gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/parkeren-verkeer-en-vervoer/parkeervergunning",
+    "title": "Parkeervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/wonen-en-verhuizen/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/parkeren-verkeer-en-vervoer/oplaadpalen-elektrische-autos",
+    "title": "Oplaadpalen elektrische auto's",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/laadpaalverzoek"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/over-de-gemeente/sport",
+    "title": "Sport",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/geboorte-trouwen-en-overlijden/geboorte/erkennen-van-een-kind",
+    "title": "Erkennen van een kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/uittreksels-en-verklaringen/handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "NL",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/wonen-en-verhuizen/gemeentelijke-belastingen",
+    "title": "Gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/meldingen-klachten-en-bezwaar/inspraak-en-bezwaar/informatie-opvragen-over-beleid-of-besluiten",
+    "title": "Informatie opvragen over beleid of besluiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/bouwen-en-vergunningen/rioolaansluiting",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/paspoort-identiteitskaart-rijbewijs/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/uittreksels-en-verklaringen/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/evenementen-horeca-en-subsidies/evenementen/aankondigingsborden",
+    "title": "Aankondigingsborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/wonen-en-verhuizen/briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "NL",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/uittreksels-en-verklaringen/garantstelling-visum-kort-verblijf",
+    "title": "Garantstelling visum kort verblijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/geboorte-trouwen-en-overlijden/geboorte/achternaam-kind-kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/bouwen-en-vergunningen/kabels-en-leidingen-leggen-in-openbare-grond",
+    "title": "Kabels en leidingen leggen in openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/zorg-en-ondersteuning/werk-en-inkomen",
+    "title": "Werk en inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/afval-en-groen/afvalinzameling",
+    "title": "Afvalinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/meldingen-klachten-en-bezwaar/zorgfraude-melden",
+    "title": "Zorgfraude melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/maatschappelijke_zorgsubsidie"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/bouwen-en-vergunningen/omgevingsvergunning/controle-op-bouw-en-verbouwing",
+    "title": "Controle op bouw en verbouwing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/uittreksels-en-verklaringen/uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/bouwen-en-vergunningen/omgevingsvergunning/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/ondernemen/brandveilig-gebruik-gebouwen",
+    "title": "Brandveilig gebruik gebouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/gemeenteraad-en-college/onderscheidingen",
+    "title": "Onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/paspoort-identiteitskaart-rijbewijs/identiteitskaart-id-kaart",
+    "title": "Identiteitskaart (ID-kaart)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/evenementen-horeca-en-subsidies/evenementen/barbecue-in-openbaar-gebied",
+    "title": "Barbecue in openbaar gebied",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/uittreksels-en-verklaringen/document-waarmerken",
+    "title": "Document waarmerken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/paspoort-identiteitskaart-rijbewijs/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/meldingen-klachten-en-bezwaar/inspraak-en-bezwaar/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/uittreksels-en-verklaringen/inzien-of-aanpassen-persoonsgegevens-brp",
+    "title": "Inzien of aanpassen persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/meldingen-klachten-en-bezwaar/inspraak-en-bezwaar/zienswijze-indienen",
+    "title": "Zienswijze indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zienswijze"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/subsidies/subsidie-wonen-en-monumenten",
+    "title": "Subsidie wonen en monumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/wonen-en-verhuizen/tijdelijke-verhuur-leegstaand-pand",
+    "title": "Tijdelijke verhuur leegstaand pand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnTijdVerhVerg"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/afval-en-groen/bladkorven",
+    "title": "Bladkorven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bladkorf"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/over-de-gemeente/toerisme-en-cultuur/havens-en-ligplaatsen",
+    "title": "Havens en ligplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/subsidies/subsidie-evenementen",
+    "title": "Subsidie evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/bouwen-en-vergunningen/bestemmingsplannen-en-structuurvisies/planschade-tegemoetkoming",
+    "title": "Planschade tegemoetkoming",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/bouwen-en-vergunningen/bouwplan-en-bouwtekeningen-opvragen",
+    "title": "Bouwplan en bouwtekeningen opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/afval-en-groen/afval-wegbrengen",
+    "title": "Afval wegbrengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/uittreksels-en-verklaringen/uittreksel-burgerlijke-stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "NL",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/afval-en-groen/tarieven",
+    "title": "Anders betalen voor uw afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/ondernemen/ondersteuning-en-advies-voor-ondernemers",
+    "title": "Ondersteuning en advies voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/geboorte-trouwen-en-overlijden/trouwen-en-scheiden/echtscheiding-of-einde-geregistreerd-partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/subsidies/eenmalige-en-tijdelijke-subsidies",
+    "title": "Eenmalige en tijdelijke subsidies",
+    "language": "NL",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/evenementen-horeca-en-subsidies/evenementen/vreugdevuren-en-kleine-sfeervuren",
+    "title": "Vreugdevuren en kleine sfeervuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/afval-en-groen/eikenprocessierups",
+    "title": "Eikenprocessierups",
+    "language": "NL",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/evenementen-horeca-en-subsidies/collectevergunning-aanvragen",
+    "title": "Collectevergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/zorg-en-ondersteuning/zorgdat",
+    "title": "Zorgdat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.harderwijk.nl/bouwen-en-vergunningen/grond-kopen-huren-of-pachten",
+    "title": "Grond kopen, huren of pachten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Harderwijk_(gemeente)"
+  }
+]

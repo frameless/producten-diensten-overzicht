@@ -1,0 +1,904 @@
+[
+  {
+    "identifier": "https://www.aalten.nl/mishandeling-of-huiselijk-geweld",
+    "title": "Mishandeling of huiselijk geweld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.aalten.nl/kabels-en-leidingen-leggen-in-openbare-grond",
+    "title": "Kabels en leidingen leggen in openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.aalten.nl/kindpakket",
+    "title": "Kindpakket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/monument-verbouwen-herstellen-of-onderhouden",
+    "title": "Monument verbouwen, herstellen of onderhouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.aalten.nl/belastingen-lokale-lasten-calculator",
+    "title": "Belastingen, lokale lasten calculator",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/onroerend-goed-beperkingen",
+    "title": "Onroerend goed, beperkingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/toekomstbestendig-wonen-lening",
+    "title": "Toekomstbestendig Wonen lening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/voor-en-vroegschoolse-educatie-subsidieregeling",
+    "title": "Voor- en vroegschoolse educatie, subsidieregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.aalten.nl/watervergunning",
+    "title": "Watervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/watervergunning"
+  },
+  {
+    "identifier": "https://www.aalten.nl/bedrijfsactiviteiten-wijzigen",
+    "title": "Bedrijfsactiviteiten wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wet_milieubeheermelding"
+  },
+  {
+    "identifier": "https://www.aalten.nl/alcoholvergunning",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.aalten.nl/huis-aan-huisactie-collecte-of-kledinginzameling",
+    "title": "Huis aan huisactie, collecte of kledinginzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.aalten.nl/opvang-wmo",
+    "title": "Opvang (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dagbestOuderen"
+  },
+  {
+    "identifier": "https://www.aalten.nl/recreatiewoning-bewonen",
+    "title": "Recreatiewoning bewonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnVergRecr"
+  },
+  {
+    "identifier": "https://www.aalten.nl/trouwen-in-het-buitenland",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/inkoop-en-aanbestedingsbeleid",
+    "title": "Inkoop- en aanbestedingsbeleid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.aalten.nl/inwonerspanel-u-spreekt",
+    "title": "Inwonerspanel U Spreekt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/koninklijke-onderscheiding-lintje",
+    "title": "Koninklijke onderscheiding,  lintje",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/bijstand-voor-zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.aalten.nl/buitenlandse-documenten-legaliseren-en-verifieren",
+    "title": "Buitenlandse documenten legaliseren en verifiëren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/leer-werktraject-startkwalificatie-behalen",
+    "title": "Leer-werktraject, startkwalificatie behalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.aalten.nl/beschermd-wonen-wmo",
+    "title": "Beschermd wonen (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://www.aalten.nl/aanpassen-onjuiste-persoonsgegevens",
+    "title": "Aanpassen onjuiste persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.aalten.nl/afschrift-uittreksel-burgerlijke-stand",
+    "title": "Afschrift (uittreksel) burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.aalten.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.aalten.nl/bromfietsrijbewijs",
+    "title": "Bromfietsrijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.aalten.nl/verhuizen-naar-het-buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/opgraven-en-herbegraven-of-cremeren",
+    "title": "Opgraven en herbegraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/herbegraven_of_alsnog_cremeren"
+  },
+  {
+    "identifier": "https://www.aalten.nl/investeringssubsidie-algemeen",
+    "title": "Investeringssubsidie, algemeen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/sportaccommodaties-en-velden-huren",
+    "title": "Sportaccommodaties en velden huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.aalten.nl/ramp-of-crisis",
+    "title": "Ramp of crisis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rampen_en_zware_ongevallen_informatieplicht"
+  },
+  {
+    "identifier": "https://www.aalten.nl/belastingen-en-heffingen-aanslag",
+    "title": "Belastingen en heffingen, aanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/carbidschieten",
+    "title": "Carbidschieten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/carbidschietenmelding"
+  },
+  {
+    "identifier": "https://www.aalten.nl/onroerendezaakbelasting-ozb",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/bewijs-van-garantstelling-enof-logiesverstrekking",
+    "title": "Bewijs van garantstelling en/of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.aalten.nl/kinderopvang-starten",
+    "title": "Kinderopvang starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.aalten.nl/bodemtoets-voor-omgevingsvergunningen-of-bestemmingsplannen",
+    "title": "Bodemtoets voor omgevingsvergunningen of bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/organisatiesubsidie",
+    "title": "Organisatiesubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/in-gebreke-stellen-gemeente-bij-te-laat-beslissen",
+    "title": "In gebreke stellen gemeente bij te laat beslissen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dwangsomNietTijdBesl"
+  },
+  {
+    "identifier": "https://www.aalten.nl/mediation",
+    "title": "Mediation",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/bijzondere-bijstand-zorgkosten",
+    "title": "Bijzondere bijstand zorgkosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/bodeminformatie-opvragen",
+    "title": "Bodeminformatie opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/voorkeursrecht-van-de-gemeente",
+    "title": "Voorkeursrecht van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voorkRechtAanw"
+  },
+  {
+    "identifier": "https://www.aalten.nl/terras-plaatsen",
+    "title": "Terras plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.aalten.nl/brandveiligheid-melding-of-vergunning",
+    "title": "Brandveiligheid, melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.aalten.nl/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.aalten.nl/verbranden-van-snoeihout",
+    "title": "Verbranden van snoeihout",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/euregio-burgeradvisering",
+    "title": "Euregio, burgeradvisering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/kinderopvangtoeslag",
+    "title": "Kinderopvangtoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://www.aalten.nl/naoberfonds-gemeente-aalten-subsidie",
+    "title": "Naoberfonds gemeente Aalten, subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/begraafplaatsen-vind-een-graf",
+    "title": "Begraafplaatsen, vind een graf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.aalten.nl/woz-waarde",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.aalten.nl/informatie-over-beleid-of-besluiten-opvragen-who-verzoek",
+    "title": "Informatie over beleid of besluiten opvragen (Who-verzoek)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/bouwwerk-gereedmelding",
+    "title": "Bouwwerk, gereedmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwwerk_voltooiingsverklaring"
+  },
+  {
+    "identifier": "https://www.aalten.nl/loterij-prijsvraag-bingo-organiseren",
+    "title": "Loterij, prijsvraag, bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.aalten.nl/ondersteuning-wmo",
+    "title": "Ondersteuning WMO",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/parkeren-in-de-blauwe-zone",
+    "title": "Parkeren in de blauwe zone",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_blauwe_zone"
+  },
+  {
+    "identifier": "https://www.aalten.nl/verzoek-om-handhaving",
+    "title": "Verzoek om handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.aalten.nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.aalten.nl/belastingen-betalingsregeling",
+    "title": "Belastingen, betalingsregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.aalten.nl/nieuwe-straatnaam-voorstellen",
+    "title": "Nieuwe straatnaam voorstellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.aalten.nl/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.aalten.nl/woning-uit-de-woonruimtevoorraad-halen",
+    "title": "Woning uit de woonruimtevoorraad halen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijkomen_woonruimtemelding"
+  },
+  {
+    "identifier": "https://www.aalten.nl/aankondigingsbord-plaatsen",
+    "title": "Aankondigingsbord plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dienstverlening_op_of_aan_de_openbare_weg_vergunning"
+  },
+  {
+    "identifier": "https://www.aalten.nl/waardevolle-bomen-subsidie",
+    "title": "Waardevolle bomen, subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.aalten.nl/verkeersregelaars-inzetten",
+    "title": "Verkeersregelaars inzetten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verkeersregelaar"
+  },
+  {
+    "identifier": "https://www.aalten.nl/uittreksel-persoonsgegevens-brp",
+    "title": "Uittreksel persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.aalten.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.aalten.nl/projectsubsidie-algemeen",
+    "title": "Projectsubsidie, algemeen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/hulp-bij-een-arbeidsbeperking",
+    "title": "Hulp bij een arbeidsbeperking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/regArbBepIns"
+  },
+  {
+    "identifier": "https://www.aalten.nl/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.aalten.nl/basisregistratie-adressen-en-gebouwen-bag",
+    "title": "Basisregistratie Adressen en Gebouwen (BAG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.aalten.nl/hulp-bij-het-huishouden",
+    "title": "Hulp bij het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://www.aalten.nl/woning-splitsen",
+    "title": "Woning splitsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonruimte_splitsingsvergunning"
+  },
+  {
+    "identifier": "https://www.aalten.nl/marktgeld",
+    "title": "Marktgeld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktgelden"
+  },
+  {
+    "identifier": "https://www.aalten.nl/nee-nee-sticker-nee-ja-sticker",
+    "title": "NEE-NEE sticker, NEE-JA sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.aalten.nl/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.aalten.nl/tijdelijke-verhuur-leegstaand-pand",
+    "title": "Tijdelijke verhuur leegstaand pand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnTijdVerhVerg"
+  },
+  {
+    "identifier": "https://www.aalten.nl/melding-woon-en-leefomgeving",
+    "title": "Melding woon- en leefomgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/lijkbezorgingsrechten",
+    "title": "Lijkbezorgingsrechten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/demonstratie-of-protestactie-houden",
+    "title": "Demonstratie of protestactie houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/betogDemonsMld"
+  },
+  {
+    "identifier": "https://www.aalten.nl/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.aalten.nl/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.aalten.nl/belastingen-en-heffingen-teruggave",
+    "title": "Belastingen en heffingen, teruggave",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingteruggave"
+  },
+  {
+    "identifier": "https://www.aalten.nl/kadastrale-informatie",
+    "title": "Kadastrale informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://www.aalten.nl/gebruik-achternaam-veranderen",
+    "title": "Gebruik achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.aalten.nl/ontplofbare-oorlogresten-tegemoetkoming-kosten-onderzoek-en-ruiming",
+    "title": "Ontplofbare oorlogresten, tegemoetkoming kosten onderzoek en ruiming",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/milieu-vergunning-of-melding",
+    "title": "Milieu, vergunning of melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.aalten.nl/echtscheiding-of-einde-geregistreerd-partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.aalten.nl/hulpmiddelen-en-woningaanpassingen",
+    "title": "Hulpmiddelen en woningaanpassingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.aalten.nl/verzorging-pleegkind-melden",
+    "title": "Verzorging pleegkind melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/privacyrechten-uitoefenen",
+    "title": "Privacyrechten uitoefenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/reclamebelasting",
+    "title": "Reclamebelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamebelasting"
+  },
+  {
+    "identifier": "https://www.aalten.nl/graf-op-gemeentelijke-begraafplaats-aanvragen",
+    "title": "Graf op gemeentelijke begraafplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.aalten.nl/meedoenregeling",
+    "title": "Meedoenregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/ongediertebestrijding",
+    "title": "Ongediertebestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.aalten.nl/monument-aanwijzen",
+    "title": "Monument aanwijzen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentaanwijzing"
+  },
+  {
+    "identifier": "https://www.aalten.nl/rommelmarkt",
+    "title": "Rommelmarkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/snuffelmarktvergunning"
+  },
+  {
+    "identifier": "https://www.aalten.nl/monument-subsidie",
+    "title": "Monument, subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.aalten.nl/standplaats-aanvragen",
+    "title": "Standplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.aalten.nl/paasvuur",
+    "title": "Paasvuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/burgerinitiatief",
+    "title": "Burgerinitiatief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://www.aalten.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.aalten.nl/verloren-of-gevonden-voorwerpen-melden",
+    "title": "Verloren of gevonden voorwerpen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.aalten.nl/digitale-kwetsbaarheid-melden",
+    "title": "Digitale kwetsbaarheid melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/grondverzet-regels",
+    "title": "Grondverzet, regels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/opvragen-persoonsgegevens",
+    "title": "Opvragen persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "https://www.aalten.nl/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.aalten.nl/sloopmelding-gebouw-of-deel-gebouw",
+    "title": "Sloopmelding gebouw of deel gebouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.aalten.nl/verklaring-onder-ede-of-belofte",
+    "title": "Verklaring onder ede of belofte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgegevens_verklaring_onder_eed_of_belofte"
+  },
+  {
+    "identifier": "https://www.aalten.nl/milieuvervuiling-melden",
+    "title": "Milieuvervuiling melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.aalten.nl/rioolverstopping",
+    "title": "Rioolverstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.aalten.nl/kinderopvang-controle",
+    "title": "Kinderopvang controle",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanschrijving"
+  },
+  {
+    "identifier": "https://www.aalten.nl/openingstijden-winkels",
+    "title": "Openingstijden winkels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdeninformatie"
+  },
+  {
+    "identifier": "https://www.aalten.nl/bijstand-uitkering",
+    "title": "Bijstand, uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.aalten.nl/ontplofbare-oorlogresten-controleren-gebied",
+    "title": "Ontplofbare oorlogresten, controleren gebied",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/belastingen-kopie-aanslag",
+    "title": "Belastingen, kopie aanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_kopie"
+  },
+  {
+    "identifier": "https://www.aalten.nl/advies-en-meldpunt-verward-gedrag",
+    "title": "Advies- en meldpunt verward gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/vergoeding-huisvestingsvoorzieningen-scholen",
+    "title": "Vergoeding huisvestingsvoorzieningen scholen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/servicedienst-hulpmiddelen",
+    "title": "Servicedienst Hulpmiddelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/passend-onderwijs",
+    "title": "Passend onderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/gemeentearchief",
+    "title": "Gemeentearchief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/archiefInzage"
+  },
+  {
+    "identifier": "https://www.aalten.nl/inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.aalten.nl/openingstijden-horeca-eenmalig-aanpassen",
+    "title": "Openingstijden horeca eenmalig aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.aalten.nl/budgetsubsidie-algemeen",
+    "title": "Budgetsubsidie, algemeen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)"
+  },
+  {
+    "identifier": "https://www.aalten.nl/uitrit-of-inrit-aanleggen",
+    "title": "Uitrit of inrit aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgUitweg"
+  },
+  {
+    "identifier": "https://www.aalten.nl/bestemmingsplan-bekijken",
+    "title": "Bestemmingsplan bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Aalten_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  }
+]

@@ -1,0 +1,1911 @@
+[
+  {
+    "identifier": "https://www.dalfsen.nl/afval-grofvuil",
+    "title": "Afval, grofvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/voorziening-aanvragen-wmo",
+    "title": "Voorziening aanvragen (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/spandoek-ophangen",
+    "title": "Spandoek ophangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/ontkenning-vaderschap-door-moeder",
+    "title": "Ontkenning vaderschap door moeder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vaderschapsontkenning_verklaring"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/weer-gaan-werken",
+    "title": "Weer gaan werken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/re-integratie"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/aanpassen-onjuiste-persoonsgegevens",
+    "title": "Aanpassen onjuiste persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/mogelijke-vergoedingen-zwembaden",
+    "title": "Mogelijke vergoedingen zwembaden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/kinderopvangtoeslag",
+    "title": "Kinderopvangtoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/openingstijden-winkels",
+    "title": "Openingstijden winkels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdeninformatie"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/sociale-huurwoning",
+    "title": "Sociale huurwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/kadastrale-informatie",
+    "title": "Kadastrale informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/in-gebreke-stellen-gemeente-bij-te-laat-beslissen",
+    "title": "In gebreke stellen gemeente bij te laat beslissen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dwangsomNietTijdBesl"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/gemeente-aansprakelijk-stellen",
+    "title": "Gemeente aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/jeugdfonds-sport-cultuur-overijssel",
+    "title": "Jeugdfonds Sport &amp; Cultuur Overijssel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/wet-open-overheid-woo",
+    "title": "Wet open overheid (Woo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verstrekking_overheidsinformatie"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/uittreksel-persoonsgegevens-brp",
+    "title": "Uittreksel persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwwerk_voltooiingsverklaring"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bijstand-heronderzoek",
+    "title": "Bijstand, heronderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/geluidsapparatuur-horecabedrijf",
+    "title": "Geluidsapparatuur horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/caravan-parkeren-op-de-openbare-weg",
+    "title": "Caravan parkeren op de openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/caravParkOnth"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/brandveiligheid-melding-of-vergunning",
+    "title": "Brandveiligheid, melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/openingstijden-zwembaden",
+    "title": "Openingstijden zwembaden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/rolstoel-aanvragen",
+    "title": "Rolstoel aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rolstSctMob"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/sportsubsidie-voor-mensen-met-een-beperking",
+    "title": "Sportsubsidie voor mensen met een beperking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/tegemoetkoming-aanvullende-zorgverzekering",
+    "title": "Tegemoetkoming aanvullende zorgverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/onroerendezaakbelasting-ozb-kopie-aanslag",
+    "title": "Onroerendezaakbelasting (OZB), kopie aanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)_kopie_aanslag"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/zwerfdieren-opvang",
+    "title": "Zwerfdieren, opvang ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/woonvisie-gemeente-dalfsen",
+    "title": "Woonvisie gemeente Dalfsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/luchtruim-gebruiken",
+    "title": "Luchtruim gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tijdelijk_luchtvaartterrein_ontheffing"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/ijssellandscan",
+    "title": "IJssellandscan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/opvang-wmo",
+    "title": "Opvang (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dagbestOuderen"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/begeleidingdagbesteding-wmo",
+    "title": "Begeleiding/dagbesteding (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/snipper-en-restgroen",
+    "title": "Snipper- en restgroen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/datalek-melden",
+    "title": "Datalek melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/belastingen-betalingsregeling",
+    "title": "Belastingen, betalingsregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/recreatief-nachtverblijf-buiten-kampeerterreinen-kamperen",
+    "title": "Recreatief nachtverblijf buiten kampeerterreinen (kamperen)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/verzorgingshuis-of-thuiszorg-indicatie",
+    "title": "Verzorgingshuis of thuiszorg, indicatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/thuiszorg"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/festiviteit-bedrijf-vereniging-of-school",
+    "title": "Festiviteit bedrijf, vereniging of school",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collIncFest"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bezwaar-maken-gemeente-en-waterschapsbelastingen",
+    "title": "Bezwaar maken gemeente- en waterschapsbelastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/koninklijk-predicaat",
+    "title": "Koninklijk Predicaat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijk_predicaataanvraag"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/reclame-voor-evenementen",
+    "title": "Reclame voor evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/omgevingsvergunning-strijdig-gebruik",
+    "title": "Omgevingsvergunning strijdig gebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/steenmarter-overlast",
+    "title": "Steenmarter, overlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/schoolkosten-bijdrage",
+    "title": "Schoolkosten, bijdrage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderwBijdSchKstVoTgk"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/jongdalfsen",
+    "title": "JongDalfsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/aanmelden-als-handelaar",
+    "title": "Aanmelden als handelaar ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/opkoperreg"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bedrijf-vestigen",
+    "title": "Bedrijf vestigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bodemenergie",
+    "title": "Bodemenergie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bouw-en-verbouwing-welstand",
+    "title": "Bouw en verbouwing, welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/afgezet-gebied-binnengaan",
+    "title": "Afgezet gebied binnengaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afgezette_gebieden_betreden_ontheffing"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/voorkeursrecht-van-de-gemeente",
+    "title": "Voorkeursrecht van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voorkRechtAanw"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/graf-op-gemeentelijke-begraafplaats-aanvragen",
+    "title": "Graf op gemeentelijke begraafplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-zelfstandigen-ioaz",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte zelfstandigen (IOAZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaz-uitkering"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/rioolverstopping",
+    "title": "Rioolverstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/lichtvisie-dalfsen",
+    "title": "Lichtvisie Dalfsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bijstand-jaaropgave",
+    "title": "Bijstand, jaaropgave",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/graafmelding",
+    "title": "Graafmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/graafmelding"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/schenktijden-melden-afwijking",
+    "title": "Schenktijden, melden afwijking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/belastingen-en-heffingen-teruggave",
+    "title": "Belastingen en heffingen, teruggave",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingteruggave"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/woonvoorzieningen",
+    "title": "Woonvoorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/snoeihout-verbranden-buitengebied",
+    "title": "Snoeihout verbranden buitengebied",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bijstand-tegenprestatie",
+    "title": "Bijstand, tegenprestatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandTegenpr"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/ontheffing-sluitingstijd-horeca",
+    "title": "Ontheffing sluitingstijd horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/huwelijk-of-geregistreerd-partnerschap",
+    "title": "Huwelijk of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/uitrit-of-inrit-aanleggen",
+    "title": "Uitrit of inrit aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgUitweg"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/algemene-plaatselijke-verordening-apv",
+    "title": "Algemene Plaatselijke Verordening (APV)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/parkeren-van-grote-voertuigen",
+    "title": "Parkeren van grote voertuigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_grote_voertuigen"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/demonstratie-of-protestactie-houden",
+    "title": "Demonstratie of protestactie houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/betogDemonsMld"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/afkoppelen-hemelwater-subsidie",
+    "title": "Afkoppelen hemelwater | Subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/gemeentearchief",
+    "title": "Gemeentearchief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/archiefInzage"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/leerplicht-bijzonder-verlof-of-vrijstelling",
+    "title": "Leerplicht, bijzonder verlof of vrijstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/sportaccommodaties-en-velden-huren",
+    "title": "Sportaccommodaties en velden huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/afval-gft-groente-fruit-en-tuin",
+    "title": "Afval, GFT (Groente, Fruit en Tuin)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/hulp-bij-een-arbeidsbeperking",
+    "title": "Hulp bij een arbeidsbeperking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/regArbBepIns"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/erfcoach",
+    "title": "Erfcoach",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/overzicht-geleverde-persoonsgegevens-opvragen",
+    "title": "Overzicht geleverde persoonsgegevens opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/woningsplitsing",
+    "title": "Woningsplitsing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/voorverkoop-zwembadabonnementen-balie-zwembad-gerner-de-meule",
+    "title": "Voorverkoop zwembadabonnement(en) balie zwembad Gerner / De Meule",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/recreatiewoning-permanente-bewoning",
+    "title": "Recreatiewoning, permanente bewoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/leer-werktraject-startkwalificatie-behalen",
+    "title": "Leer-werktraject, startkwalificatie behalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/opvragen-persoonsgegevens",
+    "title": "Opvragen persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/olietanks-in-particuliere-grond-verwijderen",
+    "title": "Olietanks in particuliere grond verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/olietankMld"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/seniorenwoningen-bijdrage-bouwkosten",
+    "title": "Seniorenwoningen, bijdrage bouwkosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/senWonBijdBwkst"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/displays-gebruik",
+    "title": "Displays, gebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/automatische-incasso-machtiging",
+    "title": "Automatische incasso, machtiging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/exploitatievergunning-horecabedrijf",
+    "title": "Exploitatievergunning horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/sports4you",
+    "title": "Sports4you",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/basisregistratie-adressen-en-gebouwen-bag",
+    "title": "Basisregistratie Adressen en Gebouwen (BAG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/houtrook-hout-stoken",
+    "title": "Houtrook / hout stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/echtscheiding-of-einde-geregistreerd-partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bijstand-voor-zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/jeugdgezondheidszorg",
+    "title": "Jeugdgezondheidszorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/sports4kids",
+    "title": "Sports4kids",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/participatiewet-uitkering-pw-uitkering",
+    "title": "Participatiewet uitkering (PW-uitkering)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bestemmingsplan-aanpassen",
+    "title": "Bestemmingsplan aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/koninklijke-onderscheiding-lintje",
+    "title": "Koninklijke onderscheiding,  lintje",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/milieuzorg-bij-bedrijven",
+    "title": "Milieuzorg bij bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/voorwerp-plaatsen-op-of-aan-de-weg",
+    "title": "Voorwerp plaatsen op of aan de weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/naamswijziging-voornaam",
+    "title": "Naamswijziging voornaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voornaamwijziging"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/de-groene-menukaart",
+    "title": "De Groene Menukaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/woonwagen-standplaats",
+    "title": "Woonwagen, standplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonwagenstandplaats"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/proscoop-regio-vechtdal",
+    "title": "Proscoop regio Vechtdal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/afstand-doen-van-de-nederlandse-nationaliteit",
+    "title": "Afstand doen van de Nederlandse nationaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_afstand_nederlandse_nationaliteit"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/attestatie-de-vita-internationaal-bewijs-van-in-leven-zijn",
+    "title": "Attestatie de vita (internationaal bewijs van in leven zijn)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/geregistreerd-partnerschap",
+    "title": "Geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschapaangifte"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/vrijwilligerspunt-dalfsen",
+    "title": "Vrijwilligerspunt Dalfsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/gokautomaat-plaatsen",
+    "title": "Gokautomaat plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/milieu-vergunning-of-melding",
+    "title": "Milieu, vergunning of melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/lokale-leveranciers-selectielijsten",
+    "title": "Lokale leveranciers, selectielijsten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bijzonder-transport",
+    "title": "Bijzonder transport",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegenverkeerswetontheffing"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/collecte",
+    "title": "Collecte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/verzoek-om-handhaving",
+    "title": "Verzoek om handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/kabels-en-leidingen-leggen-in-openbare-grond",
+    "title": "Kabels en leidingen leggen in openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/inkoopbeleid-gemeente-dalfsen",
+    "title": "Inkoopbeleid gemeente Dalfsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bijstand-instelling-of-tehuis",
+    "title": "Bijstand, instelling of tehuis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bijstand-vakantie-melden",
+    "title": "Bijstand, vakantie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/monument-aanwijzen",
+    "title": "Monument aanwijzen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentaanwijzing"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/huisnummerpaal-enof-huisnummerbord-bestellen",
+    "title": "Huisnummerpaal en/of huisnummerbord bestellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/ontheffing-artikel-35-alcoholwet",
+    "title": "Ontheffing artikel 35 Alcoholwet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/verklaring-sociaal-medische-indicatie",
+    "title": "Verklaring Sociaal Medische Indicatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/jeugdsubsidie-culturele-verenigingen",
+    "title": "Jeugdsubsidie culturele verenigingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/psychische-hulp-melding",
+    "title": "Psychische hulp, melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/gemeentelijk-vervoer-en-verkeerplan-gvvp",
+    "title": "Gemeentelijk Vervoer- en Verkeerplan (GVVP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/dood-dier-opruimen",
+    "title": "Dood dier opruimen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dodeGezelschDierenOpr"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/route-gevaarlijke-stoffen",
+    "title": "Route gevaarlijke stoffen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/initiatieven-uit-de-samenleving-subsidieregeling",
+    "title": "Initiatieven uit de samenleving, subsidieregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/tijdelijke-verhuur-leegstaand-pand",
+    "title": "Tijdelijke verhuur leegstaand pand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnTijdVerhVerg"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/overledene-naar-het-buitenland-vervoeren",
+    "title": "Overledene naar het buitenland vervoeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/alcohol-schenken-tijdens-evenement",
+    "title": "Alcohol schenken tijdens evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/afval-plastic-blik-en-drinkpakken",
+    "title": "Afval, plastic, blik en drinkpakken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalInzPMDK"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/grip-grondstoffen-inleverpunt",
+    "title": "GRIP (GRondstoffen InleverPunt)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/rijbewijs-verlengen",
+    "title": "Rijbewijs verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbVerlengen"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/woz-waarde",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/geslachtswijziging",
+    "title": "Geslachtswijziging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geslachtswijzigingsaangifte"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/mantelzorgwoning",
+    "title": "Mantelzorgwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/geheimhouden-persoonsgegevens",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/informatie-over-beleid-of-besluiten-opvragen-who-verzoek",
+    "title": "Informatie over beleid of besluiten opvragen (Who-verzoek)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hergebOvInfo"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/gladheid-bestrijden",
+    "title": "Gladheid bestrijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/beschermd-wonen-wmo",
+    "title": "Beschermd wonen (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/exploitatieovereenkomst",
+    "title": "Exploitatieovereenkomst",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grondexplOvereen"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/marktplaats-aanvragen",
+    "title": "Marktplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/kostendelersnorm",
+    "title": "Kostendelersnorm",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/asbestdaken-aanpak",
+    "title": "Asbestdaken, aanpak",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/kinderopvang-starten",
+    "title": "Kinderopvang starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/kind-erkennen-na-de-geboorte",
+    "title": "Kind erkennen ná de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/gratis-huwelijk",
+    "title": "Gratis huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/seksbedrijf-starten",
+    "title": "Seksbedrijf starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/seksbedrijf_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/evenementensubsidie",
+    "title": "Evenementensubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/overlijden-aangifte",
+    "title": "Overlijden, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/afval-klein-chemisch-afval",
+    "title": "Afval, klein chemisch afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_chemisch_afval"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/aanschrijving-door-de-gemeente",
+    "title": "Aanschrijving door de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanschrijving"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/nederlander-worden-door-naturalisatie",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/nee-nee-sticker-nee-ja-sticker",
+    "title": "NEE-NEE sticker, NEE-JA sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/meld-schade-aan-fiets-en-wandelnetwerk",
+    "title": "Meld schade aan fiets- en wandelnetwerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bouwkavels-hoonhorst",
+    "title": "Bouwkavels Hoonhorst",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/kind-adopteren",
+    "title": "Kind adopteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adoptie_aangifte"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/overdragen-omgevingsvergunning-melding",
+    "title": "Overdragen omgevingsvergunning, melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/huisnummer-aanvragen-of-veranderen",
+    "title": "Huisnummer aanvragen of veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/evenementenvergunning-aanvragen",
+    "title": "Evenementenvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bijstand-voor-jongeren",
+    "title": "Bijstand voor jongeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/kwijtschelding-gemeente-en-waterschapsbelastingen",
+    "title": "Kwijtschelding gemeente- en waterschapsbelastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/saam-welzijn",
+    "title": "SAAM Welzijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/regelingen-voor-mensen-met-een-laag-inkomen",
+    "title": "Regelingen voor mensen met een laag inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/inwoning",
+    "title": "Inwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/jeugdsportsubsidie",
+    "title": "Jeugdsportsubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdsportsubsidie"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/geluidsoverlast-veroorzaken",
+    "title": "Geluidsoverlast veroorzaken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/afschrift-uittreksel-burgerlijke-stand",
+    "title": "Afschrift (uittreksel) burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/trouwen-in-het-buitenland",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/handtekening-legaliseren",
+    "title": "Handtekening legaliseren ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/alcoholvergunning",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/projectsubsidie",
+    "title": "Projectsubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/afval-huishoudelijk-afval",
+    "title": "Afval, huishoudelijk afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/waarmerken-kopie-of-afschrift",
+    "title": "Waarmerken kopie of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/venten",
+    "title": "Venten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/informatiestand-plaatsen",
+    "title": "Informatiestand plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/ongediertebestrijding",
+    "title": "Ongediertebestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/belastingen-en-heffingen-kwijtschelding",
+    "title": "Belastingen en heffingen, kwijtschelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/achternaam-kind-kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/paspoort-identiteitskaart-kwijt-of-gestolen",
+    "title": "Paspoort / identiteitskaart, kwijt of gestolen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/belastingen-kopie-aanslag",
+    "title": "Belastingen, kopie aanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_kopie"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/jeugdhulp-geestelijke-gezondheidszorg-ggz",
+    "title": "Jeugdhulp, geestelijke gezondheidszorg (GGZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/standplaats-aanvragen",
+    "title": "Standplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/verkeersontheffing-aanvragen",
+    "title": "Verkeersontheffing aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegenverkeerswetontheffing"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/verwijderen-privacygevoelige-persoonsgegevens",
+    "title": "Verwijderen privacygevoelige persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/parkeervergunning",
+    "title": "Parkeervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/legesverordening",
+    "title": "Legesverordening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leges"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/risicokaart-provincie-overijssel",
+    "title": "Risicokaart Provincie Overijssel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/risicokaart"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/tarieven-gebruik-sportvelden",
+    "title": "Tarieven gebruik sportvelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/centrumplan-dalfsen",
+    "title": "Centrumplan Dalfsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/nederlander-worden-door-optie",
+    "title": "Nederlander worden door optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalOptie"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/ramp-of-crisis",
+    "title": "Ramp of crisis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rampen_en_zware_ongevallen_informatieplicht"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/transport-gevaarlijke-stoffen",
+    "title": "Transport gevaarlijke stoffen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/routeplichtontheffing_vervoer_gevaarlijke_stoffen"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/jeugdhulp",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/omgevingsvisie-gemeente-dalfsen",
+    "title": "Omgevingsvisie gemeente Dalfsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/meldpunt-maatschappelijke-zorg",
+    "title": "Meldpunt Maatschappelijke Zorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/kapvergunning-omgevingsvergunning",
+    "title": "Kapvergunning (omgevingsvergunning)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/verhuizen-naar-het-buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/terras-plaatsen",
+    "title": "Terras plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/loterij-prijsvraag-bingo-organiseren",
+    "title": "Loterij, prijsvraag, bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/huisverbod-bij-huiselijk-geweld",
+    "title": "Huisverbod bij huiselijk geweld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tijdHuisverbod"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/individuele-studietoeslag",
+    "title": "Individuele studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bedrijfsactiviteiten-wijzigen",
+    "title": "Bedrijfsactiviteiten wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wet_milieubeheermelding"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/compensatieregeling-zaalhuur-culturele-verenigingen",
+    "title": "Compensatieregeling zaalhuur culturele verenigingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/wegwerkzaamheden-overijssel",
+    "title": "Wegwerkzaamheden Overijssel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/monument-subsidie",
+    "title": "Monument, subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/uitstallingen",
+    "title": "Uitstallingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/meldpunt-jeugdoverlast",
+    "title": "Meldpunt Jeugdoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bodeminformatie",
+    "title": "Bodeminformatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/onroerendezaakbelasting-ozb",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/gebruik-achternaam-veranderen",
+    "title": "Gebruik achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/dranghekken-gebruik",
+    "title": "Dranghekken, gebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bijen-houden",
+    "title": "Bijen houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijenhoudonth"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/verklaring-onder-ede-of-belofte",
+    "title": "Verklaring onder ede of belofte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgegevens_verklaring_onder_eed_of_belofte"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/sloopmelding-gebouw-of-deel-gebouw",
+    "title": "Sloopmelding gebouw of deel gebouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/voorverkoop-zwembadabonnementen-digitaal",
+    "title": "Voorverkoop zwembadabonnement(en) digitaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-werknemers-ioaw",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte werknemers (IOAW)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaw-uitkering"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/hulp-bij-het-huishouden",
+    "title": "Hulp bij het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/watergangen-beheer-gemeente-dalfsen",
+    "title": "Watergangen beheer gemeente Dalfsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bodembeleid",
+    "title": "Bodembeleid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/zwemlessen",
+    "title": "Zwemlessen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/toestemming-reisdocument-indienen",
+    "title": "Toestemming reisdocument, indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bijstand-uitkering",
+    "title": "Bijstand, uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/as-verstrooien",
+    "title": "As verstrooien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asverstrooiing"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/watervergunning",
+    "title": "Watervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/watervergunning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/kind-erkennen-voor-de-geboorte",
+    "title": "Kind erkennen vóór de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/kinderopvang-controle",
+    "title": "Kinderopvang controle",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/sociale-huurwoning-urgentieverklaring",
+    "title": "Sociale huurwoning, urgentieverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/urgBewWoning"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/verklaring-omtrent-het-gedrag-vog",
+    "title": "Verklaring omtrent het gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/gezondheidsverklaring",
+    "title": "Gezondheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbGezVerkl"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/regionaal-serviceteam-jeugd-ijsselland",
+    "title": "Regionaal Serviceteam Jeugd IJsselland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/wildkamperen",
+    "title": "Wildkamperen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kampeeronth"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/verzorging-pleegkind-melden",
+    "title": "Verzorging pleegkind melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/kerngezond-dalfsen",
+    "title": "Kerngezond Dalfsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/passantenhaven",
+    "title": "Passantenhaven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bedrijveninvesteringszone-biz",
+    "title": "Bedrijveninvesteringszone (BIZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bijstand-vrijwilligerswerk",
+    "title": "Bijstand, vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/monument-verbouwen-herstellen-of-onderhouden",
+    "title": "Monument verbouwen, herstellen of onderhouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bijstand-terugbetalen-door-ex-partner-of-ouder",
+    "title": "Bijstand terugbetalen door ex-partner of ouder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/milieuvervuiling-melden",
+    "title": "Milieuvervuiling melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/verloren-of-gevonden-voorwerpen-melden",
+    "title": "Verloren of gevonden voorwerpen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/trouwen",
+    "title": "Trouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/afvalwater-lozen",
+    "title": "Afvalwater lozen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalwatermelding"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/rijbewijs-online-verlies-of-diefstal-registreren",
+    "title": "Rijbewijs, online verlies of diefstal registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/tarieven-zwembaden-2023",
+    "title": "Tarieven zwembaden 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/grafuitgifte",
+    "title": "Grafuitgifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/hondenbeleid-hondentoiletten-en-losloopgebieden",
+    "title": "Hondenbeleid, hondentoiletten en losloopgebieden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/schulden",
+    "title": "Schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/whatsapp-buurtpreventie",
+    "title": "WhatsApp Buurtpreventie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/levenloos-geboren-kind-registreren",
+    "title": "Levenloos geboren kind registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bestemmingsplan-bekijken",
+    "title": "Bestemmingsplan bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/gemeentelijke-gezondheidsdienst-ggd",
+    "title": "Gemeentelijke Gezondheidsdienst (GGD)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gezondheidsdienst"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/dyslexie",
+    "title": "Dyslexie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/naamswijziging-achternaam",
+    "title": "Naamswijziging achternaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bijstand-verandering-doorgeven",
+    "title": "Bijstand, verandering doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/buitenlandse-documenten-legaliseren-en-verifieren",
+    "title": "Buitenlandse documenten legaliseren en verifiëren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.dalfsen.nl/hulp-voor-ouderen-zieken-mensen-met-een-beperking-wmo",
+    "title": "Hulp voor ouderen, zieken, mensen met een beperking (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Dalfsen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  }
+]

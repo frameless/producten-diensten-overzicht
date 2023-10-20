@@ -1,0 +1,1297 @@
+[
+  {
+    "identifier": "https://www.duiven.nl//erkennen-van-een-kind",
+    "title": "Erkennen van een kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.duiven.nl//gezondheidsverklaring",
+    "title": "Gezondheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbGezVerkl"
+  },
+  {
+    "identifier": "https://www.duiven.nl//uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel Basisregistratie Personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.duiven.nl//eerste-inschrijving-in-nederland",
+    "title": "Eerste inschrijving in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.duiven.nl//afval-brengen",
+    "title": "Afval brengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.duiven.nl//scheiding-laten-inschrijven",
+    "title": "Scheiding laten inschrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/scheidTafelBedInschr"
+  },
+  {
+    "identifier": "https://www.duiven.nl//zienswijze",
+    "title": "Zienswijze",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zienswijze"
+  },
+  {
+    "identifier": "https://www.duiven.nl//tegemoetkoming-planschade",
+    "title": "Tegemoetkoming planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.duiven.nl//parkeren-in-duiven",
+    "title": "Parkeren in Duiven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_blauwe_zone"
+  },
+  {
+    "identifier": "https://www.duiven.nl//jaarverantwoording",
+    "title": "Jaarverantwoording",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//ondersteuningsverklaring",
+    "title": "Ondersteuningsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ondrstverkl"
+  },
+  {
+    "identifier": "https://www.duiven.nl//leerlingenvervoer",
+    "title": "Leerlingenvervoer ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.duiven.nl//rsd-de-liemers",
+    "title": "RSD de Liemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aorFinOnd"
+  },
+  {
+    "identifier": "https://www.duiven.nl//afval-ophalen-aan-huis",
+    "title": "Afval ophalen aan huis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.duiven.nl//bodeminformatie-inleveren-als-xml-bestand",
+    "title": "Bodeminformatie inleveren als XML-bestand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.duiven.nl//tegengaan-van-laaggeletterdheid",
+    "title": "Tegengaan van laaggeletterdheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderwijssubsidie"
+  },
+  {
+    "identifier": "https://www.duiven.nl//schulden",
+    "title": "Schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.duiven.nl//omgevingsdienst-regio-arnhem-odra",
+    "title": "Omgevingsdienst Regio Arnhem (ODRA)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.duiven.nl//verklaring-omtrent-gedrag",
+    "title": "Verklaring Omtrent Gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.duiven.nl//sponsoring-van-evenementen",
+    "title": "Sponsoring van evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportactiviteitensubsidie"
+  },
+  {
+    "identifier": "https://www.duiven.nl//nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://www.duiven.nl//wonen-in-duiven",
+    "title": "Wonen in Duiven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonomgeving_inrichting"
+  },
+  {
+    "identifier": "https://www.duiven.nl//gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.duiven.nl//bodeminformatie-opvragen",
+    "title": "Bodeminformatie opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouw-_en_grondverklaring"
+  },
+  {
+    "identifier": "https://www.duiven.nl//slopen-melding-of-vergunning",
+    "title": "Slopen: melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.duiven.nl//bedrijfscontactfunctionaris",
+    "title": "Bedrijfscontactfunctionaris",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsterrein_huren_of_kopen"
+  },
+  {
+    "identifier": "https://www.duiven.nl//uittreksel-burgerlijke-stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.duiven.nl//afvalstromen",
+    "title": "Afvalstromen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvaldoorzoekingsvergunning"
+  },
+  {
+    "identifier": "https://www.duiven.nl//zakenpaspoort",
+    "title": "Zakenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "https://www.duiven.nl//uitrit-aanvragen",
+    "title": "Uitrit aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_inrit"
+  },
+  {
+    "identifier": "https://www.duiven.nl//peuteropvang",
+    "title": "Peuteropvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/regKindOpvPeutSpZlInz"
+  },
+  {
+    "identifier": "https://www.duiven.nl//informatie-rondom-zorg-welzijn-en-financien",
+    "title": "Informatie rondom zorg, welzijn en financiën",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/maatschappelijke_zorgsubsidie"
+  },
+  {
+    "identifier": "https://www.duiven.nl//verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.duiven.nl//ondersteuning-advies",
+    "title": "Ondersteuning & advies ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/maatschappelijke_zorgsubsidie"
+  },
+  {
+    "identifier": "https://www.duiven.nl//regelingen-speciaal-voor-kinderen",
+    "title": "Regelingen speciaal voor kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.duiven.nl//leegstaande-woon-of-bedrijfsruimte-verhuren",
+    "title": "Leegstaande woon-of bedrijfsruimte verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woning_tijdelijke_verhuurvergunning"
+  },
+  {
+    "identifier": "https://www.duiven.nl//vestiging-vanuit-buitenland",
+    "title": "Vestiging vanuit buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hervestiging_vanuit_het_buitenland"
+  },
+  {
+    "identifier": "https://www.duiven.nl//ongedierte",
+    "title": "Ongedierte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.duiven.nl//bedrijf-starten-of-vestigen",
+    "title": "Bedrijf starten of vestigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsterrein_huren_of_kopen"
+  },
+  {
+    "identifier": "https://www.duiven.nl//voorwerpen-op-of-aan-de-weg",
+    "title": "Voorwerpen op of aan de weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruiksvergunning"
+  },
+  {
+    "identifier": "https://www.duiven.nl//regel-uw-trouwdag",
+    "title": "Regel uw trouwdag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.duiven.nl//publicatieborden",
+    "title": "Publicatieborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//stimuleringsbeleid",
+    "title": "Stimuleringsbeleid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aorFinOnd"
+  },
+  {
+    "identifier": "https://www.duiven.nl//vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.duiven.nl//bezwaar-tegen-belasting-gemeente",
+    "title": "Bezwaar tegen belasting gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.duiven.nl//vragen-over-uw-belastingaanslag-woz-waarde",
+    "title": "Vragen over uw belastingaanslag / WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-taxatieverslag"
+  },
+  {
+    "identifier": "https://www.duiven.nl//inkoop-en-aanbesteden",
+    "title": "Inkoop en aanbesteden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inkoop"
+  },
+  {
+    "identifier": "https://www.duiven.nl//iemand-anders-laten-stemmen",
+    "title": "Iemand anders laten stemmen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//welstandscommissie",
+    "title": "Welstandscommissie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.duiven.nl//kleur-uw-buurt",
+    "title": "Kleur uw buurt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://www.duiven.nl//heling",
+    "title": "Heling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//bloesemgaardekerkakkers-29",
+    "title": "Bloesemgaarde/Kerkakkers 29 ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//informatie-over-verordening-wmo",
+    "title": "Informatie over verordening Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.duiven.nl//groenonderhoud",
+    "title": "Groenonderhoud",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(groenvoorziening)"
+  },
+  {
+    "identifier": "https://www.duiven.nl//subsidies-energiebesparende-maatregelen",
+    "title": "Subsidies energiebesparende maatregelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/energBespEigenHuisSubs"
+  },
+  {
+    "identifier": "https://www.duiven.nl//paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.duiven.nl//ramp-of-incident",
+    "title": "Ramp of incident",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rampenplan"
+  },
+  {
+    "identifier": "https://www.duiven.nl//verruiming-inkomensgrens-140-voor-deelname-collectieve-ziektekostenverzekering",
+    "title": "Verruiming inkomensgrens (140%) voor deelname collectieve ziektekostenverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.duiven.nl//milieuoverlast-door-bedrijven",
+    "title": "Milieuoverlast door bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/milieuhandhaving"
+  },
+  {
+    "identifier": "https://www.duiven.nl//coalitieakkoord-gemeente-duiven-2022-2026",
+    "title": "Coalitieakkoord gemeente Duiven 2022-2026",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//gelrepas",
+    "title": "GelrePas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.duiven.nl//adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.duiven.nl//informatie-over-verordening-jeugdhulp",
+    "title": "Informatie over verordening Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.duiven.nl//gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.duiven.nl//aangifte-geboorte-levenloos-kind",
+    "title": "Aangifte geboorte levenloos kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.duiven.nl//honden",
+    "title": "Honden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.duiven.nl//bijstandsfraude",
+    "title": "Bijstandsfraude",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.duiven.nl//digitaal-scheidingsloket",
+    "title": "Digitaal Scheidingsloket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/scheidTafelBedInschr"
+  },
+  {
+    "identifier": "https://www.duiven.nl//afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.duiven.nl//inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inbExamAanmeld"
+  },
+  {
+    "identifier": "https://www.duiven.nl//toeristische-informatie-en-evenementen",
+    "title": "Toeristische informatie en evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//onze-vergaderkalender",
+    "title": "Onze vergaderkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//regeling-vervanging-witgoed",
+    "title": "Regeling vervanging witgoed",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.duiven.nl//overlast-door-boombewoners",
+    "title": "Overlast door boombewoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(groenvoorziening)"
+  },
+  {
+    "identifier": "https://www.duiven.nl//nee-ja-sticker",
+    "title": "Nee/ Ja sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvbehbijdr"
+  },
+  {
+    "identifier": "https://www.duiven.nl//energietoeslag",
+    "title": "Energietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://www.duiven.nl//koopzondagen",
+    "title": "Koopzondagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koopzondageninformatie"
+  },
+  {
+    "identifier": "https://www.duiven.nl//hulp-voor-oekraine",
+    "title": "Hulp voor Oekraïne",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//adressen-en-register-kinderopvang",
+    "title": "Adressen en register kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/regKindOpvPeutSpZlInz"
+  },
+  {
+    "identifier": "https://www.duiven.nl//woo-verzoek",
+    "title": "Woo-verzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/beroep"
+  },
+  {
+    "identifier": "https://www.duiven.nl//meldpunt-discriminatie-en-pesten",
+    "title": "Meldpunt Discriminatie en Pesten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/discrKlacht"
+  },
+  {
+    "identifier": "https://www.duiven.nl//werk-zoeken",
+    "title": "Werk zoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/werkbegeleiding_werkzoekenden"
+  },
+  {
+    "identifier": "https://www.duiven.nl//evenement-melding-of-vergunning",
+    "title": "Evenement: melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.duiven.nl//ontheffing-voetgangersgebied-centrum-duiven",
+    "title": "Ontheffing voetgangersgebied centrum Duiven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afgezette_gebieden_betreden_ontheffing"
+  },
+  {
+    "identifier": "https://www.duiven.nl//registratie-niet-ingezetenen-rni",
+    "title": "Registratie Niet-Ingezetenen (RNI)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rniInschr"
+  },
+  {
+    "identifier": "https://www.duiven.nl//zwerfafval",
+    "title": "Zwerfafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_chemisch_afval"
+  },
+  {
+    "identifier": "https://www.duiven.nl//contact",
+    "title": "Contact",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//hulp-voor-gedupeerden-van-de-toeslagenaffaire",
+    "title": "Hulp voor gedupeerden van de toeslagenaffaire",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//id-covers",
+    "title": "ID Covers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.duiven.nl//begraafplaatsen",
+    "title": "Begraafplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_begraafplaats_toestemming"
+  },
+  {
+    "identifier": "https://www.duiven.nl//terugbetaling-gratis-huwelijk-of-geregistreerd-partnerschap",
+    "title": "Terugbetaling gratis huwelijk of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//uw-aanslag-gemeentelijke-belastingen",
+    "title": "Uw aanslag gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)_kopie_aanslag"
+  },
+  {
+    "identifier": "https://www.duiven.nl//verstopping-riool-melden",
+    "title": "Verstopping riool melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.duiven.nl//bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.duiven.nl//opvoedadvies",
+    "title": "Opvoedadvies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/opvoedingsondersteuning"
+  },
+  {
+    "identifier": "https://www.duiven.nl//omgevingswet",
+    "title": "Omgevingswet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.duiven.nl//stimuleren-nieuwe-initiatieven",
+    "title": "Stimuleren nieuwe initiatieven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.duiven.nl//vertrek-naar-buitenland-emigratie-doorgeven",
+    "title": "Vertrek naar buitenland (emigratie) doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.duiven.nl//individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.duiven.nl//wegwerkzaamheden-wegafsluitingen",
+    "title": "Wegwerkzaamheden / wegafsluitingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verkeerscirculatie"
+  },
+  {
+    "identifier": "https://www.duiven.nl//starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.duiven.nl//asielopvang",
+    "title": "Asielopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//woonwagenstandplaatsen",
+    "title": "Woonwagenstandplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonwagenstandplaats"
+  },
+  {
+    "identifier": "https://www.duiven.nl//naamgebruik-wijzigen",
+    "title": "Naamgebruik wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.duiven.nl//overlast-door-planten",
+    "title": "Overlast door planten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(groenvoorziening)"
+  },
+  {
+    "identifier": "https://www.duiven.nl//tellen-van-de-stemmen",
+    "title": "Tellen van de stemmen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//vrijwilligerswerk",
+    "title": "Vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.duiven.nl//betalen-gemeentelijke-belastingen",
+    "title": "Betalen gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaangifte"
+  },
+  {
+    "identifier": "https://www.duiven.nl//carbidschieten",
+    "title": "Carbidschieten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/carbidschietenmelding"
+  },
+  {
+    "identifier": "https://www.duiven.nl//huiselijk-geweld",
+    "title": "Huiselijk geweld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huiselijk_geweldondersteuning"
+  },
+  {
+    "identifier": "https://www.duiven.nl//melding-doen",
+    "title": "Melding doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.duiven.nl//bomen",
+    "title": "Bomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(groenvoorziening)"
+  },
+  {
+    "identifier": "https://www.duiven.nl//aangifte-van-overlijden",
+    "title": "Aangifte van overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.duiven.nl//loterij-en-kansspel",
+    "title": "Loterij en kansspel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/loterijvergunning"
+  },
+  {
+    "identifier": "https://www.duiven.nl//geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.duiven.nl//iedereen-doet-mee",
+    "title": "Iedereen doet mee",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//verkeer-in-uw-buurt",
+    "title": "Verkeer in uw buurt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verkeersbesluit"
+  },
+  {
+    "identifier": "https://www.duiven.nl//leerplicht",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.duiven.nl//kavels-en-bedrijventerreinen",
+    "title": "Kavels en bedrijventerreinen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsterreinuitgifte"
+  },
+  {
+    "identifier": "https://www.duiven.nl//deelname-collectieve-ziektekostenverzekering",
+    "title": "Deelname collectieve ziektekostenverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectieve_ziektekostenverzekering"
+  },
+  {
+    "identifier": "https://www.duiven.nl//container",
+    "title": "Container ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.duiven.nl//verbranden-snoeihout",
+    "title": "Verbranden snoeihout",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.duiven.nl//sociaal-team",
+    "title": "Sociaal Team ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/maatschappelijke_zorgsubsidie"
+  },
+  {
+    "identifier": "https://www.duiven.nl//stempas",
+    "title": "Stempas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "https://www.duiven.nl//rioolaansluiting",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.duiven.nl//vroeg-eropaf",
+    "title": "Vroeg Eropaf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aorFinOnd"
+  },
+  {
+    "identifier": "https://www.duiven.nl//monumenten",
+    "title": "Monumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentaanwijzing"
+  },
+  {
+    "identifier": "https://www.duiven.nl//garantstelling-of-logiesverstrekking",
+    "title": "Garantstelling of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.duiven.nl//afvalpas",
+    "title": "Afvalpas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.duiven.nl//uitkering-aanvragen",
+    "title": "Uitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.duiven.nl//collectevergunning",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.duiven.nl//bouw-ikc-remigius",
+    "title": "Bouw IKC Remigius",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//bestemmingsplan",
+    "title": "Bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.duiven.nl//financiele-steun",
+    "title": "Financiële steun",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.duiven.nl//stationsgebied",
+    "title": "Stationsgebied",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//woningbouw-droopad-1",
+    "title": "Woningbouw Droopad 1",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//grafrechten",
+    "title": "Grafrechten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafrechten"
+  },
+  {
+    "identifier": "https://www.duiven.nl//legaliseren-handtekening",
+    "title": "Legaliseren handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.duiven.nl//stembureaus",
+    "title": "Stembureaus",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "https://www.duiven.nl//plakse-weide",
+    "title": "Plakse Weide",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//samen1nergie",
+    "title": "Samen1Nergie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/investSubsDuurzEner"
+  },
+  {
+    "identifier": "https://www.duiven.nl//subsidie-sanering-asbestdaken",
+    "title": "Subsidie sanering asbestdaken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verwAsbestdakSubs"
+  },
+  {
+    "identifier": "https://www.duiven.nl//minimaregelingen",
+    "title": "Minimaregelingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.duiven.nl//studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.duiven.nl//briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.duiven.nl//verloren-en-gevonden-voorwerpen",
+    "title": "Verloren en gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.duiven.nl//aansprakelijkheid-bij-schade",
+    "title": "Aansprakelijkheid bij schade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.duiven.nl//standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.duiven.nl//stemmen-in-een-andere-gemeente",
+    "title": "Stemmen in een andere gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//openbaar-laadpunt",
+    "title": "Openbaar laadpunt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/laadpaalverzoek"
+  },
+  {
+    "identifier": "https://www.duiven.nl//verblijfsvergunning",
+    "title": "Verblijfsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verblijfsvergunning"
+  },
+  {
+    "identifier": "https://www.duiven.nl//reizen-met-kinderen",
+    "title": "Reizen met kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reizMJToest"
+  },
+  {
+    "identifier": "https://www.duiven.nl//aanvullende-bijdrage-kinderopvang",
+    "title": "Aanvullende bijdrage kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://www.duiven.nl//parkeerontheffing-blauwe-zone",
+    "title": "Parkeerontheffing blauwe zone",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_blauwe_zone"
+  },
+  {
+    "identifier": "https://www.duiven.nl//uitdaagrecht",
+    "title": "Uitdaagrecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.duiven.nl//sint-antoniusstraat",
+    "title": "Sint Antoniusstraat ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//wmo",
+    "title": "Wmo ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.duiven.nl//ondersteuning-bij-initiatieven",
+    "title": "Ondersteuning bij initiatieven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.duiven.nl//eikenprocessierups",
+    "title": "Eikenprocessierups",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.duiven.nl//melding-verplichte-geestelijke-gezondheidszorg-in-het-kader-van-de-wvggz",
+    "title": "Melding verplichte geestelijke gezondheidszorg in het kader van de Wvggz",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/openbare_geestelijke_gezondheidszorg_(oggz)"
+  },
+  {
+    "identifier": "https://www.duiven.nl//project-loostraat",
+    "title": "Project Loostraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//bezwaar-en-beroep",
+    "title": "Bezwaar en beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.duiven.nl//onafhankelijke-clientondersteuning",
+    "title": "Onafhankelijke cliëntondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/maatschappelijke_zorgsubsidie"
+  },
+  {
+    "identifier": "https://www.duiven.nl//tweede-paspoort",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "https://www.duiven.nl//gladheidsbestrijding",
+    "title": "Gladheidsbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.duiven.nl//vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.duiven.nl//rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.duiven.nl//alcoholwetvergunning",
+    "title": "Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.duiven.nl//parkeren-bij-laadpalen",
+    "title": "Parkeren bij laadpalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/laadpaalverzoek"
+  },
+  {
+    "identifier": "https://www.duiven.nl//omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.duiven.nl//achternaam-kiezen-voor-uw-kind",
+    "title": "Achternaam kiezen voor uw kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.duiven.nl//fietsregeling-fietsenproject-duiven-westervoort",
+    "title": "Fietsregeling Fietsenproject Duiven-Westervoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//openbaar-vervoer",
+    "title": "Openbaar vervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.duiven.nl//kopie-waarmerken",
+    "title": "Kopie waarmerken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/waarmerken_document"
+  },
+  {
+    "identifier": "https://www.duiven.nl//afval-scheiden",
+    "title": "Afval scheiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.duiven.nl//klacht-over-behandeling-gemeente",
+    "title": "Klacht over behandeling gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.duiven.nl//bouwen-en-verbouwen",
+    "title": "Bouwen en verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.duiven.nl//kwijtschelding-gemeentelijke-belastingen",
+    "title": "Kwijtschelding gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.duiven.nl//mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.duiven.nl//regeling-voor-inwoners-met-meerkosten-door-een-chronische-ziekte-enof-beperking-of-vanaf-de",
+    "title": "Regeling voor inwoners met meerkosten door een chronische ziekte en/of beperking of vanaf de pensioengerechtigde leeftijd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.duiven.nl//aangifte-van-geboorte",
+    "title": "Aangifte van geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.duiven.nl//jeugdhulp",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.duiven.nl//rijbewijs-aanvragen-of-verlengen",
+    "title": "Rijbewijs aanvragen of verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Duiven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  }
+]

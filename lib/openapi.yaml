@@ -1,0 +1,221 @@
+openapi: "3.0.0"
+info:
+  version: 1.0.0
+  title: Zoekdienst SC
+  description: |
+    ## Zoekdienst SC
+
+    De Zoekdienst kan bevraagd worden met [queries](https://logius.nl/domeinen/interactie/samenwerkende-catalogi/documentatie/informatie-publicatie-model#techniek-bevraging-van-de-landelijke-virtuele-catalogus-middels-api). De REST request/response staan hieronder beschreven volgens OpenAPI. 
+    Meer informatie over het opbouwen van een query is te vinden op de bijbehorende [GitHub pagina](https://github.com/zoekdienst-sc/zoekdienst-sc.github.io).
+
+    In de **query** parameter kan opgegeven worden aan welke criteria de zoekresultaten moeten voldoen. Bijvoorbeeld: producten en diensten van gemeente Almere voor ondernemers. 
+    De query wordt gespecificeerd conform de [Contextual Query Language (CQL)](https://www.loc.gov/standards/sru/cql/spec.html). 
+    De meeste metadatavelden uit de SC collectie kunnen als criterium worden gebruikt en gecombineerd worden met **and**, **or** en **not**. 
+    Er kan ook op trefwoord worden gezocht in meerdere metedatavelden met "keyword". 
+    Meer over de mogelijkheden is te vinden in de SC documentatie op de [website van Logius](https://logius.nl/diensten/samenwerkende-catalogi/documentatie/informatie-publicatie-model).
+
+    Voorbeelden:
+      
+      | query                                                     | betekenis | 
+      | --------------------------------------------------------- | --------------------------------------------------- |
+      | authority = "Almere" and audience = "ondernemer"          | alle producten en diensten met bevoegd gezag Almere en doelgroep ondernemer
+      | organisatietype = "Gemeente" and (modified >= 2022-01-01) | alle producten van gemeenten met mutatiedatum op of na 1 januari 2022 
+      | keyword = "kinderopvangtoeslag"                           | producten en diensten met 'kinderopvang' in een van de tekstvelden
+      | (audience == "ondernemer" not audience == "particulier") and (organisatietype = "Gemeente") | producten en diensten van gemeenten die uitsluitend voor ondernemers zijn
+
+servers:
+  - url: https://zoekdienst.overheid.nl/sru
+paths:
+  /Search:
+    get:
+      summary: Producten En Diensten API
+      operationId: zoekdienst
+      tags:
+        - Zoekdienst
+      parameters:
+        - name: version
+          in: query
+          description: Welke versie wordt gebruikt
+          required: true
+          schema:
+            type: number
+            format: float
+            example: 1.2
+        - name: operation
+          in: query
+          description: Welke operatie wil je uitvoeren
+          required: true
+          schema:
+            type: string
+            example: searchRetrieve
+        - name: x-connection
+          in: query
+          description: In welke databank wil je zoeken
+          required: true
+          schema:
+            type: string
+            example: sc
+        - name: query
+          in: query
+          description: De daadwerkelijke zoekquery in CQL formaat
+          required: true
+          schema:
+            type: string
+            example: keyword="paspoort"
+        - name: startRecord
+          in: query
+          schema:
+            type: integer
+            example: 1
+        - name: maximumRecords
+          in: query
+          schema:
+            type: integer
+            example: 100
+        - name: recordSchema
+          in: query
+          schema:
+            type: string
+        - name: x-info-1-accept
+          in: query
+          description: "Wanneer deze parameter wordt meegegeven, worden naast de gebruikelijke zoekresultaten ook facetwaarden teruggegeven."
+          schema:
+            type: string
+            example: any
+      responses:
+        "200":
+          description: De zoekresultaten
+          content:
+            application/xml:
+              schema:
+                $ref: "#/components/schemas/searchRetrieveResponse"
+
+components:
+  schemas:
+    searchRetrieveResponse:
+      description: root element of the XML response
+      type: object
+      properties:
+        version:
+          type: string
+        numberOfRecords:
+          type: integer
+        records:
+          type: array
+          items:
+            $ref: "#/components/schemas/record"
+        nextRecordPosition:
+          type: integer
+          example: 11
+
+    record:
+      description: Elements of the search results
+      type: object
+      properties:
+        recordSchema:
+          type: string
+          format: url
+          example: "http://standaarden.overheid.nl/sru/"
+        recordPacking:
+          type: string
+          example: "xml"
+        recordData:
+          $ref: "#/components/schemas/RecordData"
+        recordPosition:
+          type: integer
+          example: 1
+
+    RecordData:
+      description: Elements of the search results
+      type: object
+      properties:
+        gzd:
+          type: object
+          properties:
+            originalData:
+              $ref: "#/components/schemas/OriginalData"
+            enrichedData:
+              $ref: "#/components/schemas/EnrichedData"
+
+    OriginalData:
+      type: object
+      properties:
+        overheidproduct:scproduct:
+          type: object
+          properties:
+            overheidproduct:meta:
+              type: object
+              properties:
+                overheidproduct:owmskern:
+                  $ref: "#/components/schemas/OwmsKern"
+                overheidproduct:owmsmantel:
+                  $ref: "#/components/schemas/OwmsMantel"
+                overheidproduct:scmeta:
+                  $ref: "#/components/schemas/ScMeta"
+
+    OwmsKern:
+      type: object
+      properties:
+        dcterms:identifier:
+          type: string
+          example: "<![CDATA[ https://www.smallingerland.nl/Onderwerpen/Paspoort_rijbewijs_uittreksels/Paspoort ]]>"
+        dcterms:title:
+          type: string
+          example: "<![CDATA[ Paspoort ]]>"
+        dcterms:language:
+          type: string
+          example: "<![CDATA[ nl ]]>"
+        dcterms:type:
+          type: string
+          example: "productbeschrijving"
+        overheid:authority:
+          type: string
+          example: "<![CDATA[ Smallingerland ]]>"
+
+    OwmsMantel:
+      type: object
+      properties:
+        dcterms:audience:
+          type: string
+          example: "particulier"
+        dcterms:subject:
+          type: string
+          example: "Recht"
+        dcterms:abstract:
+          type: string
+          example: "<![CDATA[ Een paspoort vraagt u persoonlijk aan. ]]>"
+
+    ScMeta:
+      type: object
+      properties:
+        overheidproduct:productID:
+          type: string
+          example: "<![CDATA[ 5e395520-e843-4d09-b54e-0d2c77ccf31d ]]>"
+        overheidproduct:onlineAanvragen:
+          type: string
+          example: "nee"
+        overheidproduct:uniformeProductnaam:
+          type: string
+          example: "paspoort"
+
+    EnrichedData:
+      type: object
+      properties:
+        authorityScheme:
+          type: string
+          example: Gemeente
+        authorityUri:
+          type: string
+          format: uri
+          example: "http://standaarden.overheid.nl/owms/terms/Smallingerland"
+        spatialType:
+          type: string
+          example: Gemeente
+        spatialUri:
+          type: string
+          format: uri
+          example: "http://standaarden.overheid.nl/owms/terms/Smallingerland"
+        uniformeProductnaamUri:
+          type: string
+          format: uri
+          example: "http://standaarden.overheid.nl/owms/terms/paspoort"

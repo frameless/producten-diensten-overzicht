@@ -1,0 +1,2788 @@
+[
+  {
+    "prefLabel": "1Stroom",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/nstroom",
+    "startDate": "2018-01-01"
+  },
+  {
+    "prefLabel": "ABG-organisatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/abgorg",
+    "startDate": "2015-08-01"
+  },
+  {
+    "prefLabel": "AQUON",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/aquon",
+    "startDate": "2010-12-17"
+  },
+  {
+    "prefLabel": "Afeer",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/afeer",
+    "startDate": "2019-02-01"
+  },
+  {
+    "prefLabel": "Afvalbeheer Regio Centraal Groningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/afbhregcgr",
+    "startDate": "2002-01-01"
+  },
+  {
+    "prefLabel": "Afvalbeheer Westfriesland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Centraal_Afvalverwijderingsbedrijf_Westfriesland",
+    "startDate": "1997-01-15"
+  },
+  {
+    "prefLabel": "Afvalinzameling Land van Cuijk en Boekel",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/afinzcubo",
+    "startDate": "2020-01-01",
+    "endDate": "2021-12-31"
+  },
+  {
+    "prefLabel": "Afvalschap IJmond-Zaanstreek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/avsijmzs",
+    "startDate": "1995-03-01",
+    "endDate": "2021-12-31"
+  },
+  {
+    "prefLabel": "Afvalverwijdering Utrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/olavu",
+    "startDate": "1984-12-01"
+  },
+  {
+    "prefLabel": "Alescon",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/alescon",
+    "startDate": "1999-12-01",
+    "endDate": "2018-12-31"
+  },
+  {
+    "prefLabel": "Amstelland en Meerlanden Werkorganisatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/amlmlwo",
+    "startDate": "2015-12-31"
+  },
+  {
+    "prefLabel": "Amstelland-en Meerlandenoverleg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Amstelland-_en_Meerlanden_Overleg",
+    "startDate": "1982-05-27"
+  },
+  {
+    "prefLabel": "Aqualysis",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Aqualysis",
+    "startDate": "2016-01-01"
+  },
+  {
+    "prefLabel": "Area Development Twente",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/adtwente",
+    "startDate": "2010-12-01",
+    "endDate": "2020-07-18"
+  },
+  {
+    "prefLabel": "Atlant Groep",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/atlantgrp",
+    "startDate": "2002-01-01",
+    "endDate": "2015-12-31"
+  },
+  {
+    "prefLabel": "Avalex",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/avalex",
+    "startDate": "2001-04-02"
+  },
+  {
+    "prefLabel": "Avres",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/avres",
+    "startDate": "2002-01-01"
+  },
+  {
+    "prefLabel": "Avri",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/avri",
+    "startDate": "2015-12-01"
+  },
+  {
+    "prefLabel": "BAR-organisatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/BAR-organisatie",
+    "startDate": "2014-01-01"
+  },
+  {
+    "prefLabel": "BEL Combinatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/BEL_Combinatie",
+    "startDate": "2008-01-01"
+  },
+  {
+    "prefLabel": "BENEGO",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/benego",
+    "startDate": "1992-10-05"
+  },
+  {
+    "prefLabel": "Bedrijfsvoeringseenheid Bommelerwaard",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bvebw",
+    "startDate": "2017-01-01"
+  },
+  {
+    "prefLabel": "Bedrijfsvoeringsorganisatie Delft-Rijswijk",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bvodrw",
+    "startDate": "2016-07-03"
+  },
+  {
+    "prefLabel": "Bedrijfsvoeringsorganisatie H2O",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bvoh2o",
+    "startDate": "2017-12-19"
+  },
+  {
+    "prefLabel": "Bedrijfsvoeringsorganisatie Rijn en Braassem",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bvorenb",
+    "startDate": "2018-01-01"
+  },
+  {
+    "prefLabel": "Bedrijfsvoeringsorganisatie Valleihopper",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bvovaho",
+    "startDate": "2021-01-01"
+  },
+  {
+    "prefLabel": "Bedrijfsvoeringsorganisatie Vijfheerenlanden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bvovhl",
+    "startDate": "2018-01-01",
+    "endDate": "2018-12-31"
+  },
+  {
+    "prefLabel": "Bedrijfsvoeringsorganisatie West Betuwe",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bvowb",
+    "startDate": "2015-07-18"
+  },
+  {
+    "prefLabel": "Bedrijfsvoeringsorganisatie doelgroepenvervoer regio Arnhem Nijmegen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bvodran",
+    "startDate": "2016-04-14"
+  },
+  {
+    "prefLabel": "Bedrijvenschap Harnaschpolder",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/harnasch",
+    "startDate": "2004-01-01"
+  },
+  {
+    "prefLabel": "Bedrijvenschap Hoefweg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/hoefweg",
+    "startDate": "1996-11-20"
+  },
+  {
+    "prefLabel": "Bedrijvenschap Regio Gouda",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bsrgouda",
+    "startDate": "1993-02-11",
+    "endDate": "2022-12-31"
+  },
+  {
+    "prefLabel": "Belastingsamenwerking Gemeenten en Waterschappen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/BsGW",
+    "startDate": "2011-04-01"
+  },
+  {
+    "prefLabel": "Belastingsamenwerking Gouwe-Rijnland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bsgr",
+    "startDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Belastingsamenwerking Oost-Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Belastingsamenwerking_Oost-Brabant",
+    "startDate": "2010-07-01"
+  },
+  {
+    "prefLabel": "Belastingsamenwerking Rivierenland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Belastingsamenwerking_Rivierenland",
+    "startDate": "2008-01-01"
+  },
+  {
+    "prefLabel": "Belastingsamenwerking SWW-gemeenten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bswsww",
+    "startDate": "2018-01-01",
+    "endDate": "2019-12-31"
+  },
+  {
+    "prefLabel": "Belastingsamenwerking West-Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bswwbr",
+    "startDate": "2010-03-02"
+  },
+  {
+    "prefLabel": "Belastingsamenwerking gemeenten en hoogheemraadschap Utrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bghu",
+    "startDate": "2012-12-01"
+  },
+  {
+    "prefLabel": "Benelux Groepering voor Territoriale Samenwerking aan-z",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/golwzat",
+    "startDate": "2007-01-01"
+  },
+  {
+    "prefLabel": "Bestuur Regio Utrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Bestuur_Regio_Utrecht",
+    "startDate": "1995-07-01",
+    "endDate": "2016-01-01"
+  },
+  {
+    "prefLabel": "Bijsterhuizen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bijshuis",
+    "startDate": "1992-10-01",
+    "endDate": "2022-12-31"
+  },
+  {
+    "prefLabel": "Blink",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/blink",
+    "startDate": "2001-01-01"
+  },
+  {
+    "prefLabel": "BrabantStad",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/BrabantStad"
+  },
+  {
+    "prefLabel": "Brabants Historisch Informatie Centrum",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bhic",
+    "startDate": "2005-01-01"
+  },
+  {
+    "prefLabel": "Bureau Openbare Verlichting",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bureauovl",
+    "startDate": "2012-01-01"
+  },
+  {
+    "prefLabel": "CJG Drimmelen Geertruidenberg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/cjgdrgt",
+    "startDate": "2020-01-01"
+  },
+  {
+    "prefLabel": "Centraal Nautisch Beheer Noordzeekanaalgebied",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/cnbnzk",
+    "startDate": "1994-04-01"
+  },
+  {
+    "prefLabel": "Cocensus",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/cocen",
+    "startDate": "2007-01-01"
+  },
+  {
+    "prefLabel": "Commissie Hoeksche Waard",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Commissie_Hoeksche_Waard"
+  },
+  {
+    "prefLabel": "Commissie Regionaal Overleg Luchthaven Schiphol",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Commissie_Regionaal_Overleg_Luchthaven_Schiphol",
+    "endDate": "2014-11-25"
+  },
+  {
+    "prefLabel": "Coöperatie ParkeerService U.A.",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/coopparkserv",
+    "startDate": "2010-12-18"
+  },
+  {
+    "prefLabel": "DCMR Milieudienst Rijnmond",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/DCMR_Milieudienst_Rijnmond",
+    "startDate": "1971-12-20"
+  },
+  {
+    "prefLabel": "DDFK-gemeenten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ddfkgem",
+    "startDate": "2015-01-01",
+    "endDate": "2019-01-01"
+  },
+  {
+    "prefLabel": "De Betho",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/betho",
+    "startDate": "2009-01-01"
+  },
+  {
+    "prefLabel": "De Drechtsteden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/De_Drechtsteden",
+    "endDate": "1900-01-01"
+  },
+  {
+    "prefLabel": "De Kompanjie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/De_Kampanjie",
+    "startDate": "2010-12-01",
+    "endDate": "2020-12-31"
+  },
+  {
+    "prefLabel": "De Oude Rijnzone",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ouderijnz",
+    "startDate": "2010-12-20",
+    "endDate": "2021-12-31"
+  },
+  {
+    "prefLabel": "De Waard",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/De_Waard",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "De Waddeneilanden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/svwad",
+    "startDate": "2014-01-01"
+  },
+  {
+    "prefLabel": "Delta",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/grdelta",
+    "startDate": "1988-06-26",
+    "endDate": "2020-01-01"
+  },
+  {
+    "prefLabel": "Diamant-groep",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/diamant-groep",
+    "startDate": "2015-05-20"
+  },
+  {
+    "prefLabel": "Dienst Dommelvallei",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/dommelvallei",
+    "startDate": "2013-04-01"
+  },
+  {
+    "prefLabel": "Dienst Gezondheid &amp; Jeugd Zuid-Holland Zuid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/DGJZHZ",
+    "startDate": "2012-07-01"
+  },
+  {
+    "prefLabel": "Dienst Sociale Werkvoorziening Rijswijk e.o.",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/dswrijsw",
+    "startDate": "2016-01-01",
+    "endDate": "2020-12-31"
+  },
+  {
+    "prefLabel": "Dienst Sociale Zaken en Werkgelegenheid Noardwest Fryslân",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Dienst_Sociale_Zaken_en_Werkgelegenheid_Noardwest_Fryslan",
+    "startDate": "1999-01-01"
+  },
+  {
+    "prefLabel": "Dienst Werkbedrijf voor gesubsidieerde arbeid, activering en trajecten Midden-Langstraat",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Dienst_Werkbedrijf_voor_gesubsidieerde_arbeid_activering_en_trajecten_Midden-Langstraat",
+    "startDate": "2011-04-08",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Duo+",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/duoplus",
+    "startDate": "2015-01-16"
+  },
+  {
+    "prefLabel": "EMCO-groep",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/emcogrp",
+    "startDate": "1999-01-01"
+  },
+  {
+    "prefLabel": "EUREGIO",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Euregio_Enschede-Gronau",
+    "startDate": "2016-01-08"
+  },
+  {
+    "prefLabel": "Eems Dollard Regio",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Eems-Dollard_Regio"
+  },
+  {
+    "prefLabel": "Erfgoedcentrum Achterhoek en Liemers",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ecaenl",
+    "startDate": "2011-07-01"
+  },
+  {
+    "prefLabel": "Euregio Maas-Rijn",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Euregio_Maas-Rijn"
+  },
+  {
+    "prefLabel": "Euregio Rijn-Waal",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Euregio_Rijn-Waal",
+    "startDate": "1993-11-01"
+  },
+  {
+    "prefLabel": "Exploitatiemaatschappij Bedrijvenpark Drachten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/embpdrachten",
+    "startDate": "1992-08-26"
+  },
+  {
+    "prefLabel": "Ferm Werk",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/frmwrk",
+    "startDate": "2014-01-01"
+  },
+  {
+    "prefLabel": "Fijnder",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Sociale_Dienst_Oost-Achterhoek",
+    "startDate": "2010-01-01"
+  },
+  {
+    "prefLabel": "Fryske Utfieringstsjinst Miljeu en Omjouwing",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/fumo",
+    "startDate": "2012-12-25"
+  },
+  {
+    "prefLabel": "GBLT",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/gblt",
+    "startDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "GG&amp;GD Utrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GG&amp;GD_Utrecht",
+    "endDate": "2013-12-31"
+  },
+  {
+    "prefLabel": "GGD Amsterdam",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Amsterdam",
+    "endDate": "2016-12-31"
+  },
+  {
+    "prefLabel": "GGD Brabant-Zuidoost",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Brabant-Zuidoost",
+    "startDate": "2006-01-01"
+  },
+  {
+    "prefLabel": "GGD Den Haag",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Den_Haag",
+    "endDate": "2013-12-31"
+  },
+  {
+    "prefLabel": "GGD Drenthe",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Drenthe"
+  },
+  {
+    "prefLabel": "GGD Flevoland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Flevoland",
+    "endDate": "2007-12-31"
+  },
+  {
+    "prefLabel": "GGD Fryslân",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Fryslan",
+    "endDate": "2006-12-31"
+  },
+  {
+    "prefLabel": "GGD Gelderland Midden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Gelderland_Midden",
+    "endDate": "2010-12-31"
+  },
+  {
+    "prefLabel": "GGD Gelre-IJssel",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Gelre-IJssel"
+  },
+  {
+    "prefLabel": "GGD Gooi &amp; Vechtstreek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Gooi_en_Vechtstreek",
+    "endDate": "2000-01-01"
+  },
+  {
+    "prefLabel": "GGD Groningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Groningen",
+    "startDate": "1997-07-01"
+  },
+  {
+    "prefLabel": "GGD Hart voor Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Hart_voor_Brabant",
+    "startDate": "2001-01-01"
+  },
+  {
+    "prefLabel": "GGD Hollands Midden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Hollands_Midden",
+    "endDate": "1900-01-01"
+  },
+  {
+    "prefLabel": "GGD Hollands Noorden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Hollands_Noorden",
+    "endDate": "1900-01-01"
+  },
+  {
+    "prefLabel": "GGD IJsselland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_IJsselland",
+    "startDate": "2009-01-01"
+  },
+  {
+    "prefLabel": "GGD Kennemerland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Kennemerland",
+    "endDate": "2011-10-31"
+  },
+  {
+    "prefLabel": "GGD Limburg-Noord",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Limburg-Noord",
+    "endDate": "2001-12-31"
+  },
+  {
+    "prefLabel": "GGD Midden-Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Midden-Nederland",
+    "endDate": "2013-12-31"
+  },
+  {
+    "prefLabel": "GGD Regio Nijmegen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Regio_Nijmegen",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "GGD Regio Twente",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Regio_Twente",
+    "endDate": "1995-04-30"
+  },
+  {
+    "prefLabel": "GGD Rivierenland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Rivierenland",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "GGD Rotterdam-Rijnmond",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Rotterdam-Rijnmond",
+    "endDate": "1900-01-01"
+  },
+  {
+    "prefLabel": "GGD West-Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_West-Brabant",
+    "startDate": "2015-03-10"
+  },
+  {
+    "prefLabel": "GGD Zaanstreek-Waterland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Zaanstreek-Waterland",
+    "endDate": "1998-12-31"
+  },
+  {
+    "prefLabel": "GGD Zeeland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Zeeland",
+    "endDate": "2012-06-15"
+  },
+  {
+    "prefLabel": "GGD Zuid Limburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Zuid_Limburg",
+    "endDate": "1900-01-01"
+  },
+  {
+    "prefLabel": "GGD Zuid-Holland West",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Zuid-Holland_West",
+    "startDate": "2004-12-11",
+    "endDate": "2013-12-31"
+  },
+  {
+    "prefLabel": "GGD Zuid-Holland Zuid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GGD_Zuid-Holland_Zuid",
+    "endDate": "2008-12-31"
+  },
+  {
+    "prefLabel": "GR Bleizo",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bleizo",
+    "startDate": "2008-02-01"
+  },
+  {
+    "prefLabel": "GR Industrieschap Medel",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ismedel",
+    "startDate": "2003-01-01"
+  },
+  {
+    "prefLabel": "GR Nieuw Reijerwaard",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/nwrwd",
+    "startDate": "2012-01-01"
+  },
+  {
+    "prefLabel": "Gasdistributie Zeist en Omstreken",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/gasdistzeno",
+    "startDate": "1959-01-01"
+  },
+  {
+    "prefLabel": "Gelders Archief",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/gldarch",
+    "startDate": "2002-07-17"
+  },
+  {
+    "prefLabel": "Gemeenschappelijk Belastingkantoor Lococensus - Tricijn",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/gblt_oud"
+  },
+  {
+    "prefLabel": "Gemeenschappelijk Orgaan Arnhem Nijmegen City Region",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/goancr",
+    "startDate": "2015-07-01",
+    "endDate": "2020-12-31"
+  },
+  {
+    "prefLabel": "Gemeenschappelijk Orgaan schoolverzuim en voortijdig schoolverlaten West-Kennemerland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/gosvswk",
+    "startDate": "2014-01-01"
+  },
+  {
+    "prefLabel": "Gemeenschappelijk orgaan openbaar primair onderwijs Noord Groningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/goopongr",
+    "startDate": "1999-12-30",
+    "endDate": "2018-12-31"
+  },
+  {
+    "prefLabel": "Gemeenschappelijk orgaan schoolverzuim en VSV regio West-Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/svvsvwb",
+    "startDate": "2012-08-01"
+  },
+  {
+    "prefLabel": "Gemeenschappelijk orgaan siteholderschap werelderfgoed Hollandse Waterlinies",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/goswhw",
+    "startDate": "2022-03-19"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke Gezondheidsdienst Flevoland 2008",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ggdfld",
+    "startDate": "2008-01-01",
+    "endDate": "2018-08-17"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke Gezondheidsdienst Noord- en Oost-Gelderland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ggdnog",
+    "endDate": "1900-01-01"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke Gezondheidsdienst Zaanstreek-Waterland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ggdzswl",
+    "startDate": "1999-01-01"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke Gezondheidsdienst Zeeland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ggdzld",
+    "startDate": "2006-09-01"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke Regeling Belastingsamenwerking SaBeWa Zeeland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sabewazl",
+    "startDate": "2012-10-01"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke Regeling Gemeentelijk Belastingkantoor Twente",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/gembelktw",
+    "startDate": "2009-01-01"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke Regeling Participatiebedrijf Wsw",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/partbedrwsw",
+    "startDate": "2019-11-09",
+    "endDate": "2021-07-01"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke Regeling SW Fryslân",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/swfrysl",
+    "startDate": "2020-01-01"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke Regeling UW Samenwerking",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Gemeenschappelijke_Regeling_UW_Samenwerking",
+    "endDate": "1900-01-01"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke Regeling Vidar Wsw",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/vidarwsw",
+    "startDate": "2019-11-09"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke Regeling Vixia",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/vixia",
+    "startDate": "2002-02-21",
+    "endDate": "2019-12-31"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke Regeling Waterschapsbedrijf Limburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wbl",
+    "startDate": "2003-12-15"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke Regeling Werk &amp; Inkomen Lekstroom",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/GRWIL",
+    "startDate": "2013-01-01",
+    "endDate": "2016-02-11"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke Rekenkamer Metropool Amsterdam",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rekmetrams",
+    "startDate": "2010-06-01"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke Vuilverwerking Dordrecht en Omstreken",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/gevudo",
+    "startDate": "2008-11-26"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke regeling Cure",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/cure",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke regeling Geul en Maas",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/grgm",
+    "startDate": "2021-01-01"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke regeling Rioolwaterzuiveringsinrichting Gooiergracht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rwziggveem",
+    "startDate": "1960-01-01"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke regeling samenwerking sociaal domein Baarn, Bunschoten en Soest",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ssdbbs",
+    "startDate": "2008-01-01"
+  },
+  {
+    "prefLabel": "Gemeenschappelijke regeling werkbedrijven Kust-, Duin- en Bollenstreek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wrkbkdb",
+    "startDate": "2017-01-01"
+  },
+  {
+    "prefLabel": "Gemeentelijke Gezondheidsdienst Flevoland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/gemgdfld",
+    "startDate": "2008-01-01"
+  },
+  {
+    "prefLabel": "Gemeentelijke Gezondheidsdienst Gelderland-Zuid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ggdglz",
+    "startDate": "2013-07-01"
+  },
+  {
+    "prefLabel": "Gemeentelijke Gezondheidsdienst Haaglanden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ggdhl",
+    "startDate": "2014-01-01",
+    "endDate": "2017-12-31"
+  },
+  {
+    "prefLabel": "Gemeentelijke Gezondheidsdienst Hollands Noorden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ggdholn",
+    "startDate": "2007-04-01"
+  },
+  {
+    "prefLabel": "Gemeentelijke Gezondheidsdienst Noord- en Oost-Gelderland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/gtgdnog",
+    "startDate": "2004-12-31"
+  },
+  {
+    "prefLabel": "Gemeentelijke Gezondheidsdienst Regio Utrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ggdru",
+    "startDate": "2014-01-01"
+  },
+  {
+    "prefLabel": "Gemeentelijke Gezondheidsdienst Rotterdam-Rijnmond",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ggdrorm",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Gemeentelijke Gezondheidsdienst en Veilig Thuis Haaglanden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ggdvthl",
+    "startDate": "2018-01-01"
+  },
+  {
+    "prefLabel": "Gemeentelijke Kredietbank Drenthe",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/gkrbdr",
+    "startDate": "1953-01-01"
+  },
+  {
+    "prefLabel": "Gemeentelijke gezondheidsdienst Amsterdam-Amstelland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ggdamsaml",
+    "startDate": "2017-01-01"
+  },
+  {
+    "prefLabel": "Geneeskundige Gezondheidsdienst Zuid-Limburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ggdzlim",
+    "startDate": "2006-01-01"
+  },
+  {
+    "prefLabel": "Gewest Gooi en Vechtstreek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Gewest_Gooi_en_Vechtstreek",
+    "endDate": "2013-06-30"
+  },
+  {
+    "prefLabel": "Groenalliantie Midden-Holland en omstreken",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/gamheo",
+    "startDate": "2014-05-01"
+  },
+  {
+    "prefLabel": "Groenbeheer Hoeksche Waard",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/gbhoekw",
+    "startDate": "2007-01-01",
+    "endDate": "2016-12-31"
+  },
+  {
+    "prefLabel": "Groene Metropoolregio Arnhem-Nijmegen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/regioan",
+    "startDate": "2021-01-01"
+  },
+  {
+    "prefLabel": "Groengebied Amstelland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Groengebied_Amstelland",
+    "startDate": "2005-01-01"
+  },
+  {
+    "prefLabel": "Grondbank RZG Zuidplas",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rzgzuidplas",
+    "startDate": "2015-12-30"
+  },
+  {
+    "prefLabel": "HALte werk",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/haltewerk",
+    "startDate": "2015-01-01"
+  },
+  {
+    "prefLabel": "Havenschap Groningen Seaports",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/hsgrsp",
+    "startDate": "1989-04-07"
+  },
+  {
+    "prefLabel": "Havenschap Moerdijk",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Havenschap_Moerdijk",
+    "startDate": "2017-01-01"
+  },
+  {
+    "prefLabel": "Heesch West",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/heeschwest",
+    "startDate": "2014-06-14"
+  },
+  {
+    "prefLabel": "Hefpunt",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/hfpnt",
+    "startDate": "2007-09-01",
+    "endDate": "2017-12-31"
+  },
+  {
+    "prefLabel": "Het Flevolands Archief",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/hfa",
+    "startDate": "2017-06-01"
+  },
+  {
+    "prefLabel": "Het Gegevenshuis",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/geghuis",
+    "startDate": "2015-06-25"
+  },
+  {
+    "prefLabel": "Het Industrieschap \"De Plaspoelpolder\"",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ispppol",
+    "startDate": "1953-01-01"
+  },
+  {
+    "prefLabel": "Het Plein",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Het_Plein",
+    "startDate": "2010-01-01",
+    "endDate": "2018-12-31"
+  },
+  {
+    "prefLabel": "Het Utrechts Archief",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/hutrarch",
+    "startDate": "1998-02-22"
+  },
+  {
+    "prefLabel": "Het Waterschapshuis",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wsh",
+    "startDate": "2010-07-01"
+  },
+  {
+    "prefLabel": "Het werkvoorzieningschap Fryslân-West",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wvsfrysw",
+    "startDate": "2002-01-01"
+  },
+  {
+    "prefLabel": "Historisch Centrum Limburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rhclim",
+    "startDate": "2005-02-01"
+  },
+  {
+    "prefLabel": "Historisch Centrum Overijssel",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/hcoverijsel",
+    "startDate": "2000-07-27"
+  },
+  {
+    "prefLabel": "Holland Rijnland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Holland_Rijnland",
+    "endDate": "1900-01-01"
+  },
+  {
+    "prefLabel": "Hulpverlening Gelderland-Midden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Hulpverlening_Gelderland-Midden",
+    "endDate": "2010-12-31"
+  },
+  {
+    "prefLabel": "Hét Service Centrum",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/hetsc"
+  },
+  {
+    "prefLabel": "ICT Noord- en Midden-Limburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ictnml",
+    "startDate": "2018-01-01"
+  },
+  {
+    "prefLabel": "ICT samenwerking West-Brabant-West",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ictswbw",
+    "startDate": "2015-08-01"
+  },
+  {
+    "prefLabel": "ICT-samenwerking Hoeksche Waard",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ishw",
+    "startDate": "2014-01-01",
+    "endDate": "2018-12-31"
+  },
+  {
+    "prefLabel": "IGUO",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/iguo",
+    "startDate": "2016-03-01"
+  },
+  {
+    "prefLabel": "IJSSELgemeenten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ijsselgem",
+    "startDate": "2015-01-01"
+  },
+  {
+    "prefLabel": "IJmond Werkt!",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ijmondwerkt",
+    "startDate": "2014-01-01"
+  },
+  {
+    "prefLabel": "IJssel-Vecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/IJssel-Vecht",
+    "endDate": "2008-12-31"
+  },
+  {
+    "prefLabel": "ISD Assen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ISD_Assen",
+    "endDate": "2016-07-15"
+  },
+  {
+    "prefLabel": "ISD BOL",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ISD_BOL",
+    "startDate": "2007-01-01"
+  },
+  {
+    "prefLabel": "ISD De Kempen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ISD_De_Kempen",
+    "endDate": "2009-12-31"
+  },
+  {
+    "prefLabel": "ISD De Rijnstreek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ISD_De_Rijnstreek",
+    "endDate": "2012-03-31"
+  },
+  {
+    "prefLabel": "ISD Drechtsteden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ISD_Drechtsteden",
+    "endDate": "2013-12-31"
+  },
+  {
+    "prefLabel": "ISD Kompas",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ISD_Kompas",
+    "endDate": "1900-01-01"
+  },
+  {
+    "prefLabel": "ISD Kop van Noord-Holland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ISD_Kop_van_Noord-Holland",
+    "endDate": "2014-12-31"
+  },
+  {
+    "prefLabel": "ISD Midden-Langstraat",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ISD_Midden-Langstraat",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "ISD Noordenkwartier",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ISD_Noordenkwartier",
+    "endDate": "2018-12-31"
+  },
+  {
+    "prefLabel": "ISD Noordoost",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ISD_Noordoost",
+    "endDate": "2016-12-31"
+  },
+  {
+    "prefLabel": "ISD Optimisd",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Optimisd",
+    "startDate": "2015-01-01",
+    "endDate": "2016-12-31"
+  },
+  {
+    "prefLabel": "ISD Voorne-Putten-Rozenburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ISD_Voorne-Putten-Rozenburg",
+    "endDate": "2011-12-31"
+  },
+  {
+    "prefLabel": "Ingenieursbureau Krimpenerwaard",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ibkw",
+    "startDate": "2018-01-01"
+  },
+  {
+    "prefLabel": "Inkoopbureau H-10",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ibh10",
+    "startDate": "2014-11-11",
+    "endDate": "2020-02-20"
+  },
+  {
+    "prefLabel": "Instituut voor Sociale Werkvoorziening Zuid-Oost Utrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/iswzoutr",
+    "startDate": "1997-12-18"
+  },
+  {
+    "prefLabel": "Intergemeentelijk Samenwerkingsorgaan Midden-Holland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Intergemeentelijk_Samenwerkingsorgaan_Midden-Holland",
+    "endDate": "2016-03-31"
+  },
+  {
+    "prefLabel": "Intergemeentelijk Samenwerkingsorgaan Waterland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Intergemeentelijk_Samenwerkingsorgaan_Waterland",
+    "endDate": "2018-07-31"
+  },
+  {
+    "prefLabel": "Intergemeentelijk Samenwerkingsverband Goeree-Overflakkee",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Intergemeentelijk_Samenwerkingsverband_Goeree-Overflakkee",
+    "endDate": "2013-12-31"
+  },
+  {
+    "prefLabel": "Intergemeentelijk Samenwerkingsverband Noordwest Veluwe",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Intergemeentelijk_Samenwerkingsverband_Noordwest_Veluwe",
+    "endDate": "2005-01-01"
+  },
+  {
+    "prefLabel": "Intergemeentelijk Samenwerkingsverband Werk en Inkomen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Intergemeentelijk_Samenwerkingsverband_Werk_en_Inkomen",
+    "endDate": "2015-12-31"
+  },
+  {
+    "prefLabel": "Intergemeentelijk Samenwerkingsverband Werk en Inkomen Steenwijkerland en Westerveld",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ISD_Steenwijkerland",
+    "startDate": "2006-03-01",
+    "endDate": "2019-12-31"
+  },
+  {
+    "prefLabel": "Intergemeentelijke Sociale Dienst (ISD) Bollenstreek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ISD_Bollenstreek",
+    "startDate": "2002-06-01"
+  },
+  {
+    "prefLabel": "Intergemeentelijke Sociale Dienst Brabantse Wal",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/isdbrwal",
+    "startDate": "2012-01-01"
+  },
+  {
+    "prefLabel": "Intergemeentelijke Sociale Dienst Zuidwest-Fryslân",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Intergemeentelijke_Sociale_Dienst_Zuidwest-Fryslan",
+    "endDate": "2010-12-31"
+  },
+  {
+    "prefLabel": "Intergemeentelijke Werkvoorziening Gennep, Mook en Middelaar",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/iwgm",
+    "startDate": "2017-06-27",
+    "endDate": "2022-12-31"
+  },
+  {
+    "prefLabel": "Kempisch Bedrijvenpark",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/kempbedrprk",
+    "startDate": "2006-10-01"
+  },
+  {
+    "prefLabel": "Knooppunt Arnhem-Nijmegen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Knooppunt_Arnhem-Nijmegen"
+  },
+  {
+    "prefLabel": "Koepelschap Buitenstedelijk Groen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/koepbstgr",
+    "startDate": "2016-01-01",
+    "endDate": "2017-12-31"
+  },
+  {
+    "prefLabel": "Kompas, Gemeentelijk collectief voor werk, inkomen &amp; zorg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/kompas",
+    "startDate": "2002-01-01"
+  },
+  {
+    "prefLabel": "Kredietbank Limburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/kredbnklim",
+    "startDate": "2005-02-21"
+  },
+  {
+    "prefLabel": "Landschap Waterland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Landschap_Waterland",
+    "endDate": "2011-12-31"
+  },
+  {
+    "prefLabel": "Linieland van Waas en Hulst, EGTS met beperkte aansprakelijkheid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/liwahuegts",
+    "startDate": "2011-06-15"
+  },
+  {
+    "prefLabel": "Loket Altena voor werk, inkomen en zorg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Loket_Altena_voor_werk_inkomen_en_zorg",
+    "endDate": "1900-01-01"
+  },
+  {
+    "prefLabel": "Lucrato",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/lucrato",
+    "startDate": "1973-01-01"
+  },
+  {
+    "prefLabel": "LétÉ",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/LetE",
+    "endDate": "2011-12-31"
+  },
+  {
+    "prefLabel": "Meerinzicht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/meerinzicht",
+    "startDate": "2016-01-01"
+  },
+  {
+    "prefLabel": "Meerschap Paterswolde",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Meerschap_Paterswolde",
+    "startDate": "1961-01-01"
+  },
+  {
+    "prefLabel": "Meldkamer Oost Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/meldkonl",
+    "startDate": "2016-01-01"
+  },
+  {
+    "prefLabel": "Metropoolregio Eindhoven",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/metregein",
+    "startDate": "2015-01-01"
+  },
+  {
+    "prefLabel": "Metropoolregio Rotterdam Den Haag",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/metregrdh",
+    "startDate": "2015-01-01"
+  },
+  {
+    "prefLabel": "MijnGemeenteDichtbij",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/mgemdb",
+    "startDate": "2015-07-01"
+  },
+  {
+    "prefLabel": "Milieuadviesdienst Noord Friesland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Milieuadviesdienst_Noord-Friesland",
+    "endDate": "2012-12-23"
+  },
+  {
+    "prefLabel": "Milieudienst IJmond",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Milieudienst_IJmond",
+    "startDate": "1998-05-01",
+    "endDate": "2014-12-31"
+  },
+  {
+    "prefLabel": "Milieudienst Kop van Noord-Holland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Milieudienst_Kop_van_Noord-Holland",
+    "endDate": "2013-12-31"
+  },
+  {
+    "prefLabel": "Milieudienst Midden-Holland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Milieudienst_Midden-Holland",
+    "endDate": "2012-06-30"
+  },
+  {
+    "prefLabel": "Milieudienst Noord-West Utrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Milieudienst_Noord-West_Utrecht",
+    "endDate": "2012-05-23"
+  },
+  {
+    "prefLabel": "Milieudienst Regio Alkmaar",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Milieudienst_Regio_Alkmaar",
+    "endDate": "2013-12-31"
+  },
+  {
+    "prefLabel": "Milieudienst West-Holland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Milieudienst_West-Holland"
+  },
+  {
+    "prefLabel": "Milieudienst Westfriesland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Milieudienst_Westfriesland",
+    "endDate": "2013-12-31"
+  },
+  {
+    "prefLabel": "Milieudienst Zuid-Holland Zuid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Milieudienst_Zuid-Holland_Zuid",
+    "endDate": "2010-12-31"
+  },
+  {
+    "prefLabel": "Milieudienst Zuidoost-Utrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Milieudienst_Zuidoost-Utrecht",
+    "endDate": "2012-05-23"
+  },
+  {
+    "prefLabel": "Milieuparken Geul en Maas",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/milpargenm",
+    "startDate": "2016-11-01",
+    "endDate": "2020-12-31"
+  },
+  {
+    "prefLabel": "Milieusamenwerking en Afvalverwerking Regio Nijmegen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/marn",
+    "startDate": "1985-01-01"
+  },
+  {
+    "prefLabel": "Milieusamenwerkingsverband Westerkwartier",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Milieusamenwerkingsverband_Westerkwartier",
+    "endDate": "2005-12-31"
+  },
+  {
+    "prefLabel": "Mobiliteitsbureau Noordoost Fryslân",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/mbnofy",
+    "startDate": "2017-03-23"
+  },
+  {
+    "prefLabel": "Modulaire gemeenschappelijke regeling sociaal domein Limburg-Noord",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sdlimn",
+    "startDate": "2014-11-01"
+  },
+  {
+    "prefLabel": "Modulaire gemeenschappelijke regeling sociaal domein centraal Gelderland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/mgrsdcgl",
+    "startDate": "2017-01-01"
+  },
+  {
+    "prefLabel": "Nationaal Dataportaal Wegverkeer",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ndw",
+    "startDate": "2009-07-06"
+  },
+  {
+    "prefLabel": "Natuur- en Recreatieschap Lingegebied",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/nrslinge",
+    "startDate": "1989-04-26"
+  },
+  {
+    "prefLabel": "Natuur- en recreatieschap De Grevelingen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/nrsgrev",
+    "startDate": "2006-06-14",
+    "endDate": "2016-06-30"
+  },
+  {
+    "prefLabel": "Natuur- en recreatieschap IJsselmonde",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/nrsijsm",
+    "startDate": "1990-01-01"
+  },
+  {
+    "prefLabel": "Natuur- en recreatieschap Zuidwestelijke Delta",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/nrszwdelta",
+    "startDate": "2016-06-01",
+    "endDate": "2017-12-31"
+  },
+  {
+    "prefLabel": "Natuurgrenspark De Groote Heide",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/grooteheide",
+    "startDate": "2018-07-26"
+  },
+  {
+    "prefLabel": "Nazorg gesloten stortplaatsen Bavel-Dorst en Zevenbergen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ngsbdz",
+    "startDate": "2001-03-01"
+  },
+  {
+    "prefLabel": "Noaberkracht Dinkelland Tubbergen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Noaberkracht_Dinkelland_Tubbergen",
+    "startDate": "2012-09-20"
+  },
+  {
+    "prefLabel": "Noord-Hollands Archief",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/nharch",
+    "startDate": "2017-02-08"
+  },
+  {
+    "prefLabel": "Noordelijk Belastingkantoor ",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/nrdbelkan",
+    "startDate": "2017-07-01"
+  },
+  {
+    "prefLabel": "OVER-gemeenten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/OVER-gemeenten",
+    "startDate": "2010-01-01"
+  },
+  {
+    "prefLabel": "Ombudsman Metropool Amsterdam",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ombmetrams",
+    "startDate": "2014-01-01"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Achterhoek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/odach",
+    "startDate": "2012-11-07"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Brabant Noord",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/odbrnrd",
+    "startDate": "2013-04-01"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Flevoland &amp; Gooi en Vechtstreek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/OFGV",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Flevoland en Gooi en Vechtstreek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/odflgvs"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Groningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/odgron",
+    "startDate": "2013-05-01"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Haaglanden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ODHL",
+    "startDate": "2012-07-01"
+  },
+  {
+    "prefLabel": "Omgevingsdienst IJmond",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/odijm",
+    "startDate": "2015-01-01"
+  },
+  {
+    "prefLabel": "Omgevingsdienst IJsselland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/odijsld",
+    "startDate": "2017-01-05"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Midden- en West-Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/omwb",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Midden-Holland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/odmh",
+    "startDate": "2012-04-18"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Noord-Holland Noord",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/odnhn",
+    "startDate": "2019-03-01"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Noord-Veluwe",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/odnrdvel",
+    "startDate": "2009-11-04"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Noordzeekanaalgebied",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Noorzeekanaalgebied",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Regio Arnhem",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Omgevingsdienst_regio_Arnhem",
+    "startDate": "2012-11-14"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Regio Nijmegen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/odrnijm",
+    "startDate": "2012-11-07"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Rivierenland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/odrrivl",
+    "startDate": "2012-10-24"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Twente",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/odtwente",
+    "startDate": "2017-10-18"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Veluwe IJssel",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/odvelijs",
+    "startDate": "2012-11-28"
+  },
+  {
+    "prefLabel": "Omgevingsdienst West-Holland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/odwhol",
+    "startDate": "2000-12-27"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Zuid-Holland Zuid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Omgevingsdienst_Zuid-Holland_Zuid",
+    "startDate": "2010-03-05"
+  },
+  {
+    "prefLabel": "Omgevingsdienst Zuidoost-Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/odzobr",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Omgevingsdienst de Vallei",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/odvallei",
+    "startDate": "2012-11-14"
+  },
+  {
+    "prefLabel": "Omgevingsdienst regio Utrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ODRU",
+    "startDate": "2012-05-24"
+  },
+  {
+    "prefLabel": "Omnibuzz",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/omnibuzz",
+    "startDate": "2006-01-01"
+  },
+  {
+    "prefLabel": "Ontwikkelingsmaatschappij Bedrijvenparken A7 Heerenveen-Joure",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ombpa7",
+    "startDate": "1992-01-16"
+  },
+  {
+    "prefLabel": "Openbaar Lichaam Afvalstoffenverwijdering Zeeland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/olaz",
+    "startDate": "2009-09-01"
+  },
+  {
+    "prefLabel": "Openbaar Lichaam Crematoria Twente",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/olct",
+    "startDate": "1972-12-13"
+  },
+  {
+    "prefLabel": "Openbaar Lichaam Duits-Nederlands Grenspark Maas-Swalm-Nette",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/dnlgrenspmsn",
+    "startDate": "2002-06-01"
+  },
+  {
+    "prefLabel": "Openbaar Lichaam Eurode",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/eurode",
+    "startDate": "1998-01-01"
+  },
+  {
+    "prefLabel": "Openbaar Lichaam Gezamenlijke Brandweer",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/olgb",
+    "startDate": "1998-01-01"
+  },
+  {
+    "prefLabel": "Openbaar Lichaam Jeugdhulp Rijnmond",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/jhrijnm",
+    "startDate": "2014-05-01"
+  },
+  {
+    "prefLabel": "Openbaar Lichaam OV-bureau van de gemeente Groningen en de provincies Groningen en Drenthe",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ovbgrdr",
+    "startDate": "2005-01-01"
+  },
+  {
+    "prefLabel": "Openbaar Lichaam Vuilverwering Noord Oost Achterhoek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/olvnoa",
+    "startDate": "2007-04-03"
+  },
+  {
+    "prefLabel": "Openbaar lichaam Gesubsidieerde Arbeid Kop van Noord-Holland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/gakvnh",
+    "startDate": "1999-06-14"
+  },
+  {
+    "prefLabel": "Openbaar lichaam Slibverwerking",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Slibverwerking_2009",
+    "startDate": "2010-01-01"
+  },
+  {
+    "prefLabel": "Openbare gezondheidszorg Amstelland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ogz_amstelland",
+    "startDate": "2008-01-01"
+  },
+  {
+    "prefLabel": "Orgaan Bereikbaarheid Zuid-Kennemerland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/obzk",
+    "startDate": "2013-12-01"
+  },
+  {
+    "prefLabel": "Orionis Walcheren",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/orionis",
+    "startDate": "2012-01-01"
+  },
+  {
+    "prefLabel": "PAUW-bedrijven",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/PAUW-bedrijven",
+    "endDate": "2018-12-31"
+  },
+  {
+    "prefLabel": "Parkorganisatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/parkorg",
+    "startDate": "2010-12-01"
+  },
+  {
+    "prefLabel": "Parkschap Nationaal Park De Biesbosch",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/npbiesbosch",
+    "startDate": "2011-01-01",
+    "endDate": "2020-12-31"
+  },
+  {
+    "prefLabel": "Parkstad Limburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Parkstad_Limburg",
+    "endDate": "2015-12-31"
+  },
+  {
+    "prefLabel": "Participatie Noord-Groningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/participatie_ngr",
+    "startDate": "2016-05-19",
+    "endDate": "2018-12-31"
+  },
+  {
+    "prefLabel": "Participatiebedrijf KempenPlus",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/kempenplus",
+    "startDate": "2019-07-01"
+  },
+  {
+    "prefLabel": "Participatiebedrijf Zuid-Kennemerland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wvszknmld",
+    "startDate": "1986-01-01"
+  },
+  {
+    "prefLabel": "Peelgemeenten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/peelgem",
+    "startDate": "2016-12-09"
+  },
+  {
+    "prefLabel": "Plassenschap Loosdrecht e.o.",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/plschpld",
+    "startDate": "1959-01-01"
+  },
+  {
+    "prefLabel": "Plusteam",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/plstm",
+    "startDate": "2014-11-20"
+  },
+  {
+    "prefLabel": "Presikhaaf Bedrijven",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/presikbedr",
+    "startDate": "1990-01-01",
+    "endDate": "2018-01-01"
+  },
+  {
+    "prefLabel": "Projectbureau Herstructurering Tuinbouw Bommelerwaard",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/phtb",
+    "startDate": "2011-01-04",
+    "endDate": "2022-12-31"
+  },
+  {
+    "prefLabel": "Prolander",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/prolan",
+    "startDate": "2016-01-01"
+  },
+  {
+    "prefLabel": "Promen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/promen",
+    "startDate": "2005-01-01"
+  },
+  {
+    "prefLabel": "Publieke Gezondheid &amp; Zorg Groningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/pgzgron",
+    "startDate": "2011-01-01",
+    "endDate": "2019-09-30"
+  },
+  {
+    "prefLabel": "RHC Drents Archief",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rhcda",
+    "startDate": "2005-09-11"
+  },
+  {
+    "prefLabel": "RID",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ridutr",
+    "startDate": "2012-07-01"
+  },
+  {
+    "prefLabel": "ROM Rijnmond",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ROM_Rijnmond",
+    "endDate": "2009-12-31"
+  },
+  {
+    "prefLabel": "RSD Hoekse Waard",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/RSD_Hoekse_Waard",
+    "endDate": "2015-12-31"
+  },
+  {
+    "prefLabel": "RSD Kromme Rijn Heuvelrug",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/RSD_Kromme_Rijn_Heuvelrug",
+    "startDate": "2011-03-03",
+    "endDate": "2012-07-31"
+  },
+  {
+    "prefLabel": "RSD Pentasz Mergelland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/RSD_Pentasz_Mergelland",
+    "endDate": "2015-12-31"
+  },
+  {
+    "prefLabel": "RUD IJsselland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rudijsld",
+    "endDate": "2017-12-31"
+  },
+  {
+    "prefLabel": "RUD Limburg-Noord",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rudlimnrd",
+    "endDate": "2017-11-30"
+  },
+  {
+    "prefLabel": "RUD Twente",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rudtw",
+    "endDate": "2017-10-17"
+  },
+  {
+    "prefLabel": "RUD Zuid-Limburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/RUD_Zuid-Limburg",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Raad van toezicht voor Stichting Openbaar Basisonderwijs West-Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rvtsobowbr",
+    "startDate": "2013-04-04",
+    "endDate": "2020-08-01"
+  },
+  {
+    "prefLabel": "Randstedelijke Rekenkamer",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/randstrekenk",
+    "startDate": "2005-07-28"
+  },
+  {
+    "prefLabel": "Recreatie Midden-Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rmn",
+    "startDate": "1996-01-01",
+    "endDate": "2022-12-31"
+  },
+  {
+    "prefLabel": "Recreatie Noord-Holland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Recreatie_Noord-Holland",
+    "endDate": "2005-01-01"
+  },
+  {
+    "prefLabel": "Recreatiegemeenschap Salland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rgssall",
+    "endDate": "2018-12-31"
+  },
+  {
+    "prefLabel": "Recreatieschap Alkmaarder- en Uitgeestermeer",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Recreatieschap_Alkmaarder-_en_Uitgeestermeer",
+    "startDate": "2002-01-01"
+  },
+  {
+    "prefLabel": "Recreatieschap Drenthe",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Recreatieschap_Drenthe",
+    "startDate": "1998-10-13"
+  },
+  {
+    "prefLabel": "Recreatieschap Geestmerambacht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Recreatieschap_Geestmerambacht",
+    "startDate": "2005-01-01"
+  },
+  {
+    "prefLabel": "Recreatieschap Het Twiske",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Recreatieschap_Het_Twiske",
+    "endDate": "2011-12-31"
+  },
+  {
+    "prefLabel": "Recreatieschap Hitland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rshitl",
+    "startDate": "1974-01-07"
+  },
+  {
+    "prefLabel": "Recreatieschap Midden-Delfland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rsmdlflnd",
+    "startDate": "1983-04-12",
+    "endDate": "2017-12-31"
+  },
+  {
+    "prefLabel": "Recreatieschap Nederrijn, Lek en Waal",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rsnlw",
+    "startDate": "1989-10-02"
+  },
+  {
+    "prefLabel": "Recreatieschap Over-Betuwe",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rsob",
+    "startDate": "1998-12-09"
+  },
+  {
+    "prefLabel": "Recreatieschap Rottemeren",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rsrottem",
+    "startDate": "1967-01-12"
+  },
+  {
+    "prefLabel": "Recreatieschap Spaarnwoude",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Recreatieschap_Spaarnwoude",
+    "startDate": "2006-01-01"
+  },
+  {
+    "prefLabel": "Recreatieschap Stichtse Groenlanden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rsstgrl",
+    "startDate": "1996-01-01"
+  },
+  {
+    "prefLabel": "Recreatieschap Twente",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rcstw",
+    "startDate": "2022-01-01"
+  },
+  {
+    "prefLabel": "Recreatieschap Twiske-Waterland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rstwwl",
+    "startDate": "2012-01-01"
+  },
+  {
+    "prefLabel": "Recreatieschap Voorne-Putten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rsvoorput",
+    "startDate": "1989-01-01"
+  },
+  {
+    "prefLabel": "Recreatieschap Westfriesland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rswstfr",
+    "startDate": "2005-01-01"
+  },
+  {
+    "prefLabel": "Recreatieschap voor het Friese water en land de Marrekrite",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/marrekrite",
+    "startDate": "1957-01-01"
+  },
+  {
+    "prefLabel": "Reestmond",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/reestmond",
+    "startDate": "2008-07-01"
+  },
+  {
+    "prefLabel": "Reflexis Openbaar Basisonderwijs",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/reflexis",
+    "startDate": "2017-01-01",
+    "endDate": "2021-07-31"
+  },
+  {
+    "prefLabel": "Regio Achterhoek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Regio_Achterhoek",
+    "startDate": "1975-10-01"
+  },
+  {
+    "prefLabel": "Regio De Vallei",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Regio_De_Vallei",
+    "startDate": "1992-01-01"
+  },
+  {
+    "prefLabel": "Regio Eindhoven",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Regio_Eindhoven"
+  },
+  {
+    "prefLabel": "Regio FoodValley",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/foodvalley",
+    "startDate": "2011-02-09"
+  },
+  {
+    "prefLabel": "Regio Gooi en Vechtstreek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Regio_Gooi_en_Vechtstreek",
+    "startDate": "2013-07-01"
+  },
+  {
+    "prefLabel": "Regio Hart van Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/reghvbr",
+    "startDate": "2014-01-01"
+  },
+  {
+    "prefLabel": "Regio Midden-Holland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/regmidhol",
+    "startDate": "2016-04-01"
+  },
+  {
+    "prefLabel": "Regio Noord-Veluwe",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Regio_Noord-Veluwe",
+    "endDate": "1900-01-01"
+  },
+  {
+    "prefLabel": "Regio Randstad",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Regio_Randstad",
+    "endDate": "2007-12-31"
+  },
+  {
+    "prefLabel": "Regio Rivierenland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Regio_Rivierenland",
+    "startDate": "1986-01-01"
+  },
+  {
+    "prefLabel": "Regio West-Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/regwbr",
+    "startDate": "2011-01-03"
+  },
+  {
+    "prefLabel": "Regio Westelijke Mijnstreek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Regio_Westelijke_Mijnstreek",
+    "endDate": "2005-12-31"
+  },
+  {
+    "prefLabel": "Regio Zuid-Holland Zuid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Regio_Zuid-Holland_Zuid"
+  },
+  {
+    "prefLabel": "Regio-AV",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/regioav",
+    "startDate": "2007-12-01"
+  },
+  {
+    "prefLabel": "Regionaal Archief Rivierenland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rarchrl",
+    "startDate": "1999-01-01"
+  },
+  {
+    "prefLabel": "Regionaal Archief Zuid-Utrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rhczou",
+    "startDate": "1996-09-01"
+  },
+  {
+    "prefLabel": "Regionaal Bedrijventerrein Twente",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/regbedtwe",
+    "startDate": "2005-04-05"
+  },
+  {
+    "prefLabel": "Regionaal Historisch Centrum Alkmaar",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rhcalkmaar",
+    "startDate": "2003-07-01"
+  },
+  {
+    "prefLabel": "Regionaal Historisch Centrum Rijnstreek en Lopikerwaard",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rhcrl",
+    "startDate": "2008-04-01"
+  },
+  {
+    "prefLabel": "Regionaal Historisch Centrum ‘Groninger Archieven’",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/gronarch",
+    "startDate": "2001-10-26"
+  },
+  {
+    "prefLabel": "Regionaal Milieubedrijf Brabant Noordoost",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Regionaal_Milieubedrijf_Brabant_Noordoost",
+    "endDate": "2013-03-31"
+  },
+  {
+    "prefLabel": "Regionaal Orgaan Amsterdam",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Regionaal_Orgaan_Amsterdam",
+    "endDate": "2006-10-31"
+  },
+  {
+    "prefLabel": "Regionaal Platform Wonen Zeeuwsch-Vlaanderen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rpwzv",
+    "startDate": "2012-03-07",
+    "endDate": "2017-10-31"
+  },
+  {
+    "prefLabel": "Regionaal Serviceteam Jeugd IJsselland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rsjijsselland",
+    "startDate": "2018-01-01"
+  },
+  {
+    "prefLabel": "Regionaal Sociaal Werkvoorzieningschap Amersfoort en omgeving RWA",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rswsamf",
+    "startDate": "2009-12-01"
+  },
+  {
+    "prefLabel": "Regionaal samenwerkingsorgaan openbaar basisonderwijs De Kempen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rsoobokemp",
+    "startDate": "2007-05-01"
+  },
+  {
+    "prefLabel": "Regionale Afvalstoffendienst Hoeksche Waard",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/radhw",
+    "startDate": "2010-01-01",
+    "endDate": "2018-12-31"
+  },
+  {
+    "prefLabel": "Regionale Ambulancevoorziening Brabant Midden-West-Noord",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ravbmwn",
+    "startDate": "2005-07-01"
+  },
+  {
+    "prefLabel": "Regionale Belasting Groep",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Regionale_Belasting_Groep",
+    "startDate": "2010-01-01"
+  },
+  {
+    "prefLabel": "Regionale Dienst Werk en Inkomen Kromme Rijn Heuvelrug",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/RDWI_KRH",
+    "startDate": "2012-08-01"
+  },
+  {
+    "prefLabel": "Regionale Milieudienst West-Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Regionale_Milieudienst_West-Brabant",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Regionale Sociale Dienst en Kredietbank Alblasserwaard/Vijfheerenlanden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Regionale_Sociale_Dienst_en_Kredietbank_Alblasserwaard_Vijfheerenlanden",
+    "startDate": "2002-01-01",
+    "endDate": "2015-12-31"
+  },
+  {
+    "prefLabel": "Regionale Uitvoeringsdienst Drenthe",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ruddr",
+    "startDate": "2013-07-01"
+  },
+  {
+    "prefLabel": "Regionale Uitvoeringsdienst Limburg-Noord",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rudln",
+    "startDate": "2017-12-01"
+  },
+  {
+    "prefLabel": "Regionale Uitvoeringsdienst Noord-Holland Noord",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/RUDNHN",
+    "startDate": "2013-07-11",
+    "endDate": "2019-02-28"
+  },
+  {
+    "prefLabel": "Regionale dienst openbare gezondheidszorg Hollands Midden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rdoghm",
+    "startDate": "2006-01-01"
+  },
+  {
+    "prefLabel": "Regionale uitvoeringsdienst Utrecht 2.0",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/RUDU2_0",
+    "startDate": "2014-01-01"
+  },
+  {
+    "prefLabel": "Regionale uitvoeringsdienst Zeeland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rudzld",
+    "startDate": "2014-01-01"
+  },
+  {
+    "prefLabel": "Regioraad Noord Groningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Regioraad_Noord_Groningen",
+    "endDate": "2009-12-31"
+  },
+  {
+    "prefLabel": "ReinUnie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/reinunie",
+    "startDate": "1997-07-01"
+  },
+  {
+    "prefLabel": "Reinigingsbedrijf Midden Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rbedrmidnl",
+    "startDate": "2008-01-01"
+  },
+  {
+    "prefLabel": "Reinigingsdienst De Liemers",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rdliemers",
+    "startDate": "1995-10-19"
+  },
+  {
+    "prefLabel": "Reinigingsdienst Maasland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rdmaasld",
+    "startDate": "1963-01-14"
+  },
+  {
+    "prefLabel": "Reinigingsdienst Waardlanden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rdwaardl",
+    "startDate": "2016-01-01"
+  },
+  {
+    "prefLabel": "Reinigingsdiensten Rd4",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rd4",
+    "startDate": "1998-01-01"
+  },
+  {
+    "prefLabel": "Rekenkamer Oost-Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rekenkoostnl",
+    "startDate": "2005-01-01"
+  },
+  {
+    "prefLabel": "Rijnstreekberaad",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rijnstreekberaad",
+    "endDate": "2010-03-31"
+  },
+  {
+    "prefLabel": "Rogplus",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rogplusnwwn",
+    "startDate": "1994-01-01"
+  },
+  {
+    "prefLabel": "SED organisatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sedorg",
+    "startDate": "2015-01-01"
+  },
+  {
+    "prefLabel": "SOWECO",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/soweco",
+    "startDate": "1998-03-31",
+    "endDate": "2020-12-31"
+  },
+  {
+    "prefLabel": "SPOOR-raad",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/spoorraad",
+    "startDate": "2004-07-01"
+  },
+  {
+    "prefLabel": "SWB Midden Twente",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/swbmidtwe",
+    "startDate": "1969-01-01"
+  },
+  {
+    "prefLabel": "SWW-gemeenten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/swwgem",
+    "startDate": "2015-01-01",
+    "endDate": "2017-12-31"
+  },
+  {
+    "prefLabel": "Sallcon",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sallcon",
+    "startDate": "2003-01-01"
+  },
+  {
+    "prefLabel": "SamenTwente",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Regio_Twente",
+    "startDate": "1995-05-01"
+  },
+  {
+    "prefLabel": "Samenwerking A2-gemeenten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sama2gem",
+    "startDate": "2012-04-01"
+  },
+  {
+    "prefLabel": "Samenwerking De Bevelanden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/swdbl",
+    "startDate": "2013-07-04"
+  },
+  {
+    "prefLabel": "Samenwerking De Liemers",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/liemers",
+    "startDate": "2010-11-30"
+  },
+  {
+    "prefLabel": "Samenwerking Kempengemeenten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/SamenwerkingKempengemeenten",
+    "startDate": "2010-01-01"
+  },
+  {
+    "prefLabel": "Samenwerkingsorgaan Hoeksche Waard",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sohw",
+    "startDate": "2010-05-01",
+    "endDate": "2018-12-31"
+  },
+  {
+    "prefLabel": "Samenwerkingsorgaan Holland Rijnland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sohlrl",
+    "startDate": "2010-04-01"
+  },
+  {
+    "prefLabel": "Samenwerkingsorganisatie De Wolden Hoogeveen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/samwolhoo",
+    "startDate": "2015-08-01"
+  },
+  {
+    "prefLabel": "Samenwerkingsorganisatie Publiek Vervoer Groningen Drenthe",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sopvgd",
+    "startDate": "2018-03-01"
+  },
+  {
+    "prefLabel": "Samenwerkingsverband Noord-Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Samenwerkingsverband_Noord-Nederland",
+    "startDate": "1992-07-01"
+  },
+  {
+    "prefLabel": "Samenwerkingsverband Regio Eindhoven",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Samenwerkingsverband_Regio_Eindhoven",
+    "startDate": "1993-05-12",
+    "endDate": "2015-04-03"
+  },
+  {
+    "prefLabel": "Samenwerkingsverband Welzijnszorg Oosterschelderegio",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/swvo",
+    "startDate": "1993-01-01"
+  },
+  {
+    "prefLabel": "Samenwerkingsverband afvalstoffenverwijdering Noordoost Groningen ",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sanog",
+    "startDate": "1987-08-01",
+    "endDate": "2020-12-31"
+  },
+  {
+    "prefLabel": "Samenwerkingsverband afvalstoffenverwijdering Oost- en Zuidoost Groningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sozog",
+    "startDate": "1986-03-25"
+  },
+  {
+    "prefLabel": "Samenwerkingsverband collectief vervoer Zeeuwsch-Vlaanderen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/swvcolverzeel",
+    "startDate": "2003-01-01"
+  },
+  {
+    "prefLabel": "Samenwerkingsverband kleinschalig collectief vervoer Brabant-Noordoost",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/kcvbno",
+    "startDate": "2004-01-01"
+  },
+  {
+    "prefLabel": "Samenwerkingsverband vastgoedinformatie, heffing en waardebepaling",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/svhw",
+    "startDate": "2001-01-01"
+  },
+  {
+    "prefLabel": "Schadeschap Luchthaven Schiphol",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/schschsch",
+    "startDate": "1998-12-01",
+    "endDate": "2020-05-31"
+  },
+  {
+    "prefLabel": "Schadevergoedingsschap HSL-Zuid, A 16 en A 4",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/svshslzuid",
+    "startDate": "1998-04-01"
+  },
+  {
+    "prefLabel": "Senzer",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wadp",
+    "startDate": "2016-01-01"
+  },
+  {
+    "prefLabel": "Servicebureau De Friese Wouden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Servicebureau_De_Friese_Wouden",
+    "endDate": "2013-12-31"
+  },
+  {
+    "prefLabel": "Servicebureau Jeugdhulp Haaglanden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sbjhhaagl",
+    "startDate": "2020-02-20"
+  },
+  {
+    "prefLabel": "Servicebureau|Gemeenten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Servicebureau_Gemeenten",
+    "endDate": "2015-12-31"
+  },
+  {
+    "prefLabel": "Servicecentrum MER",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/grmer",
+    "startDate": "2012-10-15"
+  },
+  {
+    "prefLabel": "Serviceorganisatie Zorg Holland Rijnland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/SZHR",
+    "startDate": "2022-03-16"
+  },
+  {
+    "prefLabel": "Servicepunt71",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Servicepunt71",
+    "startDate": "2011-01-01",
+    "endDate": "2022-12-31"
+  },
+  {
+    "prefLabel": "Shared Service Center DeSom",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sscdesom",
+    "startDate": "2014-01-01"
+  },
+  {
+    "prefLabel": "Shared Service Center Zuid-Limburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ssczl",
+    "startDate": "2015-10-23",
+    "endDate": "2021-06-30"
+  },
+  {
+    "prefLabel": "Shared Service Centrum ONS",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sscons",
+    "startDate": "2018-01-01"
+  },
+  {
+    "prefLabel": "Sociaal",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/drechtsteden",
+    "startDate": "2006-03-08"
+  },
+  {
+    "prefLabel": "Sociaal Werkvoorzieningsschap DETHON",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/dethon",
+    "startDate": "1995-01-01"
+  },
+  {
+    "prefLabel": "Sociale Dienst Baarn, Bunschoten, Soest",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Sociale_Dienst_Baarn_Bunschoten_Soest",
+    "endDate": "2016-12-31"
+  },
+  {
+    "prefLabel": "Sociale Dienst Bommelerwaard",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Sociale_Dienst_Bommelerwaard",
+    "endDate": "2015-12-31"
+  },
+  {
+    "prefLabel": "Sociale Dienst Veluwerand",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Sociale_Dienst_Veluwerand",
+    "endDate": "2017-12-31"
+  },
+  {
+    "prefLabel": "Sociale Dienst Walcheren",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Sociale_Dienst_Walcheren",
+    "endDate": "2011-12-31"
+  },
+  {
+    "prefLabel": "Sociale Werkvoorziening Drechtwerk",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/drechtwerk",
+    "startDate": "1990-01-01"
+  },
+  {
+    "prefLabel": "Sociale werkvoorziening Fryslân",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Sociale_werkvoorziening_Fryslan",
+    "startDate": "2002-01-01",
+    "endDate": "2019-12-31"
+  },
+  {
+    "prefLabel": "Sportpark Souburgh",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/spsoub",
+    "startDate": "1990-01-01"
+  },
+  {
+    "prefLabel": "Stadsbank Oost Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sbonl",
+    "startDate": "1953-01-01"
+  },
+  {
+    "prefLabel": "Stadsgewest 's-Hertogenbosch",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sgshert",
+    "startDate": "1998-07-22"
+  },
+  {
+    "prefLabel": "Stadsgewest Haaglanden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stadsgewest_Haaglanden",
+    "startDate": "1995-03-01",
+    "endDate": "2014-12-31"
+  },
+  {
+    "prefLabel": "Stadsgewestelijke Brandweer Vlissingen-Middelburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/brandwvlmid",
+    "startDate": "1997-08-01"
+  },
+  {
+    "prefLabel": "Stadsregio Amsterdam",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stadsregio_Amsterdam",
+    "startDate": "1992-05-01",
+    "endDate": "2016-12-31"
+  },
+  {
+    "prefLabel": "Stadsregio Arnhem Nijmegen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stadsregio_Arnhem_Nijmegen",
+    "endDate": "2015-07-16"
+  },
+  {
+    "prefLabel": "Stadsregio Parkstad Limburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/strpslim",
+    "startDate": "2016-01-01"
+  },
+  {
+    "prefLabel": "Stadsregio Rotterdam",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stadsregio_Rotterdam",
+    "startDate": "1994-04-19",
+    "endDate": "2015-07-01"
+  },
+  {
+    "prefLabel": "Stark",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/stark",
+    "startDate": "2018-10-09"
+  },
+  {
+    "prefLabel": "Stichtse Groenlanden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichtse_Groenlanden",
+    "endDate": "1900-01-01"
+  },
+  {
+    "prefLabel": "Streekarchief Langstraat Heusden Altena",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/salha",
+    "startDate": "2013-07-01"
+  },
+  {
+    "prefLabel": "Streekarchief Midden-Holland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/strarchmidhol",
+    "startDate": "2005-01-01"
+  },
+  {
+    "prefLabel": "Streekarchief Voorne-Putten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/starvpr",
+    "startDate": "1984-02-01",
+    "endDate": "2019-02-28"
+  },
+  {
+    "prefLabel": "Streekarchief Voorne-Putten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/strarvp",
+    "startDate": "2019-03-01"
+  },
+  {
+    "prefLabel": "Streekarchivariaat de Liemers en Doesburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sald",
+    "startDate": "1959-01-09"
+  },
+  {
+    "prefLabel": "Streekraad Oost-Groningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Streekraad_Oost-Groningen",
+    "endDate": "2010-12-31"
+  },
+  {
+    "prefLabel": "Stroomopwaarts MVS",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/stowmvs",
+    "startDate": "2015-02-01"
+  },
+  {
+    "prefLabel": "Syntrophos",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/syntrophos",
+    "startDate": "2013-02-21"
+  },
+  {
+    "prefLabel": "Technisch Bureau in de Krimpenerwaard",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/tbidkw",
+    "startDate": "1989-07-01",
+    "endDate": "2017-12-31"
+  },
+  {
+    "prefLabel": "Technology Base",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/tecbas",
+    "startDate": "2020-07-18"
+  },
+  {
+    "prefLabel": "Toezichthoudend orgaan openbaar primair onderwijs Olst-Wijhe en Raalte",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/thoopoowr",
+    "startDate": "2006-01-01"
+  },
+  {
+    "prefLabel": "Tresoar",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/letthoek",
+    "startDate": "2002-08-29"
+  },
+  {
+    "prefLabel": "Tribuut belastingsamenwerking",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/tribuut",
+    "startDate": "2016-01-01"
+  },
+  {
+    "prefLabel": "Twentebedrijf",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/twntbdrf",
+    "startDate": "2016-01-01",
+    "endDate": "2017-12-31"
+  },
+  {
+    "prefLabel": "UW Samenwerking",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/uwsam",
+    "startDate": "2013-01-01",
+    "endDate": "2017-12-21"
+  },
+  {
+    "prefLabel": "Uitvoeringsorganisatie Baanbrekers",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/baanbrekers",
+    "startDate": "2013-12-28"
+  },
+  {
+    "prefLabel": "Uitvoeringsorganisatie Breedbandnetwerk Rivierenland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bbnrivl",
+    "startDate": "2020-01-01"
+  },
+  {
+    "prefLabel": "Uitvoeringsorganisatie De Friese Meren",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Uitvoeringsorganisatie_De_Friese_Meren",
+    "endDate": "2013-12-31"
+  },
+  {
+    "prefLabel": "Uitvoeringsorganisatie Jeugdzorg IJsselland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/uojzij",
+    "startDate": "2014-11-01",
+    "endDate": "2017-12-31"
+  },
+  {
+    "prefLabel": "Uitvoeringsorganisatie Laborijn",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/laborijn",
+    "startDate": "2016-01-01"
+  },
+  {
+    "prefLabel": "Veiligheids- en Gezondheidsregio Gelderland-Midden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Gelderland-Midden",
+    "startDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Amsterdam-Amstelland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Amsterdam-Amstelland",
+    "startDate": "2008-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Brabant-Noord",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Brabant-Noord",
+    "startDate": "2006-07-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Brabant-Zuidoost",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Brabant-Zuidoost",
+    "startDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Drenthe",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Drenthe",
+    "startDate": "2014-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Flevoland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Flevoland"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Flevoland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/vregfl",
+    "startDate": "2008-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Fryslân",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Fryslan",
+    "startDate": "2007-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Gelderland-Zuid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Gelderland-Zuid",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Gooi en Vechtstreek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Gooi_en_Vechtstreek",
+    "startDate": "2007-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Groningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Groningen",
+    "startDate": "2014-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Haaglanden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Haaglanden",
+    "startDate": "2009-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Hollands Midden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Hollands_Midden",
+    "startDate": "2010-10-08"
+  },
+  {
+    "prefLabel": "Veiligheidsregio IJsselland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_IJsselland",
+    "startDate": "2009-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Kennemerland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Kennemerland",
+    "startDate": "2008-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Limburg-Noord",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Limburg-Noord",
+    "startDate": "2002-01-01",
+    "endDate": "2016-03-31"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Midden- en West-Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Midden-_en_West-Brabant",
+    "startDate": "2005-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Noord- en Oost-Gelderland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Noord-_en_Oost-Gelderland",
+    "startDate": "2010-04-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Noord-Holland Noord",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/vregnhn",
+    "startDate": "2004-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Noord-Holland-Noord",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Noord-Holland-Noord"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Rotterdam-Rijnmond",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Rotterdam-Rijnmond",
+    "startDate": "2006-03-28"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Twente",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Twente",
+    "startDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Utrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Utrecht",
+    "startDate": "2006-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Zaanstreek-Waterland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Zaanstreek-Waterland",
+    "startDate": "2008-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Zeeland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Zeeland",
+    "startDate": "2006-07-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Zuid-Holland Zuid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/vregzhz",
+    "startDate": "2009-06-24"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Zuid-Holland-Zuid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Zuid-Holland-Zuid"
+  },
+  {
+    "prefLabel": "Veiligheidsregio Zuid-Limburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Veiligheidsregio_Zuid-Limburg",
+    "startDate": "2012-01-01"
+  },
+  {
+    "prefLabel": "Veiligheidsregio en Gemeentelijke Gezondheidsdienst Limburg-Noord",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/vrggdln",
+    "startDate": "2016-04-01"
+  },
+  {
+    "prefLabel": "Vervoerregio Amsterdam",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/vrvregams",
+    "startDate": "2017-01-01"
+  },
+  {
+    "prefLabel": "Vervoerscentrale Stedendriehoek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/vcstdr",
+    "startDate": "2016-03-10"
+  },
+  {
+    "prefLabel": "Volkskredietbank Noord-Oost Groningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Volkskredietbank_Noord-Oost_Groningen",
+    "startDate": "1967-12-01"
+  },
+  {
+    "prefLabel": "Vuilafvoerbedrijf Duin- en Bollenstreek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/vafbdenb",
+    "startDate": "1972-04-10"
+  },
+  {
+    "prefLabel": "Vuilverbrandingsinstallatie Alkmaar en Omstreken",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Vuilverbrandingsinstallatie_Alkmaar_en_Omstreken",
+    "startDate": "1976-01-01"
+  },
+  {
+    "prefLabel": "Vuilverwerkingsbedrijf Noord-Groningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/vvbnrdgr",
+    "startDate": "2016-01-01",
+    "endDate": "2021-12-31"
+  },
+  {
+    "prefLabel": "WIHW",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wihw",
+    "startDate": "2016-01-01",
+    "endDate": "2018-12-31"
+  },
+  {
+    "prefLabel": "WSD",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wsd",
+    "startDate": "2002-01-01"
+  },
+  {
+    "prefLabel": "WVK-groep",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/WVK-groep",
+    "startDate": "2011-01-01",
+    "endDate": "2019-06-30"
+  },
+  {
+    "prefLabel": "WVS-groep",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wvsg",
+    "startDate": "1974-01-01"
+  },
+  {
+    "prefLabel": "Waddenfonds",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wadfnd",
+    "startDate": "2012-06-09"
+  },
+  {
+    "prefLabel": "Waterlands Archief",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wlarch",
+    "startDate": "2018-08-01"
+  },
+  {
+    "prefLabel": "Waterpact van Twente",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Waterpact_van_Twente",
+    "endDate": "2005-01-01"
+  },
+  {
+    "prefLabel": "Wedeka Bedrijven",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wedeka",
+    "startDate": "2001-01-01"
+  },
+  {
+    "prefLabel": "Wegschap Tunnel Dordtse Kil",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wstdk",
+    "startDate": "1989-01-01"
+  },
+  {
+    "prefLabel": "Werk &amp; Inkomen Lekstroom",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wenil",
+    "startDate": "2013-01-01",
+    "endDate": "2016-02-11"
+  },
+  {
+    "prefLabel": "Werk en Inkomen Lekstroom",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/weils",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Werk in Uitvoering",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/werkinuit",
+    "startDate": "2018-07-01",
+    "endDate": "2019-01-31"
+  },
+  {
+    "prefLabel": "Werk-/Leerbedrijf NoardEast Fryslân",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wlbnefrl",
+    "startDate": "2011-07-01"
+  },
+  {
+    "prefLabel": "WerkSaam Westfriesland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/werksaam",
+    "startDate": "2015-01-01"
+  },
+  {
+    "prefLabel": "Werkbedrijf Arbeid Voor Allen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wvsava",
+    "startDate": "1954-01-21"
+  },
+  {
+    "prefLabel": "Werkmaatschappij 8KTD",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wm8ktd",
+    "startDate": "2014-01-01"
+  },
+  {
+    "prefLabel": "Werkorganisatie BUCH",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/buch",
+    "startDate": "2017-01-01"
+  },
+  {
+    "prefLabel": "Werkorganisatie CGM",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wocgm",
+    "startDate": "2013-10-01",
+    "endDate": "2021-12-31"
+  },
+  {
+    "prefLabel": "Werkorganisatie DEAL-Gemeenten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/dealgem",
+    "startDate": "2010-12-01",
+    "endDate": "2020-12-31"
+  },
+  {
+    "prefLabel": "Werkorganisatie Druten Wijchen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wodw",
+    "startDate": "2018-01-01"
+  },
+  {
+    "prefLabel": "Werkorganisatie Duivenvoorde",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Werkorganisatie_Duivenvoorde",
+    "startDate": "2013-01-01",
+    "endDate": "2022-12-31"
+  },
+  {
+    "prefLabel": "Werkorganisatie HLT Samen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/hltsam",
+    "startDate": "2017-01-01"
+  },
+  {
+    "prefLabel": "Werkorganisatie Langedijk en Heerhugowaard",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/woldhhw",
+    "startDate": "2019-10-01",
+    "endDate": "2021-12-31"
+  },
+  {
+    "prefLabel": "Werkorganisatie gemeenten Cuijk, Grave, Mill en St. Hubert",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Werkorganisatie_CGM",
+    "startDate": "2013-10-01",
+    "endDate": "2021-12-31"
+  },
+  {
+    "prefLabel": "Werkplein Drentsche Aa",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wpldraa",
+    "startDate": "2016-07-16"
+  },
+  {
+    "prefLabel": "Werkplein Fivelingo",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wpfivel",
+    "startDate": "2017-01-01",
+    "endDate": "2020-12-31"
+  },
+  {
+    "prefLabel": "Werkplein Hart van West-Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wphvwb",
+    "startDate": "2015-01-01"
+  },
+  {
+    "prefLabel": "Werkvoorzieningschap Kampen &amp; Dronten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wvskd",
+    "startDate": "2011-07-01"
+  },
+  {
+    "prefLabel": "Werkvoorzieningschap Noord-Limburg West",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wvsnlimw",
+    "startDate": "2003-10-28"
+  },
+  {
+    "prefLabel": "Werkvoorzieningschap Noordoost-Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wvsnobr",
+    "startDate": "1998-01-01"
+  },
+  {
+    "prefLabel": "Werkvoorzieningschap Novatec",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/novatec",
+    "startDate": "2006-06-01",
+    "endDate": "2018-12-31"
+  },
+  {
+    "prefLabel": "Werkvoorzieningschap Risse Groep",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wvswrtris",
+    "startDate": "2008-07-07"
+  },
+  {
+    "prefLabel": "Werkvoorzieningschap Venlo en omstreken",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wvsvenlo",
+    "startDate": "1981-02-01"
+  },
+  {
+    "prefLabel": "Werkvoorzieningschap lJsselmeergroep",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wvsijsgrp",
+    "startDate": "2001-01-01"
+  },
+  {
+    "prefLabel": "Werkvoorzieningschap regio Eindhoven",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wvscheindh",
+    "startDate": "2000-01-01"
+  },
+  {
+    "prefLabel": "Werkvoorzieningsschap Tomingroep",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wvstomgrp",
+    "startDate": "1988-12-01"
+  },
+  {
+    "prefLabel": "Werkzaak Rivierenland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wzrivl",
+    "startDate": "2015-03-05"
+  },
+  {
+    "prefLabel": "West-Brabants Archief",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wbarch",
+    "startDate": "2016-07-01"
+  },
+  {
+    "prefLabel": "Westfries Archief",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wfrarch",
+    "startDate": "2006-01-01"
+  },
+  {
+    "prefLabel": "Westrom",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/westrom",
+    "startDate": "2001-01-01"
+  },
+  {
+    "prefLabel": "Zaffier",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wvschnknm",
+    "startDate": "1974-01-01"
+  },
+  {
+    "prefLabel": "Zeeland Seaports",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/zeelseap",
+    "startDate": "2011-01-01",
+    "endDate": "2019-06-30"
+  },
+  {
+    "prefLabel": "Zeeuws Archief",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/zeeuwsarch",
+    "startDate": "2000-05-06"
+  },
+  {
+    "prefLabel": "Zuidelijke Rekenkamer Noord-Brabant en Limburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rekenknbrl",
+    "startDate": "2005-01-01"
+  },
+  {
+    "prefLabel": "de Noordelijke Rekenkamer",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/noordrekenk",
+    "startDate": "2016-01-05"
+  },
+  {
+    "prefLabel": "de Zeeuwse Muziekschool",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/zwmuzsch",
+    "startDate": "1984-01-01"
+  },
+  {
+    "prefLabel": "euregio rijn-maas-noord",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/eurrijnmaasnrd",
+    "startDate": "2004-07-01"
+  },
+  {
+    "prefLabel": "het Werkgeversservicepunt Parkstad",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wsppst",
+    "startDate": "2017-12-28"
+  },
+  {
+    "prefLabel": "het Werkvoorzieningschap Oostelijk Zuid Limburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wvsozlim",
+    "startDate": "2010-10-16"
+  },
+  {
+    "prefLabel": "het participatiebedrijf",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/partbedr",
+    "startDate": "2018-01-01"
+  },
+  {
+    "prefLabel": "hûs en hiem, welstandsadvisering en monumentenzorg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/huseh",
+    "startDate": "1983-01-01"
+  },
+  {
+    "prefLabel": "modulaire gemeenschappelijke regeling Rijk van Nijmegen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/mgrrvn",
+    "startDate": "2014-07-01"
+  },
+  {
+    "prefLabel": "regio Stedendriehoek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stedendriehoek",
+    "startDate": "1995-05-01"
+  }
+]

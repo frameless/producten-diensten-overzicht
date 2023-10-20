@@ -1,0 +1,642 @@
+[
+  {
+    "identifier": "https://www.zwartewaterland.nl/afschrift-uittreksel-burgerlijke-stand",
+    "title": "Afschrift (uittreksel) burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/echtscheiding-of-einde-geregistreerd-partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/aangifte-overlijden",
+    "title": "Aangifte overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/bijstandsuitkering",
+    "title": "Bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/gemeentebelastingen-voor-ondernemers",
+    "title": "Gemeentebelastingen voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/nee-nee-sticker-nee-ja-sticker",
+    "title": "NEE-NEE sticker, NEE-JA sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/bijstand-voor-zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/ligplaats",
+    "title": "Ligplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/ligplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/vergunning-speelautomaten",
+    "title": "Vergunning speelautomaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/hulp-bij-het-huishouden",
+    "title": "Hulp bij het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/woz-waarde",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-taxatieverslag"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/dood-dier-opruimen",
+    "title": "Dood dier opruimen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/dodeGezelschDierenOpr"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/onroerendezaakbelasting-ozb",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/kind-erkennen-voor-de-geboorte",
+    "title": "Kind erkennen vóór de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/collecte-en-verkoopactie",
+    "title": "Collecte en verkoopactie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/onroerendezaakbelasting-ozb-kopie-aanslag",
+    "title": "Onroerendezaakbelasting (OZB), kopie aanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)_kopie_aanslag"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/kinderopvang-starten",
+    "title": "Kinderopvang starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/venten",
+    "title": "Venten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/individuele-begeleiding-en-dagbesteding",
+    "title": "Individuele begeleiding en dagbesteding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/bijstand-heronderzoek",
+    "title": "Bijstand, heronderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/bijzonderebijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/invordering-belastingen",
+    "title": "Invordering belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/clientondersteuning",
+    "title": "Cliëntondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/aan-de-balie-rijbewijs-verlengen-of-uitbreiden",
+    "title": "Aan de balie rijbewijs verlengen of uitbreiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbVerlengen"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/gezondheidsverklaring-voorheen-eigen-verklaring",
+    "title": "Gezondheidsverklaring (voorheen eigen verklaring)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/alcoholvergunning",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/nederlander-worden-door-optie",
+    "title": "Nederlander worden door optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalOptie"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/leerplicht-bijzonder-verlof-of-vrijstelling",
+    "title": "Leerplicht, bijzonder verlof of vrijstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/loterij-prijsvraag-bingo-organiseren",
+    "title": "Loterij, prijsvraag, bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/automatische-incasso-machtiging",
+    "title": "Automatische incasso, machtiging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/sloopmelding-gebouw-of-deel-gebouw",
+    "title": "Sloopmelding gebouw of deel gebouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/incasso",
+    "title": "Betaling gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/rijbewijs-aanvragen-voor-de-eerste-keer",
+    "title": "Rijbewijs aanvragen voor de eerste keer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/bewijs-van-garantstelling-enof-logiesverstrekking",
+    "title": "Bewijs van garantstelling en/of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/levenloos-geboren-kind-registreren",
+    "title": "Levenloos geboren kind registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/handtekening-legaliseren",
+    "title": "Handtekening legaliseren ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/opvragen-persoonsgegevens",
+    "title": "Opvragen persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/ongediertebestrijding",
+    "title": "Ongediertebestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/forensenbelasting",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/snippergroen-verkoop-reststroken",
+    "title": "Snippergroen, verkoop reststroken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/blijverslening",
+    "title": "Blijverslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/blijverslening"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/verhuizen-naar-buitenland",
+    "title": "Verhuizen naar buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/milieuvervuiling-melden",
+    "title": "Milieuvervuiling melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/geheimhouden-persoonsgegevens",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/koopgegevens-niet-woningen",
+    "title": "Koopgegevens niet-woningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/transport-gevaarlijke-stoffen",
+    "title": "Transport gevaarlijke stoffen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/routeplichtontheffing_vervoer_gevaarlijke_stoffen"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/kind-erkennen-na-de-geboorte",
+    "title": "Kind erkennen ná de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/omgevingsvergunning-milieuvergunning",
+    "title": "Omgevingsvergunning (milieuvergunning)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/steunouder",
+    "title": "Steunouder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/huurgegevens-niet-woningen",
+    "title": "Huurgegevens niet-woningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-werknemers-ioaw",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte werknemers (IOAW)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaw-uitkering"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/brandveiligheid-melding-of-vergunning",
+    "title": "Brandveiligheid, melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/alcohol-schenken-tijdens-evenement",
+    "title": "Alcohol schenken tijdens evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/standplaatsvergunning-weekmarkt",
+    "title": "Standplaatsvergunning weekmarkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/subsidie-voor-maatschappelijke-activiteiten",
+    "title": "Subsidie voor maatschappelijke activiteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/bezwaar-gemeentelijke-belastingen-en-woz",
+    "title": "Bezwaar gemeentelijke belastingen en WOZ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/wmo-calamiteiten-melden",
+    "title": "Wmo calamiteiten melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/wmo",
+    "title": "Wmo ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/innemen-openbare-grond",
+    "title": "Innemen openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/uitrit-of-inrit-aanleggen",
+    "title": "Uitrit of inrit aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgUitweg"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/bijstand-vakantie-melden",
+    "title": "Bijstand, vakantie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/uittreksel-uit-brp",
+    "title": "Uittreksel uit BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/afval-bedrijven",
+    "title": "Afval, bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalinzameling"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/huiselijk-geweld",
+    "title": "Huiselijk geweld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/voorschot-bijstandsuitkering",
+    "title": "Voorschot bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/aanbod-jeugdhulp-in-zwartewaterland",
+    "title": "Aanbod jeugdhulp in Zwartewaterland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/begraafplaats-gedenkteken-plaatsen",
+    "title": "Begraafplaats, gedenkteken plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/hulp-bij-opgroeien-en-opvoeden",
+    "title": "Hulp bij opgroeien en opvoeden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/nederlander-worden-door-naturalisatie",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/watervergunning",
+    "title": "Watervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/watervergunning"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/eidas-formulieren",
+    "title": "eIDAS formulieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/ontheffing-stookverbod",
+    "title": "Ontheffing stookverbod",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/vrijwilligersverzekering",
+    "title": "Vrijwilligersverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/ontheffing-sluitingstijd-horecabedrijven",
+    "title": "Ontheffing sluitingstijd horecabedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/boas-en-toezichthouders",
+    "title": "Boa&#039;s en toezichthouders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  },
+  {
+    "identifier": "https://www.zwartewaterland.nl/online-rijbewijs-verlengen-of-uitbreiden",
+    "title": "Online rijbewijs verlengen of uitbreiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zwartewaterland"
+  }
+]

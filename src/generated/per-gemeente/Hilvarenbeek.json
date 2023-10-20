@@ -1,0 +1,617 @@
+[
+  {
+    "identifier": "https://www.hilvarenbeek.nl/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/niet-eens-met-uw-belastingaanslag",
+    "title": "Niet eens met uw belastingaanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/aansprakelijk-stellen-gemeente",
+    "title": "Aansprakelijk stellen gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/dorpsondersteuners",
+    "title": "Dorpsondersteuners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/boodschappenhulp"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/jeugdhulp",
+    "title": "Hulp bij de opvoeding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/bijzondere-bijstand-aanvragen",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/trouwen-of-geregistreerd-partnerschap",
+    "title": "Trouwen of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/mantelzorgcompliment",
+    "title": "Mantelzorgcompliment",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgcompliment"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/verhuizen-1",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/rioolverstopping",
+    "title": "Riool verstopt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/inschrijven-nieuwbouw-of-bouwkavel",
+    "title": "Inschrijven nieuwbouw of bouwkavel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwgronduitgifte"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/duurzaamheidslening",
+    "title": "Duurzaamheidslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/duurzhLening"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/vuur-stoken",
+    "title": "Vuur stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://hilvarenbeek.notubiz.nl/",
+    "title": "Vergaderingen, agenda en livestream",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/raadsstuk"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/afzetten-openbare-weg",
+    "title": "Afzetten openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afsluiting_openbare_weg_vergunning"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/verhuizen-vanuit-het-buitenland",
+    "title": "Verhuizen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/kwijtschelding",
+    "title": "Kwijtschelding aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/parkeren-en-verkeer/laadpalen-voor-elektrische-autos",
+    "title": "Laadpalen voor elektrische auto's",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/laadpaalverzoek"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/materialen-lenen",
+    "title": "Materialen lenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/uitlening_gemeentelijke_materialen"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/verloren-en-gevonden-voorwerpen",
+    "title": "Verloren en gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/gladheid",
+    "title": "Strooien bij gladheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/strooiroute",
+    "title": "Waar wij strooien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/uitkering-voor-oudere-en-arbeidsongeschikte-ondernemers",
+    "title": "Uitkering voor oudere en arbeidsongeschikte ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaz-uitkering"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/blijverslening",
+    "title": "Blijverslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/blijverslening"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/geboorte-aangeven",
+    "title": "Geboorte aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/uitkering-voor-ondernemers",
+    "title": "Financiële steun voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/woz",
+    "title": "WOZ waarde en taxatieverslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/andere-vergunningen",
+    "title": "Andere vergunningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/asbest-verwijderen-en-wegbrengen",
+    "title": "Asbest verwijderen en wegbrengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/bijstandsuitkering-voor-ondernemers",
+    "title": "Bijstandsuitkering voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/verlies-documenten",
+    "title": "Paspoort, rijbewijs, ID-kaart, kwijt of gestolen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/parkeerontheffing-voor-bewoners",
+    "title": "Parkeerontheffing voor bewoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/hulp-in-uw-dagelijks-leven",
+    "title": "Hulp in uw dagelijks leven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/verklaring-omtrent-gedrag-vog",
+    "title": "Verklaring omtrent gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/afval-wegbrengen",
+    "title": "Afval wegbrengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/wegwerkzaamheden",
+    "title": "Werkzaamheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderhoud_infrastructuur"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/zorgverzekering-via-de-gemeente",
+    "title": "Zorgverzekering en energie via de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectieve_ziektekostenverzekering"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/ophaaldagen-afval",
+    "title": "Afval ophalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/overleggen-over-verbouwplannen",
+    "title": "Overleggen over (ver)bouwplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voorovrlg"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/activiteitensubsidie",
+    "title": "Activiteitensubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/gemeenteraad-en-college",
+    "title": "Gemeenteraad en College",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/raadsstuk"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/geregistreerd-partnerschap-omzetten",
+    "title": "Partnerschap omzetten in een huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/hulp-van-de-mantelzorgconsulent",
+    "title": "Hulp van de mantelzorgconsulent",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/uitkering-voor-oudere-werkzoekenden",
+    "title": "Uitkering voor oudere werkzoekenden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaw-uitkering"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/naamgebruik-wijzigen",
+    "title": "Naamgebruik wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/aanvragen-wijziging-bestemmingsplan",
+    "title": "Aanvragen wijziging bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/verzekering-voor-vrijwilligers",
+    "title": "Verzekering voor vrijwilligers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/gemeentegrond-kopen-of-gebruiken",
+    "title": "Gemeentegrond kopen of gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/ontheffing-sluitingstijden",
+    "title": "Ontheffing sluitingstijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/container-of-container-pas-aanvragen",
+    "title": "Container en container pas aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/id-kaart",
+    "title": "ID-kaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/zienswijze-indienen",
+    "title": "Zienswijze indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zienswijze"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/welstand",
+    "title": "Welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/bijdrage-sociale-activiteiten",
+    "title": "Bijdrage sociale activiteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/onroerende-zaakbelastingen",
+    "title": "Onroerende-zaakbelastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/leerlingvervoer",
+    "title": "Leerlingvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/iets-melden",
+    "title": "Iets melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/verhuizen-naar-het-buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/bomen-kappen",
+    "title": "Bomen kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/briefadres-doorgeven",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/uitkering-voor-ondernemers-1",
+    "title": "Financiële steun voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/horecabedrijf-starten-of-overnemen",
+    "title": "Horecabedrijf starten of overnemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/automatischeincasso",
+    "title": "Automatisch incasso aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/melden",
+    "title": "Melding doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/hulp-bij-geldzaken",
+    "title": "Hulp bij geldzaken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/toeristenbelasting-forensenbelasting",
+    "title": "Toeristenbelasting en forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/bestemmingsplannen",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/afval-scheiden",
+    "title": "Afval scheiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/uittreksel-burgerlijke-stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/intaketafel",
+    "title": "Overleg aan de intaketafel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voorovrlg"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/hulp-en-zorg/crisis-interventie-team",
+    "title": "Crisis Interventie Team",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/uitkering",
+    "title": "Uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/erkennen-kind",
+    "title": "Erkennen (ongeboren) kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/alcoholvergunning",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/rugzakje",
+    "title": "Rugzakje",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/overlijden-aangeven",
+    "title": "Overlijden aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/planschade",
+    "title": "Vergoeding planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/archief-bouwen-en-milieu",
+    "title": "Archief bouwen en milieu",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hilvarenbeek.nl/slopen",
+    "title": "Slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hilvarenbeek_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  }
+]

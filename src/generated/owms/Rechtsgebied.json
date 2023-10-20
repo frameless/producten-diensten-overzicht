@@ -1,0 +1,402 @@
+[
+  {
+    "prefLabel": "Aansprakelijkheidsrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/aansprakelijkheidsrecht"
+  },
+  {
+    "prefLabel": "Ambtenarenrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ambtenarenrecht"
+  },
+  {
+    "prefLabel": "Arbeidsrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/arbeidsrecht"
+  },
+  {
+    "prefLabel": "Arbeidsrecht en sociaal zekerheidsrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/arbeidsrecht_en_sociaalzekerheidsrecht"
+  },
+  {
+    "prefLabel": "Arbitrage",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/arbitrage_(rechtsgebied)"
+  },
+  {
+    "prefLabel": "Asielrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/asielrecht"
+  },
+  {
+    "prefLabel": "Auteursrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/auteursrecht"
+  },
+  {
+    "prefLabel": "BTW en accijns",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/BTW_en_accijns"
+  },
+  {
+    "prefLabel": "Bank- en effectenrecht, financiering",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bank_en_effectenrecht_financiering"
+  },
+  {
+    "prefLabel": "Bankrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bankrecht"
+  },
+  {
+    "prefLabel": "Belastingrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/belastingrecht"
+  },
+  {
+    "prefLabel": "Bestuursprocesrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bestuursprocesrecht"
+  },
+  {
+    "prefLabel": "Bestuursrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bestuursrecht_(rechtsgebied)"
+  },
+  {
+    "prefLabel": "Bestuursstrafrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bestuursstrafrecht"
+  },
+  {
+    "prefLabel": "Bouwrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/bouwrecht"
+  },
+  {
+    "prefLabel": "Burgerlijk procesrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/burgerlijk_procesrecht"
+  },
+  {
+    "prefLabel": "Consumentenrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/consumentenrecht_(rechtsgebied)"
+  },
+  {
+    "prefLabel": "Contracten, schade en aansprakelijkheid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/contracten_schade_en_aansprakelijkheid"
+  },
+  {
+    "prefLabel": "Contractenrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/contractenrecht"
+  },
+  {
+    "prefLabel": "Dividendbelasting",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/dividendbelasting"
+  },
+  {
+    "prefLabel": "Echtscheiding",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/echtscheiding_(rechtsgebied)"
+  },
+  {
+    "prefLabel": "Effectenrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/effectenrecht"
+  },
+  {
+    "prefLabel": "Eigendomsrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/eigendomsrecht"
+  },
+  {
+    "prefLabel": "Erfdienstbaarheid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/erfdienstbaarheid"
+  },
+  {
+    "prefLabel": "Erfpacht, vruchtgebruik",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/erfpacht_vruchtgebruik"
+  },
+  {
+    "prefLabel": "Erfrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/erfrecht"
+  },
+  {
+    "prefLabel": "Faillissement",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/faillissement"
+  },
+  {
+    "prefLabel": "Familierecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/familierecht"
+  },
+  {
+    "prefLabel": "Financieel-economisch strafrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/financieeleconomisch_strafrecht"
+  },
+  {
+    "prefLabel": "Financiering en zekerheden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/financiering_en_zekerheden"
+  },
+  {
+    "prefLabel": "Fusies en overnames",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/fusies_en_overnames"
+  },
+  {
+    "prefLabel": "Gezondheidsrecht en farmaceutisch recht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/gezondheidsrecht_en_farmaceutisch_recht"
+  },
+  {
+    "prefLabel": "Goederenrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/goederenrecht"
+  },
+  {
+    "prefLabel": "Huurrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/huurrecht"
+  },
+  {
+    "prefLabel": "Hypotheekrecht en pandrecht (zekerheidsrechten)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/hypotheekrecht_en_pandrecht"
+  },
+  {
+    "prefLabel": "ICT-recht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ICT_recht"
+  },
+  {
+    "prefLabel": "Informatierecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/informatierecht"
+  },
+  {
+    "prefLabel": "Inkomstenbelasting",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/inkomstenbelasting"
+  },
+  {
+    "prefLabel": "Insolventierecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/insolventierecht"
+  },
+  {
+    "prefLabel": "Intellectueel eigendomsrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/intellectueel_eigendomsrecht"
+  },
+  {
+    "prefLabel": "Intellectuele eigendom",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/intellectuele_eigendom"
+  },
+  {
+    "prefLabel": "Internationaal contractrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/internationaal_contractrecht"
+  },
+  {
+    "prefLabel": "Internationaal onroerend goedrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/internationaal_onroerend_goedrecht"
+  },
+  {
+    "prefLabel": "Internationaal privaatrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/internationaal_privaatrecht"
+  },
+  {
+    "prefLabel": "Internationaal procesrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/internationaal_procesrecht"
+  },
+  {
+    "prefLabel": "Internationaal publiekrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/internationaal_publiekrecht"
+  },
+  {
+    "prefLabel": "Internationaal strafrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/internationaal_strafrecht"
+  },
+  {
+    "prefLabel": "Invoer en douane",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/invoer_en_douane"
+  },
+  {
+    "prefLabel": "Invorderingsrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/invorderingsrecht"
+  },
+  {
+    "prefLabel": "Jeugdrecht (m.u.v. jeugdstrafrecht)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/jeugdrecht"
+  },
+  {
+    "prefLabel": "Jeugdstrafrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/jeugdstrafrecht"
+  },
+  {
+    "prefLabel": "Letselschade",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/letselschade"
+  },
+  {
+    "prefLabel": "Levensmiddelenrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/levensmiddelenrecht"
+  },
+  {
+    "prefLabel": "Loonbelasting en premieheffing",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/loonbelasting_en_premieheffing"
+  },
+  {
+    "prefLabel": "Mededingingsrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/mededingingsrecht"
+  },
+  {
+    "prefLabel": "Mensenrechten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/mensenrechten_(rechtsgebied)"
+  },
+  {
+    "prefLabel": "Migratierecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/migratierecht"
+  },
+  {
+    "prefLabel": "Milieubelasting",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/milieubelasting_(rechtsgebied)"
+  },
+  {
+    "prefLabel": "Milieurecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/milieurecht"
+  },
+  {
+    "prefLabel": "Milieustrafrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/milieustrafrecht"
+  },
+  {
+    "prefLabel": "Militair recht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/militair_recht"
+  },
+  {
+    "prefLabel": "Militaire ambtenarenrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/militaire_ambtenarenrecht"
+  },
+  {
+    "prefLabel": "Nationaliteitsrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/nationaliteitsrecht"
+  },
+  {
+    "prefLabel": "Octrooirecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/octrooirecht"
+  },
+  {
+    "prefLabel": "Omgevingsrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/omgevingsrecht"
+  },
+  {
+    "prefLabel": "Ondernemingspraktijk",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ondernemingspraktijk"
+  },
+  {
+    "prefLabel": "Ondernemingsrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ondernemingsrecht"
+  },
+  {
+    "prefLabel": "Onderwijsrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/onderwijsrecht"
+  },
+  {
+    "prefLabel": "Onroerend goedrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/onroerend_goedrecht"
+  },
+  {
+    "prefLabel": "Overig",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/overig_(rechtsgebied)"
+  },
+  {
+    "prefLabel": "Penitentiair recht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/penitentiair_recht"
+  },
+  {
+    "prefLabel": "Pensioenrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/pensioenrecht"
+  },
+  {
+    "prefLabel": "Personen- en familierecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/personen_en_familierecht"
+  },
+  {
+    "prefLabel": "Personenrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/personenrecht"
+  },
+  {
+    "prefLabel": "Privacy",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/privacy_(rechtsgebied)"
+  },
+  {
+    "prefLabel": "Procesrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/procesrecht"
+  },
+  {
+    "prefLabel": "Ruimtelijke ordening en milieu",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ruimtelijke_ordening_en_milieu"
+  },
+  {
+    "prefLabel": "Schuldsanering",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/schuldsanering"
+  },
+  {
+    "prefLabel": "Sociaal zekerheidsrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sociaal_zekerheidsrecht"
+  },
+  {
+    "prefLabel": "Sportrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sportrecht"
+  },
+  {
+    "prefLabel": "Staats- en bestuursrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/staats_en_bestuursrecht"
+  },
+  {
+    "prefLabel": "Staatsrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/staatsrecht_(rechtsgebied)"
+  },
+  {
+    "prefLabel": "Strafprocesrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/strafprocesrecht"
+  },
+  {
+    "prefLabel": "Strafrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/strafrecht_(rechtsgebied)"
+  },
+  {
+    "prefLabel": "Strafrecht (algemeen)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/strafrecht_(algemeen)"
+  },
+  {
+    "prefLabel": "Successie- en schenkingsrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/successie_en_schenkingsrecht"
+  },
+  {
+    "prefLabel": "Surseance",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/surseance"
+  },
+  {
+    "prefLabel": "Telecomrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/telecomrecht"
+  },
+  {
+    "prefLabel": "Toezicht bank- en kredietwezen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/toezicht_bank_en_kredietwezen"
+  },
+  {
+    "prefLabel": "Tuchtrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/tuchtrecht"
+  },
+  {
+    "prefLabel": "Vennootschapsbelastingrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/vennootschapsbelastingrecht"
+  },
+  {
+    "prefLabel": "Vennootschapsrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/vennootschapsrecht"
+  },
+  {
+    "prefLabel": "Verbintenissenrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/verbintenissenrecht"
+  },
+  {
+    "prefLabel": "Verkeersrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/verkeersrecht"
+  },
+  {
+    "prefLabel": "Vervoersrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/vervoersrecht"
+  },
+  {
+    "prefLabel": "Verzekeringsrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/verzekeringsrecht"
+  },
+  {
+    "prefLabel": "Volkenrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/volkenrecht"
+  },
+  {
+    "prefLabel": "Vreemdelingenrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/vreemdelingenrecht"
+  },
+  {
+    "prefLabel": "Waterrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/waterrecht"
+  },
+  {
+    "prefLabel": "Wonen, onroerend goed, bouwrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/wonen_onroerend_goed_bouwrecht"
+  }
+]

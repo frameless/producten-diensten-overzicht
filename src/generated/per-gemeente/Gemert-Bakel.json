@@ -1,0 +1,870 @@
+[
+  {
+    "identifier": "https://www.gemert-bakel.nl//afschrift-burgerlijke-stand-akte",
+    "title": "Afschrift burgerlijke stand (akte)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//handhaving",
+    "title": "Handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//gemeentelijke-onderscheidingen",
+    "title": "Gemeentelijke onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentelijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//planschadevergoeding",
+    "title": "Planschadevergoeding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//leegstandwet-tijdelijke-verhuur",
+    "title": "Leegstandwet, tijdelijke verhuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/leegstandvergunning"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//uitleen-van-materialen",
+    "title": "Uitleen van materialen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/uitlening_gemeentelijke_materialen"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//eerste-inschrijving-nederland-de-brp",
+    "title": "Eerste inschrijving in Nederland in de BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//individuele-studietoeslag-voor-studenten-met-een-arbeidshandicap",
+    "title": "Individuele Studietoeslag voor studenten met een arbeidshandicap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//loterij-organiseren",
+    "title": "Loterij organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/loterijvergunning"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//omgevings-vergunning-activiteit-bouwen",
+    "title": "Omgevings­­vergunning, activiteit bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//sporthal-huren-en-reserveren",
+    "title": "Sporthal huren en reserveren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//vrijwilligersverzekering",
+    "title": "Vrijwilligersverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//digid",
+    "title": "DigiD",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/digid"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//standplaatsen",
+    "title": "Standplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//begeleiding-naar-werk-voor-inwoners-zonder-een-bijstandsuitkering",
+    "title": "Begeleiding naar werk voor inwoners zonder een bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/begWerk"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//basisregistratie-personen-brp-doorgeven-wijzigingen",
+    "title": "Basisregistratie Personen (BRP), doorgeven wijzigingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//omgevingsvergunning-activiteit-uitvoeren-van-een-werk",
+    "title": "Omgevingsvergunning, activiteit uitvoeren van een werk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//reizen-met-kinderen-en-grenscontroles",
+    "title": "Reizen met kinderen en grenscontroles",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/reizMJToest"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//groen-en-reststroken",
+    "title": "Groen- en reststroken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//omgevingsvergunning-monument",
+    "title": "Omgevingsvergunning, Monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//verklaring-omtrent-het-gedrag-vog",
+    "title": "Verklaring Omtrent het Gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//omgevingsvergunning-activiteit-brandveilig-gebruik",
+    "title": "Omgevingsvergunning, activiteit brandveilig gebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//naamgebruik",
+    "title": "Naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//parkeerontheffing",
+    "title": "Parkeerontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//straatnaamgeving",
+    "title": "Straatnaamgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//hervestiging-vanuit-buitenland-de-brp",
+    "title": "Hervestiging vanuit buitenland in de BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/hervestiging_vanuit_het_buitenland"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//aangifte-rechtsfeiten-het-buitenland-0",
+    "title": "Aangifte rechtsfeiten in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//stempas",
+    "title": "Stempas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//bewijs-van-in-leven-zijn-of-attestatie-de-vita",
+    "title": "Bewijs van in leven zijn of attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//onroerendezaakbelasting-ozb",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//waarmerken-kopie-afschrift",
+    "title": "Waarmerken kopie of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/waarmerken_document"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//milieu-dumpen-afval",
+    "title": "Milieu, dumpen afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/milieuontheffing"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//geregistreerd-partnerschap",
+    "title": "Geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschapaangifte"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//ontkenning-van-het-vaderschap",
+    "title": "Ontkenning van het vaderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/vaderschapsontkenning_verklaring"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//rijbewijs-buitenlands-omzetten",
+    "title": "Rijbewijs (buitenlands), omzetten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs_buitenlands_omwisseling"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//elektrisch-rijden",
+    "title": "Elektrisch rijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/laadpaalverzoek"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//horeca-terras-exploiteren",
+    "title": "Horeca, terras exploiteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//structurele-subsidie-voor-vrijwilligersorganisaties",
+    "title": "Structurele subsidie voor Vrijwilligersorganisaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligerswerksubsidie"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//horeca-gokautomaten-plaatsen",
+    "title": "Horeca, gokautomaten plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//huisnummer-toekenning",
+    "title": "Huisnummer toekenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//vissen-gemert-bakel",
+    "title": "Vissen in Gemert-Bakel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/visvergunning"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//registratie-levenloos-geboren-kind",
+    "title": "Registratie levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInschrOverlKind"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//monumentenspaarfonds",
+    "title": "Monumentenspaarfonds",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//kadastrale-informatie-kopie",
+    "title": "Kadastrale informatie, kopie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//nederlandse-nationaliteit-afstand-doen",
+    "title": "Nederlandse nationaliteit, afstand doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/afstand_doen_nederlandse_nationaliteit"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//horeca-tijdelijke-drank-en-horecavergunning",
+    "title": "Horeca, tijdelijke drank- en horecavergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//kiezerspas",
+    "title": "Kiezerspas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/kiezerspas"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//evenementen-vergunning",
+    "title": "Evenementen, vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//afvalstoffenheffing-voor-particulieren",
+    "title": "Afvalstoffenheffing (voor particulieren)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//erkenning-kind",
+    "title": "Erkenning kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//vuurwerk-afsteken-melden",
+    "title": "Vuurwerk afsteken melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/vuurwerk_ontbrandingsmelding"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//groene-kaart",
+    "title": "Groene Kaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//afvalkalender",
+    "title": "Afvalkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//omgevingsvergunning-activiteit-slopen-van-een-bouwwerk",
+    "title": "Omgevingsvergunning, activiteit slopen van een bouwwerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//optieverklaring-nederlandse-nationaliteit",
+    "title": "Optieverklaring, Nederlandse nationaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//grondwater-tijdelijke-lozing-bij-bronnering",
+    "title": "Grondwater, tijdelijke lozing (bij bronnering)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//leerplicht-bijzonder-verlof-vrijstelling",
+    "title": "Leerplicht, bijzonder verlof of vrijstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//gezondheidsverklaring-voor-verklaring-van-geschiktheid-vvg",
+    "title": "Gezondheidsverklaring voor Verklaring van geschiktheid (VvG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbGezVerkl"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//melding-openbare-ruimte",
+    "title": "Melding openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//omgevingsvergunning-activiteit-milieu",
+    "title": "Omgevingsvergunning, activiteit milieu",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//berm-gebruiken",
+    "title": "Berm gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/bermgebruikontheffing"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//stookverbod-ontheffing",
+    "title": "Stookverbod, ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//woz-waarde-en-taxatieverslag",
+    "title": "WOZ-waarde en taxatieverslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-taxatieverslag"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//begraafplaatsenbeleid-en-grafuitgifte",
+    "title": "Begraafplaatsenbeleid en grafuitgifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//adoptie",
+    "title": "Adoptie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/adoptie"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//gevonden-en-verloren-voorwerpen",
+    "title": "Gevonden en verloren voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//inritmelding",
+    "title": "Inritmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_inrit"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//naturalisatie-aanvraag-nederlandse-nationaliteit",
+    "title": "Naturalisatie, aanvraag Nederlandse nationaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//gladheidsbestrijding",
+    "title": "Gladheidsbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//monumenten-aanwijzing-tot-gemeentelijk-monument",
+    "title": "Monumenten, aanwijzing tot gemeentelijk monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentaanwijzing"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//horeca-ontheffing-verlenging-openingstijden",
+    "title": "Horeca, ontheffing verlenging openingstijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//koninklijke-onderscheidingen",
+    "title": "Koninklijke onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//incidentele-subsidie-voor-vrijwilligersorganisaties",
+    "title": "Incidentele subsidie voor vrijwilligersorganisaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligerswerksubsidie"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//naamswijziging",
+    "title": "Naamswijziging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//kinderopvang-landelijk-register-kinderopvang",
+    "title": "Kinderopvang: Landelijk Register Kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//legalisatie-handtekening",
+    "title": "Legalisatie handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//huwelijk",
+    "title": "Huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//geografische-gegevens",
+    "title": "Geografische gegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//spandoeken",
+    "title": "Spandoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/spandoekvergunning"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//overlijden-aangifte",
+    "title": "Overlijden, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//calamiteitenbestrijding",
+    "title": "Calamiteitenbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/calamiteitenbestrijding"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//bestemmingsplan-wijziging",
+    "title": "Bestemmingsplan, wijziging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//caravan-parkeerontheffing-aanvragen",
+    "title": "Caravan parkeerontheffing aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/caravParkOnth"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//seksinrichting",
+    "title": "Seksinrichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/seksbedrijf_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//reclameborden",
+    "title": "reclameborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//doodgeboren-kind-aangifte",
+    "title": "Doodgeboren kind, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//schuldhulpverlening",
+    "title": "Schuldhulpverlening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//verhuizing-naar-buitenland-doorgeven-emigratie",
+    "title": "Verhuizing naar buitenland doorgeven (Emigratie)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//basisregistratie-personen-brp-verwijderen-overschrijven-gegevens",
+    "title": "Basisregistratie personen (BRP), verwijderen of overschrijven gegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//reinigingsrecht-voor-bedrijven",
+    "title": "Reinigingsrecht (voor bedrijven)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/reinigingsrecht"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//inschrijven-als-niet-ingezetene-in-nederland-rni",
+    "title": "Inschrijven als niet-ingezetene in Nederland (RNI)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/rniInschr"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//basis-registratie-personen-inzagerecht",
+    "title": "Basis Registratie Personen, inzagerecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//maatschappelijke-participatie",
+    "title": "Maatschappelijke participatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/maatschappelijke_dienstverleningsubsidie"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//verklaring-van-huwelijksbevoegdheid",
+    "title": "Verklaring van huwelijksbevoegdheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_huwelijksbevoegdheid"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//opvang-zwerfdieren",
+    "title": "Opvang zwerfdieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/dierenopvang"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//straatverlichting",
+    "title": "Straatverlichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(straatverlichting)"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//winkeltijdenwet-ontheffingen",
+    "title": "Winkeltijdenwet, ontheffingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdenontheffing"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//geregistreerd-partnerschap-omzetten-in-huwelijk",
+    "title": "Geregistreerd partnerschap, omzetten in huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_omzetting_in_huwelijk"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//milieu-melden-klacht",
+    "title": "Milieu, melden klacht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(milieu)"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//opgraven-herbegraven-of-alsnog-cremeren",
+    "title": "Opgraven, herbegraven of alsnog cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/opgraven_herbegraven_en_grafruimenvergunning"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//volmachtbewijs",
+    "title": "Volmachtbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/volmachtbewijs_verkiezingen"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//verklaring-onder-ede-belofte",
+    "title": "Verklaring onder ede of belofte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgegevens_verklaring_onder_eed_of_belofte"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//vuurwerk-afsteken-toestemming",
+    "title": "Vuurwerk afsteken toestemming",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/vuurwerk_ontbrandingstoestemming"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//naamkeuze-kind",
+    "title": "Naamkeuze kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//participatiewet-en-bijstand",
+    "title": "Participatiewet en bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//afschrift-basisregistratie-personen-brp",
+    "title": "Afschrift basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//alcohol-schenken-in-horecabedrijven",
+    "title": "Alcohol schenken in horecabedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.gemert-bakel.nl//afvalwater-afvalstoffen-lozen-op-riolering",
+    "title": "Afvalwater of afvalstoffen lozen op riolering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gemert-Bakel",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalwaterlozingontheffing"
+  }
+]

@@ -1,0 +1,1564 @@
+[
+  {
+    "identifier": "https://www.middendelfland.nl/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-werknemers-ioaw",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte werknemers (IOAW)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaw-uitkering"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/woning-uit-de-woonruimtevoorraad-halen",
+    "title": "Woning uit de woonruimtevoorraad halen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijkomen_woonruimtemelding"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/begeleidingdagbesteding-wmo",
+    "title": "Begeleiding/dagbesteding (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/nederlander-worden-door-optie",
+    "title": "Nederlander worden door optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalOptie"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/jeugdgezondheidszorg",
+    "title": "Jeugdgezondheidszorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/idee-voor-wijk-of-buurt",
+    "title": "Idee voor wijk of buurt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/geslachtswijziging",
+    "title": "Geslachtswijziging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/geslachtswijzigingsaangifte"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/spandoek-ophangen",
+    "title": "Spandoek ophangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/uitrit-of-inrit-aanleggen",
+    "title": "Uitrit of inrit aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgUitweg"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/aanpassen-onjuiste-persoonsgegevens",
+    "title": "Aanpassen onjuiste persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/reizen-met-kinderen",
+    "title": "Reizen met kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/hulp-bij-geldzaken-en-schulden",
+    "title": "Hulp bij geldzaken en schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/grond-bagger-en-bouwstoffen-gebruiken",
+    "title": "Grond, bagger en bouwstoffen gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/grondexplOvereen"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/onroerend-goed-van-gemeente-kopen-huren-of-pachten",
+    "title": "Onroerend goed van gemeente kopen, huren of pachten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaak_huur_pacht_koop"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/psychische-hulp-melding",
+    "title": "Psychische hulp, melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bijstand-voor-jongeren",
+    "title": "Bijstand voor jongeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/waarmerken-kopie-of-afschrift",
+    "title": "Waarmerken kopie of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/sloopmelding-gebouw-of-deel-gebouw",
+    "title": "Sloopmelding gebouw of deel gebouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/informatiestand-plaatsen",
+    "title": "Informatiestand plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bodemonderzoek",
+    "title": "Bodemonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bijstand-heronderzoek",
+    "title": "Bijstand, heronderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/water-plaatsen-voorwerpen-in",
+    "title": "Water, plaatsen voorwerpen in",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/olietanks-in-particuliere-grond-verwijderen",
+    "title": "Olietanks in particuliere grond verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/olietankMld"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/recreatiewoning-bewonen",
+    "title": "Recreatiewoning bewonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnVergRecr"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/milieuvervuiling-melden",
+    "title": "Milieuvervuiling melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bodemenergie",
+    "title": "Bodemenergie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/wildkamperen",
+    "title": "Wildkamperen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/kampeeronth"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/verklaring-omtrent-het-gedrag-vog",
+    "title": "Verklaring omtrent het gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/voertuig-te-koop-aanbieden-op-de-openbare-weg",
+    "title": "Voertuig te koop aanbieden op de openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/voertuig_te_koop_aanbieden_op_openbare_weg_ontheffing"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/afvalwater-lozen",
+    "title": "Afvalwater lozen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalwatermelding"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/festiviteit-bedrijf-vereniging-of-school",
+    "title": "Festiviteit bedrijf, vereniging of school",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/collIncFest"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/transport-gevaarlijke-stoffen",
+    "title": "Transport gevaarlijke stoffen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/routeplichtontheffing_vervoer_gevaarlijke_stoffen"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bijzonder-transport",
+    "title": "Bijzonder transport",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegenverkeerswetontheffing"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/verloren-of-gevonden-voorwerpen-melden",
+    "title": "Verloren of gevonden voorwerpen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/begraven-of-cremeren",
+    "title": "Begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verlBegraven"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bijstand-terugbetalen-door-ex-partner-of-ouder",
+    "title": "Bijstand terugbetalen door ex-partner of ouder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/ongediertebestrijding",
+    "title": "Ongediertebestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/rommelmarkt",
+    "title": "Rommelmarkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/snuffelmarktvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/ligplaats",
+    "title": "Ligplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/ligplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bijstand-vrijwilligerswerk",
+    "title": "Bijstand, vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bewijs-van-garantstelling-enof-logiesverstrekking",
+    "title": "Bewijs van garantstelling en/of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/jeugdhulp",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/geheimhouden-persoonsgegevens",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/sociale-huurwoning-urgentieverklaring",
+    "title": "Sociale huurwoning, urgentieverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/urgBewWoning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/kermis-organiseren",
+    "title": "Kermis organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/materialen-lenen",
+    "title": "Materialen lenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/uitlening_gemeentelijke_materialen"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/gemeentelijk-pand-gebruiken",
+    "title": "Gemeentelijk pand gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruik_gemeentelijke_panden"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/kind-erkennen-na-de-geboorte",
+    "title": "Kind erkennen ná de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/afvalkalender",
+    "title": "Afvalkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/geluidswagen-gebruiken",
+    "title": "Geluidswagen gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/berm-gebruiken",
+    "title": "Berm gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bijstand-verandering-doorgeven",
+    "title": "Bijstand, verandering doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/woonvoorzieningen",
+    "title": "Woonvoorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/afval-glas",
+    "title": "Afval, glas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_glas"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/marktplaats-aanvragen",
+    "title": "Marktplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/parkeren-in-de-blauwe-zone",
+    "title": "Parkeren in de blauwe zone",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_blauwe_zone"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/ramp-of-crisis-0",
+    "title": "Ramp of crisis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rampen_en_zware_ongevallen_informatieplicht"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/openingstijden-horeca-eenmalig-aanpassen",
+    "title": "Openingstijden horeca eenmalig aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/afval-plastic-blik-en-drinkpakken",
+    "title": "Afval, plastic, blik en drinkpakken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalInzPMDK"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/nederlander-worden-door-naturalisatie",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bijstand-voor-zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/hofleverancier-worden",
+    "title": "Hofleverancier worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/hofleverancieraanvraag"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/koninklijke-erepenning",
+    "title": "Koninklijke Erepenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/beschermd-wonen-wmo",
+    "title": "Beschermd wonen (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/geregistreerd-partnerschap",
+    "title": "Geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschapaangifte"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/reclamemateriaal-verspreiden",
+    "title": "Reclamemateriaal verspreiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/venten",
+    "title": "Venten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/koninklijke-onderscheiding-lintje",
+    "title": "Koninklijke onderscheiding,  lintje",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bedrijf-vestigen",
+    "title": "Bedrijf vestigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/kind-erkennen-voor-de-geboorte",
+    "title": "Kind erkennen vóór de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/huisnummer-aanvragen-of-veranderen",
+    "title": "Huisnummer aanvragen of veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/verklaring-onder-ede-of-belofte",
+    "title": "Verklaring onder ede of belofte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgegevens_verklaring_onder_eed_of_belofte"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/parkeren-voor-autobedrijven",
+    "title": "Parkeren voor autobedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_autobedrijven"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/overlijden-aangifte",
+    "title": "Overlijden, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/exploitatievergunning-horecabedrijf",
+    "title": "Exploitatievergunning horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/milieu-vergunning-of-melding",
+    "title": "Milieu, vergunning of melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/huisvestingsvergunning",
+    "title": "Huisvestingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisvestingsvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/rolstoel-aanvragen",
+    "title": "Rolstoel aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rolstSctMob"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/sociale-huurwoning",
+    "title": "Sociale huurwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/kleding-inzamelen",
+    "title": "Kleding inzamelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_textiel"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bijstand-vakantie-melden",
+    "title": "Bijstand, vakantie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/woning-splitsen",
+    "title": "Woning splitsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonruimte_splitsingsvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/weer-gaan-werken",
+    "title": "Weer gaan werken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/re-integratie"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/rioolverstopping",
+    "title": "Rioolverstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bezorgen-van-reisdocumenten",
+    "title": "Bezorgen van reisdocumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/reisdocument"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/afgezet-gebied-binnengaan",
+    "title": "Afgezet gebied binnengaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/afgezette_gebieden_betreden_ontheffing"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/gemeente-aansprakelijk-stellen",
+    "title": "Gemeente aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bedrijfsactiviteiten-wijzigen",
+    "title": "Bedrijfsactiviteiten wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/wet_milieubeheermelding"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/naamswijziging-achternaam",
+    "title": "Naamswijziging achternaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/afschrift-uittreksel-burgerlijke-stand",
+    "title": "Afschrift (uittreksel) burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/belastingen-en-heffingen-teruggave",
+    "title": "Belastingen en heffingen, teruggave",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingteruggave"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/naamswijziging-voornaam",
+    "title": "Naamswijziging voornaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/voornaamwijziging"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/ondersteuning-bij-werk-vinden",
+    "title": "Ondersteuning bij werk vinden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/opleidingsvergoeding_werklozen"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/grafsteen-of-gedenkteken-plaatsen",
+    "title": "Grafsteen of gedenkteken plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gedenkteken_plaatsingsvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/handtekening-legaliseren",
+    "title": "Handtekening legaliseren ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/milieuzorg-bij-bedrijven",
+    "title": "Milieuzorg bij bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/ontkenning-vaderschap-door-moeder",
+    "title": "Ontkenning vaderschap door moeder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/vaderschapsontkenning_verklaring"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/straatartiest-optreden",
+    "title": "Straatartiest optreden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/strArtOptrOnth"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/afval-huishoudelijk-afval",
+    "title": "Afval, huishoudelijk afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/verhuizen-naar-het-buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/echtscheiding-of-einde-geregistreerd-partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/geluidsoverlast-veroorzaken",
+    "title": "Geluidsoverlast veroorzaken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/vrijwilligersverzekering",
+    "title": "Vrijwilligersverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/graf-op-gemeentelijke-begraafplaats-aanvragen",
+    "title": "Graf op gemeentelijke begraafplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/baatbelasting",
+    "title": "Baatbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/baatbelasting"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/voorziening-aanvragen-wmo",
+    "title": "Voorziening aanvragen (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/wegwerkzaamheden",
+    "title": "Wegwerkzaamheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/mantelzorgwoning",
+    "title": "Mantelzorgwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/forensenbelasting",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/nieuwe-straatnaam-voorstellen",
+    "title": "Nieuwe straatnaam voorstellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/uittreksel-persoonsgegevens-brp",
+    "title": "Uittreksel persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/koninklijk-predicaat",
+    "title": "Koninklijk Predicaat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijk_predicaataanvraag"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/monument-verbouwen-herstellen-of-onderhouden",
+    "title": "Monument verbouwen, herstellen of onderhouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/afval-klein-chemisch-afval",
+    "title": "Afval, klein chemisch afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_chemisch_afval"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/vergoeding-huisvestingsvoorzieningen-scholen",
+    "title": "Vergoeding huisvestingsvoorzieningen scholen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisvestingsvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/afval-doorzoeken",
+    "title": "Afval doorzoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/standplaats-aanvragen",
+    "title": "Standplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/visvergunningvispas",
+    "title": "Visvergunning/Vispas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/visvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/schetsplan-indienen",
+    "title": "Schetsplan indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/gebruik-achternaam-veranderen",
+    "title": "Gebruik achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/volwasseneneducatie",
+    "title": "Volwasseneneducatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/volwasseneneducatiesubsidie"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/milieustraat",
+    "title": "Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/vervoersvoorziening-aanvragen",
+    "title": "Vervoersvoorziening aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bestemmingsplan-bekijken",
+    "title": "Bestemmingsplan bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/jeugdhulp-geestelijke-gezondheidszorg-ggz",
+    "title": "Jeugdhulp, geestelijke gezondheidszorg (ggz)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bodemvervuiling-verwijderen",
+    "title": "Bodemvervuiling verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemsanering_melding_voornemen"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/voorkeursrecht-van-de-gemeente",
+    "title": "Voorkeursrecht van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/voorkRechtAanw"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/beroepschrift",
+    "title": "Beroepschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/beroep"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/ontgronding",
+    "title": "Ontgronding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/ontgrondingsvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bedrijfspandbedrijventerrein-huren-of-kopen",
+    "title": "Bedrijfspand/bedrijventerrein huren of kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsterrein_huren_of_kopen"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/zienswijze",
+    "title": "Zienswijze",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/zienswijze"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/loterij-prijsvraag-bingo-organiseren",
+    "title": "Loterij, prijsvraag, bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bromfietsrijbewijs",
+    "title": "Bromfietsrijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/parkeervergunning",
+    "title": "Parkeervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/kinderopvang-controle",
+    "title": "Kinderopvang controle",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/grondverzet",
+    "title": "Grondverzet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/demonstratie-of-protestactie-houden",
+    "title": "Demonstratie of protestactie houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/betogDemonsMld"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/stedenbouwkundige-plannen-bekijken",
+    "title": "Stedenbouwkundige plannen bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/caravan-parkeren-op-de-openbare-weg",
+    "title": "Caravan parkeren op de openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/caravParkOnth"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/snippergroen-aankoop-van",
+    "title": "Snippergroen, aankoop van",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/duiven-laten-uitvliegen",
+    "title": "Duiven laten uitvliegen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/uitvlOntheffing"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/verwijderen-privacygevoelige-persoonsgegevens",
+    "title": "Verwijderen privacygevoelige persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/brandveiligheid-melding-of-vergunning",
+    "title": "Brandveiligheid, melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/antenne-of-schotelantenne-plaatsen",
+    "title": "Antenne of schotelantenne plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/verplichte-verbetering-woning",
+    "title": "Verplichte verbetering woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanschrijving"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/afval-grofvuil",
+    "title": "Afval, grofvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/kind-adopteren",
+    "title": "Kind adopteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/adoptie_aangifte"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bijstand-uitkering",
+    "title": "Bijstand, uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/gokautomaat-plaatsen",
+    "title": "Gokautomaat plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/kinderopvangtoeslag",
+    "title": "Kinderopvangtoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/alcoholvergunning",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/onroerend-goed-beperkingen",
+    "title": "Onroerend goed, beperkingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaak_gebruiksbeperking"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/verkeersonveilige-situatie-melden",
+    "title": "Verkeersonveilige situatie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verzoekschrift"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/levenloos-geboren-kind-registreren",
+    "title": "Levenloos geboren kind registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/afval-elektrische-apparaten",
+    "title": "Afval, elektrische apparaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bouwwerk-gereedmelding",
+    "title": "Bouwwerk, gereedmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwwerk_voltooiingsverklaring"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bijstand-jaaropgave",
+    "title": "Bijstand, jaaropgave",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/grafonderhoud",
+    "title": "Grafonderhoud",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafonderhoud"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/opvragen-persoonsgegevens",
+    "title": "Opvragen persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/openingstijden-winkels",
+    "title": "Openingstijden winkels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdeninformatie"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/ondersteuning-voor-mantelzorgers",
+    "title": "Ondersteuning voor mantelzorgers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/kinderopvang-starten",
+    "title": "Kinderopvang starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-zelfstandigen-ioaz",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte zelfstandigen (IOAZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaz-uitkering"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/gemeentearchief",
+    "title": "Gemeentearchief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/archiefInzage"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/afval-oud-papier-en-karton",
+    "title": "Afval, oud papier en karton",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_oud_papier"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bouw-en-verbouwing-controle",
+    "title": "Bouw en verbouwing, controle",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanschrijving"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/hulp-bij-een-arbeidsbeperking",
+    "title": "Hulp bij een arbeidsbeperking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/regArbBepIns"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/gemeentegrond-gebruiken",
+    "title": "Gemeentegrond gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwgronduitgifte"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/sportaccommodaties-en-velden-huren",
+    "title": "Sportaccommodaties en velden huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/achternaam-kind-kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/attestatie-de-vita-internationaal-bewijs-van-in-leven-zijn",
+    "title": "Attestatie de vita (internationaal bewijs van in leven zijn)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/straatfeest-organiseren",
+    "title": "Straatfeest organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/afval-bedrijven",
+    "title": "Afval, bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalinzameling"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/alcohol-schenken-tijdens-evenement",
+    "title": "Alcohol schenken tijdens evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/gemeentelijke-onderscheiding-aanvragen",
+    "title": "Gemeentelijke onderscheiding aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentelijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/verzorgingshuis-of-thuiszorg-indicatie",
+    "title": "Verzorgingshuis of thuiszorg, indicatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/thuiszorg"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/nee-nee-sticker-nee-ja-sticker",
+    "title": "NEE-NEE sticker, NEE-JA sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/snoeihout-verbranden",
+    "title": "Snoeihout verbranden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/seksbedrijf-starten",
+    "title": "Seksbedrijf starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/seksbedrijf_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/reclame-plaatsen",
+    "title": "Reclame plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/monument-subsidie-0",
+    "title": "Monument, subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/melding-buitenruimte",
+    "title": "Melding buitenruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/leerplicht-bijzonder-verlof-of-vrijstelling",
+    "title": "Leerplicht, bijzonder verlof of vrijstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bijen-houden",
+    "title": "Bijen houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijenhoudonth"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/tijdelijke-verhuur-leegstaand-pand",
+    "title": "Tijdelijke verhuur leegstaand pand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnTijdVerhVerg"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/terras-plaatsen",
+    "title": "Terras plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/verkeersontheffing-aanvragen",
+    "title": "Verkeersontheffing aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegenverkeerswetontheffing"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/kadastrale-informatie",
+    "title": "Kadastrale informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/vuur-stoken",
+    "title": "Vuur stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/buitenlandse-documenten-legaliseren-en-verifieren",
+    "title": "Buitenlandse documenten legaliseren en verifiëren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bouwvlak-in-bestemmingsplan",
+    "title": "Bouwvlak in bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/administratiekosten-bij-schadeverhaal",
+    "title": "Administratiekosten bij schadeverhaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/bijstand-instelling-of-tehuis",
+    "title": "Bijstand, instelling of tehuis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/huisverbod-bij-huiselijk-geweld",
+    "title": "Huisverbod bij huiselijk geweld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/tijdHuisverbod"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/verzorging-pleegkind-melden",
+    "title": "Verzorging pleegkind melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/hulp-bij-het-huishouden",
+    "title": "Hulp bij het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/mishandeling-of-huiselijk-geweld",
+    "title": "Mishandeling of huiselijk geweld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/natuurgebied-in-gaan",
+    "title": "Natuurgebied in gaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/carbidschieten",
+    "title": "Carbidschieten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/carbidschietenmelding"
+  },
+  {
+    "identifier": "https://www.middendelfland.nl/studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Midden-Delfland",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "identifier": "https://www.gemeentebest.nl/kinderopvang",
+    "title": "Kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/risicovol-evenement-c",
+    "title": "Risicovol evenement C",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/legaliseren-handtekening",
+    "title": "Legaliseren handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/verklaring-omtrent-het-gedrag",
+    "title": "Verklaring omtrent het gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/besluit-tot-uitschrijven-uit-de-basisregistratie-personen-brp",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/ruimtelijke-kwaliteit",
+    "title": "Ruimtelijke Kwaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding/verstrekkingsbeperking persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-geheimhoudingsverzoek"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/naamgebruik-veranderen",
+    "title": "Naamgebruik veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/uittreksel-burgerlijke-stand",
+    "title": "Uittreksel Burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/inwoners-en-ondernemers/bestemmingsplannen",
+    "title": "Bestemmingsplannen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/regulier-evenement-a",
+    "title": "Regulier evenement A",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenmelding"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/hulp-bij-schulden",
+    "title": "Hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/sportaccommodaties-huren",
+    "title": "Sportaccommodaties huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/erkenning-kind",
+    "title": "Erkenning kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/vestiging-in-nederland",
+    "title": "Vestiging in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/rijbewijs",
+    "title": "Gezondheidsverklaring als uw rijbewijs op of na uw 75ste verjaardag verloopt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/toestemmingsbewijs-vissen-voor-jongeren",
+    "title": "Toestemmingsbewijs vissen voor jongeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/visvergunning"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/bouwmelding",
+    "title": "Bouwmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/uitkering-voor-zelfstandig-ondernemers",
+    "title": "Uitkering voor zelfstandig ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/identiteitskaart",
+    "title": "Identiteitskaart ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/ontheffing-alcoholwet",
+    "title": "Ontheffing Alcoholwet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/uitkering",
+    "title": "Verblijf buiten gemeente bij uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/melding-of-omgevingsvergunning-milieu",
+    "title": "Melding of omgevingsvergunning milieu",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/vergunning-graafwerk-kabels-en-leidingen",
+    "title": "Vergunning graafwerk kabels en leidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/kansspelautomaten",
+    "title": "Kansspelautomaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/aandacht-evenement-b",
+    "title": "Aandacht evenement B",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/uittreksel-basisregistratie-personen",
+    "title": "Uittreksel BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-uittreksel"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/horecavergunningen",
+    "title": "Horecavergunningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/uitkering-voor-oudere-werklozen",
+    "title": "Uitkering voor oudere werklozen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaz-uitkering"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/melding-voorgenomen-huwelijk-of-partnerschap",
+    "title": "Melding voorgenomen huwelijk of partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/gebruiksmelding-en-omgevingsvergunning-brandveilig-gebruik",
+    "title": "Gebruiksmelding en omgevingsvergunning brandveilig gebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/voorwerpen-of-voertuigen-plaatsen-in-de-openbare-ruimte",
+    "title": "Voorwerpen of voertuigen plaatsen in de openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/verhuizen-naar-het-buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/speeltoestellen",
+    "title": "Speeltoestellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/speelvoorziening_kinderen"
+  },
+  {
+    "identifier": "https://www.gemeentebest.nl/subsidies",
+    "title": "Buurtbudget",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Best_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  }
+]

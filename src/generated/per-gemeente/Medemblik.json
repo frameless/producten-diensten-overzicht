@@ -1,0 +1,782 @@
+[
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/verhuur-leegstaande-woning",
+    "title": "Verhuur leegstaande woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/hoe-u-uw-belasting-betaalt",
+    "title": "Hoe u uw belasting betaalt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/bestemmingsplan-bekijken-of-afwijken",
+    "title": "Bestemmingsplan bekijken of afwijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/melding-of-klacht-doorgeven",
+    "title": "Melding over uw leefomgeving doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/hulp-bij-schulden-aanvragen",
+    "title": "Hulp bij schulden aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/evenement-melden-en-vergunning-aanvragen",
+    "title": "Evenement melden en vergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/geboorte-aangeven",
+    "title": "Geboorte aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/parkeervergunning-westereiland-aanvragen",
+    "title": "Parkeervergunning Westereiland aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/individuele-inkomenstoeslag-aanvragen",
+    "title": "Individuele inkomenstoeslag aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/venten",
+    "title": "Venten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/gehandicaptenparkeerplaats-aanvragen",
+    "title": "Gehandicaptenparkeerplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats_op_kenteken"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/collectieve-zorgverzekering-afsluiten",
+    "title": "Collectieve zorgverzekering afsluiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/schetsplan-of-principeverzoek",
+    "title": "Schetsplan of principeverzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/rijbewijs-aanvragen-of-verlengen",
+    "title": "Rijbewijs aanvragen of verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/taxatieverslag-en-aanslag-inzien",
+    "title": "Taxatieverslag opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/naamskeuze-kind-vastleggen",
+    "title": "Naamskeuze kind vastleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/opslag-plaatsen",
+    "title": "Opslag plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/mantelzorgcompliment",
+    "title": "Mantelzorgcompliment",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgcompliment"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/bomen-kappen-vergunning-aanvragen",
+    "title": "Bomen kappen vergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/bezorgen",
+    "title": "Bezorgen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/starterslening-aanvragen",
+    "title": "Starterslening aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/uittreksel-brp-basisregistratie-personen-aanvragen",
+    "title": "Uittreksel BRP (Basisregistratie Personen) aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/bijzondere-bijstand-aanvragen",
+    "title": "Bijzondere bijstand aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/recht-op-bezwaar",
+    "title": "Recht op bezwaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/over-medemblik/woningbouwprojecten",
+    "title": "Woningbouwprojecten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/tegemoetkoming-medisch-afval",
+    "title": "Tegemoetkoming medisch afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/over-medemblik/verbod-carbid-schieten-en-wensballonnen",
+    "title": "Verbod carbid schieten en wensballonnen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/aanpassingen-aan-uw-woning",
+    "title": "Aanpassingen aan uw woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/dwanginvordering",
+    "title": "Dwanginvordering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/begrafenisuitgifte-graf",
+    "title": "Begrafenis/uitgifte graf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/elektrische-laadpalen",
+    "title": "Elektrische laadpalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/gegevensverzoek-nalatenschap",
+    "title": "Gegevensverzoek nalatenschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/vervoer-wmo",
+    "title": "Vervoer Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/plaatsen-van-een-urn-of-het-verstrooien-van-as-bij-gedenkmonumenten",
+    "title": "Plaatsen van een urn of het verstrooien van as bij gedenkmonumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asverstrooiing"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/trouwen-of-geregistreerd-partnerschap",
+    "title": "Trouwen of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/urgentie-aanvragen-huurwoning",
+    "title": "Urgentie aanvragen huurwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/onroerendezaakbelastingen",
+    "title": "Onroerendezaakbelastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/gemeentegrond-kopen",
+    "title": "Gemeentegrond kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/gebruik-achternaam-veranderen",
+    "title": "Gebruik achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/bewijs-van-in-leven-zijn-attestatie-de-vita-aanvragen",
+    "title": "Bewijs van in leven zijn (attestatie de vita) aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/stimuleringslening-woningverbetering-aanvragen",
+    "title": "Stimuleringslening woningverbetering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/blijverslening"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/plaatsen-van-tijdelijke-reclameborden",
+    "title": "Plaatsen van tijdelijke reclameborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamebelasting"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/kindregelingen",
+    "title": "Kindregelingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/adresonderzoek-aanvragen",
+    "title": "Adresonderzoek aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/standplaatsvergunning-/-melding-ideele-standplaats",
+    "title": "Standplaatsvergunning / melding ideële standplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/ontheffing-sluitingstijden-horeca-aanvragen",
+    "title": "Ontheffing sluitingstijden horeca aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/wijkteams",
+    "title": "Wijkteams",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/mantelzorgwoning",
+    "title": "Mantelzorgwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/hulp-bij-het-huishouden",
+    "title": "Hulp bij het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/recycle-tarief",
+    "title": "Het recycle-tarief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/geslachtswijziging-aanvragen",
+    "title": "Geslachtswijziging aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/jeugdhulp-aanvragen",
+    "title": "Jeugdhulp aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/begrafenistarieven",
+    "title": "Begrafenistarieven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/hulp-bij-het-huishouden-toelage-hht",
+    "title": "Hulp bij het huishouden Toelage (HHT)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/verklaring-omtrent-gedrag",
+    "title": "Verklaring omtrent gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/collectes-melden",
+    "title": "Collectes melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/paspoort-identiteitskaart-aanvragen-of-verlengen",
+    "title": "Paspoort, identiteitskaart aanvragen of verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/welstandscommissie",
+    "title": "Welstandscommissie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/hond-aanmelden-of-afmelden",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/dagbesteding-wmo",
+    "title": "Dagbesteding Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/afval",
+    "title": "Afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/raad-en-bestuur/bezwaar-maken-tegen-een-besluit",
+    "title": "Bezwaar maken tegen een besluit van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/vermissing-reisdocument",
+    "title": "Vermissing reisdocument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/persoonsgegevens-inzien",
+    "title": "Persoonsgegevens inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/ondersteuning-voor-pleegzorg",
+    "title": "Ondersteuning voor pleegzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/collectebussen-lenen",
+    "title": "Collectebussen lenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/bewijs-van-nederlanderschap-aanvragen",
+    "title": "Bewijs van Nederlanderschap aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/bed-breakfast",
+    "title": "Bed & Breakfast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/afschrift-burgerlijke-stand-aanvragen",
+    "title": "Afschrift burgerlijke stand aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/verstrekkingsbeperking",
+    "title": "Verstrekkingsbeperking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/levenloos-geboren-kindje-registreren-in-de-brp",
+    "title": "Levenloos geboren kindje registreren in de BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/bijstandsuitkering-aanvragen",
+    "title": "Bijstandsuitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/omgevingsdienst-nhn-bodemloket",
+    "title": "Omgevingsdienst NHN Bodemloket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/scheiding-melden",
+    "title": "Scheiding melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/kind-erkennen-ongeboren-vrucht",
+    "title": "Kind erkennen (ongeboren vrucht)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/inschrijving-vanuit-het-buitenland",
+    "title": "(Her)vestiging vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/graafmelding",
+    "title": "Graafmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/graafmelding"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/alcoholwetvergunning-voorheen-drank-en-horecavergunning",
+    "title": "Alcoholwetvergunning (voorheen drank- en horecavergunning)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/kwijtschelding-belasting-en-heffingen",
+    "title": "Kwijtschelding belasting en heffingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/toeslagen-aanvragen",
+    "title": "Toeslagen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/eenmalige-subsidie",
+    "title": "Eenmalige subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/wat-is-de-wmo",
+    "title": "Wat is de Wmo?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/logeeropvang-wmo",
+    "title": "Logeeropvang Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/gehandicaptenparkeerkaart-aanvragen-of-verlengen",
+    "title": "Gehandicaptenparkeerkaart aanvragen of verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/recht-op-gegevenswissing",
+    "title": "Recht op gegevenswissing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/individuele-studietoeslag",
+    "title": "Individuele studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/begeleiding-wmo",
+    "title": "Begeleiding Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/gedenktekens-plaatsen",
+    "title": "Gedenktekens plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gedenkteken_plaatsingsvergunning"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/zorg-werk-en-inkomen/voorzieningen-wmo",
+    "title": "Voorzieningen Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/waarmerken-afschrift-of-kopie-officieel-document",
+    "title": "Waarmerken afschrift of kopie officieel document",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/jaarlijkse-subsidie",
+    "title": "Jaarlijkse subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/wet-waardering-onroerende-zaken-woz",
+    "title": "Wet Waardering Onroerende Zaken (WOZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/huisnummer-aanvragen",
+    "title": "Huisnummer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/verloren-of-gevonden-voorwerpen",
+    "title": "Verloren of gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/recht-op-correctie",
+    "title": "Recht op correctie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/forensenbelasting",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/legalisatie-handtekening",
+    "title": "Legalisatie handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/leerplicht",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/monument-vergunning-aanvragen",
+    "title": "Monument vergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/leerlingenvervoer-aanvragen",
+    "title": "Leerlingenvervoer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/vertrek-naar-buitenland-doorgeven",
+    "title": "Vertrek naar buitenland doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/nee-nee-of-nee-ja-sticker-afhalen",
+    "title": "Nee-nee of nee-ja sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/winkelopenstelling",
+    "title": "Winkelopenstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/toeristenbelasting",
+    "title": "Verblijfsbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/ontheffing-alcoholwet",
+    "title": "Ontheffing Alcoholwet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/belastingen-en-vergunningen/bibob-toets",
+    "title": "Bibob toets",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/overlijden-aangeven",
+    "title": "Overlijden aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/over-medemblik/klacht-over-behandeling-door-gemeente",
+    "title": "Klacht over behandeling door gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/aanmelden-jaar-en-weekmarkten",
+    "title": "Aanmelden jaar- en weekmarkten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/aanvragen-koninklijke-onderscheidingen-lintjes",
+    "title": "Aanvragen Koninklijke Onderscheidingen (lintjes)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/over-medemblik/aansprakelijk-stellen-gemeente",
+    "title": "Aansprakelijk stellen gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/over-medemblik/planschade-tegemoetkoming-aanvragen",
+    "title": "Planschade tegemoetkoming aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  },
+  {
+    "identifier": "https://www.medemblik.nl/aanvragen-en-regelen/onjuiste-persoonsgegevens-aanpassen",
+    "title": "Onjuiste persoonsgegevens aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Medemblik_(gemeente)"
+  }
+]

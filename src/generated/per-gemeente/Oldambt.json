@@ -1,0 +1,842 @@
+[
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//ontheffing-vrachtverkeer-ganzedijk-en-hongerige-wolf",
+    "title": "Ontheffing vrachtverkeer Ganzedijk en Hongerige Wolf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/verkeersbesluit"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//omzetting-partnerschap-in-huwelijk",
+    "title": "Omzetting partnerschap in huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk_omzetting_in_geregistreerd_partnerschap"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//kwijtschelding",
+    "title": "Kwijtschelding ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//naamskeuze-kinderen",
+    "title": "Naamskeuze kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//meldingsformulier-4-mei-herdenking",
+    "title": "Meldingsformulier 4 mei herdenking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//rijbewijs-aanvragen-of-verlengen",
+    "title": "Rijbewijs aanvragen of verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//titel-taak",
+    "title": "Titel taak",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenmelding"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//exploitatievergunning-logiesverstrekking",
+    "title": "Exploitatievergunning logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//aangifte-doen-van-overlijden",
+    "title": "Aangifte doen van overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//retourstoffen",
+    "title": "Retourstoffen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_plastic"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//aangifte-doen-van-een-levenloos-geboren-kind",
+    "title": "Aangifte doen van een levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel basisregistratie personen BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//trouwen-in-het-buitenland",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_huwelijksbevoegdheid"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//trouwen",
+    "title": "Trouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//geregistreerd-partnerschap",
+    "title": "Geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschapaangifte"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//rijbewijs-online-verlengen",
+    "title": "Rijbewijs online verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//kinderopvang-landelijk-register",
+    "title": "Kinderopvang, landelijk register",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//reclame-driehoeksborden-plaatsen",
+    "title": "Reclame-driehoeksborden plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//standplaatsvergunning-weekmarkt",
+    "title": "Standplaatsvergunning weekmarkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktstandplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//kapvergunning-aanvragen",
+    "title": "Kapvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/natuurgebied_vergunning"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//hulp-bij-schulden",
+    "title": "Hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//nederlandse-nationaliteit-verkrijgen-optieprocedure",
+    "title": "Nederlandse nationaliteit verkrijgen, optieprocedure",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//plastic-metaal-en-drankenkartons-pmd",
+    "title": "Plastic, Metaal en drankenkartons (PMD)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_plastic"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//subsidie-afkoppelen-regenwater",
+    "title": "Subsidie afkoppelen regenwater",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//gezondheidsverklaring-bij-aanvragen-rijbewijs",
+    "title": "Gezondheidsverklaring bij aanvragen rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbGezVerkl"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/langdurigheidstoeslag"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktstandplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//klacht-indienen-over-de-gemeente",
+    "title": "Klacht indienen over de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//paspoort-of-identiteitskaart-kwijt",
+    "title": "Paspoort of identiteitskaart kwijt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//exploitatievergunning-horecabedrijf",
+    "title": "Exploitatievergunning horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//geboorte-aangifte",
+    "title": "Geboorte, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//uitweg-het-aanleggen-of-wijzigen-van-een-inrit-of-oprit",
+    "title": "Uitweg, het aanleggen of wijzigen van een inrit of oprit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//sporthal-of-gymzaal-huren",
+    "title": "Sporthal of gymzaal huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//medische-containers",
+    "title": "Medische containers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//erkenning-kind-aanvragen",
+    "title": "Erkenning kind, aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//asbest",
+    "title": "Asbest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//frituurvet",
+    "title": "Frituurvet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//nederlandse-nationaliteit-verkrijgen-naturalisatieprocedure",
+    "title": "Nederlandse nationaliteit verkrijgen, naturalisatieprocedure",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//bijstandsuitkering-participatiewet",
+    "title": "Bijstandsuitkering (Participatiewet)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/wajong-uitkering"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//monumenten-omgevingsvergunning",
+    "title": "Monumenten, omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//bewijs-van-in-leven-zijn-of-attestatie-de-vita",
+    "title": "Bewijs van in leven zijn of attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//emigreren",
+    "title": "Emigreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//vakantiemelding-uitkering",
+    "title": "Vakantiemelding uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/vaarvergunning"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//erkenning-en-de-nederlandse-nationaliteit",
+    "title": "Erkenning en de Nederlandse nationaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//geld-inzamelencollecte-houden",
+    "title": "Geld inzamelen/collecte houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//evenement-organiseren-vergunning",
+    "title": "Evenement organiseren, vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//leerlingenvervoer-aanvragen",
+    "title": "Leerlingenvervoer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//vastgoedinformatie-makelaars",
+    "title": "Vastgoedinformatie makelaars",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//watertoeristenbelasting",
+    "title": "Watertoeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbesluit"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//rioolaansluiting",
+    "title": "Rioolaansluiting ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//wijzigen-naamgebruik",
+    "title": "Wijzigen naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//vergunning-op-basis-van-de-alcoholwet",
+    "title": "Vergunning op basis van de Alcoholwet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//paspoort-en-id-kaart-in-het-buitenland-wonende-nederlanders",
+    "title": "Paspoort en ID-kaart in het buitenland wonende Nederlanders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//identiteitskaart-inwoner-oldambt",
+    "title": "Identiteitskaart inwoner Oldambt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//bezwaar-en-beroep-aanslag-gemeentelijke-belastingen",
+    "title": "Bezwaar en beroep - aanslag gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//klein-chemisch-afval-kca",
+    "title": "Klein Chemisch Afval (KCA)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_chemisch_afval"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//bouwen-of-verbouwen-omgevingsvergunning",
+    "title": "Bouwen of verbouwen, omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwvoorschriften"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//nederlanderschap-bewijs-van",
+    "title": "Nederlanderschap, bewijs van",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//geheimhouding-persoonsgegevens-verzoek",
+    "title": "Geheimhouding persoonsgegevens, verzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//rioolheffing-gebruikers",
+    "title": "Rioolheffing gebruikers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalwaterlozingontheffing"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//afvalcontainers",
+    "title": "Afvalcontainers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//scootmobiel",
+    "title": "Scootmobiel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/scootmobiel"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//rioolheffing-eigenaren",
+    "title": "Rioolheffing eigenaren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_kopie"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//ceremonie-bij-naturalisatie",
+    "title": "Ceremonie bij naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieceremonie"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//elektrische-apparaten",
+    "title": "Elektrische apparaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//textiel",
+    "title": "Textiel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_textiel"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//clientenpanel",
+    "title": "Cliëntenpanel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//eerste-inschrijving-in-nederland",
+    "title": "Eerste inschrijving in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInschr"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//slopen-en-asbest-omgevingsvergunning",
+    "title": "Slopen en asbest, omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//oldambtpas",
+    "title": "Oldambtpas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//kennisgeving-ontheffing-sluitingstijden-op-oudejaarsnacht",
+    "title": "Kennisgeving ontheffing sluitingstijden op oudejaarsnacht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//graven-in-de-grond-bodemverstoring",
+    "title": "Graven in de grond, bodemverstoring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/ontgrondingsvergunning"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//onroerende-zaakbelastingen",
+    "title": "Onroerende zaakbelastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//woz",
+    "title": "WOZ ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//inrijontheffing-centrum-winschoten",
+    "title": "Inrijontheffing centrum Winschoten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/inrijverbodontheffing"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//naamskeuze-bij-erkenning",
+    "title": "Naamskeuze bij erkenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//grofvuil",
+    "title": "Grofvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//gevonden-voorwerpen",
+    "title": "Gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//bezwaarschrift-indienen-bij-de-gemeente-oldambt",
+    "title": "Bezwaarschrift indienen bij de gemeente Oldambt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//vreugdevuren-ontheffing-stookverbod",
+    "title": "Vreugdevuren, ontheffing stookverbod",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//oud-papier",
+    "title": "Oud papier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_oud_papier"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//legalisatie-handtekening",
+    "title": "Legalisatie handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//afwijken-van-het-bestemmingsplan",
+    "title": "Afwijken van het bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//restafval",
+    "title": "Restafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//melding-brandveilig-gebruik-omgevingsvergunning",
+    "title": "Melding brandveilig gebruik, omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//carbidschieten",
+    "title": "Carbidschieten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/carbidschietenmelding"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//trouwen-in-nederland-als-u-in-het-buitenland-woont",
+    "title": "Trouwen in Nederland als u in het buitenland woont",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_huwelijksbevoegdheid"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//hervestiging-vanuit-het-buitenland",
+    "title": "Hervestiging vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/hervestiging_vanuit_het_buitenland"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//verhuizen",
+    "title": "Verhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_binnen_gemeente"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//bestemmingsplan",
+    "title": "Bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//loterij-organiseren",
+    "title": "Loterij organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//ouderlijk-gezag-aanvragen",
+    "title": "Ouderlijk gezag, aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//takken-versnipperen",
+    "title": "Takken versnipperen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_gft"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//vergunning-op-grond-van-alcoholwet-wijziging-leidinggevende",
+    "title": "Vergunning op grond van Alcoholwet - wijziging leidinggevende",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//watervergunning-aanvragen",
+    "title": "Watervergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/watervergunning"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbesluit"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//glas",
+    "title": "Glas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_glas"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//incidentele-festiviteit-organiseren",
+    "title": "Incidentele festiviteit organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//ondergrondse-containers",
+    "title": "Ondergrondse containers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//groente-fruit-en-tuinafval-gft",
+    "title": "Groente-, Fruit- en Tuinafval (GFT)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_gft"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//burgerlijke-stand-uittreksel-of-afschrift",
+    "title": "Burgerlijke stand, uittreksel of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//ioaw-uitkering",
+    "title": "IOAW uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//subsidies",
+    "title": "Subsidies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/amateurkunstsubsidie"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//afvalbrengstation",
+    "title": "Afvalbrengstation",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//tijdelijk-alcohol-schenken-ontheffing-art-35-alcoholwet",
+    "title": "Tijdelijk alcohol schenken (ontheffing art. 35 Alcoholwet)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/meubelaanp"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//roerende-zaakbelastingen",
+    "title": "Roerende zaakbelastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbesluit"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//gemeentegrond-gebruiken",
+    "title": "Gemeentegrond gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//gokautomaten-aanwezigheidsvergunning",
+    "title": "Gokautomaten, aanwezigheidsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//aanvragen-verkoopactie",
+    "title": "Aanvragen verkoopactie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/inzamelingsvergunning"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//trouwen-in-het-buitenland-0",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_huwelijksbevoegdheid"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//paspoort-inwoner-oldambt",
+    "title": "Paspoort inwoner Oldambt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/studiefinanciering"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//verklaring-omtrent-het-gedrag",
+    "title": "Verklaring omtrent het gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.gemeente-oldambt.nl//koninklijke-onderscheiding",
+    "title": "Koninklijke onderscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldambt",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  }
+]

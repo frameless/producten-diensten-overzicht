@@ -1,0 +1,560 @@
+[
+  {
+    "identifier": "https://www.gilzerijen.nl/collectevergunning",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/beroepofbedrijfaanhuis",
+    "title": "Beroep of bedrijf aan huis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/promotie",
+    "title": "Promotie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/persoonsgegevens",
+    "title": "Persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/boa",
+    "title": "Buitengewoon Opsporingsambtenaren (BOA’s)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/zelfbouw",
+    "title": "Zelf bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/kleingevaarlijkafval",
+    "title": "Klein gevaarlijk afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/covm",
+    "title": "COVM Gilze en Rijen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/verhuizen",
+    "title": "Verhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/verkeersmaatregelen",
+    "title": "Verkeersmaatregelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/container",
+    "title": "Containers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/college",
+    "title": "College van B en W",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/sportzalen",
+    "title": "Sport",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/melding",
+    "title": "Melding doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/asbest",
+    "title": "Asbest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/monumenten",
+    "title": "Monumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/bestemmingsplannen",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/pmd",
+    "title": "Plastic, metaal (blik) en drankkartons",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/uittreksel-aanvragen",
+    "title": "Uittreksel of afschrift aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/collegebesluiten",
+    "title": "B&W belicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/evenementen",
+    "title": "Evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/verkoopvergunning",
+    "title": "Markt- en standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/financien",
+    "title": "Financiën",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/woo",
+    "title": "Woo-verzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/luiers",
+    "title": "Luiers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/paspoort-rijbewijs-uittreksels",
+    "title": "Paspoort, rijbewijs, uittreksels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/demonstratie",
+    "title": "Demonstratie of betoging houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/betogDemonsMld"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/kwijtschelding",
+    "title": "Kwijtschelding belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/milieustraat",
+    "title": "Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/glas",
+    "title": "Glas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/woz",
+    "title": "WOZ-waarde en taxatieverslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/wegen",
+    "title": "Wegen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/papier",
+    "title": "Papier en karton",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/verhuizen-en-verbouwen",
+    "title": "Verhuizen en (ver)bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/uittreksel",
+    "title": "Uittreksels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/blijverslening",
+    "title": "Blijverslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/blijverslening"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/gft",
+    "title": "Groente-, fruit- en tuinafval (gft)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/geboorte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/medischafval",
+    "title": "Medisch afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/welstand",
+    "title": "Welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/tussendeleijen",
+    "title": "Tussen de Leijen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/garantstelling",
+    "title": "Garantstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/aanbestedingen",
+    "title": "Aanbestedingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/overlijden",
+    "title": "Aangifte van overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/honden",
+    "title": "Hondenvoorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/duurzaamheidslening",
+    "title": "Duurzaamheidslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/duurzhLening"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/gevondenenverloren",
+    "title": "Gevonden en verloren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/bedrijventerreinen",
+    "title": "Bedrijventerreinen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsterreinuitgifte"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/burgerschouw",
+    "title": "Wijk- en buurtbeheer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/ozb",
+    "title": "Onroerende-zaakbelastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/horecavergunning",
+    "title": "Exploitatievergunning en Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/textiel",
+    "title": "Textiel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/bijzonderebijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/afvalkalender",
+    "title": "Ophaaldagen afval (afvalkalender)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/vog",
+    "title": "Verklaring Omtrent het Gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/erkenningkind",
+    "title": "Erkenning kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/trouwen",
+    "title": "Trouwen en geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/bezwaar",
+    "title": "Klachten en bezwaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/trouwambtenaren",
+    "title": "Onze trouwambtenaren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/bedrijfscontactfunctionaris",
+    "title": "Bedrijfscontactfunctionaris",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/riool",
+    "title": "Riool verstopt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/verordeningen",
+    "title": "Verordeningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/snoeihout",
+    "title": "Snoeihout",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/eersttelefonischcontact",
+    "title": "Meer gegevens/documenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/individueleinkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/opkopersregister",
+    "title": "Digitaal Opkopers Register",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/grondprijzen",
+    "title": "Bodem en grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/klimaatverandering",
+    "title": "Klimaatverandering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/meedoenregeling",
+    "title": "Meedoenregeling voor kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/bewijsvaninlevenzijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/verhuizenvanuithetbuitenland",
+    "title": "Verhuizen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/grofhuisvuil",
+    "title": "Grof huisvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/veiligheid",
+    "title": "Veiligheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/afval",
+    "title": "Afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/archief",
+    "title": "Archief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/rekenkamercommissie",
+    "title": "Rekenkamercommissie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/restafval",
+    "title": "Restafval (ondergrondse containers)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gilzerijen.nl/collectievezorgverzekering",
+    "title": "Collectieve zorgverzekering voor de Minima (CZM)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gilze_en_Rijen_(gemeente)"
+  }
+]

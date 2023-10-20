@@ -1,0 +1,678 @@
+[
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/geboorte-trouwen-en-overlijden/geboorte/naamskeuze-kinderen",
+    "title": "Naamskeuze kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/bouwen-verbouwen-en-slopen/bouwen-of-verbouwen/bouwen-en-gereedmelding",
+    "title": "Bouwen en gereedmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwwerk_voltooiingsverklaring"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/wonen-en-verhuizen/wonen-op-schouwen-duiveland/huurovereenkomst-gronden-en-gebouwen",
+    "title": "Huurovereenkomst gronden en gebouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/zorg-werk-en-jeugd/aanmelden-voor-wmo-ondersteuning/hulp-bij-verplaatsen-in-en-rond-het-huis",
+    "title": "Hulp bij verplaatsen in en rond het huis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/paspoort-id-kaart-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/nederlandse-nationaliteit-afstand-doen",
+    "title": "Nederlandse nationaliteit, afstand doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_afstand_nederlandse_nationaliteit"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/zorg-werk-en-jeugd/jeugd-en-onderwijs/jeugdhulp",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/paspoort-id-kaart-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/wijzigen-voor-of-achternaam",
+    "title": "Wijzigen voornaam of achternaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/afval/afvalinzameling",
+    "title": "Afvalinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/wonen-en-verhuizen/openbaar-groen/groenstroken-aankopen",
+    "title": "Groenstroken aankopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/paspoort-id-kaart-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/legalisatie-handtekening",
+    "title": "Legalisatie handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/paspoort-id-kaart-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/bouwen-verbouwen-en-slopen/bouwen-of-verbouwen/sloopmelding-gebouw-of-woning",
+    "title": "Sloopmelding, gebouw of woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/subsidies/subsidie-voor-activiteiten-tegen-eenzaamheid-ouderen",
+    "title": "Stimuleringsregeling voor activiteiten tegen eenzaamheid ouderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/vergunningen-ontheffingen-en-belastingen/alcoholwetvergunningen/aanwezigheidsvergunning-gokkast",
+    "title": "Aanwezigheidsvergunning (gokkast)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/wonen-en-verhuizen/meldingen-openbare-ruimte/openbare-verlichting",
+    "title": "Openbare verlichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(straatverlichting)"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/vergunningen-ontheffingen-en-belastingen/overige-vergunningen/vergunning-huisvestingswet",
+    "title": "Vergunning Huisvestingswet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisvestingsvergunning"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/geboorte-trouwen-en-overlijden/overlijden/aangifte-van-overlijden",
+    "title": "Aangifte van overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/geboorte-trouwen-en-overlijden/trouwen-of-partnerschap-registreren/trouwen",
+    "title": "Trouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/bouwen-verbouwen-en-slopen/omgevingsvergunningen/omgevingsvergunning-reclame-maken",
+    "title": "Omgevingsvergunning, reclame maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/zorg-werk-en-jeugd/zorg-en-ondersteuning/mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/geboorte-trouwen-en-overlijden/overlijden/begraven-of-cremeren",
+    "title": "Begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/paspoort-id-kaart-rijbewijs-en-uittreksels/nederlander-worden/inburgeren",
+    "title": "Wet inburgeren 2021",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/vergunningen-ontheffingen-en-belastingen/alcoholwetvergunningen/alcoholwet",
+    "title": "Alcoholwet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/wonen-en-verhuizen/meldingen-openbare-ruimte/wegen-straten-fiets-en-voetpaden-onderhoud",
+    "title": "Wegen, straten, fiets- en voetpaden, onderhoud",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderhoud_infrastructuur"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/geboorte-trouwen-en-overlijden/overlijden/gedenkboom",
+    "title": "Gedenkboom",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/paspoort-id-kaart-rijbewijs-en-uittreksels/nederlander-worden/nederlander-worden-door-naturalisatie",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/paspoort-id-kaart-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/vergunningen-ontheffingen-en-belastingen/standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/vergunningen-ontheffingen-en-belastingen/vuurwerk-verkopen-vergunning",
+    "title": "Vuurwerk verkopen, vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/vuurwerkverkoopvergunning"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/paspoort-id-kaart-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/bouwen-verbouwen-en-slopen/bouwen-of-verbouwen/informatieverzoek-ruimtelijke-omgeving",
+    "title": "Informatieverzoek ruimtelijke omgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verstrekking_overheidsinformatie"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/organisatie/koninklijke-onderscheiding-aanvragen",
+    "title": "Koninklijke onderscheiding aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/wonen-en-verhuizen/meldingen-openbare-ruimte/melden-gemeentelijke-gebouwen",
+    "title": "Melden gemeentelijke gebouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/overhEigSchMld"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/wonen-en-verhuizen/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/vergunningen-ontheffingen-en-belastingen/alcoholwetvergunningen/exploitatievergunning",
+    "title": "Exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/zorg-werk-en-jeugd/werk-uitkering-en-inkomen/minimaregelingen/schuldhulpverlening",
+    "title": "Schuldhulpverlening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/parkeren-en-verkeer/parkeervergunningen-vignet-en-bezoekersvergunningen/kraskaarten-en-gehandicaptenparkeerkaart-1",
+    "title": "Parkeerkaart Gehandicapten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/bouwen-verbouwen-en-slopen/omgevingsvergunningen/omgevingsvergunning-strijdig-gebruik-bestemmingsplan",
+    "title": "Omgevingsvergunning, strijdig gebruik bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/bouwen-verbouwen-en-slopen/bouwen-of-verbouwen/verzoek-handhaving-omgevingsrecht",
+    "title": "Verzoek handhaving omgevingsrecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/geboorte-trouwen-en-overlijden/trouwen-of-partnerschap-registreren/echtscheiding",
+    "title": "Echtscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/paspoort-id-kaart-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/burgerlijke-stand-uittreksel-of-afschrift",
+    "title": "Burgerlijke stand, uittreksel of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/paspoort-id-kaart-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/garantverklaring",
+    "title": "Garantverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/zorg-werk-en-jeugd/aanmelden-voor-wmo-ondersteuning",
+    "title": "Aanmelden voor Wmo ondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/bouwen-verbouwen-en-slopen/omgevingsvergunning",
+    "title": "Omgevingsvergunning, online vergunningcheck",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/vergunningen-ontheffingen-en-belastingen/alcoholwetvergunningen/terrasvergunning",
+    "title": "Terrasvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/wonen-en-verhuizen/openbaar-groen/groenonderhoud",
+    "title": "Groenonderhoud",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(groenvoorziening)"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/paspoort-id-kaart-rijbewijs-en-uittreksels/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/geboorte-trouwen-en-overlijden/geboorte/aangifte-geboorte",
+    "title": "Aangifte geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/parkeren-en-verkeer/parkeren/parkeervergunning",
+    "title": "Parkeervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/geboorte-trouwen-en-overlijden/trouwen-of-partnerschap-registreren/naamgebruik-verzoek-aanduiding",
+    "title": "Naamgebruik, verzoek aanduiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/zorg-werk-en-jeugd/jeugd-en-onderwijs/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/parkeren-en-verkeer/parkeren/parkeerontheffing-blauwe-zone-en-rvv",
+    "title": "Parkeerontheffing blauwe zone en RVV",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/bouwen-verbouwen-en-slopen/kabels-en-leidingen/vergunning-kabels-en-leidingen",
+    "title": "Vergunning kabels en leidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/zorg-werk-en-jeugd/werk-uitkering-en-inkomen/minimaregelingen/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/over-schouwen-duiveland/havens/vaste-ligplaats-havens",
+    "title": "Vaste ligplaats havens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/ligplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/bouwen-verbouwen-en-slopen/bouwen-of-verbouwen/gebruiksverzoek-gemeentelijke-gebouwen",
+    "title": "Gebruiksverzoek gemeentelijke gebouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruik_gemeentelijke_panden"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/geboorte-trouwen-en-overlijden/trouwen-of-partnerschap-registreren/partnerschapsregistratie",
+    "title": "Partnerschapsregistratie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschapaangifte"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/bouwen-verbouwen-en-slopen/bestemmingsplan",
+    "title": "Bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/vergunningen-ontheffingen-en-belastingen/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/bouwen-verbouwen-en-slopen/bouwen-of-verbouwen/brandveilig-gebruik-bouwwerk",
+    "title": "Brandveilig gebruik bouwwerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/zorg-werk-en-jeugd/werk-uitkering-en-inkomen/minimaregelingen/kwijtschelding-gemeentelijke-heffingen",
+    "title": "Kwijtschelding gemeentelijke heffingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/organisatie/meldingen-klachten-en-bezwaar/klacht-over-gemeente",
+    "title": "Klacht over gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/parkeren-en-verkeer/verkeer/gladheidsbestrijding",
+    "title": "Gladheidsbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/wonen-en-verhuizen/wonen-op-schouwen-duiveland/tijdelijke-verhuur-van-leegstaande-woning",
+    "title": "Tijdelijke verhuur van leegstaande woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/zorg-werk-en-jeugd/werk-uitkering-en-inkomen/energietoeslag",
+    "title": "Energietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/ondernemen/bedrijfsafval-en-reinigingsrechten",
+    "title": "Bedrijfsafval en reinigingsrechten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalinzameling"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/wonen-en-verhuizen/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/vergunningen-ontheffingen-en-belastingen/ontheffingen/ontheffing-afwijken-sluitingsuur",
+    "title": "Ontheffing afwijken sluitingsuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/zorg-werk-en-jeugd/werk-uitkering-en-inkomen/uitkering-levensonderhoud-bijstand",
+    "title": "Uitkering levensonderhoud, bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/wonen-en-verhuizen/wonen-op-schouwen-duiveland/monument-aanwijzen",
+    "title": "Monument aanwijzen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentaanwijzing"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/zorg-werk-en-jeugd/zorg-en-ondersteuning/vrijwilligersverzekering-schade-melden",
+    "title": "Vrijwilligersverzekering, schade melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/paspoort-id-kaart-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/verklaring-omtrent-gedrag",
+    "title": "Verklaring omtrent gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/afval/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/organisatie/meldingen-klachten-en-bezwaar/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/paspoort-id-kaart-rijbewijs-en-uittreksels/uittreksels-en-verklaringen/verklaring-onder-ede-of-belofte",
+    "title": "Verklaring onder ede of belofte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgegevens_verklaring_onder_eed_of_belofte"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/zorg-werk-en-jeugd/zorg-en-ondersteuning/vooroverleg-zorginitiatief",
+    "title": "Vooroverleg zorginitiatief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/bouwen-verbouwen-en-slopen/bouwen-of-verbouwen/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/zorg-werk-en-jeugd/werk-uitkering-en-inkomen/uitkering-zelfstandigen",
+    "title": "Uitkering zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/vergunningen-ontheffingen-en-belastingen/kansspelen",
+    "title": "Kansspelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/subsidies/specifieke-uitkering-noodfonds-energie-amateursportverenigingen-spuk-neas",
+    "title": "Specifieke uitkering noodfonds energie amateursportverenigingen (SPUK NEAS)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/wonen-en-verhuizen/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/zorg-werk-en-jeugd/werk-uitkering-en-inkomen/uitkering-oudere-zelfstandigen",
+    "title": "Uitkering oudere zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaz-uitkering"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/vergunningen-ontheffingen-en-belastingen/alcoholwetvergunningen/incidentele-festiviteit-melden-12-dagen-regeling",
+    "title": "Incidentele festiviteit melden, 12-dagen regeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/collIncFest"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/paspoort-id-kaart-rijbewijs-en-uittreksels/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/subsidies/subsidieaanvraag",
+    "title": "Subsidieaanvraag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/paspoort-id-kaart-rijbewijs-en-uittreksels/uittreksels-brp-en-burgelijke-stand/uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel Basisregistratie Personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/wonen-en-verhuizen/meldingen-openbare-ruimte/servicemelding",
+    "title": "Servicemelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/organisatie/meldingen-klachten-en-bezwaar/aansprakelijkstelling",
+    "title": "Aansprakelijkstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/wonen-en-verhuizen/meldingen-openbare-ruimte/strand-meldingen",
+    "title": "Strand, meldingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/organisatie/meldingen-klachten-en-bezwaar/bezwaar-tegen-legesfactuur",
+    "title": "Bezwaar tegen legesfactuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/leges"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/zorg-werk-en-jeugd/aanmelden-voor-wmo-ondersteuning/hulp-bij-vervoer",
+    "title": "Hulp bij vervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/vergunningen-ontheffingen-en-belastingen/collecte",
+    "title": "Collecte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/paspoort-id-kaart-rijbewijs-en-uittreksels/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/parkeren-en-verkeer/parkeren/parkeerplaats-gehandicapten",
+    "title": "Parkeerplaats Gehandicapten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/organisatie/meldingen-klachten-en-bezwaar/zienswijze-digitaal-indienen",
+    "title": "Zienswijze, digitaal indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/zienswijze"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/geboorte-trouwen-en-overlijden/geboorte/erkenning-kind",
+    "title": "Erkenning kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/bouwen-verbouwen-en-slopen/bouwen-of-verbouwen/riolering",
+    "title": "Riolering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/afval/plaagdierbestrijding",
+    "title": "Plaagdierbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/bouwen-verbouwen-en-slopen/omgevingsvergunningen/omgevingsvergunning-bomen-kappen",
+    "title": "Omgevingsvergunning, bomen kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/zorg-werk-en-jeugd/aanmelden-voor-wmo-ondersteuning/hulp-bij-wonen-en-het-huishouden",
+    "title": "Hulp bij wonen en het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland"
+  },
+  {
+    "identifier": "https://www.schouwen-duiveland.nl/subsidies/subsidie-voor-isolatie",
+    "title": "Subsidie voor isolatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schouwen-Duiveland",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  }
+]

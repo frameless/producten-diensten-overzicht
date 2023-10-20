@@ -1,0 +1,397 @@
+[
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/over-de-gemeente/recreatie-en-toerisme",
+    "title": "Recreatie en toerisme",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/ondernemer/vergunningen/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.brummen.nl/kinderopvang",
+    "title": "Kinder- en peuteropvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/ondernemer/vergunningen/reclame-en-flyeren",
+    "title": "Reclame en flyeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/over-de-gemeente/veiligheid",
+    "title": "Veiligheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/jeugdhulp",
+    "title": "Opgroeien en opvoeden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/paspoort-rijbewijs-uittreksels/garantverklaring-legalisatie-handtekening",
+    "title": "Garantverklaring, legalisatie handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/over-de-gemeente/archief",
+    "title": "Archief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/ondersteuning-en-zorg",
+    "title": "Ondersteuning en zorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/geboorte-en-overlijden/erkenning-kind-en-adoptie",
+    "title": "Erkenning kind en adoptie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/over-de-gemeente/natuur-en-landschap",
+    "title": "Natuur en landschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/trouwen",
+    "title": "Trouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/winkeltijden",
+    "title": "Winkeltijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdenontheffing"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/geboorte-en-overlijden/aangifte-overlijden",
+    "title": "Aangifte overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/ondernemer/milieu-en-afval/omgevingsdienst-veluwe-ijssel",
+    "title": "Omgevingsdienst Veluwe IJssel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/klacht",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.brummen.nl/bestuur-en-politiek/college/verkiezing-gemeenteraad",
+    "title": "Verkiezing gemeenteraad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/ondernemer/vergunningen/standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/jeugd-en-gezin",
+    "title": "Jeugd en gezin",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/over-de-gemeente/groenbeheer",
+    "title": "Groenbeheer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/over-de-gemeente/kunst-en-cultuur",
+    "title": "Kunst en cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/vergunning-of-melding/zwerfafval-of-illegale-stort",
+    "title": "Zwerfafval of illegale stort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/afval",
+    "title": "Afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/paspoort-rijbewijs-uittreksels",
+    "title": "Paspoort, rijbewijs, uittreksels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/ondernemer/milieu-en-afval/bedrijfsafval",
+    "title": "Bedrijfsafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalinzameling"
+  },
+  {
+    "identifier": "https://www.brummen.nl/afval/best-tas",
+    "title": "BEST-tas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/ondersteuning-en-zorg/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.brummen.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.brummen.nl/verhuizen",
+    "title": "Verhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.brummen.nl/horecabedrijf",
+    "title": "Horeca en verkoop",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/over-de-gemeente/sport-en-gezondheid",
+    "title": "Sport en gezondheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/paspoort-rijbewijs-uittreksels/uittreksel-of-akte",
+    "title": "Uittreksel of akte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/paspoort-rijbewijs-uittreksels/waarmerken-kopie",
+    "title": "Waarmerken kopie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/verklaring-omtrent-gedrag",
+    "title": "Verklaring omtrent gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/vergunning-of-melding/brandveiligheid",
+    "title": "Brandveiligheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.brummen.nl/afval/asbest",
+    "title": "Asbest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/ondernemer/bouwen-en-vestigen",
+    "title": "Bouwen en vestigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/evenement-organiseren",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/over-de-gemeente/verkeer",
+    "title": "Verkeer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/afval/recycleplein",
+    "title": "Recycleplein",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/geboorte-en-overlijden",
+    "title": "Geboorte en overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/vergunning-of-melding/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/ondersteuning-en-zorg/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/werk-en-inkomen",
+    "title": "Werk en inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/over-de-gemeente/veiligheid/meldpunt-ondermijning",
+    "title": "Ondermijning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/ondernemer/kabels-en-leidingen",
+    "title": "Kabels en leidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/duurzaamheid/toekomstbestendig-wonen-lening",
+    "title": "Toekomstbestendig Wonen Lening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/onderwijs",
+    "title": "Onderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/ondernemer/milieu-en-afval/bodeminformatie",
+    "title": "Bodeminformatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.brummen.nl/trouwen/trouwzaal-gemeentehuis",
+    "title": "Trouwzaal gemeentehuis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/bouwen-en-wonen/huren-en-kopen",
+    "title": "Huren en kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/bouwen-en-wonen/bodeminformatie",
+    "title": "Bodeminformatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/over-de-gemeente",
+    "title": "Over de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/ondernemer/milieu-en-afval/bodemsanering-en-onderzoek",
+    "title": "Bodemsanering en onderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/over-de-gemeente/verkeer/vaartijden-veerpont",
+    "title": "Vaartijden veerpont",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/bouwen-en-wonen/gasloos-bouwen",
+    "title": "Gasloos bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/afval/afvalkalender",
+    "title": "Afvalkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/bouwen-en-wonen/bouwen-en-verbouwen",
+    "title": "Bouwen en verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen"
+  },
+  {
+    "identifier": "https://www.brummen.nl/inwoner-en-ondernemer/over-de-gemeente/melding-openbare-ruimte",
+    "title": "Melding openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Brummen",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  }
+]

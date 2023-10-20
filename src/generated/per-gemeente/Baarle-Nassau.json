@@ -1,0 +1,449 @@
+[
+  {
+    "identifier": "https://www.baarle-nassau.nl/jeugdgemeenteraad",
+    "title": "Jeugdgemeenteraad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/abg",
+    "title": "ABG-organisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/verhuizen",
+    "title": "Verhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/uittreksel-aanvragen",
+    "title": "Uittreksel of afschrift aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/paspoort-rijbewijs-uittreksels",
+    "title": "Paspoort, rijbewijs, uittreksels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/gft",
+    "title": "Groente-, fruit- en tuinafval (gft)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/garantstelling",
+    "title": "Garantstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/zelfbouw",
+    "title": "Zelf bouwen (CPO)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/archief",
+    "title": "Archief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/bezwaar",
+    "title": "Klachten en bezwaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/horecavergunning",
+    "title": "Exploitatievergunning en Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/boa",
+    "title": "Buitengewoon Opsporingsambtenaren (boa’s)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/vog",
+    "title": "Verklaring Omtrent het Gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/bestemmingsplannen",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/glas",
+    "title": "Glas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/asbest",
+    "title": "Asbest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/uittreksel",
+    "title": "Uittreksels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/veiligheid",
+    "title": "Veiligheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/afval",
+    "title": "Afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/afvalkalender",
+    "title": "Ophaaldagen afval (afvalkalender)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/snoeihout",
+    "title": "Snoeihout",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/rekenkamercommissie",
+    "title": "Rekenkamercommissie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/college",
+    "title": "College van B en W",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/riool",
+    "title": "Riool verstopt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/parkeren",
+    "title": "Parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/commissie-ruimte-en-economie",
+    "title": "Commissie Ruimte en Economie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/trouwen",
+    "title": "Trouwen en geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/financien",
+    "title": "Financiën",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/commissie-mens-en-maatschappij",
+    "title": "Commissie Mens en Maatschappij",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/bouwen",
+    "title": "Bouw- en woningbouwprojecten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/textiel",
+    "title": "Textiel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/woo",
+    "title": "Woo-verzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/blijverslening",
+    "title": "Blijverslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/blijverslening"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/papier",
+    "title": "Papier en karton",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/gevondenenverloren",
+    "title": "Gevonden en verloren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/gemeenteraad",
+    "title": "Gemeenteraad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/ozb",
+    "title": "Onroerende-zaakbelastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/grofhuisvuil",
+    "title": "Grof huisvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/bewijsvaninlevenzijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/pmd",
+    "title": "Pmd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/wegen",
+    "title": "Wegen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/overlijden",
+    "title": "Aangifte van overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/evenementen",
+    "title": "Evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/persoonsgegevens",
+    "title": "Persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/beroepofbedrijfaanhuis",
+    "title": "Beroep of bedrijf aan huis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/collectevergunning",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/melding",
+    "title": "Melding doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/verkeersmaatregelen",
+    "title": "Verkeersmaatregelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/milieustraat",
+    "title": "Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/verhuizen-en-verbouwen",
+    "title": "Verhuizen en (ver)bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/commissie-bestuur-en-middelen",
+    "title": "Commissie Bestuur en Middelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/geboorte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/trouwambtenaren",
+    "title": "Trouwambtenaren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/welstand",
+    "title": "Welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/woonvisie",
+    "title": "Woonvisie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/verhuizenvanuithetbuitenland",
+    "title": "Verhuizen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/internationalesamenwerking",
+    "title": "Internationale samenwerking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/erkenningkind",
+    "title": "Erkenning kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/bodem",
+    "title": "Bodem en grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/container",
+    "title": "Containers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/monumenten",
+    "title": "Monumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/verordeningen",
+    "title": "Verordeningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/kleingevaarlijkafval",
+    "title": "Klein gevaarlijk afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  },
+  {
+    "identifier": "https://www.baarle-nassau.nl/woz",
+    "title": "WOZ-waarde en taxatieverslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Baarle-Nassau_(gemeente)"
+  }
+]

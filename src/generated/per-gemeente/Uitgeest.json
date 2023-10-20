@@ -1,0 +1,490 @@
+[
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/bijzondere-bijstand/",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/buurtpreventie/",
+    "title": "Buurtpreventie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/vrijwilligersverzekering/",
+    "title": "Verzekering voor vrijwilligers, mantelzorgers en stagiaires",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/klacht-of-compliment/",
+    "title": "Klachten indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/welstandseisen/",
+    "title": "Welstandseisen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/individuele-inkomenstoeslag/",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/koninklijke-onderscheiding-lintje/",
+    "title": "Koninklijke onderscheiding (lintje)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/incidentele-festiviteit-voor-horecagelegenheden/",
+    "title": "Incidentele festiviteit voor horecagelegenheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/huren/",
+    "title": "Huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/starterslening/",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/uittreksel-basisregistratie-brp/",
+    "title": "Uittreksel Basisregistratie Personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/rijbewijs/",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/aansprakelijk-stellen-gemeente/",
+    "title": "Aansprakelijk stellen gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/terrasvergunning/",
+    "title": "Terrasvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/verklaring-omtrent-gedrag/",
+    "title": "Verklaring omtrent gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/rioolaansluiting/",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/venten/",
+    "title": "Venten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dienstverlening_op_of_aan_de_openbare_weg_vergunning"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/parkeerontheffing/",
+    "title": "Parkeerontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/ontheffing-openings-en-sluitingstijd-horeca/",
+    "title": "Ontheffing openings- en sluitingstijd horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/voorwerpen-op-openbare-weg-plaatsen/",
+    "title": "Voorwerpen op de openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/ondersteuning-wmo/",
+    "title": "Ondersteuning (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/regelingen-voor-minima/",
+    "title": "Regelingen voor minima",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/collectevergunning/",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/gehandicaptenparkeerplaats/",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/hulp-bij-schulden/",
+    "title": "Hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/geboorte/",
+    "title": "Geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/omgevingsvergunning/",
+    "title": "Omgevingsvergunning",
+    "language": "NL",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/melding-openbare-ruimte/",
+    "title": "Melding openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/persoonsgebonden-budget-pgb/",
+    "title": "Persoonsgebonden budget (PGB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgebonden_budget"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/gymzalen-huren/",
+    "title": "Gymzalen huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/kind-erkennen/",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/aangifte-overlijden/",
+    "title": "Overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/evenementenvergunning/",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/buurthinder-en-overlast/",
+    "title": "Buurthinder en overlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/bestemmingsplannen/",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/legalisatie-handtekening/",
+    "title": "Legalisatie handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/planschade/",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/exploitatievergunning/",
+    "title": "Exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/sociaal-team/",
+    "title": "Sociaal Team",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/alcoholvergunning/",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/vliegverkeer/",
+    "title": "Vliegverkeer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/belastingen/",
+    "title": "Gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/afval",
+    "title": "Afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/mantelzorg/",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/marktplaatsvergunning/",
+    "title": "Marktplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/echtscheiding-en-einde-geregistreerd-partnerschap/",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/collectieve-ziektekostenverzekering/",
+    "title": "Collectieve ziektekostenverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zkKstVerzCol"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/verzoek-over-persoonsgegevens/",
+    "title": "Verzoek over persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/jeugdhulp/",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/leerplicht/",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/leerlingenvervoer/",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/begraven-of-cremeren/",
+    "title": "Begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafrechten"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/privacy/",
+    "title": "Privacy gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/huwelijk-en-geregistreerd-partnerschap/",
+    "title": "Huwelijk en geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/bezwaar-maken/",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/noodsituaties/",
+    "title": "Noodsituaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/rioolverstopping/",
+    "title": "Rioolverstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/gehandicaptenparkeerkaart/",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/naamgebruik/",
+    "title": "Naamgebruik wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/ontheffing-alcoholwet/",
+    "title": "Ontheffing art. 35 Alcoholwet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/naamskeuze-kind/",
+    "title": "Naamskeuze kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/verhuizing/",
+    "title": "Verhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/paspoort-en-identiteitskaart/",
+    "title": "Paspoort en ID-kaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/standplaatsvergunning/",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/ondernemen/",
+    "title": "Ondernemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/bijstand-1/",
+    "title": "Bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/afschrift-burgerlijke-stand/",
+    "title": "Afschrift Burgerlijke Stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/urgentieverklaring/",
+    "title": "Urgentieverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/urgBewWoning"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/tijdelijke-verhuur-leegstaand-pand/",
+    "title": "Tijdelijke verhuur woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/digitale-informatieborden/",
+    "title": "Digitale informatieborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/burgerhulpverlening/",
+    "title": "Burgerhulpverlener",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)"
+  },
+  {
+    "identifier": "https://www.uitgeest.nl/aanvragen-en-regelen/werk-en-inkomen/",
+    "title": "Werk en inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Uitgeest_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  }
+]

@@ -1,0 +1,1663 @@
+[
+  {
+    "identifier": "https://gooisemeren.nl/paspoort-en-identiteitskaart/zakenpaspoort/",
+    "title": "Zakenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/over-gooise-meren/musea-gooise-meren/",
+    "title": "Musea Gooise Meren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/rijbewijs/rijbewijs-online-verlengen-via-de-rdw/",
+    "title": "Rijbewijs online verlengen via de RDW",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/mijn-wijk/wijkwethouders/",
+    "title": "Wijkwethouders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/jeugd-en-onderwijs/moeite-in-omgang-leeftijdsgenoten/",
+    "title": "Moeite in omgang leeftijdsgenoten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/belastingen/onroerendezaakbelasting-ozb/",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/nieuws/",
+    "title": "Nieuws",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/fietsen-stations-naarden-bussum-en-bussum-zuid/",
+    "title": "Fietsen stations Naarden-Bussum en Bussum Zuid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/subsidies/subsidie-sportevenement/subsidie-sportakkoord/",
+    "title": "Subsidie Sportakkoord",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportactiviteitensubsidie"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/stel-een-vraag/vraag-over-belastingen/",
+    "title": "Vraag over belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/sitemap/",
+    "title": "Sitemap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bouwen-en-verbouwen/monumenten-overzicht/",
+    "title": "Monumenten (overzicht)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentaanwijzing"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bouwen-en-verbouwen/omgevingsvergunning-uitrit/",
+    "title": "Uitrit maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgUitweg"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/parkeervergunningen/parkeervergunning-deelauto/",
+    "title": "Parkeervergunning deelauto",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/paspoort-en-identiteitskaart/identiteitskaart/",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/klacht-bezwaar-en-beroep/klacht-over-zorg-en-ondersteuning/",
+    "title": "Klacht over zorg en ondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/de-kosten-op-een-rij/",
+    "title": "De kosten op een rij",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/belastingen/watertoeristenbelasting/",
+    "title": "(Water)toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/belastingen/precariobelasting/",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uitkering-werk-en-bijstand/betaaldata-uitkeringen/",
+    "title": "Betaaldata uitkeringen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/subsidies/subsidie-voor-een-initiatief/",
+    "title": "Subsidie voor een initiatief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/subsidies/subsidie-sportevenement/",
+    "title": "Subsidie sportevenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/trouwen/trouwlocaties/",
+    "title": "Trouwlocaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/trouwlocatie"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/overzicht/nieuw-valkeveen-naarden/",
+    "title": "Begraafplaats Nieuw Valkeveen Naarden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bouwen-en-verbouwen/bodeminformatie-aanvragen/",
+    "title": "Bodeminformatie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/rijbewijs/gezondheidsverklaring/",
+    "title": "Gezondheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/parkeervergunningen/parkeervergunning-tijdelijke-werkzaamheden/",
+    "title": "Parkeervergunning tijdelijke werkzaamheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/klacht-bezwaar-en-beroep/aansprakelijkheid-bij-schade/vrijwilligersverzekering/",
+    "title": "Vrijwilligersverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/jeugd-en-onderwijs/hulp-bij-opvoeding/",
+    "title": "Hulp bij opvoeding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/jeugd-en-onderwijs/hulp-voor-kind-bij-scheiding/",
+    "title": "Hulp voor kind bij scheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bouwen-en-verbouwen/bouwplan-afwijken-bestemmingsplan/",
+    "title": "Bouwplan afwijken bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/parkeervergunningen/parkeervergunning-wijzigen-of-opzeggen/",
+    "title": "Parkeervergunning wijzigen of opzeggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/contact-en-openingstijden/",
+    "title": "Contact en openingstijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uitkering-werk-en-bijstand/uitkeringsspecificatie-en-jaaropgave/",
+    "title": "Uitkeringsspecificatie en jaaropgave",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/duurzaamheid/monument-duurzaam-maken/",
+    "title": "Monument duurzaam maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/overzicht-alle-onderwerpen/vuurwerkvrije-straat/",
+    "title": "Vuurwerkvrije straat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/vuurwerk_ontbrandingstoestemming"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/parkeerboete/",
+    "title": "Parkeerboete",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerbelasting"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/ontheffing-geluidhinder/",
+    "title": "Ontheffing geluidhinder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/zoeken/",
+    "title": "Zoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/geboorte/achternaam-kind-kiezen/",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bouwen-en-verbouwen/legesverordening/",
+    "title": "Legesverordening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/leges"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/zorg-en-ondersteuning/gesprek-over-mogelijke-ondersteuning/",
+    "title": "Gesprek over mogelijke ondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/verhuizen-en-wonen/vertrek-naar-buitenland-emigratie-doorgeven/",
+    "title": "Vertrek naar buitenland (emigratie) doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/een-uitvaart-regelen/",
+    "title": "Een uitvaart regelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uitkering-werk-en-bijstand/vrijwilligerswerk/",
+    "title": "Vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/veiligheid/veilige-woonomgeving/",
+    "title": "Veilige woonomgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonomgeving_inrichting"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/klacht-bezwaar-en-beroep/aansprakelijkheid-bij-schade/",
+    "title": "Aansprakelijkheid bij schade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/collectevergunning/",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/overzicht/overige-bergaafplaatsen-in-gooise-meren/",
+    "title": "Overige begraafplaatsen in Gooise Meren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/klacht-bezwaar-en-beroep/informatieverzoek-en-woo-verzoek/",
+    "title": "Informatieverzoek en Woo-verzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/parkeervergunningen/parkeervergunning-inwoners/",
+    "title": "Parkeervergunning inwoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/trouwen/gebruik-achternaam/",
+    "title": "Gebruik achternaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/ontheffing-zwak-alcoholhoudende-dranken/",
+    "title": "Ontheffing zwak-alcoholhoudende dranken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/zwAlcDrankVerk"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/verhuizen-en-wonen/woonruimte-huren-of-kopen/",
+    "title": "Woonruimte huren of kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/overlijden/tarieven-begraafplaatsen/oude-begraafplaats-naarden/",
+    "title": "Oude begraafplaats Naarden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uittreksels/bewijs-nederlanderschap/",
+    "title": "Bewijs Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/ondernemen/bedrijfspand-verduurzamen/",
+    "title": "Bedrijfspand of woning verduurzamen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/ondernemen/inkoop-en-aanbesteden/",
+    "title": "Inkoop en aanbesteden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uittreksels/geheimhouding-persoonsgegevens/",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/ontheffing-sluitingstijd/",
+    "title": "Ontheffing sluitingstijd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/verhuizen-en-wonen/adresonderzoek/",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/overzicht/",
+    "title": "Overzicht begraafplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/overzicht-alle-onderwerpen/bestuurlijke-boete/",
+    "title": "Bestuurlijke boete",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/klacht-bezwaar-en-beroep/",
+    "title": "Klacht indienen of bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/organisatie-en-bestuur/werken-bij-de-gemeente/stage-lopen/",
+    "title": "Stage lopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/parkeervergunningen/parkeervergunning-bedrijven/",
+    "title": "Parkeervergunning bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/melden-bij-de-gemeente/vraag-of-klacht-glasvezel/",
+    "title": "Vraag of klacht glasvezel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/paspoort-en-identiteitskaart/spoedaanvraag-paspoort-of-identiteitskaart/",
+    "title": "Spoedaanvraag paspoort of identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/rijbewijs/rijbewijs-aanvragen/",
+    "title": "Rijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/belastingen/afvalstoffenheffing/",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/inkomensondersteuning-en-toeslagen/studietoeslag/",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/overzicht/nieuw-rooms-katholieke-begraafplaats-bussum/",
+    "title": "Nieuw Rooms-Katholieke begraafplaats Bussum",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/over-gooise-meren/stedenbanden/",
+    "title": "Stedenbanden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/inkomensondersteuning-en-toeslagen/tegemoetkoming-premie-aanvullende-zorgverzekering/",
+    "title": "Tegemoetkoming Premie Aanvullende Zorgverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uittreksels/attestatie-de-vita/",
+    "title": "Attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/mijn-wijk/antireclamesticker/",
+    "title": "Antireclamesticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bouwen-en-verbouwen/bestemmingsplannen/",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/belastingen/bezwaar/",
+    "title": "Bezwaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/overzicht/algemene-begraafplaats-muiden/",
+    "title": "Algemene begraafplaats Muiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/over-gooise-meren/koopzondagen-en-koopavonden/",
+    "title": "Koopzondagen en koopavonden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/koopzondageninformatie"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/trouwen/echtscheiding/",
+    "title": "Echtscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/inkomensondersteuning-en-toeslagen/tegemoetkoming-eigen-risico-zorgkosten/",
+    "title": "Tegemoetkoming eigen risico zorgkosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uittreksels/uittreksel-basisregistratie-personen-brp/",
+    "title": "Uittreksel basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/paspoort-en-identiteitskaart/tweede-paspoort/",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/overlijden/tarieven-begraafplaatsen/",
+    "title": "Kosten begraafplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/veiligheid/",
+    "title": "Veiligheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bouwen-en-verbouwen/commissie-ruimtelijke-kwaliteit-en-erfgoed/",
+    "title": "Commissie Ruimtelijke Kwaliteit en Erfgoed",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/standplaats-aanvragen/",
+    "title": "Standplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/overzicht/natuurbegraafplaats-nieuw-valkeveen-naarden/",
+    "title": "Natuurbegraafplaats Nieuw Valkeveen Naarden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/organisatie-en-bestuur/werken-bij-de-gemeente/vacatures/",
+    "title": "Vacatures",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/parkeren-voor-gehandicapten/gehandicaptenparkeerplaats/",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/geboorte/kind-erkennen/",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/inkomensondersteuning-en-toeslagen/aanvullende-bijdrage-kinderopvang/",
+    "title": "Aanvullende bijdrage kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/overig/eikenprocessierups/",
+    "title": "Eikenprocessierups",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/subsidies/duurzaamheidssubsidies/",
+    "title": "Duurzaamheidssubsidies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/nieuwsbrieven/",
+    "title": "Nieuwsbrieven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/zorg-en-ondersteuning/veilig-thuis/",
+    "title": "Kindermishandeling of huiselijk geweld melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/kansspelautomatenvergunning/",
+    "title": "Kansspelautomatenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/parkeervergunningen/parkeervergunning-mantelzorg/",
+    "title": "Parkeervergunning mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/evenementenvergunning/",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/paspoort-en-identiteitskaart/paspoort/",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/paspoort-en-identiteitskaart/nederlander-worden/nederlander-worden-door-naturalisatie/",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/veiligheid/wijkbrandweer/",
+    "title": "Wijkbrandweer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/belastingen/rioolheffing/",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/belastingen/kwijtschelding/",
+    "title": "Kwijtschelden belasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/verzoek-om-handhaving/",
+    "title": "Verzoek om handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/paspoort-en-identiteitskaart/vluchtelingenpaspoort/",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/geluidsopnamen-van-gesprekken/",
+    "title": "Geluidsopnamen van gesprekken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/ontheffing-winkeltijden/",
+    "title": "Ontheffing winkeltijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdenontheffing"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/rijbewijs/omwisseling-buitenlands-rijbewijs/",
+    "title": "Omwisseling buitenlands rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs_buitenlands_omwisseling"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/verhuizen-en-wonen/verhuizen-vanuit-het-buitenland/",
+    "title": "Verhuizen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bouwen-en-verbouwen/boom-kappen/waardevolle-bomen/",
+    "title": "Waardevolle bomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/ontheffing-inrijverbod-naarden-vesting/",
+    "title": "Ontheffing inrijverbod Naarden-Vesting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/trouwen/trouwambtenaar/",
+    "title": "Trouwambtenaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/inkomensondersteuning-en-toeslagen/bijdrage-culturele-activiteiten-jeugd/",
+    "title": "Bijdrage voor sport of hobby van uw kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdsportsubsidie"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/overig/rss-feeds/",
+    "title": "RSS-feeds",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/overzicht/algemene-begraafplaats-muiderberg/",
+    "title": "Algemene begraafplaats Muiderberg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uittreksels/verklaring-omtrent-gedrag/",
+    "title": "Verklaring omtrent gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/inkomensondersteuning-en-toeslagen/peuteropvang-en-voorschoolse-educatie/",
+    "title": "Peuteropvang en voorschoolse educatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/duurzaamheid/zonnecollectoren-of-zonnepanelen-plaatsen/",
+    "title": "Zonnecollectoren of zonnepanelen plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/waar-ligt-een-graf/",
+    "title": "Waar ligt een graf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/jeugd-en-onderwijs/wat-een-jeugdconsulent-doet/",
+    "title": "Wat een jeugdconsulent doet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/melden-bij-de-gemeente/andere-meldingen/milieuklachten-of-milieucalamiteiten/",
+    "title": "Milieuklachten of milieucalamiteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/veiligheid/buurtpreventieverenigingen/",
+    "title": "Buurtpreventieverenigingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/over-gooise-meren/wateractiviteiten/",
+    "title": "Wateractiviteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/veiligheid/informatie-bij-een-ramp-of-noodsituatie/",
+    "title": "Informatie bij een ramp of noodsituatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/rampen_en_zware_ongevallen_informatieplicht"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/belastingen/taxatieverslag-woz/",
+    "title": "Taxatieverslag WOZ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/paspoort-en-identiteitskaart/nederlander-worden/naturalisatieceremonie/",
+    "title": "Naturalisatieceremonie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieceremonie"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/subsidies/subsidie-sportevenement/subsidie-klein-sportevenement/",
+    "title": "Subsidie klein sportevenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportactiviteitensubsidie"
+  },
+  {
+    "identifier": "https://mijn.gooisemeren.nl/aanvragen/1198/onbekend/documenten-inleveren",
+    "title": "Documenten werk en inkomen opsturen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/zorg-en-ondersteuning/melden-dat-iemand-zorg-nodig-heeft/",
+    "title": "Melden dat iemand zorg nodig heeft",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/thuiszorg"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/parkeergarages-bussum/abonnement-parkeergarage/",
+    "title": "Abonnement parkeergarage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/jeugd-en-onderwijs/scholen/",
+    "title": "Scholen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/werken-als-huishoudelijke-hulp/",
+    "title": "Werken als huishoudelijke hulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/exploitatievergunning-kinderopvang/",
+    "title": "Exploitatievergunning kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/jeugd-en-onderwijs/stage-lopen-bij-gooise-meren/",
+    "title": "Stage lopen bij Gooise Meren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/mijn-wijk/aed/",
+    "title": "AED",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bouwen-en-verbouwen/bouwobject-plaatsen/",
+    "title": "Bouwobject plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/klein-evenement-melden/",
+    "title": "Klein evenement melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/mijn-wijk/initiatief-aanmelden/",
+    "title": "Initiatief aanmelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/jeugd-en-onderwijs/leerlingenvervoer/",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/melden-bed-and-breakfast/",
+    "title": "Melden Bed and Breakfast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/veiligheid/vuurwerkvrije-zone/",
+    "title": "Vuurwerkvrije zone",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/zorg-en-ondersteuning/wmo-taxi/",
+    "title": "Wmo-taxi",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/over-gooise-meren/koninklijke-onderscheiding/",
+    "title": "Koninklijke onderscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/overig/erfpacht/",
+    "title": "Erfpacht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/erfpacht"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/paspoort-en-identiteitskaart/vermissing-paspoort-of-identiteitskaart/",
+    "title": "Vermissing paspoort of identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/geboorte/aangifte-geboorte/",
+    "title": "Aangifte geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uittreksels/bewijs-van-in-leven-zijn/",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uittreksels/handtekening-legaliseren/garantstelling-of-logiesverstrekking/",
+    "title": "Garantstelling of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/garVerklVerblNL"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/venten-verkopen-zonder-vaste-plaats/",
+    "title": "Venten: verkopen zonder vaste plaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventonth"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/melden-bij-de-gemeente/gevonden-en-verloren-voorwerpen/",
+    "title": "Gevonden en verloren voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/overzicht/oude-begraafplaats-naarden/",
+    "title": "Oude begraafplaats Naarden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/klacht-bezwaar-en-beroep/klacht-onbehoorlijk-gedrag-gemeenteambtenaar/",
+    "title": "Klacht onbehoorlijk gedrag gemeenteambtenaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/trouwen/partnerschap-omzetten-in-huwelijk/",
+    "title": "Partnerschap omzetten in huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_omzetting_in_huwelijk"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/demonstratie-melden/",
+    "title": "Demonstratie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/betogDemonsMld"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/organisatie-en-bestuur/bekendmakingen/",
+    "title": "Bekendmakingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bouwen-en-verbouwen/slopen/",
+    "title": "Slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/soorten-en-typen-graven/",
+    "title": "Soorten  en typen graven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/trouwen/trouwen-of-geregistreerd-partnerschap/",
+    "title": "Trouwen of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/klacht-bezwaar-en-beroep/planschade/",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bouwen-en-verbouwen/bouwtekeningen-opvragen/",
+    "title": "Bouwtekeningen opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/melden-bij-de-gemeente/melden-overlast-van-ongedierte-en-dieren/",
+    "title": "Melden overlast van ongedierte en dieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/melden-bij-de-gemeente/andere-meldingen/drijfvuil-en-waterstand/",
+    "title": "Drijfvuil en waterstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uitkering-werk-en-bijstand/ondersteuning-bij-het-vinden-van-werk/",
+    "title": "Ondersteuning bij werk vinden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/werkbegeleiding_werkzoekenden"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uittreksels/handtekening-legaliseren/",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/exploitatievergunning-horeca/",
+    "title": "Exploitatievergunning horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/verhuizen-en-wonen/woning-tijdelijk-verhuren/",
+    "title": "Woning tijdelijk verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonruimte_onttrekkingsvergunning"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/belastingen/woz-waarde/",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/jeugd-en-onderwijs/wat-je-moet-regelen-als-je-18-wordt/",
+    "title": "Wat je moet regelen als je 18 wordt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/belastingen/aanslag-gemeentelijke-belastingen/",
+    "title": "Aanslag gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/veelgestelde-vragen/",
+    "title": "Veelgestelde vragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/zorg-en-ondersteuning/waardering-mantelzorgers/",
+    "title": "Waardering mantelzorgers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgcompliment"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/verhuizen-en-wonen/verhuizen-met-een-verhuiswagen/",
+    "title": "Verhuizen met een verhuiswagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bouwen-en-verbouwen/nieuwe-rioolaansluiting/",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/overig/algemene-plaatselijke-verordening-apv/",
+    "title": "Algemene Plaatselijke Verordening (APV)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://mijn.gooisemeren.nl/aanvragen/237/onbekend/vraag-aan-de-gemeente",
+    "title": "Vraag aan de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uitkering-werk-en-bijstand/bijstand-voor-zelfstandigen/",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/inkomensondersteuning-en-toeslagen/pc-regeling/",
+    "title": "Pc-regeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/jeugd-en-onderwijs/leerplicht/",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/verhuizen-en-wonen/verhuizen-naar-of-binnen-de-gemeente/",
+    "title": "Verhuizen naar of binnen de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/jeugd-en-onderwijs/overbelast-door-zorg-voor-kind/",
+    "title": "Overbelast door zorg voor kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/overig/processierups-reuzenberenklauw-japanse-duizendknoop/",
+    "title": "Reuzenberenklauw en Japanse duizendknoop",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bijeenkomsten-en-evenementen/",
+    "title": "Bijeenkomsten en evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/melden-bij-de-gemeente/melding-openbare-ruimte/",
+    "title": "Melding openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/jeugd-en-onderwijs/niet-meekomen-op-school/",
+    "title": "Niet meekomen op school",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/verhuizen-en-wonen/briefadres/",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/footer/",
+    "title": "Footer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/het-ruimen-van-graven/",
+    "title": "Het ruimen van graven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/afvalwater-bedrijf-lozen-op-riool/",
+    "title": "Afvalwater bedrijf lozen op riool",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/rijbewijs/vermissing-rijbewijs/",
+    "title": "Vermissing rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/organisatie-en-bestuur/beleidsnotas/",
+    "title": "Beleidsnota's",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bouwen-en-verbouwen/omgevingsvergunning-bouwplan/",
+    "title": "Bouwplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bouwen-en-verbouwen/omgevingsvergunning-wijzigen-monument/",
+    "title": "Monument wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/parkeerautomaat-op-straat/",
+    "title": "Parkeerautomaat op straat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerbelasting"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/ondernemen/samen-werken-aan-werk/",
+    "title": "Samen werken aan werk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/paspoort-en-identiteitskaart/nederlander-worden/nederlander-worden-door-optie/",
+    "title": "Nederlander worden door optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalOptie"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uitkering-werk-en-bijstand/wajong/",
+    "title": "Wajong",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/wajong-uitkering"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uitkering-werk-en-bijstand/rechten-en-plichten-bij-uitkeringen/",
+    "title": "Rechten en plichten bij uitkeringen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/overlijden/begraafplaatsen/",
+    "title": "Begraafplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/zorg-en-ondersteuning/hulp-bij-het-huishouden/",
+    "title": "Hulp bij het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/overzicht/oud-rooms-katholieke-begraafplaats-bussum/",
+    "title": "Oud Rooms-Katholieke begraafplaats Bussum",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/verhuizen-en-wonen/starterslening/",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/zorg-en-ondersteuning/wat-een-wmo-consulent-doet/",
+    "title": "Wat een Wmo-consulent doet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uitkering-werk-en-bijstand/bijstandsfraude/",
+    "title": "Bijstandsfraude",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/wegsleepregeling/",
+    "title": "Wegsleepregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegsleepreg"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/parkeervergunningen/parkeervergunning-speciale-beroepen/",
+    "title": "Parkeervergunning speciale beroepen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/melden-bij-de-gemeente/andere-meldingen/natuurgebied/",
+    "title": "Natuurgebied",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/overlijden/aangifte-overlijden/",
+    "title": "Aangifte overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/klacht-bezwaar-en-beroep/bezwaar-en-beroep/",
+    "title": "Bezwaar en beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/parkeervergunningen/parkeervergunning-bezoekers/",
+    "title": "Parkeervergunning bezoekers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uitkering-werk-en-bijstand/individuele-inkomenstoeslag/",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/overlijden/grafrechten/",
+    "title": "Grafrechten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/overzicht-alle-onderwerpen/inkomensondersteuning-en-toeslagen/zelf-uitrekenen-waar-u-recht-op-heeft/",
+    "title": "Zelf uitrekenen waar u recht op heeft",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bouwen-en-verbouwen/meldpunt-opbrekingen-openbare-ruimte/",
+    "title": "Meldpunt Opbrekingen Openbare Ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/paspoort-en-identiteitskaart/reizen-met-kinderen/",
+    "title": "Reizen met kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uitkering-werk-en-bijstand/uitkering-aanvragen/",
+    "title": "Uitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/afval/afval-brengen/",
+    "title": "Afval brengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/over-gooise-meren/gemeentearchief-gooise-meren-en-huizen/",
+    "title": "Gemeentearchief Gooise Meren en Huizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/archiefInzage"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/inkomensondersteuning-en-toeslagen/doe-budget/",
+    "title": "Doe-budget",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/mobiel-parkeren/",
+    "title": "Mobiel parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/ontheffing-lozen-afvalwater/",
+    "title": "Ontheffing lozen afvalwater",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalwaterlozingontheffing"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/loterijvergunning/",
+    "title": "Loterijvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/",
+    "title": "Parkeren en verkeer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/overlijden/nalatenschapsinformatie/",
+    "title": "Nalatenschapsinformatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/zorg-en-ondersteuning/zelfstandig-wonen/",
+    "title": "Zelfstandig wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/mijn-wijk/boomtuintje-of-geveltuintje-aanvragen/",
+    "title": "Boomtuintje of geveltuintje aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/belastingen/reclameheffing/",
+    "title": "Reclamebelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamebelasting"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/zorg-en-ondersteuning/zorg-in-natura-of-persoonsgebonden-budget/",
+    "title": "Zorg in natura of persoonsgebonden budget",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgebonden_budget"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/alcoholwetvergunning/",
+    "title": "Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.gooisemeren.nl",
+    "title": "Dienstverlening Gooise Meren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/contact/",
+    "title": "Contact",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/asbestemming/",
+    "title": "Asbestemming",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/over-gooise-meren/lokale-onderscheidingen/",
+    "title": "Lokale onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentelijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/afval/afval-ophalen/",
+    "title": "Afval ophalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/subsidies/vaststellen-subsidie/",
+    "title": "Vaststellen subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uitkering-werk-en-bijstand/uitkering-oudere-werklozen/",
+    "title": "Uitkering oudere werklozen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uitkering-werk-en-bijstand/hulp-bij-schulden/",
+    "title": "Hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/wegwerkzaamheden-en-wegafsluitingen/",
+    "title": "Wegwerkzaamheden en wegafsluitingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/jeugd-en-onderwijs/vermoeden-dyslexie/",
+    "title": "Problemen met lezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/dyslexieverklaring"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bouwen-en-verbouwen/boom-kappen/",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/paspoort-en-identiteitskaart/vreemdelingenpaspoort/",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/uittreksels/afschrift-burgerlijke-stand/",
+    "title": "Afschrift burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/veiligheid/wijkagenten/",
+    "title": "Wijkagenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/bouwen-en-verbouwen/commissie-ruimtelijke-kwaliteit-en-erfgoed/agenda-commissie-ruimtelijke-kwaliteit-en-erfgoed/",
+    "title": "Agenda's Commissie Ruimtelijke Kwaliteit en Erfgoed",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/mijn-wijk/snippergroen/",
+    "title": "Snippergroen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/parkeren-en-verkeer/parkeren-voor-gehandicapten/gehandicaptenparkeerkaart/",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://begraafplaatsen.gooisemeren.nl/overzicht/algemene-begraafplaats-bussum/",
+    "title": "Algemene begraafplaats Bussum",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/subsidies/jaarlijkse-subsidie/",
+    "title": "Jaarlijkse subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/belastingen/automatische-incasso/",
+    "title": "Automatische incasso",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/zorg-en-ondersteuning/ondersteuning-aan-mantelzorgers/",
+    "title": "Ondersteuning aan mantelzorgers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/vergunningen/marktstandplaatsvergunning/",
+    "title": "Marktstandplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktstandplaatsvergunning"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/subsidies/subsidie-sportevenement/subsidie-sporten-voor-specifieke-doelgroep/",
+    "title": "Subsidie sporten voor specifieke doelgroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportactiviteitensubsidie"
+  },
+  {
+    "identifier": "https://gooisemeren.nl/onderhoud-buitenruimte/",
+    "title": "Onderhoud buitenruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gooise_Meren"
+  }
+]

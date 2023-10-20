@@ -1,0 +1,1108 @@
+[
+  {
+    "identifier": "https://vught.nl//taxatieverslag-woz",
+    "title": "Taxatieverslag WOZ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-taxatieverslag"
+  },
+  {
+    "identifier": "https://vught.nl//inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://vught.nl//omgevingswet",
+    "title": "Omgevingswet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//briefadres-wijzigen",
+    "title": "Briefadres wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://vught.nl//projectsubsidie",
+    "title": "Projectsubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//risicovolle-locaties",
+    "title": "Risicovolle locaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://vught.nl//ontheffing-sluitingstijden-horeca",
+    "title": "Ontheffing sluitingstijden horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://vught.nl//dodenherdenking-4-mei-2023",
+    "title": "Dodenherdenking 4 mei 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//niet-gesprongen-explosieven-nge",
+    "title": "Niet Gesprongen Explosieven (NGE)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/risicokaart"
+  },
+  {
+    "identifier": "https://vught.nl//nederlander-worden-door-optie-naturalisatie",
+    "title": "Nederlander worden door optie of naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://vught.nl//rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolbelasting"
+  },
+  {
+    "identifier": "https://vught.nl//milieustraat",
+    "title": "Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://vught.nl//emigreren-lang-het-buitenland-verblijven",
+    "title": "Emigreren of lang in het buitenland verblijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://vught.nl//visit-vught",
+    "title": "Visit Vught",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//informatie-voor-ondernemers",
+    "title": "Informatie voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//stempas-en-kiezerspas",
+    "title": "Stempas en kiezerspas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//automatische-incasso",
+    "title": "Automatische incasso",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://vught.nl//adviesgesprek-bouwplannen",
+    "title": "Adviesgesprek bouwplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_schadevergoeding"
+  },
+  {
+    "identifier": "https://vught.nl//kwijtschelding-belasting",
+    "title": "Kwijtschelding belasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://vught.nl//zakenpaspoort",
+    "title": "Zakenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "https://vught.nl//hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://vught.nl//bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://vught.nl//vlooienmarkt-rommelmarkt-snuffelmarkt",
+    "title": "Vlooienmarkt, rommelmarkt of snuffelmarkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/snuffelmarktvergunning"
+  },
+  {
+    "identifier": "https://vught.nl//collecteren",
+    "title": "Collecteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://vught.nl//in-of-uitrit-aanleggen",
+    "title": "In- of uitrit aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_inrit"
+  },
+  {
+    "identifier": "https://vught.nl//aangifte-geboorte",
+    "title": "Aangifte geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://vught.nl//stimuleringssubsidie",
+    "title": "Stimuleringssubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//wegwijs",
+    "title": "Wegwijs+",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://vught.nl//bewijs-van-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://vught.nl//zoeken-naar-bestuurlijke-informatie",
+    "title": "Zoeken naar bestuurlijke informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//veelgestelde-vragen",
+    "title": "Veelgestelde vragen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//alcoholvergunning",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://vught.nl//paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://vught.nl//grof-huisvuil",
+    "title": "Grof huisvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://vught.nl//exploitatievergunning",
+    "title": "Exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://vught.nl//uittreksel-basisregistratie-personen",
+    "title": "Uittreksel basisregistratie personen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-uittreksel"
+  },
+  {
+    "identifier": "https://vught.nl//omgevingsvergunning",
+    "title": "Omgevingsvergunning ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://vught.nl//kringloopwinkel",
+    "title": "Kringloopwinkel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//gemeentelijke-onderscheidingen",
+    "title": "Gemeentelijke onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentelijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://vught.nl//afvalkalender",
+    "title": "Afvalkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://vught.nl//bestemmingsplan-kom-helvoirt",
+    "title": "Bestemmingsplan 'Kom Helvoirt'",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//registratie-levenloos-geboren-kind",
+    "title": "Registratie levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://vught.nl//het-plaatsen-van-sandwichborden",
+    "title": "Het plaatsen van (sandwich)borden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//melden-van-een-voorgenomen-huwelijk",
+    "title": "Melden van een voorgenomen huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://vught.nl//ondermijning",
+    "title": "Ondermijning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//meer-vergunningen",
+    "title": "Meer vergunningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//huiselijk-geweld",
+    "title": "Huiselijk geweld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//commissie-ruimtelijke-kwaliteit-erfgoed",
+    "title": "Commissie Ruimtelijke Kwaliteit & Erfgoed",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://vught.nl//grond-pachten",
+    "title": "Grond Pachten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//bezwaar-en-beroep",
+    "title": "Bezwaar en beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://vught.nl//identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://vught.nl//verstopt-riool",
+    "title": "Verstopt riool",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://vught.nl//voorbeoordeling",
+    "title": "Voorbeoordeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voorovrlg"
+  },
+  {
+    "identifier": "https://vught.nl//bladkorven",
+    "title": "Bladkorven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//naamgebruik",
+    "title": "Naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://vught.nl//ongedierte",
+    "title": "Ongedierte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://vught.nl//geregistreerd-partnerschap-omzetten-in-huwelijk",
+    "title": "Geregistreerd partnerschap omzetten in huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_omzetting_in_huwelijk"
+  },
+  {
+    "identifier": "https://vught.nl//subsidie-voor-energiebesparende-maatregelen",
+    "title": "Subsidie voor energiebesparende maatregelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//zon-en-windenergie-hoe-gaan-we-verder",
+    "title": "Zon- en windenergie: hoe gaan we verder?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//wet-open-overheid-woo-verzoek",
+    "title": "Wet open overheid (Woo verzoek)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//opvang-oekrainers",
+    "title": "Opvang Oekraïners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//garantstelling-logiesverstrekking",
+    "title": "Garantstelling of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://vught.nl//advies-bij-geldzorgen",
+    "title": "Advies bij geldzorgen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//voor-en-vroegschoolse-educatie-vve",
+    "title": "Voor- en vroegschoolse educatie (VVE)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voorVrSchEducatie"
+  },
+  {
+    "identifier": "https://vught.nl//het-plaatsen-van-speelautomaten",
+    "title": "Het plaatsen van speelautomaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://vught.nl//echtscheiding-melden",
+    "title": "Echtscheiding melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://vught.nl//tegemoetkoming-energiekosten-energie-intensief-mkb-tek",
+    "title": "Tegemoetkoming Energiekosten energie-intensief mkb (TEK)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//legaliseren-handtekening",
+    "title": "Legaliseren handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://vught.nl//gemeentelijke-projecten",
+    "title": "Gemeentelijke projecten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//gezondheidsverklaring",
+    "title": "Gezondheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbGezVerkl"
+  },
+  {
+    "identifier": "https://vught.nl//precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://vught.nl//verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://vught.nl//stemmen",
+    "title": "Stemmen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//wegwerkzaamheden-en-stremmingen",
+    "title": "Wegwerkzaamheden en stremmingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//afschrift-burgerlijke-stand",
+    "title": "Afschrift burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-uittreksel"
+  },
+  {
+    "identifier": "https://vught.nl//koop-of-huur-reststrook",
+    "title": "Koop of huur reststrook",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://vught.nl//adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://vught.nl//afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalstoffenheffing"
+  },
+  {
+    "identifier": "https://vught.nl//melden-van-een-voornemen-tot-geregistreerd-partnerschap",
+    "title": "Melden van een voornemen tot geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschapaangifte"
+  },
+  {
+    "identifier": "https://vught.nl//natuurbranden",
+    "title": "Natuurbranden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//registreren-oekraiense-vluchtelingen",
+    "title": "Registreren Oekraïense vluchtelingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//medewerkers-met-afstand-tot-de-arbeidsmarkt",
+    "title": "Medewerkers met afstand tot de arbeidsmarkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//jeugdoverlast",
+    "title": "Jeugdoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//identiteitskaart-kwijt-gestolen",
+    "title": "Identiteitskaart kwijt of gestolen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://vught.nl//contact-en-vragen-over-duurzaamheid",
+    "title": "Contact en vragen over duurzaamheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//bouwtekening",
+    "title": "Bouwtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://vught.nl//ontheffing-geluidsvoorschriften-horeca",
+    "title": "Ontheffing geluidsvoorschriften horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://vught.nl//een-zaal-of-ruimte-huren",
+    "title": "Een zaal of ruimte huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://vught.nl//verhuur-van-te-koop-staande-leegstaande-woning",
+    "title": "Verhuur van te koop staande leegstaande woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leegstandvergunning"
+  },
+  {
+    "identifier": "https://vught.nl//melding-maken",
+    "title": "Melding maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://vught.nl//klacht-milieu-melden",
+    "title": "Klacht milieu melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//aanslag-inzien",
+    "title": "Aanslag inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//buitenlandse-documenten-overleggen",
+    "title": "Buitenlandse documenten overleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_van_buitenlandse_documenten"
+  },
+  {
+    "identifier": "https://vught.nl//voorwerp-plaatsen-op-of-aan-de-weg",
+    "title": "Voorwerp plaatsen op of aan de weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afsluiting_openbare_weg_vergunning"
+  },
+  {
+    "identifier": "https://vught.nl//vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://vught.nl//zwerfvuil",
+    "title": "Zwerfvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//verklaring-omtrent-gedrag",
+    "title": "Verklaring omtrent gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://vught.nl//koninklijke-onderscheidingen",
+    "title": "Koninklijke onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://vught.nl//bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://vught.nl//rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://vught.nl//eikenprocessierups",
+    "title": "Eikenprocessierups",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://vught.nl//vught-in-cijfers",
+    "title": "Vught in cijfers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//machtigen",
+    "title": "Machtigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//erkennen-van-het-vaderschap",
+    "title": "Erkennen van het vaderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_vaderschap"
+  },
+  {
+    "identifier": "https://vught.nl//afval-scheiden",
+    "title": "Afval scheiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzBlik"
+  },
+  {
+    "identifier": "https://vught.nl//koningsdag",
+    "title": "Koningsdag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//doneren-voor-oekraine",
+    "title": "Doneren voor Oekraïne",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//discriminatie",
+    "title": "Discriminatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//erkennen-kind-voor-de-geboorte",
+    "title": "Erkennen kind vóór de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://vught.nl//waarmerken-kopie",
+    "title": "Waarmerken kopie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/waarmerken_document"
+  },
+  {
+    "identifier": "https://vught.nl//trouwen-in-vught",
+    "title": "Trouwen in Vught",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//hervestigen-vanuit-het-buitenland",
+    "title": "Hervestigen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hervestiging_vanuit_het_buitenland"
+  },
+  {
+    "identifier": "https://vught.nl//bestemmingsplannen-ontwikkeling",
+    "title": "Bestemmingsplannen in ontwikkeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//kinderopvang-op-sociaal-medische-indicatie",
+    "title": "Kinderopvang op sociaal-medische-indicatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://vught.nl//verblijfsvergunning",
+    "title": "Verblijfsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verblijfsvergunning"
+  },
+  {
+    "identifier": "https://vught.nl//ontheffing-alcoholwet",
+    "title": "Ontheffing Alcoholwet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://vught.nl//budget-basis-subsidie",
+    "title": "Budget-basis subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://vught.nl//duurzaam-verbouwen",
+    "title": "Duurzaam (ver)bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//leerplicht",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://vught.nl//parkeren",
+    "title": "Parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_blauwe_zone"
+  },
+  {
+    "identifier": "https://vught.nl//onroerende-zaakbelasting",
+    "title": "Onroerende-zaakbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://vught.nl//politieke-partijen",
+    "title": "Politieke partijen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//aardgasvrij-vught",
+    "title": "Aardgasvrij Vught",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//strooiroutes",
+    "title": "Strooiroutes",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://vught.nl//evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://vught.nl//klachten",
+    "title": "Klachten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://vught.nl//aansprakelijkheid-bij-schade",
+    "title": "Aansprakelijkheid bij schade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://vught.nl//tweede-paspoort",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "https://vught.nl//antireclamesticker",
+    "title": "Antireclamesticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://vught.nl//tegemoetkoming-peuteropvang",
+    "title": "Tegemoetkoming peuteropvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//eerste-inschrijving-in-nederland",
+    "title": "Eerste inschrijving in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://vught.nl//monument",
+    "title": "Monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://vught.nl//gegevens-basisregistratie-personen",
+    "title": "Gegevens basisregistratie personen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-correctieverzoek"
+  },
+  {
+    "identifier": "https://vught.nl//reizen-met-kinderen",
+    "title": "Reizen met kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reizMJToest"
+  },
+  {
+    "identifier": "https://vught.nl//vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://vught.nl//paspoort-kwijt-of-gestolen",
+    "title": "Paspoort kwijt of gestolen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://vught.nl//verloren-en-gevonden-voorwerpen",
+    "title": "Verloren en gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://vught.nl//terrasvergunning",
+    "title": "Terrasvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://vught.nl//aangifte-overlijden",
+    "title": "Aangifte overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://vught.nl//openbare-laadpaal-aanvragen",
+    "title": "Openbare laadpaal aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/laadpaalverzoek"
+  },
+  {
+    "identifier": "https://vught.nl//toegekende-subsidies",
+    "title": "Toegekende subsidies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//reclamebelasting",
+    "title": "Reclamebelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamebelasting"
+  },
+  {
+    "identifier": "https://vught.nl//klein-evenement",
+    "title": "Klein evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://vught.nl//stemmal",
+    "title": "Stemmal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//melden-beeindiging-geregistreerd-partnerschap",
+    "title": "Melden beëindiging geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_ontbinding"
+  },
+  {
+    "identifier": "https://vught.nl//rijbewijs-aanvragen",
+    "title": "Rijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://vught.nl//veelgestelde-vragen-wozozb",
+    "title": "Veelgestelde vragen WOZ/OZB",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://vught.nl//subsidie-afkoppelen-regenwaterriolering-en-groene-daken",
+    "title": "Subsidie afkoppelen regenwaterriolering en groene daken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://vught.nl//naamskeuze-kind",
+    "title": "Naamskeuze kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://vught.nl//rijksinfrastructuur",
+    "title": "Rijksinfrastructuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//incident-ramp",
+    "title": "Incident of ramp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://vught.nl//slopen",
+    "title": "Slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://vught.nl//betalingsregeling",
+    "title": "Betalingsregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://vught.nl//huis-aan-huis-inzameling",
+    "title": "Huis aan huis inzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Vught_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  }
+]

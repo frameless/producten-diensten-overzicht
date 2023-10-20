@@ -1,0 +1,643 @@
+[
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Wonen-en-verhuizen/Volkstuinen.html",
+    "title": "Volkstuinen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/volkstuinverhuur"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/bedrijven/Ondernemen-in-Moerdijk/Bedrijventerreinen/Industriebedrijfsterrein,-huren-of-kopen.html",
+    "title": "Industrie/bedrijfsterrein, huren of kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/bedrijven/Regelgeving-en-vergunningen/Vrachtwagenparkeerplaats.html",
+    "title": "Vrachtwagenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Bouwen-en-verbouwen/Slopen-van-pand-of-woning.html",
+    "title": "Slopen van pand of woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/bezwaar-en-beroep",
+    "title": "Bezwaar en beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Geboorte-trouwen-en-overlijden/Naamgebruik-verzoek-aanduiding.html",
+    "title": "Naamgebruik veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Geboorte-trouwen-en-overlijden/Naamskeuze-verklaring.html",
+    "title": "Naamskeuze, verklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/trouwen-in-moerdijk/Huwelijk-in-het-buitenland.html",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Wonen-en-verhuizen/Verhuizen/Briefadres.html",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Evenement-organiseren/Promotie/Digitaal-evenementenbord.html",
+    "title": "Digitaal evenementenbord",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Nieuwkomers/Inburgering-en-Nederlander-worden/Nederlander-worden-door-naturalisatie.html",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/milieu-omgevingsvergunning.html",
+    "title": "Milieu, omgevingsvergunning of -melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/afschrift-burgerlijke-stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Melding-woonomgeving",
+    "title": "Melding over uw woonomgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/leerlingenvervoer-wijziging",
+    "title": "Aanvraag wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Stimuleringslening",
+    "title": "Stimuleringsregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Wonen-en-verhuizen/Woning-tijdelijk-verhuren-vergunning.html",
+    "title": "Woning tijdelijk verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/bedrijven/Regelgeving-en-vergunningen/Evenementen/Reclame-uitingen-plaatsen.html",
+    "title": "Reclame plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Bestemmingsplan-inzage",
+    "title": "Bestemmingsplan opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/150793-Leerlingenvervoer",
+    "title": "Leerlingenvervoer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Paspoort-IDkaart-rijbewijs/Vluchtelingenpaspoort.html",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/bedrijven/Regelgeving-en-vergunningen/Horeca,-winkels-en-plaatselijke-markten/Terras-of-uitstalling-exploiteren.html",
+    "title": "Terras of uitstalling exploiteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/subsidie-aanvragen",
+    "title": "Basissubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Evenement-melden",
+    "title": "Evenement melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Geboorte-trouwen-en-overlijden/Overlijden/Gedenktekens-plaatsen.html",
+    "title": "Gedenkteken plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Wonen-en-verhuizen/Openbaar-groen,-geveltuinen-en-boomspiegels/Groenstroken-en-restgronden-kopen-of-huren.html",
+    "title": "Openbare grond: kopen of huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/monument-omgevingsvergunning",
+    "title": "Omgevingsvergunning voor monument of beschermd stadsgezicht Willemstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/bedrijven/Regelgeving-en-vergunningen/Horeca,-winkels-en-plaatselijke-markten/Standplaats-aanvragen.html",
+    "title": "Standplaats, aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/88899-Evenementenvergunning",
+    "title": "Evenementenvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Ruimtelijkeplannen/Bestemmingsplan-toestemming.html",
+    "title": "Afwijken van bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/melding-begrafenis",
+    "title": "Melding begrafenis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/verklaring-omtrent-gedrag",
+    "title": "Verklaring omtrent het gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/leerlingenvervoer-klacht",
+    "title": "Klacht indienen over leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/bedrijven/Regelgeving-en-vergunningen/Horeca,-winkels-en-plaatselijke-markten/Sluitingsuren-van-horeca-ontheffing.html",
+    "title": "Sluitingsuren van horeca, ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/trouwen-in-moerdijk/Eigen-trouwambtenaar-aandragen.html",
+    "title": "Eigen trouwambtenaar aandragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Erkenning-van-kind",
+    "title": "Erkenning van kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/bedrijven/Regelgeving-en-vergunningen/Horeca,-winkels-en-plaatselijke-markten/Gok-en-speelautomaten-exploiteren.html",
+    "title": "Gok- en speelautomaten exploiteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/speelautomaat_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/klacht/Aansprakelijk-stellen-van-de-gemeente.html",
+    "title": "Aansprakelijk stellen van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Adresonderzoek-aanvragen",
+    "title": "Adresonderzoek aanvragen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/151386-grafuitgifte",
+    "title": "Grafuitgifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/alcoholwetvergunning",
+    "title": "Alcoholwet- en exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/bedrijven/Regelgeving-en-vergunningen/Horeca,-winkels-en-plaatselijke-markten/Winkeltijden-ontheffing.html",
+    "title": "Winkeltijden, ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Oplaadpunt-voor-elektrisch-voertuig-aanvragen",
+    "title": "Laadpalen voor elektrisch voertuig",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Uittreksel-en-verklaring/Handtekening-legalisatie.html",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/trouwen-in-moerdijk/Melden-huwelijk-of-geregistreerd-partnerschap.html",
+    "title": "Melden huwelijk of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Bouwen-en-verbouwen/Toezicht-en-controle-door-gemeente.html",
+    "title": "Toezicht en controle door gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Uittreksel-en-verklaring/Basisregistratie-personen-BRP/Bevolkingsadministratie-BRP-verzoek-geheimhouding-registratie.html",
+    "title": "Verzoek geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Bouwen-en-verbouwen/Bomen-kappen.html",
+    "title": "Bomen kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Sticker-tegen-huis-aan-huis-verkoop",
+    "title": "Sticker tegen huis-aan-huis verkoop",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Paspoort-IDkaart-rijbewijs/Vreemdelingenpaspoort.html",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/trouwen-in-moerdijk/Alternatieve-trouwlocatie-aanvragen.html",
+    "title": "Alternatieve trouwlocatie aanvragen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Melding-doorgeven/Voorwerpen-gevonden.html",
+    "title": "Gevonden of verloren voorwerp ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Klacht-tegen-ambtelijk-optreden",
+    "title": "Klacht over behandeling gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Digitale-Balie/Digitale-Balie-Producten-en-diensten/Documenten,-legalisatie-en-verificatie.html",
+    "title": "Buitenlandse documenten, legalisatie en verificatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Digitale-Balie/Digitale-Balie-Producten-en-diensten/Ondersteuning-zorg-Wmo.html",
+    "title": "Ondersteuning/zorg (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Nieuwkomers/Inburgering-en-Nederlander-worden/Nederlander-worden-door-optie.html",
+    "title": "Nederlander worden door optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Verhuizing",
+    "title": "Verhuizen binnen of naar Moerdijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/aangifte-overlijden",
+    "title": "Overlijden aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Kabels-en-leidingen-leggen-in-openbare-gemeentegrond",
+    "title": "Kabels en leidingen leggen in openbare gemeentegrond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/gpk",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Uittreksel-en-verklaring/Waarmerken-kopie-of-afschrift.html",
+    "title": "Waarmerken kopie of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/bedrijven/Regelgeving-en-vergunningen/Horeca,-winkels-en-plaatselijke-markten/Marktstandplaatsvergunning.html",
+    "title": "Marktstandplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktstandplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Uittreksel-en-verklaring/Basisregistratie-personen-BRP/Bevolkingsadministratie-(BRP),-foutmelding.html",
+    "title": "Foutmelding basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/bedrijven/Regelgeving-en-vergunningen/Brandveiligheid/Brandveiligheid-tijdelijke-bouwwerken-toestemming.html",
+    "title": "Brandveiligheid tijdelijke bouwwerken, toestemming",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Wonen-en-verhuizen/Verhuizen/Verhuizing-naar-Nederland.html",
+    "title": "Vestigen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Naamswijziging",
+    "title": "Naam wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Uittreksel-bevolkingsadministratie",
+    "title": "Uittreksel basisregistratie personen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Rioolaansluiting",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Toegangspas-vesting-Willemstad",
+    "title": "Toegangspas vesting Willemstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Subsidie/Overzicht-subsidies/136607-Jubileumsubsidie.html",
+    "title": "Jubileumsubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Ontheffing-geslotenverklaring-Noordlangeweg",
+    "title": "Ontheffing geslotenverklaring Noordlangeweg ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/collectieve-zorgverzekering",
+    "title": "Collectieve zorgverzekering met hoge korting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Bouwen-en-verbouwen/Asbestverwijdering.html",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Geboorte-trouwen-en-overlijden/Echtscheiding-melden.html",
+    "title": "Scheiden of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Uittreksel-en-verklaring/Nederlanderschap-bewijs.html",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Collectevergunning",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/bedrijven/Regelgeving-en-vergunningen/Brandveiligheid/Brandveiligheid-omgevingsvergunning-of-gebruiksmelding.html",
+    "title": "Brandveiligheid, omgevingsvergunning of gebruiksmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Maatschappelijke-ondersteuning/Ik-heb-ondersteuning-zorg-nodig/Persoonsgebonden-budget-en-zorg-in-natura.html",
+    "title": "Persoonsgebonden budget en zorg in natura",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/Jeugdhulp",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Evenement-organiseren/Promotie/Evenementenpanelen.html",
+    "title": "Evenementenpanelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Ruimtelijkeplannen/Bestemmingsplan-tegemoetkoming-planschade.html",
+    "title": "Tegemoetkoming planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Uittreksel-en-verklaring/Basisregistratie-personen-BRP/Bevolkingsadministratie-(BRP),-verzoek-informatie.html",
+    "title": "Verzoek informatie basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/bedrijven/Regelgeving-en-vergunningen/Horeca,-winkels-en-plaatselijke-markten/Alcohol-schenken-ontheffing.html",
+    "title": "Alcohol schenken, ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/trouwen-in-moerdijk/Geregistreerd-partnerschap-omzetten-in-een-huwelijk.html",
+    "title": "Geregistreerd partnerschap omzetten in een huwelijk ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Uittreksel-en-verklaring/Basisregistratie-personen-BRP/Wijziging-basisregistratie-personen-(BRP).html",
+    "title": "Wijziging basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/brievenbussticker",
+    "title": "Ja/nee-sticker of nee/nee-sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/klein-kansspel-aanmelden",
+    "title": "Loterij, prijsvraag of bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Wonen-en-verhuizen/Dieren/Ongediertebestrijding.html",
+    "title": "Bestrijding ongedierte en dierplagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Wonen-en-verhuizen/Verhuizen/Emigratie.html",
+    "title": "Vertrekken naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/bedrijven/Regelgeving-en-vergunningen/Evenementen/Festiviteiten-van-horeca-of-verenigingen-melding.html",
+    "title": "Festiviteiten van horeca of verenigingen, melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Bouwen-en-verbouwen/Uitrit-of-inrit.html",
+    "title": "Uitrit of inrit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Moerdijksite/Inwoners/Wonen-en-verhuizen/Verhuizen/Verblijf-in-Nederland-tijdelijk.html",
+    "title": "Bewijs van garantstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  },
+  {
+    "identifier": "https://www.moerdijk.nl/web/Evenement-organiseren/Promotie/Vrije-plakplaatsen-affiches.html",
+    "title": "Vrije plakplaatsen affiches",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Moerdijk"
+  }
+]

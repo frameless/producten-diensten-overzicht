@@ -1,0 +1,450 @@
+[
+  {
+    "prefLabel": "Afval",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Afval_(thema)"
+  },
+  {
+    "prefLabel": "Arbeidsomstandigheden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Arbeidsomstandigheden_(thema)"
+  },
+  {
+    "prefLabel": "Arbeidsvoorwaarden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Arbeidsvoorwaarden"
+  },
+  {
+    "prefLabel": "Basisonderwijs",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Basisonderwijs_(thema)"
+  },
+  {
+    "prefLabel": "Begroting",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Begroting"
+  },
+  {
+    "prefLabel": "Belasting",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Belasting"
+  },
+  {
+    "prefLabel": "Beroepsonderwijs",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Beroepsonderwijs_(thema)"
+  },
+  {
+    "prefLabel": "Bestuur",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Bestuur"
+  },
+  {
+    "prefLabel": "Bestuursrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Bestuursrecht"
+  },
+  {
+    "prefLabel": "Bezwaar en klachten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Bezwaar_en_klachten"
+  },
+  {
+    "prefLabel": "Bodem",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Bodem"
+  },
+  {
+    "prefLabel": "Bouwen en verbouwen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Bouwen_en_verbouwen"
+  },
+  {
+    "prefLabel": "Bouwnijverheid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Bouwnijverheid"
+  },
+  {
+    "prefLabel": "Burgerlijk recht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Burgerlijk_recht"
+  },
+  {
+    "prefLabel": "Criminaliteit",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Criminaliteit"
+  },
+  {
+    "prefLabel": "Cultuur",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Cultuur_(thema)"
+  },
+  {
+    "prefLabel": "Cultuur en recreatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Cultuur_en_recreatie"
+  },
+  {
+    "prefLabel": "De Nederlandse Antillen en Aruba",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/De_Nederlandse_Antillen_en_Aruba"
+  },
+  {
+    "prefLabel": "Defensie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Defensie_(thema)"
+  },
+  {
+    "prefLabel": "Dieren",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Dieren_(thema)"
+  },
+  {
+    "prefLabel": "Economie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Economie"
+  },
+  {
+    "prefLabel": "Emigratie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Emigratie_(thema)"
+  },
+  {
+    "prefLabel": "Energie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Energie"
+  },
+  {
+    "prefLabel": "Ethiek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Ethiek"
+  },
+  {
+    "prefLabel": "Europese zaken",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Europese_zaken"
+  },
+  {
+    "prefLabel": "Financieel toezicht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Financieel_toezicht"
+  },
+  {
+    "prefLabel": "Financiën",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Financien"
+  },
+  {
+    "prefLabel": "Geluid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Geluid_(thema)"
+  },
+  {
+    "prefLabel": "Gemeenten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Gemeenten"
+  },
+  {
+    "prefLabel": "Geneesmiddelen en medische hulpmiddelen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Geneesmiddelen_en_medische_hulpmiddelen"
+  },
+  {
+    "prefLabel": "Gezin en kinderen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Gezin_en_kinderen"
+  },
+  {
+    "prefLabel": "Gezondheidsrisico's",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Gezondheidsrisico's"
+  },
+  {
+    "prefLabel": "Handel",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Handel"
+  },
+  {
+    "prefLabel": "Hoger onderwijs",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Hoger_onderwijs_(thema)"
+  },
+  {
+    "prefLabel": "Huisvesting",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Huisvesting_(thema)"
+  },
+  {
+    "prefLabel": "Huren en verhuren",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Huren_en_verhuren"
+  },
+  {
+    "prefLabel": "ICT",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ICT"
+  },
+  {
+    "prefLabel": "Immigratie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Immigratie_(thema)"
+  },
+  {
+    "prefLabel": "Industrie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Industrie_(thema)"
+  },
+  {
+    "prefLabel": "Inkomensbeleid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Inkomensbeleid"
+  },
+  {
+    "prefLabel": "Integratie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Integratie_(thema)"
+  },
+  {
+    "prefLabel": "Internationaal",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Internationaal"
+  },
+  {
+    "prefLabel": "Internationale samenwerking",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Internationale_samenwerking_(thema)"
+  },
+  {
+    "prefLabel": "Jongeren",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Jongeren_(gezondheid-thema)"
+  },
+  {
+    "prefLabel": "Jongeren",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Jongeren_(thema)"
+  },
+  {
+    "prefLabel": "Koninklijk Huis",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Koninklijk_Huis_(thema)"
+  },
+  {
+    "prefLabel": "Kopen en verkopen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Kopen_en_verkopen"
+  },
+  {
+    "prefLabel": "Kunst",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Kunst_(thema)"
+  },
+  {
+    "prefLabel": "Landbouw",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Landbouw_(thema)"
+  },
+  {
+    "prefLabel": "Levensloop",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Levensloop"
+  },
+  {
+    "prefLabel": "Lucht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Lucht"
+  },
+  {
+    "prefLabel": "Luchtvaart",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Luchtvaart"
+  },
+  {
+    "prefLabel": "Markttoezicht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Markttoezicht"
+  },
+  {
+    "prefLabel": "Media",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Media"
+  },
+  {
+    "prefLabel": "Migratie en integratie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Migratie_en_integratie"
+  },
+  {
+    "prefLabel": "Militaire missies",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Militaire_missies"
+  },
+  {
+    "prefLabel": "Nabestaanden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nabestaanden"
+  },
+  {
+    "prefLabel": "Natuur en milieu",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu"
+  },
+  {
+    "prefLabel": "Natuur- en landschapsbeheer",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Natuur-_en_landschapsbeheer"
+  },
+  {
+    "prefLabel": "Nederlanderschap",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlanderschap_(thema)"
+  },
+  {
+    "prefLabel": "Netwerken",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Netwerken"
+  },
+  {
+    "prefLabel": "Ondernemen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Ondernemen"
+  },
+  {
+    "prefLabel": "Onderwijs en wetenschap",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Onderwijs_en_wetenschap"
+  },
+  {
+    "prefLabel": "Onderzoek en wetenschap",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Onderzoek_en_wetenschap"
+  },
+  {
+    "prefLabel": "Ontslag",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Ontslag_(thema)"
+  },
+  {
+    "prefLabel": "Ontwikkelingssamenwerking",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Ontwikkelingssamenwerking"
+  },
+  {
+    "prefLabel": "Openbare orde en veiligheid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Openbare_orde_en_veiligheid"
+  },
+  {
+    "prefLabel": "Organisatie en beleid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid"
+  },
+  {
+    "prefLabel": "Ouderen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Ouderen"
+  },
+  {
+    "prefLabel": "Ouderen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Ouderen_(gezondheid-thema)"
+  },
+  {
+    "prefLabel": "Overige economische sectoren",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Overige_economische_sectoren"
+  },
+  {
+    "prefLabel": "Overige vormen van onderwijs",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Overige_vormen_van_onderwijs"
+  },
+  {
+    "prefLabel": "Parlement",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Parlement"
+  },
+  {
+    "prefLabel": "Planten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Planten"
+  },
+  {
+    "prefLabel": "Politie, brandweer en hulpdiensten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Politie_brandweer_en_hulpdiensten"
+  },
+  {
+    "prefLabel": "Provincies",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Provincies"
+  },
+  {
+    "prefLabel": "Rampen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rampen"
+  },
+  {
+    "prefLabel": "Recht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Recht_(thema)"
+  },
+  {
+    "prefLabel": "Rechtspraak",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtspraak"
+  },
+  {
+    "prefLabel": "Recreatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Recreatie_(thema)"
+  },
+  {
+    "prefLabel": "Reizen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Reizen"
+  },
+  {
+    "prefLabel": "Religie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Religie"
+  },
+  {
+    "prefLabel": "Rijksoverheid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rijksoverheid"
+  },
+  {
+    "prefLabel": "Ruimte en infrastructuur",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Ruimte_en_infrastructuur"
+  },
+  {
+    "prefLabel": "Ruimtelijke ordening",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Ruimtelijke_ordening"
+  },
+  {
+    "prefLabel": "Sociale zekerheid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Sociale_zekerheid"
+  },
+  {
+    "prefLabel": "Spoor",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Spoor"
+  },
+  {
+    "prefLabel": "Sport",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Sport_(thema)"
+  },
+  {
+    "prefLabel": "Staatsrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Staatsrecht"
+  },
+  {
+    "prefLabel": "Staatsveiligheid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Staatsveiligheid"
+  },
+  {
+    "prefLabel": "Stoffen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stoffen"
+  },
+  {
+    "prefLabel": "Strafrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Strafrecht"
+  },
+  {
+    "prefLabel": "Terrorisme",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Terrorisme_(thema)"
+  },
+  {
+    "prefLabel": "Tijdelijk verblijf",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Tijdelijk_verblijf"
+  },
+  {
+    "prefLabel": "Toerisme",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Toerisme"
+  },
+  {
+    "prefLabel": "Transport",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)"
+  },
+  {
+    "prefLabel": "Verkeer",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)"
+  },
+  {
+    "prefLabel": "Verzekeringen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Verzekeringen"
+  },
+  {
+    "prefLabel": "Voeding",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Voeding"
+  },
+  {
+    "prefLabel": "Voedselkwaliteit",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Voedselkwaliteit"
+  },
+  {
+    "prefLabel": "Voortgezet onderwijs",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Voortgezet_onderwijs_(thema)"
+  },
+  {
+    "prefLabel": "Water",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Water_(thema)"
+  },
+  {
+    "prefLabel": "Water",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)"
+  },
+  {
+    "prefLabel": "Waterkeringen en waterbeheer",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Waterkeringen_en_waterbeheer"
+  },
+  {
+    "prefLabel": "Waterschappen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Waterschappen"
+  },
+  {
+    "prefLabel": "Weg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Weg_(thema)"
+  },
+  {
+    "prefLabel": "Werk",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Werk_(thema)"
+  },
+  {
+    "prefLabel": "Werkgelegenheid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Werkgelegenheid"
+  },
+  {
+    "prefLabel": "Werkloosheid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Werkloosheid"
+  },
+  {
+    "prefLabel": "Ziekte en arbeidsongeschiktheid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Ziekte_en_arbeidsongeschiktheid"
+  },
+  {
+    "prefLabel": "Ziekten en behandelingen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Ziekten_en_behandelingen"
+  },
+  {
+    "prefLabel": "Zorg en gezondheid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid"
+  }
+]

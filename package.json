@@ -1,0 +1,39 @@
+{
+  "name": "producten-diensten-overzicht",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rimraf dist/ src/generated/",
+    "build": "npm-run-all --sequential build:dirs build:openapi build:upl build:owms build:database build:www",
+    "build:openapi": "openapi --client axios --exportCore true --useOptions --input lib/openapi.yaml --output ./src/generated/pdc-search/",
+    "build:database": "ts-node src/index.ts",
+    "build:dirs": "mkdir -p dist/www/ src/generated/owms/ src/generated/per-gemeente/ src/generated/per-product/",
+    "build:owms": "mkdir -p src/generated/owms && ts-node src/download-owms.ts",
+    "build:upl": "ts-node src/download-upl.ts",
+    "build:www": "mkdir -p dist/www/ && ts-node src/frontend.tsx",
+    "lint": "prettier --check .",
+    "prettier": "prettier --write .",
+    "start": "http-server dist/www/",
+    "vng-check": "ts-node src/vng.ts",
+    "watch": "chokidar --follow-symlinks --initial --command 'npm run build:www' 'src/**/*'"
+  },
+  "author": "Frameless B.V.",
+  "license": "EUPL-1.2",
+  "devDependencies": {
+    "@utrecht/component-library-react": "1.0.0-alpha.316",
+    "axios": "1.4.0",
+    "axios-retry": "3.5.0",
+    "chokidar": "^3.5.3",
+    "chokidar-cli": "^3.0.0",
+    "http-server": "14.1.1",
+    "npm-run-all": "4.1.5",
+    "openapi-typescript-codegen": "0.24.0",
+    "prettier": "2.8.8",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "rimraf": "5.0.1",
+    "ts-node": "10.9.1",
+    "xmlbuilder2": "3.1.1"
+  }
+}

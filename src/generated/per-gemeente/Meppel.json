@@ -1,0 +1,1052 @@
+[
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Wonen_ver_bouwen/Ver_bouwen_slopen/slopen_van_pand_of_woning_vergunning",
+    "title": "Slopen van pand of woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Sport_Vrije_tijd/Evenementen/uitleen_verhuur",
+    "title": "Uitleen en verhuur faciliteiten en materialen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Reclame_aankondigingen/verwijzingsborden_ontheffing",
+    "title": "Driehoeksborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Identiteitspapieren_reisdocumenten/medische_keuring_rijbewijs",
+    "title": "Medische keuring en gezondheidsverklaring rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Bouw_verbouw/brandpreventie_gebruiksvergunning_voor_gebouwen_en_inrichtingen",
+    "title": "Brandveiligheid, gebruiksvergunning voor gebouwen en inrichtingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Wonen_ver_bouwen/Ver_bouwen_slopen/landmeetkundige_digitale_gegevens",
+    "title": "Landmeetkundige gegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Parkeren_verkeer/Parkeren/Bewoners/Parkeerontheffing_voor_bewoners",
+    "title": "Parkeerontheffing voor bewoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Wonen_ver_bouwen/Flexibele_stimuleringslening_wonen/Starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Geboorte_overlijden/grafuitgifte",
+    "title": "Grafuitgifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Werk_inkomen/Inkomen/Extra_inkomen/Collectieve_zorgverzekering_gemeente_Meppel_gemeentepolis",
+    "title": "Collectieve zorgverzekering gemeente Meppel (gemeentepolis)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectieve_ziektekostenverzekering"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Parkeren_verkeer/Verkeer_en_vervoer/Verloren_en_gestolen_fietsen",
+    "title": "Verloren en gestolen fietsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Wonen_ver_bouwen/Ver_bouwen_slopen/kadastrale_informatie_kopie",
+    "title": "Uittreksel kadaster",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Evenementen/evenement_organiseren_vergunning",
+    "title": "Evenement organiseren, vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Werk_inkomen/Uitkering/Jongeren_en_een_uitkering",
+    "title": "Jongeren t/m 26 jaar en een uitkering Participatiewet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Huwelijk_partnerschap/Trouwlocaties",
+    "title": "Trouwlocaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Uittreksels_verklaringen/bewijs_van_in_leven_zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Afval_groen/Bestrijding_ongedierte_onkruid/Overlast_door_steenmarters",
+    "title": "Steenmarters",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Identiteitspapieren_reisdocumenten/Vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Parkeren_verkeer/Parkeren/Bewoners/Ontheffing_voetgangersgebied",
+    "title": "Ontheffing voetgangersgebied inwoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Reclame_aankondigingen/reclame_plaatsen",
+    "title": "Reclame en uitstallingen plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Evenementen/collecteren",
+    "title": "Collecteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Horeca/alcohol_schenken_in_horecabedrijven",
+    "title": "Alcohol schenken in horecabedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Verhuizing_emigratie/inburgering",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Reclame_aankondigingen/precariobelasting",
+    "title": "Ingebruikname gemeentegrond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Werk_inkomen/Uitkering/Bijstandsuitkering_nodig",
+    "title": "Bijstandsuitkering nodig",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Afval_groen/Afval_is_grondstof/afval_van_huishoudens_inzameling",
+    "title": "Afval is geen troep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Afval_milieu/industrieel_afvalwater_lozen",
+    "title": "Afvalwater (industrieel) lozen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Belastingen_heffingen/WOZ_OZB/bezwaar_maken_tegen_de_woz_waarde",
+    "title": "Bezwaar maken tegen de WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Evenementen/loterij_organiseren",
+    "title": "Loterij organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Wonen_ver_bouwen/Ver_bouwen_slopen/woning_splitsen_in_aparte_zelfstandige_woningen",
+    "title": "Woning splitsen in aparte zelfstandige woningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonruimte_splitsingsvergunning"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Horeca_detailhandel/avondwinkelopenstelling",
+    "title": "Afwijkende winkelopenstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Wonen_ver_bouwen/Ver_bouwen_slopen/rioolaansluiting",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Werk_inkomen/Inkomen/Extra_inkomen/bijzondere_bijstand_minima_bijdrage",
+    "title": "Bijzondere bijstand, individueel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Onderwijs_jeugd/Onderwijs/Doorstroompunt_RMC_Regionaal_Meld_en_Coordinatiepunt_Voortijdig_Schoolverlaten",
+    "title": "Doorstroompunt (RMC)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtverzuimmelding"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Evenementen/kienactiviteit_organiseren",
+    "title": "Kien/bingoactiviteit organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Parkeren_verkeer/Verkeer_en_vervoer/straatverlichting_melding_van_storing",
+    "title": "Straatverlichting melden storing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Bestuurenorganisatie/Contact_reacties/Meldingen_en_klachten/aansprakelijkheidsstelling_gemeente",
+    "title": "Aansprakelijkheid gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Kinderopvang_starten",
+    "title": "Kinderopvang starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Horeca/leidinggevenden_drank_horeca_vergunning",
+    "title": "Wijziging leidinggevenden drank- en horecavergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Wonen_ver_bouwen/Ver_bouwen_slopen/monument_vergunning",
+    "title": "Monument, vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Horeca/Gok_en_kansspelautomaten_vergunning",
+    "title": "Speelautomaten, vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Parkeren_verkeer/Parkeren/Bewoners/Parkeerontheffing_parkeergarages",
+    "title": "Parkeerontheffing bewoners parkeergarages",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Identiteitspapieren_reisdocumenten/rijbewijs_afgifte",
+    "title": "Rijbewijs, aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Wonen_ver_bouwen/Ver_bouwen_slopen/bouwplannen_ingediend_bij_de_gemeente_inzage",
+    "title": "Bouwplannen ingediend bij de gemeente, inzage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Energie_duurzaamheid/Wat_kunt_u_zelf_doen/Duurzaamheidslening",
+    "title": "Duurzaamheidslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/duurzhLening"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Wonen_ver_bouwen/Ver_bouwen_slopen/inrit_aanleggen",
+    "title": "Uitweg aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Parkeren_vervoer/bedieningstijden_bruggen",
+    "title": "Bedieningstijden sluis en bruggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Onderwijs_jeugd/Onderwijs/leerplicht_bijzonder_verlof_of_vrijstelling",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Bestuurenorganisatie/Contact_reacties/Meldingen_en_klachten/Meldingen_klachten_en_bezwaren/bezwaarschrift_indienen",
+    "title": "Bezwaarschrift indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Belastingen_heffingen/Afvalstoffenheffing/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Wonen_ver_bouwen/Ver_bouwen_slopen/Leegstandswet_Vergunning",
+    "title": "Leegstandswet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Subsidies_financi_n/Hulp_bij_laag_inkomen/Bijstand_voor_zelfstandigen_startpagina/BBZ_startende_ondernemers",
+    "title": "Bijstandsuitkering zelfstandigen aanvragen - voor startende ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Parkeren_verkeer/Parkeren/Bewoners/caravan_parkeren_op_openbare_weg",
+    "title": "Caravan parkeren op openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/caravParkOnth"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Afval_groen/Soorten_afval/grof_vuil",
+    "title": "Grof vuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Afval_groen/Soorten_afval/groente_fruit_en_tuinafval_GFT",
+    "title": "GFT (groente-, fruit- en tuinafval)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Identiteitspapieren_reisdocumenten/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Geboorte_overlijden/ongeboren_kind_erkenning",
+    "title": "Ongeboren kind, erkenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Evenementen/dranghekken_verhuur_uitleen",
+    "title": "Faciliteiten en materialen, uitleen en verhuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Identiteitspapieren_reisdocumenten/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Belastingen_heffingen/Afvalstoffenheffing/Rioolheffing_gebruikers",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Zorg_welzijn/Wmo_2015/Woningaanassing/woonvoorziening",
+    "title": "Woningaanpassing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woningaanpassing"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Belastingen_heffingen/Onroerende_zaakbelasting",
+    "title": "Belastingbalie, informatie en inloggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Afval_milieu/milieuvergunningen_en_meldingen_vergunningen",
+    "title": "Milieu: Activiteitenbesluit of Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Huwelijk_partnerschap/Huwelijk",
+    "title": "Huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Afval_groen/Soorten_afval/oud_papier_inzameling",
+    "title": "Oud papier inzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_oud_papier"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Uittreksels_verklaringen/handtekening_legalisatie",
+    "title": "Handtekening, legalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Belastingen_heffingen/Betalen_van_de_aanslag/belasting_betalingsregeling",
+    "title": "Betalingsregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Uittreksels_verklaringen/verklaring_van_goed_gedrag",
+    "title": "Verklaring omtrent gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Uittreksels_verklaringen/verwijderen_of_overschrijven_van_gegevens_in_GBA",
+    "title": "Verwijderen of overschrijven van gegevens in Basisregistratie Personen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Sport_Vrije_tijd/Sport/Reservering_sportaccommodaties",
+    "title": "Reservering sportaccommodaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Werk_inkomen/Uitkering/rechtmatigheidsformulier_RMF_indienen",
+    "title": "Rechtmatigheidsformulier (RMF) indienen, data uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Parkeren_verkeer/Parkeren/Gehandicapten/Gehandicaptenparkeerkaart_2023",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Evenementen/Verkeersregelaars_evenementen",
+    "title": "Verkeersregelaars evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Subsidies_financi_n/Hulp_bij_laag_inkomen/Bijstand_voor_zelfstandigen_startpagina/BBZ_gevestigde_ondernemers",
+    "title": "Bijstandsuitkering zelfstandigen aanvragen - voor gevestigde ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Bestuurenorganisatie/Contact_reacties/Meldingen_en_klachten/Koninklijke_Onderscheiding",
+    "title": "Koninklijke Onderscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Sport_Vrije_tijd/Evenementen/optocht_organiseren",
+    "title": "Optocht organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Zorg_welzijn/Wmo_2015/Woningaanassing/Beschermd_wonen",
+    "title": "Beschermd wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Zorg_welzijn/Wmo_2015/Vervoer/Rolstoel",
+    "title": "Rolstoel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rolstoel"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Belastingen_heffingen/Betalen_van_de_aanslag/belastingen_en_heffingen_kwijtschelding",
+    "title": "Kwijtschelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Geboorte_overlijden/kind_erkenning",
+    "title": "Erkenning kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Afval_milieu/12_dagenregeling",
+    "title": "12 dagenregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Geboorte_overlijden/overlijden_aangifte",
+    "title": "Overlijden, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Reclame_aankondigingen/spandoek_plaatsen",
+    "title": "Spandoek plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Zorg_welzijn/Wmo_2015/Vervoer/vervoersvoorziening",
+    "title": "Vervoersvoorziening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/regiotaxi"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Identiteitspapieren_reisdocumenten/paspoort_tweede",
+    "title": "Paspoort, tweede",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Werk_inkomen/Werken/vrijwilligerswerk_begeleiding",
+    "title": "Vrijwilligerswerk, begeleiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Parkeren_vervoer/Ontheffing_voetgangersgebied_bedrijven",
+    "title": "Ontheffing voetgangersgebied bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Huwelijk_partnerschap/Geregistreerd_partnerschap",
+    "title": "Geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschapaangifte"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Verhuizing_emigratie/Verhuizen_naar_de_gemeente_Meppel",
+    "title": "Verhuizen binnen of naar de gemeente Meppel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Belastingen_heffingen/WOZ_OZB/onroerende_zaakbelasting",
+    "title": "Onroerende zaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Afval_groen/Afval/container_aanvragen",
+    "title": "Container aanvragen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Wonen_ver_bouwen/Ver_bouwen_slopen/Omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Verhuizing_emigratie/verhuizing_en_emigratie",
+    "title": "Emigratie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Sport_Vrije_tijd/Evenementen/demonstratie_of_betoging_houden",
+    "title": "Demonstratie of betoging houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/betogDemonsMld"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Verhuizing_emigratie/nederlanderschap_bewijs",
+    "title": "Nederlanderschap, bewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Horeca_detailhandel/informatiestand_plaatsen",
+    "title": "Standplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Huwelijk_partnerschap/wijzigen_aanschrijfnaam",
+    "title": "Wijzigen aanschrijfnaam (naamgebruik)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Geboorte_overlijden/herbegraven_of_alsnog_cremeren",
+    "title": "Herbegraven of alsnog cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/herbegraven_of_alsnog_cremeren"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Werk_inkomen/Inkomen/studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Veiligheidengezondheid/stoken",
+    "title": "Stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Onderwijs_jeugd/Onderwijs/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Verhuizing_emigratie/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Subsidies_financi_n/Hulp_bij_laag_inkomen/Bijstand_voor_zelfstandigen_startpagina/BBZ_stoppendeonderneming",
+    "title": "Bijstandsuitkering zelfstandigen aanvragen - voor ondernemers die stoppen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Geboorte_overlijden/naamkeuze_kind",
+    "title": "Keuze achternaam kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Parkeren_vervoer/Parkeerontheffing_voor_bedrijven",
+    "title": "Parkeerontheffing voor bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Zorg_welzijn/Wmo_2015/Ondersteuning/Begeleiding_groep",
+    "title": "Begeleiding groep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Uittreksels_verklaringen/verklaring_onder_ede_of_belofte",
+    "title": "Verklaring onder ede of belofte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgegevens_verklaring_onder_eed_of_belofte"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Werk_inkomen/Inkomen/Extra_inkomen/Schoolkosten_MBO_leerlingen_van_16_en_17_jaar",
+    "title": "Schoolkosten MBO leerlingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Horeca/exploitatievergunning_horecabedrijf",
+    "title": "Horecavergunning, exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Uittreksels_verklaringen/waarmerken_kopie_of_afschrift",
+    "title": "Waarmerken kopie of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/VOG_rechtspersonen",
+    "title": "Verklaring Omtrent het Gedrag rechtspersonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Afval_groen/Soorten_afval/chemisch_afval_huishoudens_inzameling",
+    "title": "Chemisch afval huishoudens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_chemisch_afval"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Wonen_ver_bouwen/Flexibele_stimuleringslening_wonen/verzilverlening",
+    "title": "Verzilverlening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Geboorte_overlijden/adoptie",
+    "title": "Adoptie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adoptie"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Horeca_detailhandel/marktstandplaats",
+    "title": "Marktstandplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Afval_milieu/mobiel_puinbreken",
+    "title": "Mobiel puinbreken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Geboorte_overlijden/geboorte_aangifte",
+    "title": "Geboorte, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Identiteitspapieren_reisdocumenten/rijbewijs_verlengen",
+    "title": "Rijbewijs, verlengen of uitbreiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Zorg_welzijn/Wmo_2015/Ondersteuning/Respijtzorg",
+    "title": "Respijtzorg voor mantelzorgtaken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Geboorte_overlijden/Registratie_levenloos_geboren_kind",
+    "title": "Registratie levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Subsidies_financi_n/Hulp_bij_laag_inkomen/Bijstand_voor_zelfstandigen_startpagina/BBZ_60",
+    "title": "Bijstandsuitkering zelfstandigen aanvragen - voor ondernemers geboren voor 1 januari 1960",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Wonen_ver_bouwen/Ver_bouwen_slopen/kapvergunning",
+    "title": "Kappen van bomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Uittreksels_verklaringen/afschrift_burgerlijke_stand",
+    "title": "Afschrift of uittreksel Burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Bestuurenorganisatie/Contact_reacties/Meldingen_en_klachten/Meldingen_klachten_en_bezwaren/Melding_overschrijding_beslistermijn",
+    "title": "Melding overschrijding beslistermijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Horeca_detailhandel/koopzondagen_informatie",
+    "title": "Koopzondagen, informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Subsidies_financi_n/Hulp_bij_laag_inkomen/inkomensvoorziening_oudere_arbeidsongeschikte_zelfstandigen",
+    "title": "Inkomensvoorziening oudere arbeidsongeschikte zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaz-uitkering"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Bouw_verbouw/kabels_plaatsen",
+    "title": "Kabels en leidingen plaatsen in openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Werk_inkomen/Inkomen/Extra_inkomen/Individuele_inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Belastingen_heffingen/WOZ_OZB/wet_waardering_onroerende_zaken",
+    "title": "Wet WOZ (wet waardering onroerende zaken)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Bestuurenorganisatie/Contact_reacties/Meldingen_en_klachten/Meldingen_klachten_en_bezwaren/klacht_tegen_ambtelijk_optreden",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Bestuurenorganisatie/Statistiek_historie/Stamboom_onderzoek",
+    "title": "Stamboomonderzoek en inzage archief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Zorg_welzijn/Wmo_2015/Ondersteuning/Huishoudelijke_hulp",
+    "title": "Ondersteuning in het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Afval_groen/Soorten_afval/Inzameling_pmd",
+    "title": "PMD (plastic en metalen verpakkingen en drankenkartons)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Huwelijk_partnerschap/echtscheiding_melden",
+    "title": "Echtscheiding melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Parkeren_verkeer/Parkeren/Bewoners/Parkeervergunning_voor_bewoners",
+    "title": "Parkeervergunning voor bewoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Huwelijk_partnerschap/Be_indiging_geregistreerd_partnerschap",
+    "title": "Beëindiging geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Sport_Vrije_tijd/Sport/sportactiviteiten_subsidie",
+    "title": "Sport, activiteiten en subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Parkeren_vervoer/parkeervergunning_tijdelijk",
+    "title": "Tijdelijke parkeerontheffing bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Belastingen_heffingen/WOZ_OZB/Huurders_woningen_en_de_WOZ_waarde",
+    "title": "WOZ-beschikking bij huurwoningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Identiteitspapieren_reisdocumenten/Identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Parkeren_verkeer/Parkeren/Gehandicapten/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Zorg_welzijn/Wmo_2015/Kosten/Eigen_bijdrage_Wmo",
+    "title": "Eigen bijdrage Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Werk_inkomen/Inkomen/Extra_inkomen/Fonds_Deelname_Maatschappelijke_activiteiten",
+    "title": "Fonds Deelname Maatschappelijke activiteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Geboorte_overlijden/ontkenning_van_het_vaderschap_door_de_moeder",
+    "title": "Ontkenning van het vaderschap door de moeder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vaderschapsontkenning_verklaring"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Uittreksels_verklaringen/Geheimhouding_persoonsgegegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Belastingen_heffingen/WOZ_OZB/Taxatieverslag_kopie_beschikking_opvragen",
+    "title": "Taxatieverslag, kopie aanslag opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Zorg_welzijn/Wmo_2015/Ondersteuning/begeleiding_individueel",
+    "title": "Begeleiding individueel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Wonen_ver_bouwen/Ver_bouwen_slopen/Asbest/asbestverwijdering",
+    "title": "Asbestverwijdering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Belastingen_heffingen/Betalen_van_de_aanslag/Invordering_belastingen",
+    "title": "Betalen belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Parkeren_verkeer/Verkeer_en_vervoer/gladheid_van_wegen_bij_vorst_bestrijden",
+    "title": "Gladheidsbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Wonen_ver_bouwen/Ver_bouwen_slopen/huisnummering_toekenning",
+    "title": "Huisnummering, toekenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Verhuizing_emigratie/nederlandse_nationaliteit_verkrijgen_of_afstand_doen",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Horeca_detailhandel/Venten",
+    "title": "Venten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Bestuurenorganisatie/Contact_reacties/Meldingen_en_klachten/Gevonden_voorwerpen",
+    "title": "Verloren en gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Evenementen/alcohol_tijdelijk_schenken_ontheffing",
+    "title": "Alcohol schenken zonder vergunning, ontheffing art. 35",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Bouw_verbouw/bestemmingsplannen_inzage",
+    "title": "Bestemmingsplannen, inzage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Afval_groen/Bestrijding_ongedierte_onkruid/kadaver_verwijdering",
+    "title": "Kadaver verwijdering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Afval_groen/melding",
+    "title": "Melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Uittreksels_verklaringen/uittreksel_brp",
+    "title": "Uittreksel Basisregistratie Personen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Ondernemer/Vergunningen_regelingen/Afval_milieu/bedrijfsafval_inzameling",
+    "title": "Bedrijfsafval inzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalinzameling"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Identiteitspapieren_reisdocumenten/Zakenpaspoort",
+    "title": "Zakenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Burgerzaken/Verhuizing_emigratie/Eerste_inschrijving_in_Nederland",
+    "title": "Eerste inschrijving in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.meppel.nl/Inwoner/Werk_inkomen/Inkomen/geldzorgen",
+    "title": "Geldzorgen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meppel_(gemeente)"
+  }
+]

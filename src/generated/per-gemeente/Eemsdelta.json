@@ -1,0 +1,1451 @@
+[
+  {
+    "identifier": "https://www.eemsdelta.nl/bezwaar-belastingaanslag",
+    "title": "Bezwaar belastingaanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/schade-melden",
+    "title": "Schade melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/gebruik-achternaam-veranderen",
+    "title": "Gebruik achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/informatie-opvragen",
+    "title": "Informatie opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/bijstandsuitkering-aanvragen",
+    "title": "Bijstandsuitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/waar-kun-je-terecht",
+    "title": "Waar kun je terecht?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/gladheid",
+    "title": "Gladheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/bezwaar-en-beroep",
+    "title": "Bezwaar en beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/wonen-met-een-plus-delfzijl",
+    "title": "Wonen met een PLUS Delfzijl",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/hinderapp",
+    "title": "Hinderapp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/tijdelijke-opvang-farmsum",
+    "title": "Tijdelijke opvang in Farmsum",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/overlijden",
+    "title": "Overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/evenement-melden",
+    "title": "Evenement melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/kultuurcentrale",
+    "title": "Kultuurcentrale",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/obs-hiliglo-holwierde",
+    "title": "OBS Hiliglo in Holwierde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/parkeerplaats-voor-gehandicapten",
+    "title": "Parkeerplaats voor gehandicapten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/eemsdelta-cijfers",
+    "title": "Eemsdelta in cijfers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/belastingen-als-je-situatie-verandert",
+    "title": "Belastingen: als je situatie verandert",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/gevonden-verloren-voorwerp",
+    "title": "Gevonden of verloren voorwerp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/bewijs-van-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/marconi-buitendijks",
+    "title": "Marconi Buitendijks",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/extra-container-aanvragen-afmelden",
+    "title": "Extra container aanvragen of afmelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/regeling-tegemoetkoming-meerkosten-zorg",
+    "title": "Regeling tegemoetkoming meerkosten zorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/camperplaatsen-eemsdelta",
+    "title": "Camperplaatsen in Eemsdelta",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/vervanging-tjamsweersterbrug-appingedam",
+    "title": "Vervanging Tjamsweersterbrug Appingedam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/meldpunt-woonomgeving",
+    "title": "Meldpunt woonomgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/raad-eemsdelta",
+    "title": "Raad Eemsdelta",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/raadsstuk"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/de-eendracht-appingedam",
+    "title": "De Eendracht Appingedam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/ruimte-voor-energie",
+    "title": "Ruimte voor energie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/scholen",
+    "title": "Scholen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/kindcentrum-t-maar-spijk",
+    "title": "Kindcentrum 't Maar in Spijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/kindcentrum-farmsumerborg-farmsum",
+    "title": "Kindcentrum Farmsumerborg in Farmsum ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/betaaldatums-bijstandsuitkering",
+    "title": "Betaaldatums bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/handhaving",
+    "title": "Handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/fiets-kwijt",
+    "title": "Fiets kwijt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/fietsenregister"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/subsidie-voor-sportevenementen",
+    "title": "Subsidie voor sportevenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportactiviteitensubsidie"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/afspraak-maken",
+    "title": "Afspraak maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/woz-waarde",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/subsidie-voor-onderhoud-van-erfgoed",
+    "title": "Subsidie voor onderhoud van erfgoed",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/instHoudMonSubs"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/vrijwilligerswerk",
+    "title": "Vrijwilligerswerk ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/versterking-kustwegflats-delfzijl",
+    "title": "Versterking Kustwegflats Delfzijl",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/plannen-van-aanpak-0",
+    "title": "Plannen van aanpak",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/roeken",
+    "title": "Roeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/kindcentrum-noord",
+    "title": "Kindcentrum Noord",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/wmo-pas-voor-taxivervoer",
+    "title": "Wmo-pas voor taxivervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/trouwen",
+    "title": "Trouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/nationaal-programma-groningen-npg",
+    "title": "Nationaal Programma Groningen (NPG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/regionale-energie-strategie",
+    "title": "Regionale Energie Strategie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/bezoek-het-energieloket",
+    "title": "Bezoek het Energieloket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/deelslee-elektrisch-deelvervoer",
+    "title": "DeelSlee: elektrisch deelvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/campus-eemsdelta-groningen",
+    "title": "Campus Eemsdelta Groningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolbelasting"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/kapotte-straatverlichting-melden",
+    "title": "Kapotte straatverlichting melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(straatverlichting)"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/woonvisie",
+    "title": "Woonvisie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/cadanz-welzijn",
+    "title": "Cadanz Welzijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/versterking-opwierde-appingedam",
+    "title": "Versterking Opwierde Appingedam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/versterking-zandplatenbuurt-delfzijl",
+    "title": "Versterking Zandplatenbuurt Delfzijl",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/milieupas",
+    "title": "Milieupas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/kadernotavoorjaarsnota",
+    "title": "Kadernota/voorjaarsnota",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentefinancien"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/parkeerkaart-voor-gehandicapten",
+    "title": "Parkeerkaart voor gehandicapten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/ondersteuning",
+    "title": "Ondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/belastingdocumenten-bekijken",
+    "title": "Belastingdocumenten bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_kopie"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/wethouder-annalies-usmany-dallinga",
+    "title": "Wethouder Annalies Usmany-Dallinga",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/beschermde-gebieden",
+    "title": "Beschermde gebieden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/eemszijlen",
+    "title": "Eemszijlen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/subsidie-volkshuisvestingsfonds-voor-verenigingen-van-eigenaren",
+    "title": "Subsidie Volkshuisvestingsfonds voor Verenigingen van Eigenaren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/gemeentelijke-monumenten",
+    "title": "Gemeentelijke monumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/bijstandsnormen-en-eigen-vermogen",
+    "title": "Bijstandsnormen en eigen vermogen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/compensatie-belastingen-door-de-herindeling",
+    "title": "Compensatie belastingen door de herindeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/geboorte",
+    "title": "Geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/versterking-t-zandt",
+    "title": "Versterking 't Zandt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/ivak",
+    "title": "IVAK",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/overlijden-melden-door-uitvaartondernemer",
+    "title": "Overlijden melden door uitvaartondernemer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/echtscheiding-einde-geregistreerd-partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/gezondheidsverklaring",
+    "title": "Gezondheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs_eigen_verklaring"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/becoming-dutch",
+    "title": "Becoming Dutch",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/paw-aardgasvrije-wierdedorpen",
+    "title": "PAW Aardgasvrije Wierdedorpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/verloren-en-gevonden-voorwerpen",
+    "title": "Verloren en gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/onkruid-op-verharding",
+    "title": "Onkruid op verharding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/onkruidbestrijding"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/fraude-melden",
+    "title": "Fraude melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/rijksmonumenten",
+    "title": "Rijksmonumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/regels-over-bouwen",
+    "title": "Regels over bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/belasting-betalen",
+    "title": "Belasting betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/begroting",
+    "title": "Begroting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentefinancien"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/stempas",
+    "title": "Stempas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/kindcentrum-kronkelaar-wagenborgen",
+    "title": "Kindcentrum Kronkelaar in Wagenborgen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/inkoop-en-aanbestedingen",
+    "title": "Inkoop en aanbestedingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/aanwijzen-gemeentelijk-monument",
+    "title": "Aanwijzen gemeentelijk monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/aanslag-digitaal-ontvangen",
+    "title": "Aanslag digitaal ontvangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/versterking-stedum",
+    "title": "Versterking Stedum",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/versterken",
+    "title": "Versterken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/collectieve-zorgverzekering",
+    "title": "Collectieve zorgverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectieve_ziektekostenverzekering"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/organisatie",
+    "title": "Organisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/jaarrekening",
+    "title": "Jaarrekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentefinancien"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/bezoek-het-zakelijk-energieloket",
+    "title": "Bezoek het Zakelijk Energieloket ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/burgemeester-eemsdelta",
+    "title": "Burgemeester Eemsdelta",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/kind-erkennen",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/voorwerp-op-aan-de-weg-plaatsen",
+    "title": "Voorwerp op of aan de weg plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/wethouder-pier-prins",
+    "title": "Wethouder Pier Prins",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/centrum-zuidoost-delfzijl",
+    "title": "Centrum Zuidoost Delfzijl",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/bestuurlijke-afspraken",
+    "title": "Bestuurlijke afspraken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/meer-over-scholen-die-klaar-zijn",
+    "title": "Meer over scholen die klaar zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/versterking-loppersum-deelgebied-2",
+    "title": "Versterking Loppersum, deelgebied 2",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/werk-en-participatie",
+    "title": "Werk en Participatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/begWerk"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/webarchief",
+    "title": "Webarchief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/verlenging-ontheffing-verkeersregels-aanvragen",
+    "title": "Verlenging ontheffing verkeersregels aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/versterking-loppersum-noord",
+    "title": "Versterking Loppersum-Noord",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/centrum-voor-jeugd-en-gezin",
+    "title": "Centrum voor Jeugd en Gezin",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/kindcentrum-de-rietpluim",
+    "title": "Kindcentrum De Rietpluim",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/stimuleringslening",
+    "title": "Stimuleringslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/waar-kun-je-stemmen",
+    "title": "Waar kun je stemmen?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/stemmen-vanuit-het-buitenland",
+    "title": "Stemmen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/gemeentenieuws",
+    "title": "Gemeentenieuws",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/windmolenoverlast-melden",
+    "title": "Windmolenoverlast melden ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/jachthavens-eemsdelta",
+    "title": "Jachthavens in Eemsdelta",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/paw-zandplatenbuurt",
+    "title": "PAW Zandplatenbuurt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/verhuizen",
+    "title": "Verhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/verzilverlening",
+    "title": "Verzilverlening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/honden",
+    "title": "Honden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/ondersteuning-voor-mantelzorgers",
+    "title": "Ondersteuning voor mantelzorgers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/geregistreerd-partnerschap",
+    "title": "Geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschapaangifte"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/bouwkavels-eemsdelta",
+    "title": "Bouwkavels in Eemsdelta",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/wethouder-meindert-joostens",
+    "title": "Wethouder Meindert Joostens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/gezondheidscentra-en-zorgverleners",
+    "title": "Gezondheidscentra en zorgverleners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/gezondheidsdienst"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/hulp-voor-ouderen-zieken-en-mensen-met-een-beperking",
+    "title": "Hulp voor ouderen, zieken en mensen met een beperking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/liggeld-woonschepen",
+    "title": "Liggeld woonschepen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/gemeentemagazine",
+    "title": "Gemeentemagazine",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/subsidie-van-spaa",
+    "title": "Subsidie van SPAA",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/energiehuis-eemsdelta",
+    "title": "Energiehuis Eemsdelta",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/hulp-bij-schulden",
+    "title": "Hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/beschermd-wonen",
+    "title": "Beschermd wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/collecteren",
+    "title": "Collecteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/adviesraad-sociaal-domein",
+    "title": "Adviesraad Sociaal Domein",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/ondernemersloket",
+    "title": "Ondernemersloket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/bijstandsuitkering",
+    "title": "Bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/kindcentra-olingertil-en-opwierde",
+    "title": "Kindcentra Olingertil en OPwierde ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/leerplicht",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtverzuimmelding"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/onroerendezaakbelasting",
+    "title": "Onroerendezaakbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/reclamebelasting",
+    "title": "Reclamebelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamebelasting"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/aansprakelijk-stellen",
+    "title": "Aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/wie-mag-stemmen",
+    "title": "Wie mag stemmen?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/karakteristieke-gebouwen",
+    "title": "Karakteristieke gebouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/oude-plaatsnaamborden-en-grensborden-te-koop",
+    "title": "Oude plaatsnaamborden en grensborden te koop",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/uittreksel-basisregistratie-personen",
+    "title": "Uittreksel basisregistratie personen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/essentaksterfte",
+    "title": "Essentaksterfte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/bomen-kappen",
+    "title": "Bomen kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/kindcentrum-renn4",
+    "title": "Kindcentrum RENN4",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/warmtenet-loppersum",
+    "title": "Warmtenet Loppersum",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/laadpalen",
+    "title": "Laadpalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/kindcentrum-delfzijl-west",
+    "title": "Kindcentrum Delfzijl West",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/stemmen-een-andere-gemeente",
+    "title": "Stemmen in een andere gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/afvalkalender",
+    "title": "Afvalkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/informatie-voor-politieke-partijen",
+    "title": "Informatie voor politieke partijen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/polgrpreg"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/gbs-het-baken-delfzijl",
+    "title": "GBS Het Baken in Delfzijl ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/afschrift-burgerlijke-stand",
+    "title": "Afschrift burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-uittreksel"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/bestemmingsplannen",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/verklaring-omtrent-gedrag",
+    "title": "Verklaring omtrent gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/paw-nieuwborgen-net",
+    "title": "PAW Nieuwborgen.net",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/contact-voor-ondernemers",
+    "title": "Contact voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/subsidie-volkshuisvestingsfonds-voor-koopwoningen",
+    "title": "Subsidie Volkshuisvestingsfonds voor koopwoningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/maaien",
+    "title": "Maaien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/identiteitsbewijs-verplicht",
+    "title": "Identiteitsbewijs verplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/oosterveld-op-de-schop",
+    "title": "Oosterveld op de schop",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/herontwikkeling-groot-bronswijk-terrein-wagenborgen",
+    "title": "Herontwikkeling Groot Bronswijk-terrein Wagenborgen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/kindcentrum-qworzo-woldendorp",
+    "title": "Kindcentrum QWORZO in Woldendorp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/erfgoedregister-en-erfgoedkaart",
+    "title": "Erfgoedregister en erfgoedkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/werk-aan-wegen-eemsdelta",
+    "title": "Werk aan wegen in Eemsdelta",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/paw-opwierde-zuid",
+    "title": "PAW Opwierde-Zuid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/reizen-met-kinderen",
+    "title": "Reizen met kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/machtigen",
+    "title": "Machtigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/subsidie-ozb-voor-sportaccommodaties",
+    "title": "Subsidie OZB voor sportaccommodaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/wethouder-hans-ronde",
+    "title": "Wethouder Hans Ronde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/versterking-krewerd-0",
+    "title": "Versterking Krewerd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/wethouder-jan-menninga",
+    "title": "Wethouder Jan Menninga",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/subsidie-ozb-voor-dorps-en-buurthuizen",
+    "title": "Subsidie OZB voor dorps- en buurthuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/transitievisie-warmte",
+    "title": "Transitievisie Warmte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/aangepaste-openingstijden",
+    "title": "Aangepaste openingstijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/discriminatiemeldpunt",
+    "title": "Discriminatiemeldpunt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/discrKlacht"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/bodemonderzoek",
+    "title": "Bodemonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/paw-zonnedorpen",
+    "title": "PAW Zonnedorpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/scholentransitie",
+    "title": "Scholentransitie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/overlast-hout-stoken",
+    "title": "Overlast hout stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/burgemeester-ben-visser",
+    "title": "Burgemeester Ben Visser",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/subsidie-controle-coronatoegangsbewijs",
+    "title": "Subsidie controle coronatoegangsbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/regeling-aardgasvrij-wonen",
+    "title": "Regeling aardgasvrij wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/college-van-b-en-w",
+    "title": "College van B en W",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/versterking-historisch-centrum-appingedam",
+    "title": "Versterking historisch centrum Appingedam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/idee-voor-je-buurt",
+    "title": "Idee voor je buurt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/voortijdig-schoolverlaten",
+    "title": "Voortijdig schoolverlaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/besluiten-van-de-overheid",
+    "title": "Besluiten van de overheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/visie-toerisme-en-recreatie-2021-2024",
+    "title": "Visie toerisme en recreatie 2021-2024",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.eemsdelta.nl/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Eemsdelta",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  }
+]

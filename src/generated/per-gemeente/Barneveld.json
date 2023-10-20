@@ -1,0 +1,785 @@
+[
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/leidinggevende-horeca-aanmelden-of-afmelden",
+    "title": "Leidinggevende horeca aanmelden of afmelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/evenementenvergunning-aanvragen",
+    "title": "Evenementenvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/barneveldse-vlag-of-wimpel-bestellen",
+    "title": "Barneveldse vlag of wimpel bestellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/melden-en-meedoen/discriminatie-of-pesten-melden",
+    "title": "Discriminatie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/kinderopvang-starten-of-wijzigen",
+    "title": "Kinderopvang starten of wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/naar-school-gaan",
+    "title": "Naar school gaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/melden-en-meedoen/werkervaringsplaats-aanbieden",
+    "title": "Werkervaringsplaats aanbieden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/individuele-inkomenstoeslag-aanvragen",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/urgentie-voor-woonruimte",
+    "title": "Urgentie voor woonruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/graafmelding",
+    "title": "graafmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/graafmelding"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/kamperen-bij-de-boer",
+    "title": "Kamperen bij de boer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/parkeerboete",
+    "title": "Parkeerboete",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerboete"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/collecteren-of-verkopen-voor-een-goed-doel",
+    "title": "Collectevergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/huisnummer-aanvragen",
+    "title": "Huisnummer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/starterslening-aanvragen",
+    "title": "Starterslening woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/melden-en-meedoen/bijstand-inkomenswijzigingen-en-verblijf-buitenland-doorgeven",
+    "title": "Bijstand: (inkomens)wijzigingen en verblijf buitenland doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/hulp-bij-zelfstandig-wonen-aanvragen",
+    "title": "Hulp bij zelfstandig wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/carbid-schieten",
+    "title": "Carbid schieten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/begraven-en-cremeren",
+    "title": "Begraven, grafrechten en cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/tijdelijke-overbruggingsregeling-zelfstandig-ondernemers",
+    "title": "Tijdelijke overbruggingsregeling zelfstandig ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/bijstand-voor-zelfstandige-ondernemers-aanvragen",
+    "title": "Bijstandverlening zelfstandigen (Bbz), Inkomensvoorzeining oudere en gedeeltelijk arbeidsongeschikte zelfstandigen (IOAZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/aanmelden-jaarkalender-evenementen",
+    "title": "Datum voor evenement reserveren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/alcoholvergunning-aanvragen",
+    "title": "Alcoholvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/erfbeplanting-bijdrage-en-advies",
+    "title": "Erfbeplanting bijdrage en advies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/verwijderde-fiets-ophalen",
+    "title": "Verwijderde fiets ophalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/trouwen-of-geregistreerd-partnerschap",
+    "title": "Trouwen of partnerschap registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/kansspelautomaat-vergunning-aanvragen",
+    "title": "Kansspelautomaat vergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/hulp-bij-het-vinden-van-betaald-werk",
+    "title": "Hulp bij het vinden van (betaald) werk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/bijzondere-bijstand-aanvragen",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/paspoortidentiteitskaart-aanvragen",
+    "title": "Paspoort/identiteitskaart aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/tent-plaatsen",
+    "title": "Tent plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/jeugdhulp-aanvragen",
+    "title": "Jeugdhulp aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/melden-en-meedoen/melden-dat-iets-kapot-of-vies-is",
+    "title": "Melden dat iets kapot of vies is",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/monument-vergunning-aanvragen",
+    "title": "Monument vergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/nee-nee-of-ja-nee-sticker-afhalen",
+    "title": "Nee-nee of ja-nee sticker afhalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/ontheffing-sluitingstijden-horeca-aanvragen",
+    "title": "Verruiming sluitingstijd commerciële horeca en terras aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/melden-en-meedoen/persoonsgegevens-verwijderen",
+    "title": "Persoonsgegevens verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/melden-en-meedoen/aansprakelijk-stellen-gemeente",
+    "title": "Aansprakelijk stellen gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/huishoudelijke-ondersteuning",
+    "title": "Huishoudelijke ondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/exploitatievergunning-aanvragen",
+    "title": "Exploitatievergunning horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/hulp-bij-schulden-aanvragen",
+    "title": "Hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/kleinschalig-evenement-melden",
+    "title": "Klein evenement melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/melden-en-meedoen/verkeersregelaars",
+    "title": "Verkeersregelaars",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/welstandstoetsing",
+    "title": "Welstandstoetsing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/geheimhouding-persoonsgegevens-aanvragen",
+    "title": "Geheimhouding persoonsgegevens aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/mantelzorgwoning-verbouwen",
+    "title": "Mantelzorgwoning (ver)bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/vooronderzoek-verbouwen-aanvragen",
+    "title": "Vooronderzoek (ver)bouwen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/afval-inzamelen",
+    "title": "Afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/adresonderzoek-aanvragen",
+    "title": "Adresonderzoek aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/inschrijven-bij-de-gemeente",
+    "title": "Inschrijven bij de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/kind-erkennen",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/melden-en-meedoen/zwerfafval-opruimen-met-buren-sportvrienden-of-leerlingen",
+    "title": "Zwerfafval opruimen met buren- (sport)vrienden of leerlingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/minimaregelingen-aanvragen",
+    "title": "Minimaregelingen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/naamskeuze-kind-vastleggen",
+    "title": "Naamskeuze kind vastleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/toelichting-bij-opstellen-veiligheidsplan",
+    "title": "Toelichting bij opstellen veiligheidsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/standplaatsvergunning-aanvragen",
+    "title": "Ventvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/melden-en-meedoen/niet-tevreden-over-jeugdhulp",
+    "title": "Niet tevreden over jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/eigen-bijdrage-wmo",
+    "title": "Eigen bijdrage Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/klein-kansspel-of-bingo-melden",
+    "title": "Klein kansspel of bingo melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/ontheffing-voor-gevelzitplaatsen-aanvragen",
+    "title": "Ontheffing voor gevelzitplaatsen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/persoonsgebonden-budget-pgb-aanvragen",
+    "title": "Persoonsgebonden budget (pgb)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/kopie-van-vergunning-of-tekening",
+    "title": "Kopie van vergunning of tekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/verklaring-omtrent-gedrag-aanvragen",
+    "title": "Verklaring omtrent gedrag aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/evenementfonds-subsidie-aanvragen",
+    "title": "Evenementenfonds subsidie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/loterij-organiseren",
+    "title": "Loterij organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/ontheffing-geluidshinder-aanvragen",
+    "title": "Ontheffing geluidshinder aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/uittreksel-brp-basisregistratie-personen-aanvragen",
+    "title": "Uittreksel BPR (Basisregistratie Personen) aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/kwijtschelding-belasting-en-heffingen",
+    "title": "Kwijtschelding belasting en heffingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/ontheffing-alcoholwet-voor-evenement-aanvragen",
+    "title": "Ontheffing Alcoholwet voor evenement aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/leegstaand-pand-tijdelijk-verhuren",
+    "title": "Omzettingsvergunning kamerverhuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/onjuiste-persoonsgegevens-aanpassen",
+    "title": "Onjuiste persoonsgegevens aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/bomen-kappen-vergunning-aanvragen",
+    "title": "Boom kappen of grondig snoeien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/aankondigingsborden-plaatsen",
+    "title": "Bord op spandoek plaatsen langs openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/melden-en-meedoen/taalstage-aanbieden",
+    "title": "Taalstage aanbieden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/melden-en-meedoen/zienswijze-indienen",
+    "title": "Zienswijze indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/duurzaamheidslening-aanvragen",
+    "title": "Duurzaamheidslening voor VVE's en maatschappelijke organisaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/subsidie-klimaatmaatregelen",
+    "title": "Subsidie klimaatmaatregelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/monument-subsidie-aanvragen",
+    "title": "Monument subsidie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/forensenbelasting",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/melden-en-meedoen/klacht-over-behandeling-door-gemeente-en-privacy",
+    "title": "Klacht over behandeling door gemeente en privacy",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/onroerendezaakbelasting-en-woz-waarde",
+    "title": "Onroerendezaakbelasting (OZB) en WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/ongedierte-bestrijden",
+    "title": "Ongedierte bestrijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/huurwoning-inschrijving",
+    "title": "Huurwoning inschrijving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/duurzaamheidssubsidie-sport-en-cultuur",
+    "title": "Duurzaamheidssubsidie Sport en Cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/melden-en-meedoen/niet-tevreden-over-het-gesprek-wmo-of-participatiewet",
+    "title": "Niet tevreden over het gesprek Wmo of Participatiewet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/bewijs-van-in-leven-zijn-of-attestatie-de-vita-aanvragen",
+    "title": "Bewijs van in leven zijn of Attestatie de vita aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/afschrift-burgerlijke-stand-aanvragen",
+    "title": "Afschrift burgerlijke stand aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/echtscheiding-inschrijven",
+    "title": "Echtscheiding inschrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/levenloos-geboren-kind-laten-registreren",
+    "title": "Levenloos geboren kind laten registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/overlijden-aangeven",
+    "title": "Overlijden aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/bibob-aanvraag",
+    "title": "Bibob-aanvraag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/bewijs-van-nederlanderschap-aanvragen",
+    "title": "Bewijs van Nederlanderschap aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/melden-en-meedoen/verloren-of-gevonden-voorwerpen",
+    "title": "Verloren of gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/emigratie-doorgeven",
+    "title": "Vertrek naar buitenland doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/rijbewijs-aanvragen",
+    "title": "Rijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbAanvraag"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/wonen-in-een-recreatieverblijf",
+    "title": "Wonen in een recreatieverblijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/melden-en-meedoen/planschade-tegemoetkoming-aanvragen",
+    "title": "Planschade tegemoetkoming aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/ondersteuning",
+    "title": "Ondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/verbouwen-of-slopen",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/bijstandsuitkering-aanvragen",
+    "title": "Bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/barneveldse-onderscheidingen",
+    "title": "Barneveldse onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/ondersteuning-werk-en-inkomen/collectieve-zorgverzekering-afsluiten",
+    "title": "Collectieve zorgverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zkKstVerzCol"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/nederlandse-nationaliteit-opgeven",
+    "title": "Nederlandse nationaliteit opgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/geboorte-aangeven",
+    "title": "Geboorte aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/afwijken-van-bestemmingsplan",
+    "title": "Bestemmingsplan bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/leerlingenvervoer-aanvragen",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/naamgebruik-veranderen",
+    "title": "Naamgebruik veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/melden-en-meedoen/burgerhulpverlener-aed-netwerk-worden",
+    "title": "Burgerhulpverlener AED-netwerk worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/vreemdelingen-of-vluchtelingenpaspoort-aanvragen",
+    "title": "Vreemdelingen- of vluchtelingenpaspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/aanvragen-en-regelen/nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)"
+  },
+  {
+    "identifier": "https://www.barneveld.nl/belastingen-en-vergunningen/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Barneveld_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  }
+]

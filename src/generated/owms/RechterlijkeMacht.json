@@ -1,0 +1,247 @@
+[
+  {
+    "prefLabel": "Centrale Raad van Beroep",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Centrale_Raad_van_Beroep"
+  },
+  {
+    "prefLabel": "College van Beroep voor het bedrijfsleven",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven"
+  },
+  {
+    "prefLabel": "College van beroep voor het hoger onderwijs",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/cbho"
+  },
+  {
+    "prefLabel": "Douanekamer",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Douanekamer"
+  },
+  {
+    "prefLabel": "Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/orghjacm",
+    "startDate": "1869-05-01"
+  },
+  {
+    "prefLabel": "Gerecht in Ambtenarenzaken van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ogaacmb",
+    "startDate": "2010-10-10"
+  },
+  {
+    "prefLabel": "Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ogeabes"
+  },
+  {
+    "prefLabel": "Gerechtshof 's-Gravenhage",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Gerechtshof_'s-Gravenhage",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Gerechtshof 's-Hertogenbosch",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Gerechtshof_'s-Hertogenbosch"
+  },
+  {
+    "prefLabel": "Gerechtshof Amsterdam",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Gerechtshof_Amsterdam"
+  },
+  {
+    "prefLabel": "Gerechtshof Arnhem",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Gerechtshof_Arnhem",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Gerechtshof Arnhem-Leeuwarden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Gerechtshof_Arnhem-Leeuwarden",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Gerechtshof Den Haag",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Gerechtshof_Den_Haag",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Gerechtshof Leeuwarden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Gerechtshof_Leeuwarden",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Hoge Raad der Nederlanden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden"
+  },
+  {
+    "prefLabel": "Parket bij de Hoge Raad",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/phr"
+  },
+  {
+    "prefLabel": "Raad van Beroep in Ambtenarenzaken van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/orbaacm",
+    "startDate": "2010-10-10"
+  },
+  {
+    "prefLabel": "Raad van Beroep voor Belastingzaken van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/orbbacm",
+    "startDate": "2010-10-10"
+  },
+  {
+    "prefLabel": "Raad van State, afdeling bestuursrechtspraak",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Raad_van_State,_afdeling_bestuursrechtspraak"
+  },
+  {
+    "prefLabel": "Raad voor de rechtspraak",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rvdr",
+    "startDate": "2002-01-01"
+  },
+  {
+    "prefLabel": "Raad voor strafrechtstoepassing en jeugdbescherming",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rsj",
+    "startDate": "2001-04-01"
+  },
+  {
+    "prefLabel": "Rechtbank 's-Gravenhage",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_s-Gravenhage",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Rechtbank 's-Hertogenbosch",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_'s-Hertogenbosch",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Rechtbank Alkmaar",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Alkmaar",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Rechtbank Almelo",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Almelo",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Rechtbank Amsterdam",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam"
+  },
+  {
+    "prefLabel": "Rechtbank Arnhem",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Arnhem",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Rechtbank Assen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Assen",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Rechtbank Breda",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Breda",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Rechtbank Den Haag",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Rechtbank Dordrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Dordrecht",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Rechtbank Gelderland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Gelderland",
+    "startDate": "2013-04-01"
+  },
+  {
+    "prefLabel": "Rechtbank Groningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Groningen",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Rechtbank Haarlem",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Haarlem",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Rechtbank Leeuwarden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Leeuwarden",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Rechtbank Limburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Limburg",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Rechtbank Maastricht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Maastricht",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Rechtbank Middelburg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Middelburg",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Rechtbank Midden-Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Midden-Nederland",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Rechtbank Noord-Holland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Rechtbank Noord-Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Nederland",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Rechtbank Oost-Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Oost-Brabant",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Rechtbank Oost-Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Oost-Nederland",
+    "startDate": "2013-01-01",
+    "endDate": "2013-03-31"
+  },
+  {
+    "prefLabel": "Rechtbank Overijssel",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Overijssel",
+    "startDate": "2013-04-01"
+  },
+  {
+    "prefLabel": "Rechtbank Roermond",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Roermond",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Rechtbank Rotterdam",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam"
+  },
+  {
+    "prefLabel": "Rechtbank Utrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Utrecht",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Rechtbank Zeeland-West-Brabant",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Zeeland-West-Brabant",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Rechtbank Zutphen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Zutphen",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Rechtbank Zwolle",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Zwolle",
+    "endDate": "2004-06-30"
+  },
+  {
+    "prefLabel": "Rechtbank Zwolle-Lelystad",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rechtbank_Zwolle-Lelystad",
+    "startDate": "2004-07-01",
+    "endDate": "2012-12-31"
+  }
+]

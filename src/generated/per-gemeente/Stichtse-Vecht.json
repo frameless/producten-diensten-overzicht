@@ -1,0 +1,1982 @@
+[
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1791/afvalpas-kapot-kwijt-of-aanvragen",
+    "title": "Afvalpas gevonden, kapot, kwijt of aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2054/verklaring-omtrent-het-gedrag-vog",
+    "title": "Verklaring omtrent het gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2393/bedrijventerreinen",
+    "title": "Bedrijventerreinen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsterreinuitgifte"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1890/hulpvraag-stellen",
+    "title": "Hulpvraag stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1853/festiviteit-bedrijf-vereniging-of-school",
+    "title": "Festiviteit bedrijf, vereniging of school",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1966/onroerende-zaakbelasting-ozb",
+    "title": "Onroerende zaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5801/subsidie-afkoppelen-van-de-regenpijp-en-voor-een-groen-dak",
+    "title": "Subsidie voor een groen dak en afkoppelen van de regenpijp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1840/digitaal-opkopers-register",
+    "title": "Digitaal Opkopers Register",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1879/hondenspeelplaatsen",
+    "title": "Hondenspeelplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5525/scheendijk-noord",
+    "title": "Duurzame ontwikkeling Scheendijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2383/aanbesteden",
+    "title": "Aanbesteden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2391/accountmanagers-bedrijven",
+    "title": "Accountmanagers bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2036/tweede-paspoort",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1773/aanslag-gemeentelijke-heffingen",
+    "title": "Aanslag gemeentelijke heffingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1815/bijstand-voor-zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1817/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1880/huisnummer-aanvragen-of-veranderen",
+    "title": "Huisnummer aanvragen of veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1882/huisvestingsvergunning",
+    "title": "Huisvestingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisvestingsvergunning"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8960/bedrijveninvesteringszone-biz",
+    "title": "Bedrijveninvesteringszone (BIZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1964/ongediertebestrijding",
+    "title": "Ongediertebestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1855/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/7659/ondersteuningsverklaring-tekenen",
+    "title": "Ondersteuningsverklaring tekenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/6195/integriteit",
+    "title": "Integriteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/7945/energietoeslag-voor-lagere-inkomens",
+    "title": "Energietoeslag voor lagere inkomens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2037/u-pas-aanvragen",
+    "title": "U-pas aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/9453/verduurzamen-monumenten",
+    "title": "Verduurzamen monumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2042/vaartijden-veerponten-en-fietsboot",
+    "title": "Vaartijden veerponten en fietsboot",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1808/bewijs-van-garantstelling-en-of-logiesverstrekking",
+    "title": "Bewijs van garantstelling en/of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1828/collectieve-zorgverzekering-voor-minima",
+    "title": "Collectieve zorgverzekering voor minima",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1936/lokale-ondernemerslijst",
+    "title": "Lokale ondernemerslijst",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2029/tip-voor-de-website",
+    "title": "Tip voor de website",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1778/afschrift-uittreksel-burgerlijke-stand",
+    "title": "Afschrift (uittreksel) burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/7412/mantelzorgcompliment",
+    "title": "Mantelzorgcompliment",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgcompliment"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1987/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2596/maarssen-dorp",
+    "title": "Maarssen-Dorp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/4461/kernwaarden",
+    "title": "Kernwaarden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1802/belastingtarieven",
+    "title": "Belastingtarieven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/4645/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2603/oud-zuilen",
+    "title": "Oud-Zuilen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1998/reiskostenvergoeding-aanvragen",
+    "title": "Reiskostenvergoeding aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1833/dagbesteding-en-begeleiding-thuis",
+    "title": "Dagbesteding en begeleiding thuis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2005/roerende-zaakbelasting-rzb",
+    "title": "Roerende zaakbelasting (RZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1954/nederlandse-nationaliteit-afstand-doen",
+    "title": "Nederlandse nationaliteit, afstand doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1807/betaaldagen-bijstandsuitkering-2023",
+    "title": "Betaaldagen bijstandsuitkering 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2409/waterliniegebied",
+    "title": "Waterliniegebied",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1876/handtekening-legalisatie",
+    "title": "Handtekening, legalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2594/maarssenbroek",
+    "title": "Maarssenbroek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1980/parkeren-scheendijk-noord",
+    "title": "Parkeren Scheendijk-Noord",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1960/ondersteuning-bij-opvoeden-en-opgroeien",
+    "title": "Ondersteuning bij opvoeden en opgroeien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1893/jongerenparticipatie",
+    "title": "Jong in Stichtse Vecht: activiteiten en ondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1824/buitenlands-rijbewijs-omwisselen",
+    "title": "Buitenlands rijbewijs omwisselen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5511/aanpassen-onjuiste-persoonsgegevens",
+    "title": "Aanpassen onjuiste persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1821/bouwdossier-bekijken",
+    "title": "Bouwdossier bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/6747/verstopte-kolk-of-lijngoot",
+    "title": "Verstopte kolk of lijngoot",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/7182/tijdelijke-ondersteuning-noodzakelijke-kosten-tonk",
+    "title": "Tijdelijke ondersteuning noodzakelijke kosten (TONK)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1798/begraafplaatsen",
+    "title": "Begraafplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5617/buitenlandse-documenten-legalisatie-en-verificatie",
+    "title": "Buitenlandse documenten, legalisatie en verificatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/4522/schade-schoolgebouw-melden",
+    "title": "Schade schoolgebouw melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/6048/haarrijnweg-5",
+    "title": "Project Haarrijnweg 5 in Maarssenbroek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8360/doe-mee-in-stichtse-vecht-participatie",
+    "title": "Doe mee in Stichtse Vecht: Participatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2600/nigtevecht",
+    "title": "Nigtevecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2492/noodsituaties",
+    "title": "Noodsituaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1889/hulpmiddelen-of-woningaanpassingen",
+    "title": "Hulpmiddelen of woningaanpassingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2729/afval-omgekeerd-inzamelen",
+    "title": "Afval omgekeerd inzamelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1794/algemene-plaatselijke-verordening-apv",
+    "title": "Algemene Plaatselijke Verordening (APV)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2251/recycling-van-kringloopgoederen",
+    "title": "Recycling van kringloopgoederen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8490/digitale-criminaliteit-cybercrime",
+    "title": "Digitale criminaliteit (cybercrime)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/7869/daalse-hoek-maarssen-dorp",
+    "title": "Daalse Hoek (Maarssen-Dorp)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2487/buurtpreventie",
+    "title": "Buurtpreventie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2012/sociale-huurwoning",
+    "title": "Sociale huurwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2500/politie-en-brandweer",
+    "title": "Politie en brandweer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2003/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1912/kind-erkennen-na-de-geboorte",
+    "title": "Kind erkennen ná de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2031/trouwen",
+    "title": "Trouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1986/peuteropvang",
+    "title": "Peuteropvang en voorschoolse educatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8407/lachgas",
+    "title": "Lachgasverbod",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1829/compliment-geven",
+    "title": "Compliment geven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2062/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1930/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1944/melding-vermoeden-ondermijnen",
+    "title": "Ondermijning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2381/subsidie-voor-ondernemingen",
+    "title": "Subsidie voor ondernemingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2023/subsidie-aanvragen-of-verantwoorden",
+    "title": "Subsidie aanvragen of verantwoorden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2004/rioolverstopping",
+    "title": "Rioolverstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1843/dood-dier-opruimen",
+    "title": "Dood dier opruimen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1900/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1812/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/4350/duurzaamheid",
+    "title": "Duurzaamheid en minder energie verbruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/7405/forfaitaire-vergoeding-wmo",
+    "title": "Forfaitaire vergoeding Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/6968/ruimtekwartier",
+    "title": "Ruimtekwartier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2060/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2073/woz-beschikking-bekijken",
+    "title": "WOZ-beschikking bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2045/vergoeding-hulp-en-zorg-pgb",
+    "title": "Persoonsgebonden budget (Pgb)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2533/nieuwkomers",
+    "title": "Nieuwkomers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1931/leerplicht-bijzonder-verlof-of-vrijstelling",
+    "title": "Leerplicht, bijzonder verlof of vrijstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1956/noodnummers-hulp-en-zorg",
+    "title": "Noodnummers hulp en zorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/7443/meldpunt-illegale-verhuur",
+    "title": "Meldpunt illegale verhuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2050/verkeersontheffing-aanvragen",
+    "title": "Verkeersontheffing aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1830/computerregeling-schoolgaand-kind",
+    "title": "Computerregeling schoolgaand kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/7206/hulp-bij-taal",
+    "title": "Hulp bij taal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8616/hulp-bij-digitale-aanvraag",
+    "title": "Hulp bij je digitale aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1781/afval-bedrijven",
+    "title": "Bedrijfsafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalinzameling"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1793/alcohol-schenken-tijdens-evenement",
+    "title": "Alcohol schenken tijdens evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1895/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1838/declaratieregeling-ouders-met-schoolgaande-kinderen",
+    "title": "Declaratieregeling ouders met schoolgaande kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2484/burgernet",
+    "title": "Burgernet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2544/verkiezingen-stemmen-vanuit-het-buitenland",
+    "title": "Stemmen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/stemmen_per_brief"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1913/kind-erkennen-voor-de-geboorte",
+    "title": "Kind erkennen vóór de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8004/verzoek-om-handhaving-indienen",
+    "title": "Verzoek om handhaving indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/6425/reigerskamp",
+    "title": "Reigerskamp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2048/verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2423/overzicht-recreatiegebieden",
+    "title": "Overzicht recreatiegebieden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1850/evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2035/tuinzak-grof-tuinafval",
+    "title": "Tuinzak",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/4418/kindpakket",
+    "title": "Kindpakket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2049/verhuizing-doorgeven",
+    "title": "Verhuizen binnen of naar Stichtse Vecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1941/melden-van-mogelijke-fraude-paspoort-of-nederlandse-identiteitskaart",
+    "title": "Melden van (mogelijke) fraude paspoort of Nederlandse identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1962/ondersteuning-in-gezin",
+    "title": "Ondersteuning in gezin",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5470/ovp",
+    "title": "Oostelijke Vechtplassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/4038/brugtijden-aanlegplaatsen-en-jachthavens",
+    "title": "Brugtijden en aanlegplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/4075/speelplekken",
+    "title": "Speelplekken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8302/woningbouwproject-cronenburgh-fase-4-in-loenen-aan-de-vecht",
+    "title": "Woningbouwproject Cronenburgh fase 4 in Loenen aan de Vecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2015/speeltoestel-adopteren",
+    "title": "Speeltoestel adopteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1947/afvalscheidingsstation",
+    "title": "Afvalscheidingsstation",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1958/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1978/parkeerontheffing-tijdelijk",
+    "title": "Parkeerontheffing (tijdelijk)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1983/paspoort-of-nederlandse-identiteitskaart-gestolen-of-vermist",
+    "title": "Paspoort of Nederlandse Identiteitskaart gestolen of vermist",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/6281/haagstede",
+    "title": "Woningbouw in Haagstede",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1961/ondersteuning-bij-werk-zoeken",
+    "title": "Ondersteuning bij werk zoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/6664/maarssenbroek-samen-schoon-heel-en-veilig",
+    "title": "'Maarssenbroek Samen Schoon Heel en Veilig'",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1977/overlijden-aangifte-door-uitvaartondernemers",
+    "title": "Overlijden, aangifte door uitvaartondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1959/omgevingsvergunning-strijdig-gebruik",
+    "title": "Omgevingsvergunning strijdig gebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2307/snoeien-en-maaien",
+    "title": "Snoeien en maaien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2064/vuur-stoken",
+    "title": "Vuur stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2588/breukelen",
+    "title": "Breukelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/9465/zonnevelden-in-stichtse-vecht",
+    "title": "Zonnevelden in Stichtse Vecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/7463/gemeentelijk-bromfietsendepot",
+    "title": "Gemeentelijk (brom)fietsendepot",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2584/loenersloot",
+    "title": "Loenersloot",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1969/openbare-watertappunten",
+    "title": "Openbare watertappunten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8498/meld-misdaad-anoniem-m",
+    "title": "Meld Misdaad Anoniem",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1878/hondenpoep-en-honden-aanlijnen",
+    "title": "Hondenpoep en honden aanlijnen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1874/grond-kopen-huren-of-pachten",
+    "title": "Grond kopen, huren of pachten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaak_huur_pacht_koop"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/4641/waarmerken-kopie-of-afschrift",
+    "title": "Waarmerken kopie of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1940/marktplaats-aanvragen",
+    "title": "Marktplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2607/vreeland",
+    "title": "Vreeland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1976/overlijden-aangifte",
+    "title": "Overlijden, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/7340/nieuw-afvalscheidingsstation",
+    "title": "Nieuw afvalscheidingsstation",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2426/trendlijnen",
+    "title": "Trendlijnen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2014/spandoek-plaatsen-vergunning",
+    "title": "Spandoek plaatsen, vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2001/rijbewijs-gestolen-of-vermist",
+    "title": "Rijbewijs gestolen of vermist",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1937/loterij-prijsvraag-bingo-organiseren",
+    "title": "Loterij, prijsvraag, bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2495/cameratoezicht",
+    "title": "Cameratoezicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/6872/locaties-stembureaus",
+    "title": "Locaties stembureaus",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1792/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8446/bestemmingsplannen",
+    "title": "Actuele bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/6558/planning-groenwerkzaamheden",
+    "title": "Planning groenwerkzaamheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/7861/kwetsbaarheid-ict-of-beveiligingslek-melden",
+    "title": "Kwetsbaarheid ICT of beveiligingslek melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1846/echtscheiding-of-einde-geregistreerd-partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1860/geheimhouden-persoonsgegevens",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5803/subsidie-afkoppelen-van-de-regenpijp",
+    "title": "Subsidie afkoppelen van de regenpijp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1845/dyslexie-vergoeding",
+    "title": "Dyslexie, vergoeding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1785/afval-grofvuil",
+    "title": "Grof huisvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1924/kliko-aanvragen-opzeggen-omruilen-als-vermist-of-niet-geleegd-melden-of-plastic-niet-opgehaald",
+    "title": "Kliko: werkwijze, aanvragen en meldingen doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5806/subsidie-voor-een-groen-dak",
+    "title": "Subsidie voor een groen dak",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1921/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8732/bodycams",
+    "title": "Bodycams",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1816/bijstand-uitkering",
+    "title": "Bijstand, uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1782/afval-bladkorven",
+    "title": "Bladkorven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/bladkorf"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/4392/nieuwbouw-brandweerkazernes",
+    "title": "Nieuw- en verbouw brandweerkazernes",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/4916/aanvraagformulier-bijstand-participatiewet",
+    "title": "Bijstandsuitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/4768/project-kockengen-waterproof",
+    "title": "Project Kockengen Waterproof",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1955/nee-nee-sticker-nee-ja-sticker",
+    "title": "NEE-NEE sticker, NEE-JA sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5476/kievitsbuurten",
+    "title": "Kievitsbuurten, herstel en duurzaam behoud legakkerlandschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1997/regiotaxi-en-valys-taxivervoer",
+    "title": "Regiotaxi en Valys taxivervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1963/ondersteuning-voor-mantelzorgers",
+    "title": "Ondersteuning voor mantelzorgers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2428/buitenplaatsen",
+    "title": "Buitenplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8853/beschoeiingen-maarssenbroek",
+    "title": "Beschoeiingen Maarssenbroek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1858/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1804/beschermd-wonen-wmo",
+    "title": "Beschermd wonen (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/7455/verkeerd-geplaatste-bromfietsen-wrakken-en-weesbromfietsen",
+    "title": "Verkeerd geplaatste (brom)fietsen, wrakken en wees(brom)fietsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1932/leges-kosten",
+    "title": "Alle kosten (leges)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2030/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2605/tienhoven-oud-maarsseveen-maarsseveen-molenpolder-en-bethunepolder",
+    "title": "Tienhoven, Oud Maarsseveen, Maarsseveen, Molenpolder en Bethunepolder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/4070/routes",
+    "title": "Routes",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2598/nieuwer-ter-aa",
+    "title": "Nieuwer Ter Aa",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1953/nederlander-worden-door-optie",
+    "title": "Nederlander worden door optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/4503/subsidie-voor-duurzame-projecten",
+    "title": "Subsidie voor duurzame projecten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2052/verkiezingen-een-ander-machtigen",
+    "title": "Een ander machtigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5811/stichtse-vecht-voor-iedereen",
+    "title": "Stichtse Vecht voor iedereen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2000/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8721/inwonerspanel",
+    "title": "Inwonerspanel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/6844/wie-mag-stemmen-en-hoe-werkt-het",
+    "title": "Wie mag stemmen en hoe werkt het",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2590/kockengen",
+    "title": "Kockengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/3791/adviescommissie-bezwaarschriften",
+    "title": "Adviescommissie bezwaarschriften",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1822/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2039/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-werknemers-ioaw",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte werknemers (IOAW)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaw-uitkering"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2586/nieuwersluis",
+    "title": "Nieuwersluis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1934/levenloos-geboren-kind-registreren-in-de-brp",
+    "title": "Levenloos geboren kind registreren in de BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1852/familiegroepsplan",
+    "title": "Familiegroepsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1779/afspraak-annuleren-of-wijzigen",
+    "title": "Afspraak annuleren of wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1856/gebruik-achternaam-veranderen",
+    "title": "Gebruik achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1868/gezondheidsverklaring",
+    "title": "Gezondheidsverklaring rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5703/oplaadpalen-elektrische-autos",
+    "title": "Oplaadpalen elektrische auto’s",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2260/welk-afval-waar",
+    "title": "Welk afval waar (zoals GFT, papier en restafval)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1837/declaratieregeling-huisraad",
+    "title": "Declaratieregeling huisraad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/7878/hazeslinger-breukelen",
+    "title": "Hazeslinger (Breukelen)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8901/gemeentelijke-onderscheidingen",
+    "title": "Gemeentelijke onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/4945/compensatieregeling-wettelijk-eigen-risico",
+    "title": "Compensatieregeling wettelijk eigen risico",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2305/schadelijke-exotische-woekerplanten",
+    "title": "Schadelijke exotische woekerplanten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1884/hulp-bij-geldzaken-en-schulden",
+    "title": "Hulp bij geldzaken en schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5520/verklaring-onder-ede-of-belofte",
+    "title": "Verklaring onder ede of belofte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgegevens_verklaring_onder_eed_of_belofte"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/9535/nieuwbouw-dorpshuis-de-veenkluit-tienhoven",
+    "title": "Nieuwbouw dorpshuis de Veenkluit (Tienhoven)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2051/verkeersonveilige-situatie-melden",
+    "title": "Verkeersonveilige situatie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/verzoekschrift"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1984/paspoort-of-nederlandse-identiteitskaart-laten-bezorgen",
+    "title": "Paspoort of Nederlandse Identiteitskaart laten bezorgen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/9421/leefgeld-voor-oekrainers",
+    "title": "Leefgeld voor Oekraïners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2619/jongerenoverlast",
+    "title": "Jongerenoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2592/loenen-aan-de-vecht",
+    "title": "Loenen aan de Vecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1902/informatie-opvragen-woo-verzoek",
+    "title": "Informatie opvragen (Woo-verzoek)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1967/ontheffing-voetgangerszone-kaatsbaan-maarssen",
+    "title": "Ontheffing voetgangerszone Kaatsbaan Maarssen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1806/bestemmingsplan-bekijken",
+    "title": "Bestemmingsplan bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1869/gladheid-bestrijden",
+    "title": "Gladheid bestrijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1863/gemeente-aansprakelijk-stellen",
+    "title": "Gemeente aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5884/regionale-energiestrategie-res",
+    "title": "Regionale Energiestrategie (RES)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5087/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/7422/project-multifunctioneel-centrum-vreeland",
+    "title": "Project multifunctioneel centrum Vreeland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/4004/grondwater-grondwaterstanden-en-oppervlaktewater",
+    "title": "Grondwater, grondwaterstanden en oppervlaktewater",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1885/hulp-bij-het-huishouden",
+    "title": "Hulp bij het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2071/woning-splitsen",
+    "title": "Woning splitsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonruimte_splitsingsvergunning"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2253/afvalkalender",
+    "title": "Afvalkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1974/oplaadpunt-voor-elektrisch-voertuig-aanvragen",
+    "title": "Oplaadpunt voor elektrisch voertuig aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1797/bedrijfspand-bedrijventerrein-huren-of-kopen",
+    "title": "Bedrijfspand/bedrijventerrein huren of kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsterrein_huren_of_kopen"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1831/contact-met-omgevingsloket",
+    "title": "Contact met Omgevingsloket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2074/zakenpaspoort",
+    "title": "Zakenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2019/standplaats-aanvragen",
+    "title": "Standplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5890/idee-voor-mijn-wijk",
+    "title": "Idee voor mijn wijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/6057/samen-tegen-eenzaamheid-in-stichtse-vecht",
+    "title": "Samen tegen eenzaamheid in Stichtse Vecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1809/bewijs-van-in-leven-zijn-of-attestatie-de-vita",
+    "title": "Bewijs van in leven zijn (of attestatie de vita)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/4833/financiele-steun-voor-zzpers-werknemers-en-bedrijven-in-de-coronacrisis",
+    "title": "Steun voor ondernemers in de coronacrisis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1943/melding-openbare-ruimte",
+    "title": "Melding openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1904/inspraakreactie-of-zienswijze-op-bestemmingsplan-indienen",
+    "title": "Inspraakreactie of zienswijze op bestemmingsplan of structuurvisie indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/3771/geluidsoverlast-vliegverkeer-melden",
+    "title": "Geluidsoverlast vliegverkeer melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5490/individuele-studietoeslag",
+    "title": "Individuele studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1832/cultuurhistorische-waardenkaart",
+    "title": "Cultuurhistorische waardenkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1865/geregistreerd-partnerschap",
+    "title": "Geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschapaangifte"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/9510/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2040/uittreksel-persoonsgegevens-brp",
+    "title": "Uittreksel persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1857/geen-gedoe-idee-voor-minder-regels-doorgeven",
+    "title": "Geen gedoe, idee voor minder regels doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/6129/zogwetering-in-maarssen",
+    "title": "Zogwetering in Maarssen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2017/sportaccommodaties-en-velden-huren",
+    "title": "Sportaccommodaties en velden huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1877/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5569/eikenprocessierups",
+    "title": "Eikenprocessierups",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5220/verkiezing-kinderburgemeester-2023-2024",
+    "title": "Verkiezing kinderburgemeester 2023-2024",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8925/onderzoeken-en-resultaten",
+    "title": "Onderzoeken en resultaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1777/adviesraad-sociaal-domein-stichtse-vecht",
+    "title": "Adviesraad Sociaal domein Stichtse Vecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2530/woonvergunning-aanvragen",
+    "title": "Woonvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1862/geluidsoverlast-veroorzaken",
+    "title": "Geluidsoverlast veroorzaken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1867/getuigen-aanmelden",
+    "title": "Getuigen aanmelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8523/herinrichting-zandpad",
+    "title": "Herinrichting Zandpad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1939/markt-in-stichtse-vecht",
+    "title": "Markt in Stichtse Vecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1835/daklozenopvang",
+    "title": "Hulp bij dakloos zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1859/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2358/kinderopvang",
+    "title": "Kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1813/bezwaar-maken-woz-beschikking-en-gemeentelijke-belastingen",
+    "title": "Bezwaar maken WOZ-beschikking en gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/7907/nieuwbouwprojecten",
+    "title": "Nieuwbouwprojecten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1896/iets-gevonden-of-verloren",
+    "title": "Iets gevonden of verloren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1847/eigen-bijdrage-wmo",
+    "title": "Eigen bijdrage (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2419/overzicht-winkelgebieden",
+    "title": "Overzicht winkelgebieden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8713/geslachtsregistratie-wijzigen",
+    "title": "Geslachtsregistratie wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2053/verkiezingen-kiezerspas",
+    "title": "Kiezerspas aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1801/belastingen-sww",
+    "title": "Belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/4537/rekenkamercommissie",
+    "title": "Rekenkamercommissie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2002/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2026/taxatieverslag-bekijken",
+    "title": "Taxatieverslag bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2309/bomen-onderhoud",
+    "title": "Bomenonderhoud",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1979/parkeren-in-de-blauwe-zone",
+    "title": "Parkeren in de blauwe zone (parkeerschijfzone)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8370/informatie-voor-oekrainers",
+    "title": "Informatie voor Oekraïners in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1935/levenloos-geboren-kind-aangifte-burgerlijke-stand",
+    "title": "Levenloos geboren kind, aangifte Burgerlijke Stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1952/nederlander-worden-door-naturalisatie",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1899/inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1774/achternaam-kind-kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1897/in-gebreke-stellen-gemeente-bij-te-laat-beslissen",
+    "title": "In gebreke stellen gemeente bij te laat beslissen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/dwangsomNietTijdBesl"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1864/gemeentearchief-bekijken",
+    "title": "Gemeentearchief bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/archiefInzage"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/7429/warmtevisie-stichtse-vecht-in-ontwikkeling",
+    "title": "Warmtevisie Stichtse Vecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1919/kinderopvangtoeslag",
+    "title": "Kinderopvangtoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/9414/subsidie-voor-kleine-landschapselementen",
+    "title": "Subsidie voor kleine landschapselementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8899/koninklijke-onderscheidingen",
+    "title": "Koninklijke onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1848/emigratie-doorgeven",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2436/brooklyn-breukelen",
+    "title": "Brooklyn (Breukelen)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2070/werkgeversservicepunt-wsp-stichtse-vecht",
+    "title": "WerkgeversServicepunt (WSP) Stichtse Vecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1800/belastingen-en-heffingen-kwijtschelding",
+    "title": "Kwijtschelding belastingen en heffingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1951/voor-of-achternaam-wijzigen",
+    "title": "Voor- of achternaam wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2284/vergunningcheck",
+    "title": "Vergunningcheck",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2006/rustig-evenement-melden",
+    "title": "Rustig evenement melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1970/openbare-woz-waarden-bekijken",
+    "title": "Openbare WOZ-waarden bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1999/restgroen-kopen",
+    "title": "Restgroen kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2024/subsidie-voor-initiatievenbudget-sterke-basis",
+    "title": "Subsidie voor Initiatievenbudget Sterke Basis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/9548/verkiezingsborden",
+    "title": "Verkiezingsborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2421/recept-vechtse-kano",
+    "title": "Recept Vechtse Kano",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/7538/zorgaanbieder-jeugdhulp-en-wmo-begeleiding",
+    "title": "Zorgaanbieder jeugdhulp en Wmo-begeleiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1923/klein-evenement-melden",
+    "title": "Klein evenement melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2068/wegafsluiting-of-wegafzetting-toestemming-aanvragen",
+    "title": "Wegafsluiting of wegafzetting, toestemming aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2011/snuffelmarkt-aanmelden",
+    "title": "Snuffelmarkt aanmelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/6561/onderhoud-aan-het-openbaar-groen",
+    "title": "Onderhoud aan het openbaar groen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5912/inkoop-en-aanbesteden-voor-cultuur-en-civieltechnische-werken",
+    "title": "Inkoop en aanbesteden voor cultuur en civieltechnische werken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1844/alcoholwetvergunning",
+    "title": "Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8895/je-wijk-en-woning-klimaatbestendig",
+    "title": "Je wijk en woning klimaatbestendig",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1982/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1989/precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2378/ondernemersverenigingen",
+    "title": "Ondernemersverenigingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1990/psychische-klachten-vergoeding-zorgkosten",
+    "title": "Psychische klachten, vergoeding zorgkosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1870/gokautomaat-plaatsen",
+    "title": "Gokautomaat vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/2386/bedrijf-starten-of-verhuizen",
+    "title": "Bedrijf starten of verhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/5517/trouwen-in-het-buitenland",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/1942/melden-voorgenomen-huwelijk-of-partnerschap",
+    "title": "Melden voorgenomen huwelijk of partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/8424/overzicht-openbare-informatie",
+    "title": "Overzicht openbare informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  },
+  {
+    "identifier": "https://stichtsevecht.nl/onderwerp/6580/groen-zelf-doen",
+    "title": "Groen zelf doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Stichtse_Vecht"
+  }
+]

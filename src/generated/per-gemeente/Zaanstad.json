@@ -1,0 +1,989 @@
+[
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=327",
+    "title": "Echtscheiding/ontbinding partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=376",
+    "title": "(Bijstands-)uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=532",
+    "title": "Stedelijke ontwikkeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=451",
+    "title": "Straattoezicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=526",
+    "title": "Krommenie West en Krommenie Oost",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2451",
+    "title": "50 jaar Zaanstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=378",
+    "title": "Maatschappelijke ontwikkeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=328",
+    "title": "Legalisatie/Apostille",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=319",
+    "title": "Burgerlijke Stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=535",
+    "title": "Wonen en leven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1432",
+    "title": "Toestemming borden plaatsen langs de openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/verwijzingsbordenontheffing"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=531",
+    "title": "Sociaal Wijkteam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=312",
+    "title": "Geheimhouding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1311",
+    "title": "Bezoekersvergunningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=391",
+    "title": "Re-integratie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/re-integratie"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=514",
+    "title": "Peldersveld/Hoornseveld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=375",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=320",
+    "title": "Basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=528",
+    "title": "Westzaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=242",
+    "title": "Openingstijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdeninformatie"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1012",
+    "title": "Persoonsgebonden budget(pgb)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=255",
+    "title": "Hoe kan ik het stadhuis bereiken?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=368",
+    "title": "Privacyverklaring gemeente Zaanstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1611",
+    "title": "Fraude",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=434",
+    "title": "Algemene Plaatselijke Verordening (APV)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2271",
+    "title": "Openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=339",
+    "title": "Gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=522",
+    "title": "Westerkoog",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=453",
+    "title": "Onderhoud van de openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=891",
+    "title": "Omgevingsdienst Noordzeekanaalgebied (NZKG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=374",
+    "title": "Hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=431",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=221",
+    "title": "Rijbewijs ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=512",
+    "title": "Zaandam Zuid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=334",
+    "title": "Uitnodiging buitenland (bewijs van garantstelling)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=317",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=337",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=652",
+    "title": "Zaanstad Sportstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=323",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=369",
+    "title": "Schade en verzekeringen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=248",
+    "title": "Contact",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=519",
+    "title": "Zaandam West",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=432",
+    "title": "Basisregistratie Adressen en Gebouwen (BAG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=536",
+    "title": "Bodem",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=433",
+    "title": "Ontheffingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=472",
+    "title": "Havens en vaarwegen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=411",
+    "title": "Inburgering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2331",
+    "title": "Jeugd en Veiligheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2311",
+    "title": "Omgevingsvisie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=249",
+    "title": "Colofon",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=291",
+    "title": "Welkom in de Zaanstreek!",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2371",
+    "title": "Minimaregelingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=246",
+    "title": "Klacht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=313",
+    "title": "Erkenning (ongeboren) kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2072",
+    "title": "Kamerverhuur en woningsplitsing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1415",
+    "title": "Kabels en leiding aanleggen en beheren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2391",
+    "title": "Informatie bouwen en verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=493",
+    "title": "Bouwen en verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=366",
+    "title": "Subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2231",
+    "title": "Bulky waste",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=274",
+    "title": "Mijn Zaanstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=539",
+    "title": "Calamiteit, ramp of crisis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=542",
+    "title": "Verkeer en vervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1791",
+    "title": "Speelplaatsen in Zaanstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/speelvoorziening_kinderen"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=435",
+    "title": "Parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=326",
+    "title": "Verklaring Omtrent het Gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=311",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2011",
+    "title": "Gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=473",
+    "title": "Fundering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=324",
+    "title": "Naamgebruik ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1211",
+    "title": "Gemeentearchief Zaanstad \"Het geheugen van de Zaanstreek\" ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1631",
+    "title": "Gemeenteraad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=520",
+    "title": "Nieuw West",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1951",
+    "title": "Dienstverlening Zaanstad in cijfers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=247",
+    "title": "Zoeken op de website",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=370",
+    "title": "Bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=348",
+    "title": "Huisnummerbesluit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=377",
+    "title": "Extra voorzieningen voor inwoners met weinig geld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=530",
+    "title": "Erfgoed",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=321",
+    "title": "Adresonderzoek/ Uitschrijven adres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1013",
+    "title": "Wet maatschappelijke ondersteuning (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1471",
+    "title": "Inwoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=243",
+    "title": "Afspraak maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezafspr"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1011",
+    "title": "Jeugdteam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=517",
+    "title": "Zaandam Noord ('t Kalf)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=991",
+    "title": "Gemeente Zaanstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=521",
+    "title": "Oud Koog aan de Zaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=516",
+    "title": "Kogerveldwijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=181",
+    "title": "Paspoort en identiteitskaart ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=338",
+    "title": "Kwijtschelding gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2131",
+    "title": "Speelautomatenhal exploiteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/speelautomaat_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=771",
+    "title": "Verkiezingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=491",
+    "title": "Gladheidbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=513",
+    "title": "Poelenburg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=367",
+    "title": "Sociale huurwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1191",
+    "title": "Informatie zorgaanbieders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=529",
+    "title": "Welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2111",
+    "title": "65+ Verhuisvoordeel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=533",
+    "title": "Klimaatneutraal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=316",
+    "title": "Overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1771",
+    "title": "Grof afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1416",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=671",
+    "title": "Milieu",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=325",
+    "title": "Huwelijk en geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=515",
+    "title": "Rosmolenwijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1414",
+    "title": "Ventvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=314",
+    "title": "Onderscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2251",
+    "title": "Hulp aan Oekraïners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=537",
+    "title": "Geluid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=651",
+    "title": "Bekendmakingen en openbare hoorzittingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1031",
+    "title": "Ondernemen in Zaanstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1831",
+    "title": "Meldpunt zorg (Wmo en Jeugdwet)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=322",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2351",
+    "title": "Referendum",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/referendum"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=250",
+    "title": "Proclaimer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2171",
+    "title": "Seksbedrijf exploiteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/seksbedrijf_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1751",
+    "title": "Inkoop en aanbestedingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=544",
+    "title": "Juridische Zaken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=252",
+    "title": "Afvalinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=251",
+    "title": "Bestuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2132",
+    "title": "Financiële ondersteuning ondernemers (Bbz)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=494",
+    "title": "Onderzoek en statistiek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2211",
+    "title": "Omgevingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=454",
+    "title": "Openbare Orde en Veiligheid (OOV)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=525",
+    "title": "Wormerveer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=452",
+    "title": "Gebruikstoezicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=523",
+    "title": "Oud Zaandijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1491",
+    "title": "Ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=611",
+    "title": "Grafrechten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafrechten"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1411",
+    "title": "Alcoholwetvergunning ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=244",
+    "title": "Melding maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=524",
+    "title": "Rooswijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=534",
+    "title": "Kunst en cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=241",
+    "title": "Legesverordening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/leges"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1417",
+    "title": "Marktvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktvergunning"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2431",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2071",
+    "title": "Toeristische verhuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1412",
+    "title": "Exploitatievergunning horecabedrijf ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=553",
+    "title": "Gemeentelijke regelgeving en landelijke wetgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=245",
+    "title": "Vergunningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2212",
+    "title": "Omgevingswet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1291",
+    "title": "Opvang asielzoekers ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2481",
+    "title": "Roze zaterdag 2025",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1391",
+    "title": "Parkeervergunning voor gehandicapten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=471",
+    "title": "Wijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=571",
+    "title": "Wegwerkzaamheden en projecten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1531",
+    "title": "Busbrug de Binding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=331",
+    "title": "Burgerservicenummer (BSN)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerservicenummer_(bsn)"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=540",
+    "title": "Vacatures",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2291",
+    "title": "Wet open overheid (Woo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2151",
+    "title": "Naar het buitenland verhuizen (emigratie)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=1413",
+    "title": "Aanwezigheidsvergunning kansspelautomaten ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=349",
+    "title": "Vastgoed en grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=2051",
+    "title": "Kinderopvangtoeslagaffaire: gemeente biedt hulp bij problemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=551",
+    "title": "Onderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=518",
+    "title": "Oude Haven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=527",
+    "title": "Assendelft-Noord en Assendelft-Zuid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  },
+  {
+    "identifier": "https://www.zaanstad.nl/mozard/!suite86.scherm0325?mPag=350",
+    "title": "Markten en kermissen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Zaanstad"
+  }
+]

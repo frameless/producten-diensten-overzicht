@@ -1,0 +1,835 @@
+[
+  {
+    "identifier": "https://www.someren.nl/meldingen-klachten-en-overlast/melding-buitengebied",
+    "title": "Melding buitengebied",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/over-de-gemeente/plannen-en-projecten",
+    "title": "Plannen en projecten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/parkeren-verkeer/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.someren.nl/afval/milieustraat",
+    "title": "Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.someren.nl/bouwen-en-wonen/stoken",
+    "title": "Stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/bouwen-en-wonen/bomen-kappen",
+    "title": "Bomen kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid/beleid/werk-en-inkomen",
+    "title": "Werk en inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/parkeren-verkeer/ontheffing-gebruik-parkeerschijf",
+    "title": "Ontheffing gebruik parkeerschijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/over-de-gemeente/onweerstaanbaar-someren-aanpak-klimaatverandering",
+    "title": "Onweerstaanbaar Someren: aanpak klimaatverandering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/ondernemers",
+    "title": "Ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/geboorte-huwelijk-en-overlijden/achternaam-van-uw-kind-kiezen",
+    "title": "Achternaam van uw kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/veiligheid-en-preventie/wijkagenten",
+    "title": "Wijkagenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid/beleid/bestuur-en-dienstverlening",
+    "title": "Bestuur en dienstverlening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/sport-cultuur-recreatie/toeristische-informatie-dorpen",
+    "title": "Toeristische informatie, dorpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/afval/afvalscheiding",
+    "title": "Afvalscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/meldingen-klachten-en-overlast/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.someren.nl/ondernemers/detailhandel/markt",
+    "title": "Markt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/college-van-b-en-w/coalitieakkoord",
+    "title": "Coalitieakkoord",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/geboorte-huwelijk-en-overlijden/huwelijk-en-geregistreerd-partnerschap",
+    "title": "Huwelijk en geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/sport-cultuur-recreatie/zwembad-de-diepsteeckel",
+    "title": "Zwembad De Diepsteeckel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/ondernemers/horeca-en-detailhandel-vergunningen/incidentele-festiviteit-melden",
+    "title": "Incidentele festiviteit melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collIncFest"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid/beleid/ruimtelijke-ordening-en-volkshuisvesting",
+    "title": "Ruimtelijke ordening en volkshuisvesting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/ondernemers/detailhandel/winkelopenstelling",
+    "title": "Winkelopenstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/bouwen/rioolaansluiting",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.someren.nl/nieuws/nieuwsbericht",
+    "title": "Nieuwsbericht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid/publicaties-in-gemeenteblad-en-staatscourant",
+    "title": "Publicaties in gemeenteblad en Staatscourant",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/over-de-gemeente/plannen-en-projecten/plannen-heropening-vliegbasis-de-peel",
+    "title": "Plannen heropening vliegbasis De Peel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.someren.nl/ondernemers/horeca-en-detailhandel-vergunningen",
+    "title": "Horeca en detailhandel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/sport-cultuur-recreatie/kermis",
+    "title": "Kermis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.someren.nl/belastingen/woz-en-ozb",
+    "title": "WOZ en OZB",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/bouwen-en-wonen/bouwgrond-kopen",
+    "title": "Bouwgrond kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid/beleid/sport-en-cultuur",
+    "title": "Sport en cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/bouwen-en-wonen/slopen-stallen-buitengebied",
+    "title": "Slopen stallen buitengebied",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/bouwen-en-wonen/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.someren.nl/ondernemers/advies-en-ondersteuning/bedrijventerreinenvisie",
+    "title": "Bedrijventerreinenvisie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/bouwen-en-wonen/tijdelijke-woonunit",
+    "title": "Tijdelijke woonunit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/over-de-gemeente/vacatures",
+    "title": "Vacatures",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/raadsinformatie/overzicht-raadsleden",
+    "title": "Overzicht raadsleden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/meldingen-klachten-en-overlast/melding-woon-of-leefomgeving",
+    "title": "Melding woon- of leefomgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/uittreksels-en-verklaringen/attestatie-de-vita",
+    "title": "Attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.someren.nl/meldingen-klachten-en-overlast/bestrijding-plaagdieren",
+    "title": "Bestrijding plaagdieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/over-de-gemeente/digitale-gemeentegids",
+    "title": "Digitale gemeentegids",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/raadsinformatie/commissies",
+    "title": "Commissies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/meldingen-klachten-en-overlast/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.someren.nl/ondernemers/advies-en-ondersteuning",
+    "title": "Advies en ondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/over-de-gemeente/over-deze-website",
+    "title": "Over deze website",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/meldingen-klachten-en-overlast/riool-verstopt",
+    "title": "Riool verstopt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/nieuws",
+    "title": "Nieuws",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/ondernemers/horeca-en-detailhandel-vergunningen/gok-en-speelautomaten",
+    "title": "Gok- en speelautomaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/ondernemers/detailhandel/standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.someren.nl/bouwen-en-wonen/slopen",
+    "title": "Slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/veiligheid-en-preventie/whatsapp-buurtpreventie",
+    "title": "WhatsApp buurtpreventie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/meldingen-klachten-en-overlast/wolf-in-de-regio",
+    "title": "Wolf in de regio",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/sport-cultuur-recreatie/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.someren.nl/bouwen-en-wonen/melden-bouwwerkzaamheden",
+    "title": "Melden (bouw)werkzaamheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid/beleid/milieu-en-water",
+    "title": "Milieu en water",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/afval/bladkorven",
+    "title": "Bladkorven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bladkorf"
+  },
+  {
+    "identifier": "https://www.someren.nl/uittreksels-en-verklaringen/verklaring-omtrent-gedrag",
+    "title": "Verklaring omtrent gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.someren.nl/ondernemers/detailhandel/reclame",
+    "title": "Reclame",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.someren.nl/sport-cultuur-recreatie/evenementen1",
+    "title": "Evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.someren.nl/belastingen/kwijtschelding-gemeentelijke-belastingen",
+    "title": "Kwijtschelding gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.someren.nl/geboorte-huwelijk-en-overlijden/voorkeur-naamgebruik",
+    "title": "Voorkeur naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/verhuizing-en-registratie/vestiging-vanuit-het-buitenland",
+    "title": "Vestiging vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid/beleid/economische-zaken-en-toerisme",
+    "title": "Economische zaken en toerisme",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/raadsinformatie/raadsvergadering",
+    "title": "Raadsvergadering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college",
+    "title": "Raad en college",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/raadsinformatie/contact-met-gemeenteraad",
+    "title": "Contact met gemeenteraad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid/verordeningen/alfabetisch-overzicht",
+    "title": "Alfabetisch overzicht regelgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/geboorte-huwelijk-en-overlijden/erkenning-kind",
+    "title": "Erkenning kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.someren.nl/ondernemers/buitenlandse-werknemers",
+    "title": "Buitenlandse werknemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/ondernemers/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.someren.nl/over-de-gemeente/openingstijden-en-contact/huisregels-voor-bezoekers",
+    "title": "Huisregels voor bezoekers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid/beleid",
+    "title": "Beleid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/parkeren-verkeer",
+    "title": "Parkeren, verkeer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/verhuizing-en-registratie/nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/belastingen/automatische-incasso",
+    "title": "Automatische incasso",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.someren.nl/bouwen-en-wonen/blijverslening",
+    "title": "Blijverslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/blijverslening"
+  },
+  {
+    "identifier": "https://www.someren.nl/paspoort-rijbewijs-uittreksels/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.someren.nl/paspoort-rijbewijs-uittreksels/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.someren.nl/uittreksels-en-verklaringen/uittreksel-burgerlijke-stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/verhuizing-en-registratie/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.someren.nl/verhuizing-en-registratie/beperking-gegevensverstrekking",
+    "title": "Beperking gegevensverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid/beleid/verkeer-vervoer-en-openbare-ruimte",
+    "title": "Verkeer, vervoer en openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/veiligheid-en-preventie/sluiting-panden-bij-drugs-damoclesbeleid",
+    "title": "Sluiting panden bij drugs, Damoclesbeleid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.someren.nl/over-de-gemeente/koninklijke-onderscheiding",
+    "title": "Koninklijke onderscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.someren.nl/afval/milieupas",
+    "title": "Milieupas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/ondernemers/horeca-en-detailhandel-vergunningen/terras-plaatsen",
+    "title": "Terras plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.someren.nl/bouwen-en-wonen/welstand",
+    "title": "Welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/over-de-gemeente/openingstijden-en-contact",
+    "title": "Openingstijden en contact",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/college-van-b-en-w/besluitenlijst-b-en-w",
+    "title": "Besluitenlijst B en W",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid/beleid/alfabetisch-overzicht-beleidsstukken",
+    "title": "Alfabetisch overzicht beleidsstukken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/belastingen/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.someren.nl/paspoort-rijbewijs-uittreksels/aangifte-reisdocument-kwijt",
+    "title": "Aangifte vermissing reisdocument/rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/afval/afvalinzameling",
+    "title": "Afvalinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.someren.nl/contact/verloren-en-gevonden-voorwerpen",
+    "title": "Verloren en gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid/beleid/openbare-orde-en-veiligheid-integrale-handhaving",
+    "title": "Openbare orde en veiligheid / integrale handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/veiligheid-en-preventie/ramp-en-crisis",
+    "title": "Ramp en crisis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/over-de-gemeente/wijkraden-dorpsraden-en-gemeenschapshuizen",
+    "title": "Wijkraden, dorpsraden en gemeenschapshuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/bouwen-en-wonen/erfpacht-en-starterslening",
+    "title": "Erfpacht en starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/ondernemers/horeca-en-detailhandel-vergunningen/alcoholwetvergunning",
+    "title": "Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/parkeren-verkeer/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid/verordeningen/overzicht",
+    "title": "Overzicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/ondernemers/advies-en-ondersteuning/bedrijfscontacten",
+    "title": "Bedrijfscontacten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/parkeren-verkeer/parkeren",
+    "title": "Parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/sport-cultuur-recreatie/sportaccommodaties",
+    "title": "Sportaccommodaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/bouwen-en-wonen/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.someren.nl/bouwen-en-wonen/bestemmingsplannen",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid/beleid/maatschappelijke-zorg-en-jeugd",
+    "title": "Maatschappelijke zorg en jeugd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/uittreksels-en-verklaringen/uittreksel-basisregistratie-personen",
+    "title": "Uittreksel Basisregistratie Personen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid/financiele-stukken",
+    "title": "Financiële stukken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/belastingen/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.someren.nl/over-de-gemeente/privacystatement",
+    "title": "Privacystatement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/college-van-b-en-w/samenstelling-college",
+    "title": "Samenstelling college",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/college-van-b-en-w/nevenfuncties-b-en-w",
+    "title": "Nevenfuncties B en W",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid",
+    "title": "Regelgeving, beleid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/belastingen/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.someren.nl/veiligheid-en-preventie/aeds",
+    "title": "AED's",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/ondernemers/horeca-en-detailhandel-vergunningen/ontheffing-sluitingstijden",
+    "title": "Ontheffing sluitingstijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/sport-cultuur-recreatie",
+    "title": "Sport, cultuur, recreatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/raadsinformatie/overzicht-burgercommissieleden",
+    "title": "Overzicht burgercommissieleden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/paspoort-rijbewijs-uittreksels/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.someren.nl/geboorte-huwelijk-en-overlijden/overlijden",
+    "title": "Overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://someren.notubiz.nl",
+    "title": "Raadswebsite",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/parkeren-verkeer/strooien",
+    "title": "Strooien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/ondernemers/bedrijfsafval",
+    "title": "Bedrijfsafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalinzameling"
+  },
+  {
+    "identifier": "https://www.someren.nl/geboorte-huwelijk-en-overlijden/aangifte-geboorte",
+    "title": "Aangifte geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.someren.nl/meldingen-klachten-en-overlast/milieumelding",
+    "title": "Milieumelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/sport-cultuur-recreatie/subsidie-verenigingen",
+    "title": "Subsidie verenigingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/raadsinformatie/gemeenteraad",
+    "title": "Gemeenteraad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid/regelgeving",
+    "title": "Regelgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/raad-en-college/regelgeving-beleid/beleid/onderwijs",
+    "title": "Onderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)"
+  },
+  {
+    "identifier": "https://www.someren.nl/uittreksels-en-verklaringen/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Someren_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  }
+]

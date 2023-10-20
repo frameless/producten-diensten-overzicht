@@ -1,0 +1,890 @@
+[
+  {
+    "identifier": "https://www.krimpenerwaard.nl/olietanks-in-particuliere-grond-verwijderen",
+    "title": "Olietanks in particuliere grond verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/olietankMld"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/eenmalige-subsidie-aanvragen",
+    "title": "Eenmalige subsidie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/sociale-kaart",
+    "title": "Sociale kaart Krimpenerwaard",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/thuiszorg",
+    "title": "Thuiszorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/thuiszorg"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/achternaam-kind-kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/collectieve-zorgverzekering",
+    "title": "Collectieve zorgverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/zkKstVerzCol"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/in-gebreke-stellen-gemeente-bij-te-laat-beslissen",
+    "title": "In gebreke stellen gemeente bij te laat beslissen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/dwangsomNietTijdBesl"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/speciaal-onderwijs",
+    "title": "Speciaal onderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/ongediertebestrijding",
+    "title": "Ongediertebestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/subsidie-voor-monumenten",
+    "title": "Subsidie voor monumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/reclame-plaatsen",
+    "title": "Reclame plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/kabels-en-leidingen-leggen-in-openbare-grond",
+    "title": "Kabels en leidingen leggen in openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/gemeentearchief",
+    "title": "Gemeentearchief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/archiefInzage"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/kind-erkennen-na-de-geboorte",
+    "title": "Kind erkennen ná de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/begraafplaatsen",
+    "title": "Begraafplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/kind-erkennen-voor-de-geboorte",
+    "title": "Kind erkennen vóór de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/rijbewijs-omwisselen",
+    "title": "Rijbewijs omwisselen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-zelfstandigen-ioaz",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte zelfstandigen (IOAZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaz-uitkering"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/rijbewijs-aanvragen",
+    "title": "Rijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbAanvraag"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/bijstand-voor-zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/spandoek-ophangen",
+    "title": "Spandoek ophangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/gebruik-achternaam-veranderen",
+    "title": "Gebruik achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/kermis-of-circus-organiseren",
+    "title": "Kermis of circus organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/privacyverklaring-sociaaldomein",
+    "title": "Privacyverklaring gemeente Krimpenerwaard - Sociaal Domein",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/nederlander-worden-door-naturalisatie",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/bewijs-van-garantstelling-enof-logiesverstrekking",
+    "title": "Bewijs van garantstelling en/of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/visvergunning",
+    "title": "Visvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/visvergunning"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/paspoort-of-identiteitskaart-kwijt",
+    "title": "Paspoort of identiteitskaart kwijt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/reizen-met-kinderen",
+    "title": "Reizen met kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/hulp-bij-het-huishouden",
+    "title": "Hulp bij het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-werknemers-ioaw",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte werknemers (IOAW)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaw-uitkering"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/echtscheiding-of-einde-geregistreerd-partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/bijstand-voor-jongeren",
+    "title": "Bijstand voor jongeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/duurzaam-bouwloket",
+    "title": "Duurzaam Bouwloket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/verhuizen-naar-het-buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/beschermd-wonen",
+    "title": "Beschermd wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/alcoholvergunning",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/ontheffing-reglement-verkeersregels-en-verkeerstekens",
+    "title": "Ontheffing reglement verkeersregels en verkeerstekens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/uittreksel-persoonsgegevens-brp",
+    "title": "Uittreksel persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/collecte",
+    "title": "Collecte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/koninklijke-onderscheiding-lintje",
+    "title": "Koninklijke onderscheiding,  lintje",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/gladheid",
+    "title": "Gladheid bestrijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/attestatie-de-vita-internationaal-bewijs-van-in-leven-zijn",
+    "title": "Attestatie de vita (internationaal bewijs van in leven zijn)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/terras-plaatsen",
+    "title": "Terras plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/aanvragen-openbare-laadpaal-elektrisch-rijden",
+    "title": "Aanvragen openbare laadpaal elektrisch rijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/ereburgerschap-krimpenerwaardspeld",
+    "title": "Ereburgerschap / Krimpenerwaardspeld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/nee-nee-sticker-nee-ja-sticker",
+    "title": "NEE-NEE sticker, NEE-JA sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/caravan-parkeren-op-de-openbare-weg",
+    "title": "Caravan parkeren op de openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/caravParkOnth"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/belastingen-en-heffingen-teruggave",
+    "title": "Belastingen en heffingen, teruggave",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingteruggave"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/dyslexiezorg",
+    "title": "Dyslexiezorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/dyslexiezorg"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/gemeente-aansprakelijk-stellen",
+    "title": "Gemeente aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/tijdelijke-verhuur-leegstaand-pand",
+    "title": "Tijdelijke verhuur leegstaand pand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnTijdVerhVerg"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/exploitatievergunning-horecabedrijf",
+    "title": "Exploitatievergunning horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/dood-dier-opruimen",
+    "title": "Dood dier opruimen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/geluidsapparatuur-horecabedrijf",
+    "title": "Geluidsapparatuur horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/lokaal-en-regionaal-vervoer",
+    "title": "Lokaal en regionaal vervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/woz-waarde",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/afschrift-uittreksel-burgerlijke-stand",
+    "title": "Afschrift (uittreksel) burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/gokautomaat-plaatsen",
+    "title": "Gokautomaat plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/standplaats-aanvragen",
+    "title": "Standplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/loterij-prijsvraag-bingo-organiseren",
+    "title": "Loterij, prijsvraag, bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/huisvestingsvergunning",
+    "title": "Huisvestingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisvestingsvergunning"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/bodemenergie",
+    "title": "Bodemenergie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/basisregistratie-adressen-en-gebouwen-bag",
+    "title": "Basisregistratie Adressen en Gebouwen (BAG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/bijstand-uitkering",
+    "title": "Bijstand, uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/jeugdgezondheidszorg",
+    "title": "Jeugdgezondheidszorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/koninklijke-erepenning",
+    "title": "Koninklijke Erepenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/bouwwerk-start-en-gereedmelding",
+    "title": "Bouwwerk, start en gereedmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/voorwerp-plaatsen-op-of-aan-de-weg",
+    "title": "Voorwerp plaatsen op of aan de weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/omgevingsvergunning-strijdig-gebruik",
+    "title": "Omgevingsvergunning strijdig gebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/centrum-voor-jeugd-en-gezin-cjg",
+    "title": "Centrum voor Jeugd en Gezin (CJG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/milieu-vergunning-of-melding",
+    "title": "Milieu, vergunning of melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/subsidie-voorschoolse-voorzieningen-aanvragen",
+    "title": "Subsidie voorschoolse voorzieningen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/marktplaats-aanvragen",
+    "title": "Marktplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/openingstijden-winkels",
+    "title": "Openingstijden winkels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdeninformatie"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/wanneer-regelt-de-gemeente-een-uitvaart",
+    "title": "Wanneer regelt de gemeente een uitvaart?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/persoonlijk-plan-of-familiegroepsplan",
+    "title": "Persoonlijk plan of familiegroepsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/melding-openbare-verlichting",
+    "title": "Melding openbare verlichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/rioolverstopping",
+    "title": "Rioolverstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/jaarlijkse-subsidie-aanvragen",
+    "title": "Jaarlijkse subsidie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/geluidsoverlast-veroorzaken",
+    "title": "Geluidsoverlast veroorzaken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/bromfietsrijbewijs",
+    "title": "Bromfietsrijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/overlijden-aangifte",
+    "title": "Overlijden, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/bouw-en-verbouwing-controle",
+    "title": "Bouw en verbouwing, controle",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanschrijving"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/kadastrale-informatie",
+    "title": "Kadastrale informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/trouwen-in-het-buitenland",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/melding-woon-en-leefomgeving",
+    "title": "Melding woon- en leefomgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/uitrit-of-inrit-aanleggen",
+    "title": "Uitrit of inrit aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgUitweg"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/verwijderen-privacygevoelige-persoonsgegevens",
+    "title": "Verwijderen privacygevoelige persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/levenloos-geboren-kind-registreren",
+    "title": "Levenloos geboren kind registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/onroerendezaakbelasting-ozb",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/alcohol-schenken-tijdens-evenement",
+    "title": "Alcohol schenken tijdens evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/vuur-stoken",
+    "title": "Vuur stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/ramp-of-crisis",
+    "title": "Ramp of crisis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/crisisplan"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/jeugdbescherming",
+    "title": "Jeugdbescherming",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/mishandeling-of-huiselijk-geweld",
+    "title": "Mishandeling of huiselijk geweld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/werk-en-re-integratie",
+    "title": "Werk en re-integratie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/wegsleepregeling",
+    "title": "Wegsleepregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegsleepreg"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/clientondersteuning",
+    "title": "Cliëntondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/kind-adopteren",
+    "title": "Kind adopteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/sloopmelding-gebouw-of-deel-gebouw",
+    "title": "Sloopmelding gebouw of deel gebouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/overzicht-geleverde-persoonsgegevens-opvragen",
+    "title": "Overzicht geleverde persoonsgegevens opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/brandveiligheid-melding-of-vergunning",
+    "title": "Brandveiligheid, melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/opvragen-persoonsgegevens",
+    "title": "Opvragen persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/subsidie-verantwoorden",
+    "title": "Subsidie verantwoorden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/geheimhouden-persoonsgegevens",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.krimpenerwaard.nl/bureau-leerlingzaken",
+    "title": "Bureau Leerlingzaken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Krimpenerwaard"
+  }
+]

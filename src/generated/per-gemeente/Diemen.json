@@ -1,0 +1,622 @@
+[
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Bouwen_en_verbouwen/Bestemmingsplannen/Bestemmingsplan/Afwijken_van_het_bestemmingsplan",
+    "title": "Afwijken van het bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Jeugd_onderwijs_en_kinderopvang:1urn45vDQneK7_bEJmZmog/Inburgeren:uTa4VKarTn-7AiXgy90ubQ",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Ondernemen_in_Diemen/Drank_en_horeca/Activiteit_organiseren",
+    "title": "Activiteit organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Uittreksel_of_verklaring/Uittreksel_uit_basisregistratie_personen_opvragen",
+    "title": "Uittreksel uit basisregistratie personen opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Contact_met_de_gemeente/Melding_klacht_of_bezwaar/Uitkeringsfraude_melden",
+    "title": "Uitkeringsfraude melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Uittreksel_of_verklaring/Uittreksel_of_afschrift_van_de_burgerlijke_stand_aanvragen",
+    "title": "Uittreksel of afschrift van de burgerlijke stand aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Milieu/Afvalwater_lozen",
+    "title": "Afvalwater lozen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalwatermelding"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Wonen/Erfpacht_afkoop",
+    "title": "Erfpacht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erfpacht"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Bouwen_en_verbouwen/Vergunningen/Inrit_aanleggen",
+    "title": "Inrit aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgUitweg"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Vergunningen/Vuurwerk_opslaan_of_verkopen",
+    "title": "Vuurwerk opslaan of verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vuurwerkverkoopvergunning"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Bouwen_en_verbouwen/Veilig_bouwen_en_verbouwen/Gebruik_van_een_tijdelijk_bouwwerk_melden",
+    "title": "Gebruik van een tijdelijk bouwwerk melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruiksmelding"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Uittreksel_of_verklaring/Gegevens_in_basisregistratie_personen_BRP_aanpassen",
+    "title": "Gegevens in basisregistratie personen (BRP) aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Ondernemen_in_Diemen/Drank_en_horeca/Melding_wijziging_leidinggevende_horecabedrijf",
+    "title": "Melding wijziging leidinggevende horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Nederlandse_nationaliteit/Ceremonie_bij_naturalisatie",
+    "title": "Ceremonie bij naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieceremonie"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Bouwen_en_verbouwen/Vergunningen/Plaatsen_voorwerpen_op_de_openbare_weg",
+    "title": "Plaatsen voorwerpen op de openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Ondernemen_in_Diemen/Drank_en_horeca/een_evenement_organiseren",
+    "title": "Een evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Geboorte/Andere_achternaam_gebruiken",
+    "title": "Andere achternaam gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Contact_met_de_gemeente/Melding_klacht_of_bezwaar/Bezwaarschrift_indienen",
+    "title": "Bezwaarschrift indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Rondkomen_schulden_werk_en_bijstand/Extra_s_bij_laag_inkomen/studietoeslag_aanvragen",
+    "title": "Studietoeslag aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Vergunningen/ligplaats_vergunning",
+    "title": "Schip afmeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ligplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Rondkomen_schulden_werk_en_bijstand/Tijdelijke_bijstand_voor_inwoners/Vakantie_doorgeven_bij_bijstandsuitkering",
+    "title": "Verblijf in buitenland doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Bouwen_en_verbouwen/Vergunningen/Omgevingsvergunning_bouwen_aanvragen",
+    "title": "Omgevingsvergunning bouwen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Vergunningen/Gevaarlijke_stoffen_vervoeren",
+    "title": "Gevaarlijke stoffen vervoeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/routeplichtontheffing_vervoer_gevaarlijke_stoffen"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Uittreksel_of_verklaring/Bewijs_van_in_leven_zijn_of_attestatie_de_vita:0Bl5wKI2QsOs5HDiKGKexA",
+    "title": "Bewijs van in leven zijn of attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Algemeen/Privacyverklaring/Verstrekkingsbeperking_persoonsgegevens",
+    "title": "Verstrekkingsbeperking persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Wonen/Urgentieverklaring_huurwoning_aanvragen",
+    "title": "Urgentieverklaring huurwoning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/urgBewWoning"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Bouwen_en_verbouwen/Vergunningen/Omgevingsvergunning_aanvragen",
+    "title": "Omgevingsvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Bouwen_en_verbouwen/Vergunningen/Ontheffing_geluidhinder_voor_bouwen_slopen_en_overig_APV",
+    "title": "Ontheffing aanvragen voor geluidsoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Overlijden/Levenloos_geboren_kind_aangifte_doen",
+    "title": "Levenloos geboren kind, aangifte doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Ondernemen_in_Diemen/Drank_en_horeca/Langere_openingstijden_voor_uw_horecabedrijf_aanvragen",
+    "title": "Langere openingstijden voor uw horecabedrijf aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Geboorte/Voornaam_of_achternaam_wijzigen",
+    "title": "Voornaam of achternaam wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voornaamwijziging"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Overlijden/Overlijden_aangifte_doen",
+    "title": "Overlijden, aangifte doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Ondernemen_in_Diemen/Vergunningen/Marktstandplaats_aanvragen",
+    "title": "Marktstandplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Paspoort_identiteitskaart_en_rijbewijs/Paspoort_of_identiteitskaart_aanvragen",
+    "title": "Paspoort of identiteitskaart aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Rondkomen_schulden_werk_en_bijstand/Tijdelijke_bijstand_voor_inwoners/Bijstandsuitkering_aanvragen",
+    "title": "Bijstandsuitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Vergunningen/Verkeersontheffing_aanvraag",
+    "title": "Verkeersontheffing, aanvraag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Verhuizen/Briefadres_aanvragen",
+    "title": "Tijdelijk briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Wonen/Starterslening_aanvragen",
+    "title": "Starterslening aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Algemeen/Antireclamesticker_ophalen",
+    "title": "Antireclamesticker ophalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Rondkomen_schulden_werk_en_bijstand/Tijdelijke_bijstand_voor_inwoners/Uitkering_voor_oudere_gestopte_ondernemers",
+    "title": "Uitkering voor oudere gestopte ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Bouwen_en_verbouwen/Veilig_bouwen_en_verbouwen/Gemeentelijk_toezicht_op_bouw_en_verbouw",
+    "title": "Gemeentelijk toezicht op bouw en verbouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Rondkomen_schulden_werk_en_bijstand/Tijdelijke_bijstand_voor_inwoners/Uitkering_voor_oudere_en_arbeidsongeschikte_werklozen",
+    "title": "Uitkering voor oudere en arbeidsongeschikte werklozen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaw-uitkering"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Paspoort_identiteitskaart_en_rijbewijs/Rijbewijs_aanvragen",
+    "title": "Rijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbAanvraag"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Huwelijk_of_geregistreerd_partnerschap/Echtscheiding_melden",
+    "title": "Echtscheiding melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Verhuizen/Verhuizen",
+    "title": "Verhuizen binnen Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Bouwen_en_verbouwen/Bestemmingsplannen/Bestemmingsplan/Bestemmingsplan_wijzigen",
+    "title": "Bestemmingsplan wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Ondernemen_in_Diemen/Drank_en_horeca/Horecabedrijf_beginnen",
+    "title": "Horecabedrijf beginnen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Uittreksel_of_verklaring/Waarmerken_kopie",
+    "title": "Waarmerken kopie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Huwelijk_of_geregistreerd_partnerschap/Geregistreerd_partnerschap_be_indigen",
+    "title": "Geregistreerd partnerschap beëindigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_ontbinding"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Verhuizen/Eerste_inschrijving_in_Nederland",
+    "title": "Eerste inschrijving in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Parkeren/Containment_SDU/Oplaadpunt_voor_elektrische_auto_aanvragen",
+    "title": "Oplaadpunt voor elektrische auto aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Ondernemen_in_Diemen/Drank_en_horeca/Alcohol_tijdelijk_schenken",
+    "title": "Alcohol tijdelijk schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Bouwen_en_verbouwen/Bouwplannen/Bouwplannen_inzien",
+    "title": "Bouwplannen inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Geboorte/Een_kind_erkennen_en_naam_kiezen",
+    "title": "Een kind erkennen en naam kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Ondernemen_in_Diemen/Drank_en_horeca/Horecabedrijf_beginnen/Festiviteit_horeca_organiseren",
+    "title": "Festiviteit horeca organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Nederlandse_nationaliteit/Bewijs_van_Nederlandse_nationaliteit_aanvragen",
+    "title": "Bewijs van Nederlandse nationaliteit aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Leefomgeving/Bomen_en_groen/Bomen_kappen",
+    "title": "Bomen kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Rondkomen_schulden_werk_en_bijstand/Tijdelijke_bijstand_voor_inwoners/Uitkeringsfraude_melden",
+    "title": "Uitkeringsfraude melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Contact_met_de_gemeente/Melding_klacht_of_bezwaar/Klacht_dienstverlening",
+    "title": "Klacht dienstverlening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Vergunningen/Pand_tijdelijk_verhuren",
+    "title": "Leegstaand pand tijdelijk verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Geboorte/Ouderlijk_gezag_en_voogdij_aanvragen",
+    "title": "Ouderlijk gezag en voogdij aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Jeugd_onderwijs_en_kinderopvang:1urn45vDQneK7_bEJmZmog/Vervoer_leerlingen/Leerlingenvervoer_aanvragen",
+    "title": "Leerlingenvervoer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Algemeen/Archief_van_de_gemeente",
+    "title": "Archief van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/archiefInzage"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Verhuizen/Verhuizen_naar_het_buitenland",
+    "title": "Vertrekken uit Nederland (emigreren)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Geboorte/Achternaam_voor_uw_kind_kiezen",
+    "title": "Achternaam voor uw kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Uittreksel_of_verklaring/Handtekening_laten_legaliseren",
+    "title": "Handtekening laten legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Ondernemen_in_Diemen/Drank_en_horeca/Klein_kansspel_organiseren",
+    "title": "Klein kansspel organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Geboorte/Geslacht_op_geboorteakte_wijzigen",
+    "title": "Geslacht op geboorteakte wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteakte"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Bouwen_en_verbouwen/Veilig_bouwen_en_verbouwen/Brandveilig_gebruik_van_gebouwen",
+    "title": "Brandveilig gebruik van gebouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Verhuizen/Opnieuw_inschrijven_in_Nederland",
+    "title": "Opnieuw inschrijven in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Uittreksel_of_verklaring/Informatie_in_de_basisregistratie_personen_BRP",
+    "title": "Informatie in de basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Contact_met_de_gemeente/Melding_klacht_of_bezwaar/Melding_over_openbare_ruimte_indienen:8RDVIu_xSqSoUZdS5e4C8w",
+    "title": "Melding over openbare ruimte indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Verhuizen/Adresonderzoek_aanvragen",
+    "title": "Vermoeden verkeerde inschrijving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Milieu/Asbest_verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Contact_met_de_gemeente/Gemeente_aansprakelijk_stellen",
+    "title": "Gemeente aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Bouwen_en_verbouwen/Bestemmingsplannen/Bestemmingsplan/Bestemmingsplan_inzien",
+    "title": "Bestemmingsplan inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Wonen/Inschrijven_als_woningzoekende",
+    "title": "Inschrijven voor een sociale huurwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Vergunningen/Vaststelling_subsidie",
+    "title": "Vaststelling subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Geboorte/Geboorteaangifte_doen",
+    "title": "Geboorteaangifte doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Rondkomen_schulden_werk_en_bijstand/Tijdelijke_bijstand_voor_inwoners/Bijstand_voor_jongeren_aanvragen",
+    "title": "Bijstand voor jongeren aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Algemeen/AED_apparaat_gebruiken",
+    "title": "AED-apparaat gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Visvergunning",
+    "title": "Visvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/visvergunning"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Contact_met_de_gemeente/Informatieverzoek_Wet_openbaarheid_van_bestuur",
+    "title": "Informatieaanvraag Wet open overheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Ondernemen_in_Diemen/Vergunningen/Reclame_aanbrengen_aan_pand",
+    "title": "Reclame aanbrengen aan pand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Verhuizen/Verblijfsvergunning_aanvragen",
+    "title": "Verblijfsvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verblijfsvergunning"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Ondernemen_in_Diemen/Drank_en_horeca/Gokautomaat_plaatsen",
+    "title": "Gokautomaat plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Rondkomen_schulden_werk_en_bijstand/Tijdelijke_bijstand_voor_inwoners/Bijstand_voor_zelfstandigen_aanvragen",
+    "title": "Bijstand voor zelfstandigen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Vergunningen/Subsidie_incidenteel_en_structureel",
+    "title": "Subsidie, incidenteel en structureel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Ondernemen_in_Diemen/Drank_en_horeca/Alcohol_schenken_en_verkopen",
+    "title": "Alcohol schenken en verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Ondernemen_in_Diemen/Drank_en_horeca/Terrasvergunning_aanvragen",
+    "title": "Terrasvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Uittreksel_of_verklaring/Verklaring_omtrent_het_gedrag_aanvragen",
+    "title": "Verklaring omtrent het gedrag aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Burgerzaken/Nederlandse_nationaliteit/Nederlandse_nationaliteit_aanvragen",
+    "title": "Nederlandse nationaliteit aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Bouwen_en_verbouwen/Bouwplannen/Welstandsadvies_voor_bouwen_en_verbouwen",
+    "title": "Welstandsadvies voor bouwen en verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.diemen.nl/Onderwerpen/Wonen/Duurzaamheidslening",
+    "title": "Duurzaamheidslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Diemen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/duurzhLening"
+  }
+]

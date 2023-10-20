@@ -1,0 +1,1381 @@
+[
+  {
+    "identifier": "https://www.edam-volendam.nl/officiele-publicaties-en-regelgeving",
+    "title": "Officiële publicaties en regelgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/leerplicht-bijzonder-verlof-vrijstelling",
+    "title": "Leerplicht, bijzonder verlof of vrijstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/alcohol-schenken-tijdens-een-evenement",
+    "title": "Alcohol schenken tijdens een evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/collecte",
+    "title": "Collecte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/afval-scheiden-0",
+    "title": "Afval scheiden ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/urgentieverklaring",
+    "title": "Urgentieverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/urgBewWoning"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/monument-verbouwen-herstellen-onderhouden",
+    "title": "Monument verbouwen, herstellen of onderhouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentaanwijzing"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/verhuur-van-te-koop-staande-leegstaande-woning",
+    "title": "Verhuur van te koop staande leegstaande woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/leegstandvergunning"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/bouwen",
+    "title": "Bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/college-van-b-en-w",
+    "title": "College van B en W",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-werknemers-ioaw",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte werknemers (IOAW)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaw-uitkering"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/sportaccommodaties-huren",
+    "title": "Sportaccommodaties huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/milieustraten-afvalinzamelstations",
+    "title": "Milieustraten (Afvalinzamelstations)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/loonkostensubsidie",
+    "title": "Loonkostensubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/loonkostSub"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/attestatie-de-vita",
+    "title": "Attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/naamswijziging-voornaam",
+    "title": "Naamswijziging voornaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/vakantie-melden",
+    "title": "Vakantie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/vakMldWw"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/elektrische-laadpaal-aanvragen",
+    "title": "Elektrische laadpaal aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/laadpaalverzoek"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/bijstand-terugbetalen-door-ex-partner-ouder",
+    "title": "Bijstand terugbetalen door ex-partner of ouder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/welstandscommissie-mooi-n-h-adviseurs-omgevingskwaliteit",
+    "title": "Welstandscommissie (Mooi N-H adviseurs omgevingskwaliteit)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/burgerinitiatief",
+    "title": "Burgerinitiatief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/rioolverstopping",
+    "title": "Rioolverstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/stamboomonderzoek",
+    "title": "Stamboomonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/aangepast-sporten",
+    "title": "Aangepast sporten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/hondenbezit",
+    "title": "Hondenbezit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/verhuizen-naar-de-gemeente",
+    "title": "Verhuizen naar de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_binnen_nederland"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/monumentensubsidie",
+    "title": "Monumentensubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/kleding-inzamelen",
+    "title": "Kleding inzamelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/regelingen-voor-mensen-met-een-laag-inkomen",
+    "title": "Regelingen voor mensen met een laag inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/nederlander-worden-door-optie",
+    "title": "Nederlander worden door optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/incidentele-subsidie-sport-en-sportevenementen",
+    "title": "Incidentele subsidie sport en sportevenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/bestemmingsplan-aanpassen",
+    "title": "Bestemmingsplan aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/inwonersparticipatie-edam-volendam",
+    "title": "Inwonersparticipatie Edam-Volendam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/naamgebruik",
+    "title": "Naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/stempas-niet-ontvangen-kwijt",
+    "title": "Stempas niet ontvangen of kwijt?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/tweede-paspoort-en-zakenpaspoort",
+    "title": "Tweede paspoort en zakenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/woning-kopen-verhuizen-regel-uw-zaken-online-bij-ons",
+    "title": "Woning kopen of verhuizen? Regel uw zaken online bij ons!",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/1572-geboorte-van-nederland",
+    "title": "1572, Geboorte van Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/begravencremeren-van-overledene",
+    "title": "Begraven/cremeren van overledene",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/hulp-bij-geldzaken-en-schuld-voor-ondernemers",
+    "title": "Hulp bij geldzaken en schuld voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/verkiezingen-een-ander-machtigen",
+    "title": "Verkiezingen, een ander machtigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/volmachtbewijs_verkiezingen"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/afvalkalender-0",
+    "title": "Afvalkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/indienen-woo-verzoek",
+    "title": "Indienen Woo-verzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/uitrit-inrit-aanleggen",
+    "title": "Uitrit of inrit aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/melden-geur-enof-geluidsoverlast",
+    "title": "Melden geur- en/of geluidsoverlast ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/milieuontheffing"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/inzagerecht-verstrekkingen-brp",
+    "title": "Inzagerecht verstrekkingen BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/de-nieuwe-wet-inburgering-2021",
+    "title": "De nieuwe Wet inburgering 2021",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/jaaropgave",
+    "title": "Jaaropgave",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/geregistreerd-partnerschap-omzetten-huwelijk",
+    "title": "Geregistreerd partnerschap omzetten in huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_omzetting_in_huwelijk"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/mijnloket",
+    "title": "MijnLoket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/geregistreerd-partnerschap-1",
+    "title": "Geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschapaangifte"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/functies-en-nevenfuncties-raadsleden-gemeente-edam-volendam",
+    "title": " Functies en nevenfuncties raadsleden gemeente Edam-Volendam ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/brandveiligheid-melding-vergunning",
+    "title": "Brandveiligheid, melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruiksvergunning"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/cultureel-erfgoed-1",
+    "title": "Cultureel erfgoed",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/nachtwerkontheffing",
+    "title": "Nachtwerkontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/woz-waarde",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_schadevergoeding"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/huurwoningen-en-huurcommissie",
+    "title": "Huurwoningen en huurcommissie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/overlijden",
+    "title": "Overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/afval-bedrijven",
+    "title": "Afval, bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalinzameling"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/schadevergoeding-bij-nalatigheid-gemeente",
+    "title": "Schadevergoeding bij nalatigheid gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/automatische-incasso-machtiging",
+    "title": "Automatische incasso, machtiging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/ongediertebestrijding",
+    "title": "Ongediertebestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/betalingsregeling",
+    "title": "Betalingsregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-zelfstandigen-ioaz",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte zelfstandigen (IOAZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaz-uitkering"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/bodemonderzoek-beoordeling",
+    "title": "Bodemonderzoek beoordeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/terrasvergunning",
+    "title": "Terrasvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/terrasvergunning-tijdens-evenementen",
+    "title": "Terrasvergunning tijdens evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/achternaam-kind-kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/stemmen-een-andere-gemeente-vanuit-het-buitenland",
+    "title": "Stemmen in een andere gemeente of vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/incidentele-subsidie-kunst-en-cultuur",
+    "title": "Incidentele subsidie kunst en cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/afschrift-uittreksel-burgerlijke-stand",
+    "title": "Afschrift (uittreksel) burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/gladheid-bestrijden",
+    "title": "Gladheid bestrijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/loterij-prijsvraag-bingo-organiseren",
+    "title": "Loterij, prijsvraag, bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/functies-en-nevenfuncties-steunfractieleden",
+    "title": "Functies en nevenfuncties steunfractieleden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/milieu-vergunning-melding",
+    "title": "Milieu, vergunning of melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/kinderopvangtoeslag",
+    "title": "Kinderopvangtoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/openingstijden-winkels-0",
+    "title": "Openingstijden winkels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdeninformatie"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/paspoort-id-bewijs-kwijt-gestolen",
+    "title": "Paspoort of ID-bewijs kwijt of gestolen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/aanvraag-extra-afvalcontainers",
+    "title": "Aanvraag extra afvalcontainers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/bijstand-voor-zelfstandigen-bbz",
+    "title": "Bijstand voor zelfstandigen (Bbz)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/privacy-bescherming-persoonsgegevens",
+    "title": "Privacy (bescherming persoonsgegevens)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/aanvraag-vervangende-afvalcontainers",
+    "title": "Aanvraag vervangende afvalcontainers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/sportkampioenen",
+    "title": "Sportkampioenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/echtscheiding-einde-geregistreerd-partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/melding-woon-en-leefomgeving",
+    "title": "Melding woon- en leefomgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/anti-speculatiebeding-de-broeckgouw",
+    "title": "Anti-speculatiebeding in de Broeckgouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/uittreksel-persoonsgegevens-brp",
+    "title": "Uittreksel persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/eenmalige-subsidie-amateursportvereniging-ter-compensatie-energielasten",
+    "title": "Eenmalige subsidie amateursportvereniging ter compensatie energielasten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/geheimhouden-persoonsgegevens",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/trouwlocaties-en-ambtenaren-en-beschikbaarheid",
+    "title": "Trouwlocaties en -ambtenaren en beschikbaarheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/trouwlocatie"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/bewijs-van-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/drank-en-horecavergunning",
+    "title": "Drank- en horecavergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/grofvuil",
+    "title": "Grofvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/studiefinanciering"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/wijzigen-opzeggen-parkeerontheffing",
+    "title": "Wijzigen of opzeggen parkeerontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_blauwe_zone"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/verantwoording-subsidie",
+    "title": "Verantwoording subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/vakantie-overzicht-schooljaar-2023-2024",
+    "title": "Vakantie overzicht schooljaar 2023 / 2024",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/naamswijziging-achternaam",
+    "title": "Naamswijziging achternaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/wegafsluiting-aanvragen-0",
+    "title": "Wegafsluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/incidentele-subsidie-voor-verbetering-van-de-samenleving-sociale-cohesie-en-leefbaarheid",
+    "title": "Incidentele subsidie voor verbetering van de samenleving (sociale cohesie en leefbaarheid)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/kwijtschelding-belasting",
+    "title": "Kwijtschelding belasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/vuurwerk-afsteken",
+    "title": "Vuurwerk afsteken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/straatfotografie-tijdens-kermis-edam-en-volendam",
+    "title": "Straatfotografie tijdens kermis in Edam en Volendam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/rechtmatigheidsonderzoek-bijstandsuitkering",
+    "title": "Rechtmatigheidsonderzoek bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/rechtmatigheidsformulier"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/gevonden-en-verloren-voorwerpen",
+    "title": "Gevonden en verloren voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/parkeerontheffing-en-vergunning",
+    "title": "Parkeerontheffing en vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_blauwe_zone"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/bestemmingsplan-bekijken",
+    "title": "Bestemmingsplan bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/jaarsubsidie",
+    "title": "Jaarsubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/grond-kopen-huren-pachten",
+    "title": "Grond kopen, huren of pachten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/grondexplOvereen"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/verlof-tot-begraven-cremeren",
+    "title": "Verlof tot begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/verlBegraven"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/preventieakkoord",
+    "title": "Preventieakkoord",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/afwijken-bestemmingsplan",
+    "title": "Afwijken bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/buurtfeest-melden",
+    "title": "Buurtfeest melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/onroerendezaakbelasting-ozb",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/uitstel-begraven-cremeren",
+    "title": "Uitstel begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/begrafenis_uitstelvergunning"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/dood-dier-opruimen",
+    "title": "Dood dier opruimen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/dodeGezelschDierenOpr"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/trouwen",
+    "title": "Trouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/hulp-bij-geldzaken-en-schuld",
+    "title": "Hulp bij geldzaken en schuld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/aanpassen-onjuiste-persoonsgegevens",
+    "title": "Aanpassen onjuiste persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/persgegverw"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/ontkenning-vaderschap",
+    "title": "Ontkenning vaderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/vaderschapsontkenning_verklaring"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/ondergrondse-containers",
+    "title": "Ondergrondse containers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/parkeerschijfzones-en-vergunningsgebieden",
+    "title": "Parkeerschijfzones en vergunningsgebieden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_blauwe_zone"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/belastingloket",
+    "title": "Belastingloket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/bewijs-van-garantstelling-logiesverstrekking",
+    "title": "Bewijs van garantstelling of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/wijksteunpunt",
+    "title": "Wijksteunpunt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/cai",
+    "title": "CAI",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/evenementenvergunning-aanvragen",
+    "title": "Evenementenvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/luchtruim-gebruiken",
+    "title": "Luchtruim gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/luchtruim_gebruikvergunning"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/contact-0",
+    "title": "Contact",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/inrij-ontheffing-zwaar-verkeer",
+    "title": "Inrij-ontheffing zwaar verkeer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/inrijverbodontheffing"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/aanvraag-vooroverleg-omgevingsvergunning",
+    "title": "Aanvraag vooroverleg omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/klacht-doorgeven-ambtelijk-bestuurlijk-optreden",
+    "title": "Klacht doorgeven ambtelijk of bestuurlijk optreden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/ondersteuning-voor-ouderen-mensen-met-een-beperking-en-andere-hulpbehoevenden-wmo",
+    "title": "Ondersteuning voor ouderen, mensen met een beperking en andere hulpbehoevenden (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/parkeerterreinen-en-garages-en-verkeersprojecten",
+    "title": "Parkeerterreinen - en garages en verkeersprojecten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/ontheffing-geluidsvoorschriften-horeca",
+    "title": "Ontheffing geluidsvoorschriften horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/standplaats-aanvragen",
+    "title": "Standplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/paspoort-id-en-rijbewijs-ophalen",
+    "title": "Paspoort, ID en Rijbewijs ophalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/meekoppelkansen",
+    "title": "Meekoppelkansen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/bedrijfspandbedrijventerrein-huren-kopen",
+    "title": "Bedrijfspand/bedrijventerrein huren of kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/subsidie-van-aanvraag-tot-verantwoording",
+    "title": "Subsidie van aanvraag tot verantwoording",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/kind-erkennen-voor-de-geboorte",
+    "title": "Kind erkennen vóór de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/centrum-voor-jeugd-en-gezin",
+    "title": "Centrum voor Jeugd en Gezin",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/verhuizen-binnen-de-gemeente",
+    "title": "Verhuizen binnen de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_binnen_gemeente"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/griffie-en-griffier",
+    "title": "Griffie en Griffier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/sloopmelding-gebouw-deel-gebouw",
+    "title": "Sloopmelding gebouw of deel gebouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/gemeentehaven-0",
+    "title": "Gemeentehaven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/nederlander-worden-door-naturalisatie",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/aankondigingsborden",
+    "title": "Aankondigingsborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/kind-erkennen-na-de-geboorte",
+    "title": "Kind erkennen ná de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/gezondheid-en-leefstijl-lef",
+    "title": "Gezondheid en Leefstijl (LEF)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdVerhMld"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/gemeentelijke-boas-0",
+    "title": "Gemeentelijke BOA's",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/omgevingsvergunning-slopen",
+    "title": "Omgevingsvergunning slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/bezwaar-en-beroep-0",
+    "title": "Bezwaar en beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/marktplaats-aanvragen",
+    "title": "Marktplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktvergunning"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/huishoudelijk-restafval",
+    "title": "Huishoudelijk restafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/verhuizen-naar-buitenland",
+    "title": "Verhuizen naar buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/reinigingsrechten",
+    "title": "Reinigingsrechten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/reinigingsrecht"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolbelasting"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/straatartiest-optreden",
+    "title": "Straatartiest optreden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/strArtOptrOnth"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/sportuitvoering",
+    "title": "Sportuitvoering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/bijstandsuitkering",
+    "title": "Bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/de-raad-werkwijze-toelichting",
+    "title": "De Raad: werkwijze, toelichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/verklaring-omtrent-het-gedrag-vog",
+    "title": "Verklaring omtrent het gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/melden-onduidelijke-regels",
+    "title": "Melden onduidelijke regels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/registratie-levenloos-geboren-kind",
+    "title": "Registratie levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/dorps-en-wijkraden-edam-volendam",
+    "title": "Dorps- en wijkraden Edam-Volendam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/dienstverlening-edam-volendam",
+    "title": "Dienstverlening Edam-Volendam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/milieuvervuiling-melden",
+    "title": "Milieuvervuiling melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/inspreken-bij-een-raadsplein-bijwonen-van-een-vergadering",
+    "title": "Inspreken bij een raadsplein of bijwonen van een vergadering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/trouwen-het-buitenland",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/vinden-en-houden-baan-arbeidsmarkttoeleiding",
+    "title": "Vinden en houden baan (arbeidsmarkttoeleiding)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/arbdeskinsch"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/contact-met-de-raadsleden",
+    "title": "Contact met de Raadsleden ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/overlijdensaangifte",
+    "title": "Overlijdensaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.edam-volendam.nl/melden-beeindiging-geregistreerd-partnerschap",
+    "title": "Melden beëindiging geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Edam-Volendam",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_ontbinding"
+  }
+]

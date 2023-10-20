@@ -1,0 +1,708 @@
+[
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/uittreksels/uittreksel-brp/",
+    "title": "Uittreksel BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/vertrek-naar-buitenland/",
+    "title": "Vertrek naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/actueel/bekendmakingen/",
+    "title": "Publicaties, bekendmakingen en lokale regelgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mededelingen"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/belastingen/forensenbelasting/",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/bouwen-en-vestigen/kamerverhuur/",
+    "title": "Kamerverhuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/bouwen-en-vestigen/taxatieverslag/",
+    "title": "Taxatieverslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-taxatieverslag"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/subsidies/subsidie-maak-het/",
+    "title": "Subsidie Maak het!",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/maatschappelijke_zorgsubsidie"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/vergunningen/watervergunning/",
+    "title": "Watervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/watervergunning"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/vergunningen/uitweg-inrit-oprit/",
+    "title": "Uitweg (inrit, oprit)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgUitweg"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/reisdocumenten-burgerzaken/vluchtelingenpaspoort/",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/reisdocumenten-burgerzaken/tweede-paspoort/",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/overlijden/grafrechten/",
+    "title": "Grafrechten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafrechten"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/ontdek/sportaccommodatie-huren/",
+    "title": "Sportaccommodatie huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/belastingen/reclamebelasting/",
+    "title": "Reclamebelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamebelasting"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/gemeentebestuur/wet-open-overheid/",
+    "title": "Wet open overheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verstrekking_overheidsinformatie"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/zorg-en-uitkeringen/hulp-laag-inkomen/",
+    "title": "Hulp bij laag inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/uittreksels/uittreksel-burgerlijke-stand/",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/vergunningen/geluidsontheffing/",
+    "title": "Geluidsontheffing aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/zorg-en-uitkeringen/hulp-bij-schulden/",
+    "title": "Hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/vergunningen/collecteren/",
+    "title": "Collecteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/uittreksels/vog-verklaring-omtrent-gedrag/",
+    "title": "VOG (Verklaring omtrent het gedrag)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/subsidies/monumentensubsidie/",
+    "title": "Monumentensubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/wonen/speelplekken-en-speeltoestellen/",
+    "title": "Speelplekken en speeltoestellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/speelvoorziening_kinderen"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/bouwen-en-vestigen/kavels-te-koop/",
+    "title": "Kavels te koop",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwgronduitgifte"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/belastingen/toeristenbelasting/",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/vergunningen/asbestenslopen/",
+    "title": "Asbest en slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/reisdocumenten-burgerzaken/rijbewijs/",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/vergunningen/wilt-u-iets-organiseren/",
+    "title": "Wilt u iets organiseren?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/ondernemen/team-economische-zaken/",
+    "title": "Team Economische Zaken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsterrein_huren_of_kopen"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/zorg-en-uitkeringen/gehandicaptenparkeerplaats/",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats_op_kenteken"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/vergunningen/speelautomaten/",
+    "title": "Speelautomaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/vergunningen/venten/",
+    "title": "Venten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/trouwen/melding-huwelijkpartnerschap/",
+    "title": "Melding huwelijk/partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/overlijden/grafbedekking/",
+    "title": "Grafbedekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gedenkteken_plaatsingsvergunning"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/reisdocumenten-burgerzaken/zakenpaspoort/",
+    "title": "Zakenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/geheimhouding/",
+    "title": "Geheimhouding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/vergunningen/kappen/",
+    "title": "Kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/vergunningen/vuurstoken/",
+    "title": "Vuurstoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vuurwerk_ontbrandingstoestemming"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/naam-kiezen-kind/",
+    "title": "Naam kiezen voor uw kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/ontdek/ligplaatsen/",
+    "title": "Ligplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ligplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/jeugd-en-onderwijs/leerplicht/",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/bouwen-en-vestigen/bouwen-en-verbouwen/",
+    "title": "Bouwen en verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwwerk_voltooiingsverklaring"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/bouwen-en-vestigen/bouwtekening-bouwplan/bouwplantoets/",
+    "title": "Bouwplantoets",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/geboorte-en-inschrijving/kind-erkennen/",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/ondernemen/kabels-en-leidingen/",
+    "title": "Kabels en leidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/vergunningen/verloting-en-klein-kansspel/",
+    "title": "Verloting en klein kansspel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/zorg-en-uitkeringen/studietoeslag/",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/reisdocumenten-burgerzaken/gezondheidsverklaring/",
+    "title": "Gezondheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbGezVerkl"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/belastingen/niet-eens-met-aanslag/",
+    "title": "Niet eens met aanslag?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/overlijden/overlijden-aangeven/",
+    "title": "Overlijden aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/contact-overzicht/melding-maken/klacht-bezwaar-beroep/",
+    "title": "Klacht, bezwaar en beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/jeugd-en-onderwijs/leerlingenvervoer/",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/vergunningen/spandoek-ophangen/",
+    "title": "Spandoek ophangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/bouwen-en-vestigen/verhuizing-doorgeven/",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/reisdocumenten-burgerzaken/paspoort/",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/zorg-en-uitkeringen/gehandicaptenparkeerkaart/",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/subsidies/subsidie-bevorderen-amateurkunst/",
+    "title": "Subsidie bevorderen amateurkunst",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/amateurkunstsubsidie"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/jeugd-en-onderwijs/kinderopvang/",
+    "title": "Kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderdagverblijf"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/actueel/bewonersbrieven/",
+    "title": "Bewonersbrieven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verstrekking_overheidsinformatie"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/belastingen/onroerendezaakbelasting-ozb/",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/actueel/ter-inzage/",
+    "title": "Ter inzage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/handtekening-laten-legaliseren/",
+    "title": "Handtekening laten legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/belastingen/afvalstoffenheffing/",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/briefadres-aanvragen/",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/bouwen-en-vestigen/verhuizing-vanuit-buitenland/",
+    "title": "Verhuizing vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/wonen/whatsapp-buurtpreventie/",
+    "title": "Whatsapp Buurtpreventie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/calamiteitenbestrijding"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/wonen/afval/bladkorven/",
+    "title": "Bladkorven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bladkorf"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/subsidies/subsidie-leefbaarheid-en-meedoen/",
+    "title": "Subsidie leefbaarheid en meedoen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/maatschappelijke_zorgsubsidie"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/contact-overzicht/melding-maken/handhaving/",
+    "title": "Handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/geboorte-en-inschrijving/adresonderzoek/",
+    "title": "Adresonderzoek, verzoek tot uitschrijving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/contact-overzicht/melding-maken/schade-door-gemeente/",
+    "title": "Schade door gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overhEigSchMld"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/ontdek/koopzondag/",
+    "title": "Koopzondag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koopzondageninformatie"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/achternaam-veranderen/",
+    "title": "Achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/vergunningen/flyeren/",
+    "title": "Flyeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/zorg-en-uitkeringen/uitkering-aanvragen/",
+    "title": "Uitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/contact-overzicht/nee-ja-sticker/",
+    "title": "NEE-JA-Sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/subsidies/subsidie-culturele-activiteiten-voor-kwetsbare-inwoners/",
+    "title": "Subsidie culturele activiteiten voor kwetsbare inwoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/minderhedensubsidie"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/over-de-gemeente/privacy/",
+    "title": "Privacy",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/zorg-en-uitkeringen/klacht-over-zorg-of-uitkering/",
+    "title": "Klacht over zorg of uitkering?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/ondernemen/grondverzet/",
+    "title": "Grondverzet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruiksmelding"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/jeugd-en-onderwijs/team-jeugd-gezin/",
+    "title": "Team Jeugd en Gezin (TJG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/uittreksels/bewijs-leven-attestatie-vita/",
+    "title": "Bewijs van in leven zijn (attestatie de vita)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/vergunningen/standplaats/",
+    "title": "Standplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/zorg-en-uitkeringen/ziektekostenregeling/",
+    "title": "Ziektekostenregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zkKstVerzCol"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/overlijden/doodgeboren-kind/",
+    "title": "Doodgeboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/contact-overzicht/melding-maken/zienswijze/",
+    "title": "Zienswijze",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/beroep"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/trouwen/echtscheiding-einde-geregistreerd-partnerschap/",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/bouwen-en-vestigen/rioolaansluiting/",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/bouwen-en-vestigen/bouwtekening-bouwplan/bestemmingsplan/",
+    "title": "Bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/wonen/huren/",
+    "title": "Huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huurtoeslag"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/bouwen-en-vestigen/bouwtekening-bouwplan/inzage-archief/",
+    "title": "Inzage archief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/archiefInzage"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/wonen/afval/afval/",
+    "title": "Afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/jeugd-en-onderwijs/vrije-dagen-buiten-vakantie-om/",
+    "title": "Vrije dagen buiten vakantie om",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/wonen/verkeer-en-parkeren/",
+    "title": "Verkeer en parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/ondernemen/milieuvergunning/",
+    "title": "Milieuvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/zorg-en-uitkeringen/financiele-hulp-kinderen/",
+    "title": "Financiële bijdrage in de kosten voor kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/ondernemen/reclame-langs-de-weg/",
+    "title": "Reclame langs de weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/reisdocumenten-burgerzaken/vreemdelingenpaspoort/",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/zorg-en-uitkeringen/mantelzorgwaardering/",
+    "title": "Mantelzorgwaardering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgcompliment"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/geboorte-en-inschrijving/geboorte-kind-aangeven/",
+    "title": "Geboorte kind aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.heerenveen.nl/burgerzaken/burgerservicenummer-bsn/",
+    "title": "Burgerservicenummer (BSN)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Heerenveen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerservicenummer_(bsn)"
+  }
+]

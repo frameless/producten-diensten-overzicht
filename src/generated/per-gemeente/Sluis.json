@@ -1,0 +1,676 @@
+[
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Belastingen/Onroerendezaakbelasting_OZB",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Rioolverstopping",
+    "title": "Rioolverstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Paspoort_rijbewijs_uittreksels/Verklaring_omtrent_gedrag_VOG",
+    "title": "Verklaring omtrent gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Bouwen_verbouwen_en_wonen/Welstandsadvies_vragen",
+    "title": "Welstandsadvies vragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Uitkering_werk_en_bijstand/Bijstand",
+    "title": "Bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Belastingen/Precariobelasting",
+    "title": "Precariobelasting ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Financi_le_ondersteuning/Financi_le_ondersteuning_voor_startende_ondernemers",
+    "title": "Financiële ondersteuning voor (startende) ondernemers ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Zorg_en_ondersteuning/Gehandicaptenparkeerkaart_aanvragen",
+    "title": "Gehandicaptenparkeerkaart aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Vergunningen_en_meldingen/Drank_en_horecavergunning",
+    "title": "Drank- en horecavergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Verhuizen/Verhuizing_doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Vergunningen_en_meldingen/Kabels_en_leidingen_aanleggen",
+    "title": "Kabels en leidingen aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Subsidies/Loonkostensubsidie_aanvragen_als_werkgever",
+    "title": "Loonkostensubsidie aanvragen als werkgever",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Vergunningen_en_meldingen/Asbest_verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Zorg_en_ondersteuning/Ondersteuning_voor_mantelzorger_aanvragen",
+    "title": "Ondersteuning voor mantelzorger aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Vergunningen_en_meldingen/Exploitatievergunning_aanvragen",
+    "title": "Exploitatievergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Subsidies/Subsidie_aanvragen",
+    "title": "Subsidie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Uitkering_werk_en_bijstand/Hulp_bij_het_vinden_van_werk",
+    "title": "Hulp bij het vinden van werk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Bestuur_en_Organisatie/Koninklijke_onderscheidingen/Koninklijke_onderscheiding_aanvragen",
+    "title": "Koninklijke onderscheiding aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Geboorte_trouwen_en_overlijden/Trouwlocaties",
+    "title": "Trouwlocaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Paspoort_rijbewijs_uittreksels/Nederlandse_nationaliteit_aanvragen_Nederlander_worden",
+    "title": "Nederlandse nationaliteit aanvragen/Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Belastingen/WOZ_beschikking_waarde",
+    "title": "WOZ-beschikking/waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Bouwen_verbouwen_en_wonen/Principeverzoek_indienen",
+    "title": "Principeverzoek indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Zorg_en_ondersteuning/Gehandicaptenparkeerplaats_aanvragen",
+    "title": "Gehandicaptenparkeerplaats aanvragen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Paspoort_rijbewijs_uittreksels/Uittreksel_Basisregistratie_Personen_BRP",
+    "title": "Uittreksel Basisregistratie Personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Bedrijventerreinen_en_Vastgoed/Bewegwijzering_voor_ondernemers",
+    "title": "Bewegwijzering voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Verhuizen/Adresonderzoek_aanvragen",
+    "title": "Adresonderzoek aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Toeristen_en_Bezoekers/Parkeren/Parkeren_voor_bewoners/Gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Bestuur_en_Organisatie/Klachten_Bezwaar_en_Beroep/Gemeente_aansprakelijk_stellen",
+    "title": "Gemeente aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Belastingen/Toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Uitkering_werk_en_bijstand/Schuldhulpverlening",
+    "title": "Schuldhulpverlening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Zorg_en_ondersteuning/Beschut_werken",
+    "title": "Beschut werken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Belastingen/Forensenbelasting",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Paspoort_rijbewijs_uittreksels/Geheimhouding_persoonsgegevens_aanvragen_of_stopzetten",
+    "title": "Geheimhouding persoonsgegevens aanvragen of stopzetten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Jeugd_sport_en_onderwijs/Jongerenloket_Leren_in_Zeeland",
+    "title": "Jongerenloket - Leren in Zeeland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Uitkering_werk_en_bijstand/Volwassenenfonds",
+    "title": "Volwassenenfonds sport & cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Bouwen_verbouwen_en_wonen/Vergunningsvrij_bouwen_en_verbouwen",
+    "title": "Vergunningsvrij bouwen en verbouwen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Vergunningen_en_meldingen/Boom_kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Paspoort_rijbewijs_uittreksels/Bromfietsrijbewijs_aanvragen",
+    "title": "Bromfietsrijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Subsidies/Loonkostensubsidie_aanvragen_als_werknemer",
+    "title": "Loonkostensubsidie aanvragen als werknemer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Vergunningen_en_meldingen/Rioolaansluiting_aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Paspoort_rijbewijs_uittreksels/DigiD_aanvragen_als_u_woonachtig_bent_in_het_buitenland",
+    "title": "DigiD aanvragen als u woonachtig bent in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Vergunningen_en_meldingen/Omgevingsvergunning_aanvragen",
+    "title": "Omgevingsvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Bouwen_verbouwen_en_wonen/Monument_verbouwen_aanpassen_of_slopen",
+    "title": "Monument verbouwen, aanpassen of slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Belastingen/Afvalstoffenheffing",
+    "title": "Afvalstoffenheffing ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Vergunningen_en_meldingen/Brandveilig_gebruik",
+    "title": "Brandveilig gebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Zorg_en_ondersteuning/Hulp_nodig_Wmo",
+    "title": "Hulp nodig (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Vergunningen_en_meldingen/Tijdelijke_opslag_vaste_mest",
+    "title": "Tijdelijke opslag vaste mest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Subsidies/Energiesubsidie",
+    "title": "Energiesubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Vergunningen_en_meldingen/Winkel_uitstallingen",
+    "title": "(Winkel)uitstallingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Geboorte_trouwen_en_overlijden/Achternaam_gebruiken",
+    "title": "Achternaam gebruiken ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Bestuur_en_Organisatie/Klachten_Bezwaar_en_Beroep/Bezwaar_en_beroep",
+    "title": "Bezwaar en beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Paspoort_rijbewijs_uittreksels/Paspoort_of_identiteitskaart_aanvragen",
+    "title": "Paspoort of identiteitskaart aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Zorg_en_ondersteuning/Jeugdhulp_aanvragen_Jeugd_Gezin",
+    "title": "Jeugdhulp aanvragen (Jeugd & Gezin)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Vergunningen_en_meldingen/Gebouw_of_woning_slopen",
+    "title": "Gebouw of woning slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Paspoort_rijbewijs_uittreksels/Paspoort_en_ID_kaart_voor_Nederlanders_in_het_buitenland",
+    "title": "Paspoort en ID-kaart voor Nederlanders in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Zorg_en_ondersteuning/Persoonsgebonden_budget_aanvragen",
+    "title": "Persoonsgebonden budget aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Uitkering_werk_en_bijstand/Kindgebonden_budget_aanvragen",
+    "title": "Kindgebonden budget aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Vergunningen_en_meldingen/Stookontheffing",
+    "title": "Stookontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Paspoort_rijbewijs_uittreksels/Burgerservicenummer_BSN",
+    "title": "Burgerservicenummer (BSN)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerservicenummer_(bsn)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Verhuizen/Briefadres_aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Zorg_en_ondersteuning/Zorgaanbieders_dagbesteding",
+    "title": "Zorgaanbieders dagbesteding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Vergunningen_en_meldingen/Film_en_video_opnames_maken",
+    "title": "Film- en video-opnames maken ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Vergunningen_en_meldingen/Uitrit_aanleggen_of_veranderen",
+    "title": "Uitrit aanleggen of veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Geboorte_trouwen_en_overlijden/Geboorte_aangeven",
+    "title": "Geboorte aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Uitkering_werk_en_bijstand/Bijstandsuitkering_voor_oudere_werknemers_IOAW",
+    "title": "Bijstandsuitkering voor oudere werknemers (IOAW)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Vergunningen_en_meldingen/Gemeentegrond_gebruiken",
+    "title": "Gemeentegrond gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwgronduitgifte"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Geboorte_trouwen_en_overlijden/Trouwen_of_partnerschap_aangaan",
+    "title": "Trouwen of partnerschap aangaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Geboorte_trouwen_en_overlijden/Scheiden_of_partnerschap_be_indigen",
+    "title": "Scheiden of partnerschap beëindigen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Vergunningen_en_meldingen/Evenementenvergunning_aanvragen",
+    "title": "Evenementenvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Vergunningen_en_meldingen/Ventvergunning_of_colportagevergunning_aanvragen",
+    "title": "Ventvergunning of colportagevergunning aanvragen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Paspoort_rijbewijs_uittreksels/Legalisatie_handtekening",
+    "title": "Legalisatie handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Financi_le_ondersteuning/Bijstand_voor_zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Geboorte_trouwen_en_overlijden/Herbegraven_of_alsnog_cremeren",
+    "title": "Herbegraven of alsnog cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/herbegraven_of_alsnog_cremeren"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Geboorte_trouwen_en_overlijden/Achternaam_kiezen_kind",
+    "title": "Achternaam kiezen kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Uitkering_werk_en_bijstand/Individuele_studietoeslag",
+    "title": "Individuele studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Belastingen/Rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Belastingen/Hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Geboorte_trouwen_en_overlijden/Afstand_doen_van_een_graf",
+    "title": "Afstand doen van een graf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Belastingen/Onroerendzaakbelasting_OZB",
+    "title": "Onroerendzaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Vergunningen_en_meldingen/Reclamemateriaal_verspreiden",
+    "title": "Reclamemateriaal verspreiden ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Verhuizen/Verhuizing_vanuit_buitenland",
+    "title": "Verhuizing vanuit buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Geboorte_trouwen_en_overlijden/Begraven",
+    "title": "Begraven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Geboorte_trouwen_en_overlijden/Kind_erkennen",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Vergunningen_en_meldingen/Standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Bestuur_en_Organisatie/Klachten_Bezwaar_en_Beroep/Klacht_over_de_gemeente_indienen",
+    "title": "Klacht over de gemeente indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Geboorte_trouwen_en_overlijden/Asverstrooiing",
+    "title": "Asverstrooiing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asverstrooiing"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Bestuur_en_Organisatie/Klachten_Bezwaar_en_Beroep/Buurtbemiddeling",
+    "title": "Buurtbemiddeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Geboorte_trouwen_en_overlijden/Overlijden_aangeven",
+    "title": "Overlijden aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Melding_openbare_ruimte_MOR",
+    "title": "Melding openbare ruimte (MOR)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Paspoort_rijbewijs_uittreksels/Uittreksel_Burgerlijke_Stand",
+    "title": "Uittreksel Burgerlijke Stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Paspoort_rijbewijs_uittreksels/Rijbewijs_aanvragen",
+    "title": "Rijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbAanvraag"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Zorg_en_ondersteuning/Inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Uitkering_werk_en_bijstand/Hulp_bij_laag_inkomen_en_schulden",
+    "title": "Hulp bij laag inkomen en schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Verhuizen/Verhuizing_naar_buitenland",
+    "title": "Verhuizing naar buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Jeugd_sport_en_onderwijs/Jeugdsport_en_cultuurfonds",
+    "title": "Jeugdfonds Sport & Cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Bouwen_verbouwen_en_wonen/Planschade_melden",
+    "title": "Planschade melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Bouwen_verbouwen_en_wonen/Bodemgesteldheid_bodemonderzoek",
+    "title": "Bodemgesteldheid/ bodemonderzoek ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Uitkering_werk_en_bijstand/Individuele_inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Zorg_en_ondersteuning/Urgentieverklaring_aanvragen",
+    "title": "Urgentieverklaring aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Bestuur_en_Organisatie/Klachten_Bezwaar_en_Beroep/Verzoek_Wet_openbaarheid_van_bestuur_Wob_indienen",
+    "title": "Verzoek Wet openbaarheid van bestuur (Wob) indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Belastingen/Reclamebelasting",
+    "title": "Reclamebelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamebelasting"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Paspoort_rijbewijs_uittreksels/Bewijs_van_in_leven_zijn_attestatie_de_vita",
+    "title": "Bewijs van in leven zijn (attestatie de vita)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Vergunningen_en_meldingen/12_dagenregeling_aanvragen",
+    "title": "12-dagenregeling aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Inwoners/Geboorte_trouwen_en_overlijden/Registratie_levenloos_geboren_kind",
+    "title": "Registratie levenloos geboren kind ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gemeentesluis.nl/Ondernemers/Vergunningen_en_meldingen/Kansspel_organiseren",
+    "title": "Kansspel organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Sluis_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  }
+]

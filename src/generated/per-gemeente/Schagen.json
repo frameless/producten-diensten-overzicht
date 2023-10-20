@@ -1,0 +1,1871 @@
+[
+  {
+    "identifier": "https://www.schagen.nl/en/transportation-deceased-persons-netherlands",
+    "title": "Transportation of deceased persons from the Netherlands",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/verklaring-omtrent-het-gedrag-vog",
+    "title": "Verklaring omtrent het gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/proof-life-attestation-de-vita",
+    "title": "Proof of life (attestation de vita)",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/sondergenehmigung-fuer-das-befahren-von-stranduebergaengen-fuer-menschen-mit-behinderung",
+    "title": "Sondergenehmigung für das Befahren von Strandübergängen für Menschen mit Behinderung",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inrijverbodontheffing"
+  },
+  {
+    "identifier": "https://www.schagen.nl/schade-door-gemeente-0",
+    "title": "Schade door gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.schagen.nl/tip-compliment",
+    "title": "Tip of compliment",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/leegstandwet",
+    "title": "Leegstandwet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leegstandvergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/umzug-melden",
+    "title": "Umzug melden",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/sperrmuell",
+    "title": "Sperrmüll",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/bulky-waste",
+    "title": "Bulky waste",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.schagen.nl/naamskeuze-kind",
+    "title": "Naamskeuze kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.schagen.nl/trouwambtenaren",
+    "title": "Trouwambtenaren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ambtBurgStnd"
+  },
+  {
+    "identifier": "https://www.schagen.nl/naamswijziging-voornaam",
+    "title": "Naamswijziging voornaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voornaamwijziging"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/landvermesser",
+    "title": "Landvermesser",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/registrierung-totgeburt",
+    "title": "Registrierung Totgeburt",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/entsorgungskalender",
+    "title": "Entsorgungskalender",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.schagen.nl/bouwtekening-opvragen-en-inzien",
+    "title": "Bouwtekening opvragen en inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/direct-debit-taxes",
+    "title": "Direct debit taxes",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.schagen.nl/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/getting-married-abroad",
+    "title": "Getting married abroad",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/emigratie-doorgeven",
+    "title": "Emigratie doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/muellabfuhr",
+    "title": "Müllabfuhr",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.schagen.nl/bestemmingsplan",
+    "title": "Bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/change-forename",
+    "title": "Change of forename",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voornaamwijziging"
+  },
+  {
+    "identifier": "https://www.schagen.nl/gemeentearchief",
+    "title": "Gemeentearchief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/archiefInzage"
+  },
+  {
+    "identifier": "https://www.schagen.nl/tijdelijke-reclameborden",
+    "title": "Tijdelijke reclameborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.schagen.nl/geregistreerd-partnerschap-omzetten-huwelijk",
+    "title": "Geregistreerd partnerschap omzetten in huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/dyslexie",
+    "title": "Dyslexie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dyslexiezorg"
+  },
+  {
+    "identifier": "https://www.schagen.nl/alcoholwetvergunning-wijziging-inrichting",
+    "title": "Alcoholwetvergunning wijziging inrichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/property-value-assessment-woz-value",
+    "title": "Property value assessment (WOZ value)",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.schagen.nl/afvalinzamelkalender",
+    "title": "Afvalinzamelkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/heiraten-im-ausland",
+    "title": "Heiraten im Ausland",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/monumenten",
+    "title": "Monumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.schagen.nl/koninklijke-onderscheiding-aanvragen",
+    "title": "Koninklijke onderscheiding aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.schagen.nl/bijna-18-jaar",
+    "title": "Bijna 18 jaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/waste-collection-calendar",
+    "title": "Waste collection calendar",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.schagen.nl/huishoudelijk-afval",
+    "title": "Huishoudelijk afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/trouwen",
+    "title": "Trouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.schagen.nl/kamperen-buiten-een-officieel-kampeerterrein",
+    "title": "Kamperen buiten een officieel kampeerterrein",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kampeeronth"
+  },
+  {
+    "identifier": "https://www.schagen.nl/verloren-gevonden-voorwerpen",
+    "title": "Verloren of gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/abwassergebuehren",
+    "title": "Abwassergebühren",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/reporting-change-address",
+    "title": "Reporting a change of address",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.schagen.nl/klachten",
+    "title": "Klachten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/eingetragene-partnerschaft",
+    "title": "Eingetragene Partnerschaft",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/registered-partnership",
+    "title": "Registered partnership",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/hulp-bij-geldzaken-en-schulden",
+    "title": "Hulp bij geldzaken en schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/rectifying-inaccurate-personal-data",
+    "title": "Rectifying inaccurate personal data",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/leerplicht-en-kwalificatieplicht-van-5-tot-18-jaar",
+    "title": "Leerplicht en kwalificatieplicht van 5 tot 18 jaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.schagen.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/remission",
+    "title": "Remission",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.schagen.nl/jeugd-geestelijke-gezondheidszorg-ggz",
+    "title": "Jeugd geestelijke gezondheidszorg (ggz)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/openbare_geestelijke_gezondheidszorg_(oggz)"
+  },
+  {
+    "identifier": "https://www.schagen.nl/venten",
+    "title": "Venten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/conceptaanvraag-ruimtelijke-plannen",
+    "title": "Conceptaanvraag ruimtelijke plannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.schagen.nl/vermissing-gestolen-rijbewijs",
+    "title": "Vermissing of gestolen rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/choosing-your-childs-name",
+    "title": "Choosing your child's name",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.schagen.nl/regeling-open-club-initiatieven",
+    "title": "Regeling Open Club Initiatieven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/tweede-paspoort",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/woz-wert",
+    "title": "WOZ-Wert",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.schagen.nl/trouwen-het-buitenland",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/forensenbelasting",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.schagen.nl/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/registration-death",
+    "title": "Registration of death",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/business-passport",
+    "title": "Business passport",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "https://www.schagen.nl/compensatie-van-energiekosten",
+    "title": "Compensatie van energiekosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://www.schagen.nl/wateroverlast",
+    "title": "Wateroverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/welk-afval-welke-bak",
+    "title": "Welk afval in welke bak",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/uitbetaling",
+    "title": "Uitbetaling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.schagen.nl/jeugdhulp",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/refugee-passport",
+    "title": "Refugee passport",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.schagen.nl/volwasseneneducatie-en-taalonderwijs",
+    "title": "Volwasseneneducatie en taalonderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/registration-still-birth",
+    "title": "Registration of a still birth",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.schagen.nl/informatie-opvragen-woo-verzoek",
+    "title": "Informatie opvragen (Woo-verzoek)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/bewijs-van-garantstelling-enof-logiesverstrekking",
+    "title": "Bewijs van garantstelling en/of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.schagen.nl/meer-regelingen-voor-mensen-met-een-laag-inkomen",
+    "title": "Meer regelingen voor mensen met een laag inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.schagen.nl/rijbewijs-0",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/tourist-tax",
+    "title": "Tourist tax",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.schagen.nl/aangifte-van-overlijden",
+    "title": "Aangifte van overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.schagen.nl/echtscheiding-einde-geregistreerd-partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtschVerz"
+  },
+  {
+    "identifier": "https://www.schagen.nl/ontheffing-inrijverbod-strandslagen-beroepsmatig",
+    "title": "Ontheffing inrijverbod strandslagen beroepsmatig",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inrijverbodontheffing"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/driving-licence",
+    "title": "Driving licence",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/umzug-die-niederlande",
+    "title": "Umzug in die Niederlande",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.schagen.nl/collecteren",
+    "title": "Collecteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/incidentele-subsidie",
+    "title": "Incidentele subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.schagen.nl/wijziging-naamgebruik",
+    "title": "Wijziging naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.schagen.nl/alcoholwetvergunning-paracommercieel",
+    "title": "Alcoholwetvergunning paracommercieel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/asbusbijzetting-asverstrooiing-aanmelden",
+    "title": "Asbusbijzetting of asverstrooiing aanmelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/veranderingen-doorgeven",
+    "title": "Veranderingen doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vakMldWw"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/household-waste",
+    "title": "Household waste",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/erkenning-van-een-kind",
+    "title": "Erkenning van een kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/application-no-entry-exemption-beach-entrances-disabled-persons",
+    "title": "Application no-entry exemption for beach entrances for disabled persons",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inrijverbodontheffing"
+  },
+  {
+    "identifier": "https://www.schagen.nl/openingstijden-winkels",
+    "title": "Openingstijden winkels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdeninformatie"
+  },
+  {
+    "identifier": "https://www.schagen.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.schagen.nl/consult-bouwkundige-vragen",
+    "title": "Consult (bouwkundige vragen)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/identity-card",
+    "title": "Identity card",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.schagen.nl/hulp-schagen",
+    "title": "Hulp in Schagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/nee-nee-nee-ja-sticker",
+    "title": "nee-nee, nee-ja sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/uittreksel-afschrift-burgerlijke-stand",
+    "title": "Uittreksel of afschrift Burgerlijke Stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.schagen.nl/vervoer-overledene-naar-het-buitenland",
+    "title": "Vervoer overledene naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/basisregistratie-adressen-en-gebouwen-bag",
+    "title": "Basisregistratie adressen en gebouwen (bag)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bagInz"
+  },
+  {
+    "identifier": "https://www.schagen.nl/begrafenis-aanmelden",
+    "title": "Begrafenis aanmelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/woz-waarde",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/signature-legalisation",
+    "title": "Signature legalisation",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.schagen.nl/nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://www.schagen.nl/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.schagen.nl/ontheffing-inrijverbod-strandslagen-mindervalide",
+    "title": "Ontheffing inrijverbod strandslagen mindervalide",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inrijverbodontheffing"
+  },
+  {
+    "identifier": "https://www.schagen.nl/bezwaar-tegen-de-belastingaanslag-en-woz-waarde",
+    "title": "Bezwaar tegen de belastingaanslag en WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/melding-doen",
+    "title": "Melding doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.schagen.nl/urgentieverklaring",
+    "title": "Urgentieverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/urgentiebewijs_woningzoekende"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/parking-blue-zone",
+    "title": "Parking in the blue zone",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_blauwe_zone"
+  },
+  {
+    "identifier": "https://www.schagen.nl/boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.schagen.nl/naamswijziging-achternaam",
+    "title": "Naamswijziging achternaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.schagen.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/land-surveyor",
+    "title": "Land surveyor",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.schagen.nl/onroerendezaakbelasting-ozb",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.schagen.nl/adoptie",
+    "title": "Adoptie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adoptie"
+  },
+  {
+    "identifier": "https://www.schagen.nl/bezorging-van-reisdocumenten",
+    "title": "Bezorging van reisdocumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reisdocument"
+  },
+  {
+    "identifier": "https://www.schagen.nl/exploitatievergunning",
+    "title": "Exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.schagen.nl/weesfietsen-0",
+    "title": "Weesfietsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/dog-tax",
+    "title": "Dog tax",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.schagen.nl/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.schagen.nl/marktvergunning-westfriese-markt",
+    "title": "Marktvergunning Westfriese markt ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktstandplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/touristensteuer",
+    "title": "Touristensteuer",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.schagen.nl/pleegzorg",
+    "title": "Pleegzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/pleegkindverzorgingmelding"
+  },
+  {
+    "identifier": "https://www.schagen.nl/waarmerken-kopie-afschrift",
+    "title": "Waarmerken kopie of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/waarmerken_document"
+  },
+  {
+    "identifier": "https://www.schagen.nl/verzoek-tot-adresonderzoek",
+    "title": "Verzoek tot adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/waste-recycling-station",
+    "title": "Waste recycling station",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/parkeren-van-grote-voertuigen",
+    "title": "Parkeren van grote voertuigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_grote_voertuigen"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/abfallgebuehren",
+    "title": "Abfallgebühren",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.schagen.nl/ontkenning-vaderschap-door-de-moeder",
+    "title": "Ontkenning vaderschap door de moeder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vaderschapsontkenning_verklaring"
+  },
+  {
+    "identifier": "https://www.schagen.nl/regels-voor-hondenbezitters",
+    "title": "Regels voor hondenbezitters",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/afvalinzameling",
+    "title": "Afvalinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.schagen.nl/spandoeken",
+    "title": "Spandoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/spandoekvergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/change-surname",
+    "title": "Change surname",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/changing-your-name",
+    "title": "Changing your name",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.schagen.nl/regels-verordeningen-en-bekendmakingen",
+    "title": "Regels, verordeningen en bekendmakingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeenschappelijke_regelingen"
+  },
+  {
+    "identifier": "https://www.schagen.nl/budgetsubsidie",
+    "title": "Budgetsubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.schagen.nl/melding-geluid-en-licht",
+    "title": "Melding geluid en licht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.schagen.nl/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.schagen.nl/verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.schagen.nl/opgraven-en-herbegraven-cremeren",
+    "title": "Opgraven en herbegraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/opgraven_herbegraven_en_grafruimenvergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.schagen.nl/spreekuur-welstand",
+    "title": "Spreekuur welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/wertstoffhof",
+    "title": "Wertstoffhof",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/bijstandsuitkering",
+    "title": "Bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.schagen.nl/alcoholwetvergunning",
+    "title": "Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/dood-dier-opruimen",
+    "title": "Dood dier opruimen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/zweitwohnungssteuer",
+    "title": "Zweitwohnungssteuer",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.schagen.nl/vissen-met-staand-want",
+    "title": "Vissen met staand want",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/visvergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/property-taxes-ozb",
+    "title": "Property taxes (OZB)",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.schagen.nl/ontheffing-sluitingsuur",
+    "title": "Ontheffing sluitingsuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.schagen.nl/geregistreerd-partnerschap-0",
+    "title": "Geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/sloopmelding-slopen-van-gebouw-woning",
+    "title": "Sloopmelding, slopen van gebouw of woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.schagen.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.schagen.nl/bibob",
+    "title": "Bibob",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/integriteitsbeoordeling"
+  },
+  {
+    "identifier": "https://www.schagen.nl/gezondheidsverklaring",
+    "title": "Gezondheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbGezVerkl"
+  },
+  {
+    "identifier": "https://www.schagen.nl/inrit-aanleggen-aanpassen",
+    "title": "Inrit aanleggen of aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_inrit"
+  },
+  {
+    "identifier": "https://www.schagen.nl/bijstand-voor-zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.schagen.nl/terrasvergunning",
+    "title": "Terrasvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/verkeersregelaars-bij-evenementen",
+    "title": "Verkeersregelaars bij evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verkeersregelaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/betalingsregeling",
+    "title": "Betalingsregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetUitst"
+  },
+  {
+    "identifier": "https://www.schagen.nl/pasfoto",
+    "title": "Pasfoto",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/sewerage-charge",
+    "title": "Sewerage charge",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.schagen.nl/aanvraag-briefadres",
+    "title": "Aanvraag briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.schagen.nl/sportaccommodaties-en-velden",
+    "title": "Sportaccommodaties en velden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.schagen.nl/zakenpaspoort",
+    "title": "Zakenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "https://www.schagen.nl/aangifte-geboorte",
+    "title": "Aangifte geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/heiraten",
+    "title": "Heiraten",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.schagen.nl/bezwaar-en-beroep",
+    "title": "Bezwaar en beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/report-your-move-abroad",
+    "title": "Report your move abroad",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.schagen.nl/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/how-request-extra-or-new-container",
+    "title": "How to request an extra or a new container",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/einen-zusaetzlichen-oder-neuen-abfallbehaelter-beantragen",
+    "title": "Einen zusätzlichen oder neuen Abfallbehälter beantragen",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/waste-collection",
+    "title": "Waste collection",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.schagen.nl/voortijdig-schoolverlaters-van-18-tot-23-jaar",
+    "title": "Voortijdig schoolverlaters van 18 tot 23 jaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/begSchoolverl"
+  },
+  {
+    "identifier": "https://www.schagen.nl/langer-thuis-wonen-en-ondersteuning-bij-geestelijke-en-lichamelijke-beperkingen-wmo",
+    "title": "Langer thuis wonen en ondersteuning bij geestelijke en lichamelijke beperkingen (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/lastschrifteinzug-fuer-abgaben-0",
+    "title": "Lastschrifteinzug für Abgaben",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.schagen.nl/code-95-behouden-na-1-april-2020",
+    "title": "Code 95 behouden na 1 april 2020",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.schagen.nl/aanpassen-foute-persoonsgegevens",
+    "title": "Aanpassen foute persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/afvalbrengstation",
+    "title": "Afvalbrengstation",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/rijden-op-het-strand",
+    "title": "Rijden op het strand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afgezette_gebieden_betreden_ontheffing"
+  },
+  {
+    "identifier": "https://www.schagen.nl/straatartiest-straatfotograaf",
+    "title": "Straatartiest of straatfotograaf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/strArtOptrOnth"
+  },
+  {
+    "identifier": "https://www.schagen.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/welcher-abfall-gehoert-welchen-behaelter",
+    "title": "Welcher Abfall gehört in welchen Behälter",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/vinden-en-houden-van-werk",
+    "title": "Vinden en houden van werk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/registration-birth",
+    "title": "Registration of birth",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/second-home-tax",
+    "title": "Second-home tax",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.schagen.nl/afvalinzameling-hoogbouw",
+    "title": "Afvalinzameling hoogbouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/grofvuil",
+    "title": "Grofvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.schagen.nl/gemeentegrond-kopen-huren",
+    "title": "Gemeentegrond kopen of huren ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/subsidie-aanpassing-winkelpuien-0",
+    "title": "Subsidie aanpassing winkelpuien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/gebruiksmelding-brandveilig-gebruiken-van-bouwwerken",
+    "title": "Gebruiksmelding / brandveilig gebruiken van bouwwerken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.schagen.nl/jeugd-en-jongerenwerk",
+    "title": "Jeugd- en jongerenwerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/bewijs-van-leven-zijn-attestatie-de-vita",
+    "title": "Bewijs van in leven zijn (attestatie de vita)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.schagen.nl/weekmarkt-warmenhuizen",
+    "title": "Weekmarkt Warmenhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktstandplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/holiday-homes",
+    "title": "Holiday homes",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/ferienwohnungen",
+    "title": "Ferienwohnungen",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/haushaltsabfaelle",
+    "title": "Haushaltsabfälle",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/requesting-access-personal-data",
+    "title": "Requesting access to personal data",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/delivery-travel-documents",
+    "title": "Delivery of travel documents",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reisdocument"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/erlass",
+    "title": "Erlass",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.schagen.nl/landmeter",
+    "title": "Landmeter",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/het-afschermen-van-persoonsgegevens-uit-de-brp-geheimhouding",
+    "title": "Het afschermen van persoonsgegevens uit de BRP (geheimhouding)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/lost-and-found-items",
+    "title": "Lost and found items",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.schagen.nl/recreatiewoningen-0",
+    "title": "Recreatiewoningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/gemeentelijke-onderscheidingen",
+    "title": "Gemeentelijke onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentelijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/second-passport",
+    "title": "Second passport",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/municipal-tax-regulations",
+    "title": "Municipal tax regulations",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/proof-sponsorship-andor-private-accommodation",
+    "title": "Proof of sponsorship and/or private accommodation",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/abgabenverordnungen",
+    "title": "Abgabenverordnungen",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/kwijtschelding",
+    "title": "Kwijtschelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/korrektur-falscher-personenbezogener-daten",
+    "title": "Korrektur falscher personenbezogener Daten",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/duurzaamheidslening-0",
+    "title": "Duurzaamheidslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/duurzhLening"
+  },
+  {
+    "identifier": "https://www.schagen.nl/voorwerpen-op-aan-de-weg",
+    "title": "Voorwerpen op of aan de weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dienstverlening_op_of_aan_de_openbare_weg_vergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/wijziging-leidinggevende-op-de-alcoholwetvergunning",
+    "title": "Wijziging leidinggevende op de Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/inburgering",
+    "title": "Inburgering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/parken-der-blauen-zone",
+    "title": "Parken in der blauen Zone",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_blauwe_zone"
+  },
+  {
+    "identifier": "https://www.schagen.nl/meedoen-en-geluksbudget",
+    "title": "Meedoen en geluksbudget",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/tax-encroachments",
+    "title": "Tax on encroachments",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.schagen.nl/aanwezigheidsvergunning-kansspelautomaten",
+    "title": "Aanwezigheidsvergunning kansspelautomaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/open-haard-houtkachel-0",
+    "title": "Open haard of houtkachel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/which-waste-goes-which-bin",
+    "title": "Which waste goes in which bin",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/parkeerplaats-voor-gehandicapten",
+    "title": "Parkeerplaats voor gehandicapten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats_op_kenteken"
+  },
+  {
+    "identifier": "https://www.schagen.nl/weekmarkt-schagen",
+    "title": "Weekmarkt Schagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktstandplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/coming-live-netherlands",
+    "title": "Coming to live in the Netherlands",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.schagen.nl/automatische-incasso-belastingen",
+    "title": "Automatische incasso belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/zahlungsvereinbarung",
+    "title": "Zahlungsvereinbarung",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetUitst"
+  },
+  {
+    "identifier": "https://www.schagen.nl/adres-en-woonfraude",
+    "title": "Adres- en woonfraude",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.schagen.nl/opvoedinformatie",
+    "title": "Opvoedinformatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/opvoedingsondersteuning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/rioolverstopping",
+    "title": "Rioolverstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/passport",
+    "title": "Passport",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/getting-married",
+    "title": "Getting married",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.schagen.nl/beslist-de-gemeente-niet-op-tijd",
+    "title": "Beslist de gemeente niet op tijd?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/standplaats",
+    "title": "Standplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/ongedierte-bestrijding",
+    "title": "Ongedierte bestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/objecting-tax-assessment-notice-and-property-valuation-woz-value",
+    "title": "Objecting to the tax assessment notice and the property valuation (WOZ value)",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/parkeren-blauwe-zone",
+    "title": "Parkeren in blauwe zone ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_blauwe_zone"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/certified-copy-or-extract",
+    "title": "Certified copy or extract",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/waarmerken_document"
+  },
+  {
+    "identifier": "https://www.schagen.nl/gemeentegrond-pachten",
+    "title": "Gemeentegrond pachten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/extra-nieuwe-container-aanvragen-0",
+    "title": "Extra of nieuwe container aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/vergunningsvrij-bouwen",
+    "title": "Vergunningsvrij bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.schagen.nl/bewijs-van-nederlander-zijn",
+    "title": "Bewijs van Nederlander zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/waste-collection-charge",
+    "title": "Waste collection charge",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.schagen.nl/jeugdgezondheidszorg",
+    "title": "Jeugdgezondheidszorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/extract-key-register-persons-brp",
+    "title": "Extract from Key Register of Persons (BRP)",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/extract-or-copy-civil-register",
+    "title": "Extract or copy from the civil register",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.schagen.nl/activiteitensubsidie-0",
+    "title": "Activiteitensubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.schagen.nl/legalisatie-handtekening",
+    "title": "Legalisatie handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.schagen.nl/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.schagen.nl/belastingverordeningen",
+    "title": "Belastingverordeningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/riolering",
+    "title": "Riolering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/payment-arrangement",
+    "title": "Payment arrangement",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetUitst"
+  },
+  {
+    "identifier": "https://www.schagen.nl/opvragen-persoonsgegevens-door-notarissen-en-advocaten",
+    "title": "Opvragen persoonsgegevens door notarissen en advocaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "https://www.schagen.nl/individuele-studietoeslag",
+    "title": "Individuele studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.schagen.nl/mishandeling-en-huiselijk-geweld",
+    "title": "Mishandeling en huiselijk geweld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huiselijk_geweldondersteuning"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/certificate-good-conduct-vog",
+    "title": "Certificate of good conduct (VOG)",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.schagen.nl/gemeentelijke-begraafplaatsen",
+    "title": "Gemeentelijke begraafplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_begraafplaats_toestemming"
+  },
+  {
+    "identifier": "https://www.schagen.nl/dierenopvang-en-vervoer",
+    "title": "Dierenopvang en vervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dierenopvang"
+  },
+  {
+    "identifier": "https://www.schagen.nl/verzekering-voor-vrijwilligers-vrijwilligersverzekering",
+    "title": "Verzekering voor vrijwilligers (vrijwilligersverzekering)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.schagen.nl/uittreksel-persoonsgegevens-brp",
+    "title": "Uittreksel persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/widerspruch-gegen-steuerbescheid-und-woz-wert",
+    "title": "Widerspruch gegen Steuerbescheid und WOZ-Wert",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://www.schagen.nl/precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.schagen.nl/en/acknowledging-child",
+    "title": "Acknowledging a child",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.schagen.nl/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.schagen.nl/registratie-levenloos-geboren-kind",
+    "title": "Registratie levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.schagen.nl/de/grundsteuer-onroerendezaakbelasting-kurz-ozb",
+    "title": "Grundsteuer (Onroerendezaakbelasting, kurz OZB)",
+    "language": "de",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schagen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  }
+]

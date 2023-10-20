@@ -1,0 +1,512 @@
+[
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Paspoort_rijbewijs_en_uittreksels/Identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vrije_tijd_en_cultuur/Subsidie_aanvragen",
+    "title": "Subsidie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Paspoort_rijbewijs_en_uittreksels/Nederlandse_nationaliteit_via_optieprocedure",
+    "title": "Nederlandse nationaliteit via optieprocedure",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Paspoort_rijbewijs_en_uittreksels/Bewijs_van_in_leven_zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Paspoort_rijbewijs_en_uittreksels/Paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Rioolaansluiting",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Asbest_verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Wonen_en_leefomgeving/Verhuizing_naar_buitenland_doorgeven",
+    "title": "Verhuizing naar buitenland doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Geboorte_trouwen_en_overlijden/Begraven/Herbegraven_of_alsnog_cremeren",
+    "title": "Herbegraven of alsnog cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/herbegraven_of_alsnog_cremeren"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Regels_voor_straatartiesten",
+    "title": "Regels voor straatartiesten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Kabels_en_leidingen_leggen",
+    "title": "Kabels en leidingen leggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Speelautomaten_exploiteren",
+    "title": "Speelautomaten exploiteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Paspoort_rijbewijs_en_uittreksels/Voornaam_wijzigen",
+    "title": "Voornaam wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Klein_kansspel_organiseren",
+    "title": "Klein kansspel organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Wonen_en_leefomgeving/Briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Bord_of_spandoek_plaatsen_langs_openbare_weg",
+    "title": "Bord of spandoek plaatsen langs openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Paspoort_rijbewijs_en_uittreksels/Bewijs_van_Nederlandse_nationaliteit",
+    "title": "Bewijs van Nederlandse nationaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Bouwen_en_ver_bouwen/Monumenten/Monument_aanwijzen",
+    "title": "Monument aanwijzen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Bomen_kappen",
+    "title": "Bomen kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Venten",
+    "title": "Venten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Paspoort_rijbewijs_en_uittreksels/Gezondheidsverklaring_CBR",
+    "title": "Gezondheidsverklaring CBR",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Paspoort_rijbewijs_en_uittreksels/Nederlandse_nationaliteit_via_naturalisatie",
+    "title": "Nederlandse nationaliteit via naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Textiel_inzamelen",
+    "title": "Textiel inzamelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Bouwen_en_ver_bouwen/Bodem_en_ondergrond/Rioolontstopping",
+    "title": "Rioolontstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Omgevingsvergunning_monument",
+    "title": "Omgevingsvergunning monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Paspoort_rijbewijs_en_uittreksels/Achternaam_wijzigen",
+    "title": "Achternaam wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Alcohol_schenken_en_of_verkopen",
+    "title": "Alcohol schenken en/of verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Evenement_organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Paspoort_rijbewijs_en_uittreksels/Verklaring_omtrent_gedrag_VOG",
+    "title": "Verklaring omtrent gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Afvalwater_lozen_op_de_riolering",
+    "title": "Afvalwater lozen op de riolering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Bouwen_en_ver_bouwen/Inzage_bouwtekeningen_en_bouwplannen",
+    "title": "Inzage bouwtekeningen en bouwplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Vuur_stoken_in_de_openlucht",
+    "title": "Vuur stoken in de openlucht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Wonen_en_leefomgeving/Hervestiging_vanuit_het_buitenland",
+    "title": "(Her)vestiging vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Uitrit_melding",
+    "title": "Uitrit, melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Geboorte_trouwen_en_overlijden/Geboorte/Kind_erkennen",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Wonen_en_leefomgeving/Inschrijving_in_Nederland",
+    "title": "Inschrijving in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Paspoort_rijbewijs_en_uittreksels/Handtekening_laten_legaliseren",
+    "title": "Handtekening laten legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Collecteren",
+    "title": "Collecteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Geboorte_trouwen_en_overlijden/Geboorte/Achternaam_voor_je_kind_kiezen",
+    "title": "Achternaam voor je kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Paspoort_rijbewijs_en_uittreksels/Rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Seksbedrijf_exploitatievergunning",
+    "title": "Seksbedrijf exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/seksbedrijf_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Geboorte_trouwen_en_overlijden/Geboorte/Geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Geboorte_trouwen_en_overlijden/Begraven/Aangifte_doen_van_overlijden",
+    "title": "Aangifte doen van overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Incidentele_festiviteit_organiseren",
+    "title": "Incidentele festiviteit organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Brandveilig_gebruik_gebouwen",
+    "title": "Omgevingsvergunning brandveilig gebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Omgevingsvergunning_milieu",
+    "title": "Omgevingsvergunning milieu",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Geboorte_trouwen_en_overlijden/Verklaring_persoonsgegevens_afleggen",
+    "title": "Verklaring persoonsgegevens afleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Geboorte_trouwen_en_overlijden/Begraven/Uitstel_van_begraven_of_cremeren",
+    "title": "Uitstel van begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Geboorte_trouwen_en_overlijden/Geboorte/Achternaam_voor_uw_kind_kiezen_bij_erkenning",
+    "title": "Achternaam voor je kind kiezen bij erkenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Terrasvergunning",
+    "title": "Terrasvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Ontheffing_winkelopenstelling",
+    "title": "Ontheffing winkelopenstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Bestuur_en_organisatie/Bezwaar_en_beroep_zienswijzen_en_klachten/Bezwaarschrift_indienen",
+    "title": "Bezwaarschrift indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Milieumelding_doen",
+    "title": "Milieumelding doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wet_milieubeheermelding"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Paspoort_rijbewijs_en_uittreksels/Persoonsgegevens_inzage_correctie_verwijderen",
+    "title": "Persoonsgegevens inzage, correctie, verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Paspoort_rijbewijs_en_uittreksels/Uittreksel_persoonsgegevens",
+    "title": "Uittreksel persoonsgegevens (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Geboorte_trouwen_en_overlijden/Begraven/Grafuitgifte",
+    "title": "Grafuitgifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Uitstalling_plaatsen_bij_een_winkel",
+    "title": "Uitstalling plaatsen bij een winkel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Paspoort_rijbewijs_en_uittreksels/Uittreksel_burgerlijke_stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Bouwen_en_ver_bouwen/Planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Sloopmelding",
+    "title": "Sloopmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Wonen_en_leefomgeving/Verhuizing_doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Horecabedrijf_exploitatievergunning",
+    "title": "Horecabedrijf exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Geboorte_trouwen_en_overlijden/Echtscheiding_of_ontbinding_partnerschap",
+    "title": "Echtscheiding of ontbinding partnerschap ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Bestuur_en_organisatie/Bezwaar_en_beroep_zienswijzen_en_klachten/Beroepschrift_indienen",
+    "title": "Beroepschrift indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/beroep"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Loterij_organiseren",
+    "title": "Loterij organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Sloopvergunning",
+    "title": "Sloopvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Geboorte_trouwen_en_overlijden/Trouwen/Andere_achternaam_gebruiken",
+    "title": "Andere achternaam gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Paspoort_rijbewijs_en_uittreksels/Geheimhouding_persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Reclame_plaatsen",
+    "title": "Reclame plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Bouwen_en_ver_bouwen/Een_omgevingsvergunning_aanvragen/Vergunningvrij_bouwen_en_verbouwen",
+    "title": "Vergunningvrij bouwen en verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Bestuur_en_organisatie/Bezwaar_en_beroep_zienswijzen_en_klachten/Klacht_indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Bouwen_en_ver_bouwen/Bodem_en_ondergrond/Bodemonderzoek",
+    "title": "Bodemonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Demonstratie_of_betoging_houden",
+    "title": "Demonstratie of betoging houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/betogDemonsMld"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Bestuur_en_organisatie/Bezwaar_en_beroep_zienswijzen_en_klachten/Zienswijze_bij_een_planologische_procedure",
+    "title": "Zienswijze bij een planologische procedure",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Paspoort_rijbewijs_en_uittreksels/Naturalisatieceremonie",
+    "title": "Naturalisatieceremonie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieceremonie"
+  },
+  {
+    "identifier": "https://www.hattem.nl/Inwoners/Vergunningen/Alcohol_tijdelijk_schenken",
+    "title": "Alcohol tijdelijk schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hattem_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  }
+]

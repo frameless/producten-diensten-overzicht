@@ -1,0 +1,892 @@
+[
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/sport-cultuur-vrije-tijd/inwonersinitiatieven/",
+    "title": "Inwonersinitiatieven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-taalnetwerken/",
+    "title": "Subsidieregeling Taalnetwerken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/geboorte-trouwen-overlijden/overlijden/",
+    "title": "Overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/klachten-of-overlast-bedrijven/",
+    "title": "Klachten of overlast bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/omgevingsvergunning/",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/reisdocumenten-rijbewijs-uittreksels/paspoort/",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-gezond-opgroeien-onderwijs/",
+    "title": "Subsidieregeling gezond opgroeien onderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/onderwijssubsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/afval-milieu-duurzaamheid/laadpaal-elektrische-auto/",
+    "title": "Laadpaal elektrische auto",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/laadpaalverzoek"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/reisdocumenten-rijbewijs-uittreksels/nederlander-worden-door-naturalisatie/",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/naturalOptie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/rioolheffing/",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/melding-doen/",
+    "title": "Melding doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/zorg-ondersteuning/gehandicaptenparkeerplaats/",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/bezwaar-op-belastingaanslag/",
+    "title": "Bezwaar op belastingaanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/liggelden/",
+    "title": "Liggelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/ligplaatsvergunning"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/wonen-verhuizen-verbouwen/verhuizing/",
+    "title": "Verhuizing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/wonen-verhuizen-verbouwen/asbest/",
+    "title": "Asbest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/geboorte-trouwen-overlijden/geheimhouding-persoonsgegevens/",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/demonstratie-of-betoging-melden/",
+    "title": "Demonstratie of betoging melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/betogDemonsMld"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/jaarlijkse-subsidie/",
+    "title": "Jaarlijkse subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/geboorte-trouwen-overlijden/echtscheiding-of-einde-geregistreerd-partnerschap/",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/gevonden-of-verloren/",
+    "title": "Gevonden of verloren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/evenement-organiseren/",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/geboorte-trouwen-overlijden/trouwen-of-geregistreerd-partnerschap/",
+    "title": "Trouwen of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/tijdelijk-verhuur/",
+    "title": "Tijdelijk verhuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/onroerendezaak_huur_pacht_koop"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/sport-cultuur-vrije-tijd/standplaats-weekmarkt/",
+    "title": "Standplaats weekmarkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/afval-milieu-duurzaamheid/afvalstoffenheffing/",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/reisdocumenten-rijbewijs-uittreksels/verklaring-omtrent-gedrag-vog/",
+    "title": "Verklaring Omtrent Gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/werk-inkomen/wijziging-doorgeven-bijstandsuitkering/",
+    "title": "Wijziging doorgeven bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/ondernemen/incidentele-festiviteiten/",
+    "title": "Incidentele festiviteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/collIncFest"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/onroerendezaakbelasting/",
+    "title": "Onroerendezaakbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-aanvullende-activiteiten-voor-en-vroegschoolse-educatie/",
+    "title": "Subsidieregeling aanvullende activiteiten Voor- en vroegschoolse educatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderwijssubsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/planologisch-verzoek/",
+    "title": "Planologisch verzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/beweegbare-palen/",
+    "title": "Beweegbare palen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/afgezette_gebieden_betreden_ontheffing"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/wonen-verhuizen-verbouwen/aansluiting-gemeenteriool/",
+    "title": "Aansluiting gemeenteriool",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/werk-inkomen/vrijwilligersverzekering/",
+    "title": "Vrijwilligersverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/geboorte-trouwen-overlijden/gebruik-achternaam/",
+    "title": "Gebruik achternaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/aansprakelijk-stellen/",
+    "title": "Aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-witgoed/",
+    "title": "Subsidieregeling witgoed",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/forensenbelasting/",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/werk-inkomen/studietoeslag/",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/standplaatsvergunning/",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/reisdocumenten-rijbewijs-uittreksels/nederlander-worden-door-optie/",
+    "title": "Nederlander worden door optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/naturalOptie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/geboorte-trouwen-overlijden/geboorteaangifte/",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/zorg-ondersteuning/gehandicaptenparkeerkaart/",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/faciliteiten-en-ontheffingen/",
+    "title": "Faciliteiten en ontheffingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/afval-milieu-duurzaamheid/afvalpas/",
+    "title": "Afvalpas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/toeristenbelasting-en-watertoeristenbelasting/",
+    "title": "Toeristenbelasting en watertoeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/werk-inkomen/individuele-inkomenstoeslag/",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/woonoverlast/",
+    "title": "Woonoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/ongewVoorvalmeld"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/ongediertebestrijding/",
+    "title": "Ongediertebestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/uitrit-of-inrit-aanvragen/",
+    "title": "Uitrit of inrit aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/zorg-ondersteuning/hulp-en-hulpmiddelen/",
+    "title": "Hulp en hulpmiddelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/standplaats-jouster-merke/",
+    "title": "Standplaats Jouster Merke",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/marktvergunning"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/ondernemen/terrasvergunning/",
+    "title": "Terrasvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/tijdelijk-gebruik-gemeentegrond/",
+    "title": "Tijdelijk gebruik gemeentegrond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/geboorte-trouwen-overlijden/kind-erkennen/",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/afval-milieu-duurzaamheid/mijn-container-is-te-klein-te-groot/",
+    "title": "Mijn container is te klein / te groot",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/reinigingsrecht/",
+    "title": "Reinigingsrecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/reinigingsrecht"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/reisdocumenten-rijbewijs-uittreksels/rijbewijs/",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-tuk-wenjen-aanvullende-adviesproducten/",
+    "title": "Subsidieregeling Tûk Wenjen aanvullende adviesproducten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/reisdocumenten-rijbewijs-uittreksels/handtekening-legaliseren/",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/werk-inkomen/gratis-id-kaart-minderjarige-kinderen-minima/",
+    "title": "Gratis ID-kaart minderjarige kinderen minima",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/werk-inkomen/ioaw-uitkering-aanvragen/",
+    "title": "IOAW-uitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/ioaw-uitkering"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/criminaliteit-en-ondermijning/",
+    "title": "Criminaliteit en ondermijning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/ongewVoorvalmeld"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/belasting-betalen/",
+    "title": "Belasting betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/belastingaanslag_kopie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/werk-inkomen/ioaz-uitkering-aanvragen/",
+    "title": "IOAZ-uitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/ioaz-uitkering"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-rijksmonumenten/",
+    "title": "Subsidieregeling Rijksmonumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/wonen-verhuizen-verbouwen/briefadres/",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/gebruik-openbare-weg/",
+    "title": "Gebruik openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/klacht-medewerker-of-bestuurder/",
+    "title": "Klacht medewerker of bestuurder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/milieuvergunning-en-milieumelding/",
+    "title": "Milieuvergunning en milieumelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidie-noodfonds-verhoogde-energie-en-of-huurkosten-voor-verenigingen-maatschappelijke-en-vrijwilligersorganisaties-op-het-gebied-van-sport-bewegen-kunst-cultuur-en-welzijn/",
+    "title": "Subsidie ‘Noodfonds verhoogde energie- en/of huurkosten voor verenigingen, maatschappelijke- en vrijwilligersorganisaties op het gebied van sport &amp; bewegen, kunst &amp; cultuur en welzijn’",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/ondernemen/slijterijen/",
+    "title": "Slijterijen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/zorg-ondersteuning/mantelzorgwaardering/",
+    "title": "Mantelzorgwaardering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/geboorte-trouwen-overlijden/onjuiste-persoonsgegevens-aanpassen/",
+    "title": "Onjuiste persoonsgegevens aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/ondernemen/paracommerciele-horecavergunning/",
+    "title": "Paracommerciële horecavergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/carbidschieten/",
+    "title": "Carbidschieten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/carbidschietenmelding"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/wegen-water-natuur/langweer-pont-langwarder-feart/",
+    "title": "Langweer - Pont Langwarder Feart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/precariobelasting/",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/belastingaanslag/",
+    "title": "Belastingaanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/belastingaanslag_kopie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-ondersteuning-sport-cultuur-en-welzijn-tijdens-en-na-corona/",
+    "title": "Subsidieregeling ondersteuning sport, cultuur en welzijn tijdens en na corona",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/stoken-van-vuur/",
+    "title": "Stoken van vuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-gemeentelijke-monumenten/",
+    "title": "Subsidieregeling gemeentelijke monumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/wonen-verhuizen-verbouwen/gemeentegrond-kopen-of-huren/",
+    "title": "Gemeentegrond kopen of huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/zorg-ondersteuning/eigen-bijdrage-betalen-wmo/",
+    "title": "Eigen bijdrage betalen (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/reisdocumenten-rijbewijs-uittreksels/uittreksel-brp/",
+    "title": "Uittreksel BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-inwonersinitiatieven/",
+    "title": "Subsidieregeling inwonersinitiatieven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/parkeerverbod/",
+    "title": "Parkeerverbod",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/reisdocumenten-rijbewijs-uittreksels/document-legaliseren-of-verifieren/",
+    "title": "Document legaliseren of verifiëren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-meidwaan-yn-de-fryske-marren/",
+    "title": "Subsidieregeling meidwaan yn De Fryske Marren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/afval-milieu-duurzaamheid/mijn-container-is-niet-geleegd/",
+    "title": "Mijn container is niet geleegd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-duurzaamheid-de-fryske-marren/",
+    "title": "Subsidieregeling duurzaamheid De Fryske Marren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/biz-heffing-midstraat-joure/",
+    "title": "BIZ-heffing Midstraat Joure",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/biz-bijdrage"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-culturele-activiteiten/",
+    "title": "Subsidieregeling culturele activiteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-nationaal-programma-onderwijs/",
+    "title": "Subsidieregeling nationaal programma onderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/onderwijssubsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/openbare-verlichting/",
+    "title": "Openbare verlichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(straatverlichting)"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/werk-inkomen/bijzondere-bijstand/",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-groen-en-blauwe-maatregelen/",
+    "title": "Subsidieregeling groen- en blauwe maatregelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-advies-eigen-woning/",
+    "title": "Subsidieregeling advies eigen woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/uitkeringsfraude-doorgeven/",
+    "title": "Uitkeringsfraude doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/kwijtschelding/",
+    "title": "Kwijtschelding aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/reisdocumenten-rijbewijs-uittreksels/bewijs-van-nederlanderschap/",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/collecteren/",
+    "title": "Collecteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/werk-inkomen/uitbetaling-bijstandsuitkering/",
+    "title": "Uitbetaling bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/werk-inkomen/koninklijke-onderscheiding-lintje/",
+    "title": "Koninklijke onderscheiding (Lintje)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/werk-inkomen/gemeentelijke-erepenning/",
+    "title": "Gemeentelijke erepenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/gemeentelijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/werk-inkomen/tegemoetkoming-in-de-kosten-van-kinderopvang/",
+    "title": "Tegemoetkoming in de kosten van kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/KinderOpvToeslagTegemoetk"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-armoedebeleid/",
+    "title": "Subsidieregeling armoedebeleid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-verkeerseducatie/",
+    "title": "Subsidieregeling verkeerseducatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/reisdocumenten-rijbewijs-uittreksels/uittreksel-burgerlijke-stand/",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/blauwe-zones/",
+    "title": "Blauwe zones",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/parkeerontheffing_blauwe_zone"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/geboorte-trouwen-overlijden/adoptie/",
+    "title": "Adoptie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/adoptie_aangifte"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/werk-inkomen/bijstandsuitkering-aanvragen/",
+    "title": "Bijstandsuitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/werk-inkomen/av-frieso-collectieve-zorgverzekering/",
+    "title": "AV Frieso (collectieve zorgverzekering)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/werk-inkomen/minimaregeling-en-kindvoorzieningen/",
+    "title": "Minimaregeling en kindvoorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/ondernemen/commerciele-horecavergunning/",
+    "title": "Commerciële horecavergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/evenementenkalender/",
+    "title": "Evenementenkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/reisdocumenten-rijbewijs-uittreksels/bewijs-van-in-leven-zijn/",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/plaatsen-evenementborden/",
+    "title": "Plaatsen evenementborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/sport-cultuur-vrije-tijd/sportaccommodatie-reserveren/",
+    "title": "Sportaccommodatie reserveren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/geboorte-trouwen-overlijden/naamkeuze-kind/",
+    "title": "Naamkeuze kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/werk-inkomen/energietoeslag/",
+    "title": "Energietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/reisdocumenten-rijbewijs-uittreksels/identiteitskaart/",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/taxatieverslag-2/",
+    "title": "Taxatieverslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/woz-taxatieverslag"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/afval-milieu-duurzaamheid/mijn-container-is-kapot/",
+    "title": "Mijn container is kapot",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/vergunningen-toestemming/vergunningsvrij-bouwen-en-verbouwen/",
+    "title": "Vergunningsvrij bouwen en verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/jeugd-gezin-onderwijs/leerlingenvervoer-aanvragen-of-wijzigen/",
+    "title": "Leerlingenvervoer aanvragen of wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/belastingen-subsidies/subsidieregeling-internationale-betrekkingen/",
+    "title": "Subsidieregeling internationale betrekkingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://defryskemarren.nl/direct-regelen/ondernemen/bedrijventerreinen/",
+    "title": "Bedrijventerreinen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/De_Fryske_Marren",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsterrein-huren-of-kopen"
+  }
+]

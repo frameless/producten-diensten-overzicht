@@ -1,0 +1,940 @@
+[
+  {
+    "identifier": "https://www.noordoostpolder.nl//registration-of-birth",
+    "title": "Registration of birth",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//gevonden-of-verloren-voorwerpen",
+    "title": "Gevonden of verloren voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//online-rijbewijs-verlengen-of-uitbreiden",
+    "title": "Online rijbewijs verlengen of uitbreiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbVerlengen"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//sociaal-loket",
+    "title": "Sociaal Loket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//hulp-bij-schulden",
+    "title": "Hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//aansprakelijk-stellen-gemeente",
+    "title": "Aansprakelijk stellen gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//fraude-met-een-bijstandsuitkering",
+    "title": "Fraude met een bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//geen-uitkering-en-wel-op-zoek-naar-werk",
+    "title": "Geen uitkering en wel op zoek naar werk?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/werkbegeleiding_werkzoekenden"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//sportaccommodatie-huren",
+    "title": "Sportaccommodatie huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//meteen-melden",
+    "title": "Meteen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//hervestiging-vanuit-het-buitenland",
+    "title": "Hervestiging vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hervestiging_vanuit_het_buitenland"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//achternaam-partner-gebruiken",
+    "title": "Achternaam partner gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//tijdelijke-ontheffing-alcohol-verkopen",
+    "title": "Tijdelijke ontheffing alcohol verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zwAlcDrankVerk"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//melding-psychische-hulp",
+    "title": "Melding psychische hulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/psychiatrisch_ziekenhuis_gedwongen_opname"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//sloop-melden",
+    "title": "Sloop melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//ecologische-bermen",
+    "title": "Ecologische bermen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//leningen-en-subsidies-voor-woningen",
+    "title": "Leningen en subsidies voor woningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woningbouwsubsidie"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//leerplicht-en-kwalificatieplicht",
+    "title": "Leerplicht en kwalificatieplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtverzuimmelding"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//regiotaxi",
+    "title": "Regiotaxi",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/regiotaxi"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//participatieraad",
+    "title": "Participatieraad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zorgvoorzieningensubsidie"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//bedrijventerrein",
+    "title": "Bedrijventerrein",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsterrein_huren_of_kopen"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//andere-vergunningen",
+    "title": "Andere vergunningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//exploitatievergunning",
+    "title": "Exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//uittreksel-aanvragen",
+    "title": "Uittreksel aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbesluit"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//kavels-en-groenstroken",
+    "title": "Kavels en groenstroken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwgronduitgifte"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//werk-aan-de-weg",
+    "title": "Werk aan de weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//aangifte-van-overlijden",
+    "title": "Aangifte van overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//werken-in-openbaar-gebied",
+    "title": "Werken in openbaar gebied",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//gemeentearchief",
+    "title": "Gemeentearchief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentearchief_inzage"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//laadpalen",
+    "title": "Laadpalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//garantstelling-visum-kort-verblijf",
+    "title": "Garantstelling visum kort verblijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//afval-brengen",
+    "title": "Afval brengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//gemeentebelastingen-betalen",
+    "title": "Gemeentebelastingen betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//scootmobiel-uitleenpunten",
+    "title": "Scootmobiel uitleenpunten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//eerste-inschrijving-in-nederland",
+    "title": "Eerste inschrijving in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//duurzaamheidslening",
+    "title": "Duurzaamheidslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/duurzhLening"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//bouwen-en-verbouwen",
+    "title": "Bouwen en verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwvoorschriften"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//alcoholvergunning",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//burgerinitiatief",
+    "title": "Burgerinitiatief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//noordoostpolder-beweegt",
+    "title": "Noordoostpolder beweegt!",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportactiviteitensubsidie"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//acknowledging-child",
+    "title": "Acknowledging child",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//algemene-inkoopvoorwaarden-voor-leveringen-en-diensten-2023",
+    "title": "Algemene Inkoopvoorwaarden voor  leveringen en diensten 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inkoop"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//milieumelding-vergunning",
+    "title": "Milieumelding of -vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(milieu)"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//monument-verbouwen-en-restaureren",
+    "title": "Monument verbouwen en restaureren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentaanwijzing"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//containers-en-milieupas",
+    "title": "Containers en milieupas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//wijzigingen-melden-bijstandsuitkering",
+    "title": "Wijzigingen melden bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//wegafsluitingen",
+    "title": "Wegafsluitingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//aangifte-geboorte",
+    "title": "Aangifte geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//openingstijden-en-contact",
+    "title": "Openingstijden en contact",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//klein-kansspel-of-loterij-organiseren",
+    "title": "Klein kansspel of loterij organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//ondersteuning-bij-werving-en-selectie",
+    "title": "Ondersteuning bij werving en selectie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/werkbegeleiding_werkzoekenden"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//vuurwerk-afsteken-en-carbidschieten",
+    "title": "Vuurwerk afsteken en carbidschieten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/carbidschietenmelding"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//aankondigingsborden",
+    "title": "Aankondigingsborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/spandoekvergunning"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//registratie-levenloos-geboren-kind",
+    "title": "Registratie levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//huishoudelijke-ondersteuning",
+    "title": "Huishoudelijke ondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//voorzieningen-voor-iedereen",
+    "title": "Voorzieningen voor iedereen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//vroeg-eropaf-samen-geldzorgen-aanpakken",
+    "title": "Vroeg Eropaf, samen geldzorgen aanpakken!",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//woo-verzoek-indienen",
+    "title": "Woo-verzoek indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verzoek_overheidsinformatie"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//rijbewijs-aanvragen-voor-de-eerste-keer",
+    "title": "Rijbewijs aanvragen voor de eerste keer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbAanvraag"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//subsidies",
+    "title": "Subsidies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/economische_ontwikkelingssubsidie"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//antireclamesticker",
+    "title": "Antireclamesticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//adviseurs-voor-ondernemers",
+    "title": "Adviseurs voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/startend_ondernemerschapsubsidie"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//uitkeringsspecificatie-en-jaaropgave",
+    "title": "Uitkeringsspecificatie en jaaropgave",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//meedoenpakket-ouderen",
+    "title": "Meedoenpakket Ouderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//trouwen-of-geregistreerd-partnerschap",
+    "title": "Trouwen of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//strooien-bij-gladheid",
+    "title": "Strooien bij gladheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//honden-uitlaten",
+    "title": "Honden uitlaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//meedoenpakket-jongeren",
+    "title": "Meedoenpakket Jongeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//werk-zoeken",
+    "title": "Werk zoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/werkbegeleiding_werkzoekenden"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//begraven",
+    "title": "Begraven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafrechten"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//aan-de-balie-rijbewijs-verlengen-of-uitbreiden",
+    "title": "Aan de balie rijbewijs verlengen of uitbreiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbVerlengen"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//kwijtschelding-van-gemeentebelastingen",
+    "title": "Kwijtschelding van gemeentebelastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//vergoeding-planschade",
+    "title": "Vergoeding planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_schadevergoeding"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//wmo-voorzieningen",
+    "title": "Wmo-voorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//onroerendezaakbelasting-en-woz-waarde",
+    "title": "Onroerendezaakbelasting en WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//meldpunt-overbodige-regels",
+    "title": "Meldpunt overbodige regels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//uitkering-aanvragen",
+    "title": "Uitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//subsidie",
+    "title": "Subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulpverlening_en_jongerenwerksubsidie"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//erkennen-van-een-kind",
+    "title": "Erkennen van een kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//geheimhouding-aanvragen-of-stopzetten",
+    "title": "Geheimhouding aanvragen of stopzetten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-geheimhoudingsverzoek"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//lokale-wetten-en-regels",
+    "title": "Lokale wetten en regels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeenschappelijke_regelingen"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//jeugdhulp",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//koninklijke-onderscheidingen",
+    "title": "Koninklijke onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//bruggen-en-sluizen",
+    "title": "Bruggen en sluizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//achternaam-kiezen-voor-uw-kind",
+    "title": "Achternaam kiezen voor uw kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//verklaring-omtrent-gedrag",
+    "title": "Verklaring omtrent gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//advies-en-inkoopactie-duurzame-maatregelen",
+    "title": "Advies- en inkoopactie duurzame maatregelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/energBespEigenHuisSubs"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//aanmeld-en-registratieplicht-voor-handelaren-opkopers",
+    "title": "Aanmeld- en registratieplicht voor handelaren / opkopers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/opkoperreg"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//uw-gemeentebelastingen-online-inzien",
+    "title": "Uw gemeentebelastingen online inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//tegemoetkoming-chronisch-zieken-en-gehandicapten",
+    "title": "Tegemoetkoming chronisch zieken en gehandicapten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//inkoop-en-aanbesteding",
+    "title": "Inkoop en aanbesteding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inkoop"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//bedrijfsafval",
+    "title": "Bedrijfsafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalinzameling"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//burgerpanel",
+    "title": "Burgerpanel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//melden-onveilige-verkeerssituatie",
+    "title": "Melden onveilige verkeerssituatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verkeerscirculatie"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//afval-inzameling",
+    "title": "Afval inzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//koopzondag",
+    "title": "Koopzondag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koopzondageninformatie"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//bezwaar-gemeentelijke-belasting-of-woz-waarde",
+    "title": "Bezwaar gemeentelijke belasting of WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//bezwaar-en-beroep",
+    "title": "Bezwaar en beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_binnen_gemeente"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//klacht-over-behandeling-gemeente",
+    "title": "Klacht over behandeling gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//vraag-of-opmerking",
+    "title": "Vraag of opmerking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//bouwtekening-inzien",
+    "title": "Bouwtekening inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//kinderopvang",
+    "title": "Kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderdagverblijf"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//welstand",
+    "title": "Welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//speelautomaten",
+    "title": "Speelautomaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/speelautomaat_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//afval-van-dorpsfeesten-en-wijkfeesten",
+    "title": "Afval van dorpsfeesten en wijkfeesten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//meedoenpakket",
+    "title": "Meedoenpakket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//zorgaanbieders-en-pgb",
+    "title": "Zorgaanbieders en PGB",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgebonden_budget"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//bewijs-van-in-leven-zijn-of-attestatie-de-vita",
+    "title": "Bewijs van in leven zijn of attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//procesbegeleiding",
+    "title": "Procesbegeleiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//ter-inzage",
+    "title": "Ter inzage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//afval-verbranden",
+    "title": "Afval verbranden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//scheiding-laten-inschrijven",
+    "title": "Scheiding laten inschrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//bestemmingsplan",
+    "title": "Bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//idee-of-bewonersinitiatief",
+    "title": "Idee of bewonersinitiatief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//vertrek-naar-buitenland-doorgeven",
+    "title": "Vertrek naar buitenland doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.noordoostpolder.nl//mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Noordoostpolder_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  }
+]

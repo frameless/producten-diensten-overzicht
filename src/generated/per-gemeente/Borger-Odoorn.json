@@ -1,0 +1,961 @@
+[
+  {
+    "identifier": "https://www.borger-odoorn.nl//uittreksel-basisregistratie-personen",
+    "title": "Uittreksel basisregistratie personen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//registratie-levenloos-geboren-kind",
+    "title": "Registratie levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//melding-openbare-ruimte",
+    "title": "Melding openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//reclameborden",
+    "title": "Reclameborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//verhuizen-binnen-nederland",
+    "title": "Verhuizen binnen Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//watervergunning",
+    "title": "Watervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/watervergunning"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//dwangsom-bij-niet-tijdig-beslissen",
+    "title": "Dwangsom bij niet tijdig beslissen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/dwangsomNietTijdBesl"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//geluidswagen",
+    "title": "Geluidswagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//pand-gebruiken-voor-cultuur",
+    "title": "Pand gebruiken voor cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruik_gemeentelijke_panden"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//een-kind-erkennen-en-naam-kiezen",
+    "title": "Een kind erkennen en naam kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//financiele-regelingen-monumenten",
+    "title": "Financiële regelingen monumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/herbestMonSubs"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//verhuizen-vanuit-het-buitenland",
+    "title": "Verhuizen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInschr"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//antireclamesticker",
+    "title": "Antireclamesticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//brandveiligheid",
+    "title": "Brandveiligheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//tweede-paspoort",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//onroerendezaakbelasting",
+    "title": "Onroerendezaakbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//vergoeding-planschade",
+    "title": "Vergoeding planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//straat-en-deurverkoop",
+    "title": "Straat- en deurverkoop",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//voedselbank",
+    "title": "Voedselbank",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/voedselbank"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//kwijtschelding-gemeentelijke-belastingen",
+    "title": "Kwijtschelding gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//gebruik-tijdelijk-bouwwerk",
+    "title": "Gebruik tijdelijk bouwwerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/brandveiligheidadvies"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//ondersteuning-de-wmo",
+    "title": "Ondersteuning via de WMO",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//gevelreclame",
+    "title": "Gevelreclame",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//rioolaansluiting",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//geregistreerd-partnerschap-omzetten-in-een-huwelijk",
+    "title": "Geregistreerd partnerschap omzetten in een huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_omzetting_in_huwelijk"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//woz-waarde-en-taxatieverslag",
+    "title": "WOZ-waarde en taxatieverslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//vuurwerk-opslaan-of-verkopen",
+    "title": "Vuurwerk opslaan of verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/vuurwerkverkoopvergunning"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//buitenlands-huwelijk-registreren",
+    "title": "Buitenlands huwelijk registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//kabels-en-leidingen",
+    "title": "Kabels en leidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//overlijdensaangifte",
+    "title": "Overlijdensaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//omgevingsvergunning-milieu",
+    "title": "Omgevingsvergunning milieu",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//energietoeslag",
+    "title": "Energietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//verhuizen-naar-het-buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//woo-verzoek",
+    "title": "Woo-verzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/verstrekking_overheidsinformatie"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//overlast-beschermde-dieren-melden",
+    "title": "Overlast beschermde dieren melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/wildschade"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//omgevingsvergunning-op-andere-naam-zetten",
+    "title": "Omgevingsvergunning op andere naam zetten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//riool-verstopt",
+    "title": "Riool verstopt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//bewijs-van-leven",
+    "title": "Bewijs van leven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//milieumelding",
+    "title": "Milieumelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//volkstuin",
+    "title": "Volkstuin",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/volkstuinverhuur"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//woonkostentoeslag",
+    "title": "Woonkostentoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonkostentoeslag"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//gokautomaat-plaatsen",
+    "title": "Gokautomaat plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//melden-verzorging-pleegkind",
+    "title": "Melden verzorging pleegkind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//paspoort-voor-vreemdelingen-of-vluchtelingen",
+    "title": "Paspoort voor vreemdelingen of vluchtelingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//achternaam-kind-kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//omgevingsvergunning-aanleggen",
+    "title": "Omgevingsvergunning aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//automatische-incasso",
+    "title": "Automatische incasso",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//verzekering-voor-vrijwilligers",
+    "title": "Verzekering voor vrijwilligers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//parkeren-in-een-blauwe-zone",
+    "title": "Parkeren in een blauwe zone",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_blauwe_zone"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//loterij-organiseren",
+    "title": "Loterij organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//kadastrale-gegevens",
+    "title": "Kadastrale gegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//grote-voertuigen-parkeren",
+    "title": "Grote voertuigen parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_grote_voertuigen"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//gemeente-aansprakelijk-stellen",
+    "title": "Gemeente aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//zienswijze",
+    "title": "Zienswijze",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/zienswijze"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//vooroverleg-omgevingsvergunning",
+    "title": "Vooroverleg omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//loonkostensubsidie",
+    "title": "Loonkostensubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/loonkostSub"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//bodemonderzoek",
+    "title": "Bodemonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//aed-apparaat",
+    "title": "AED-apparaat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//bezwaar-maken-tegen-aanslagen",
+    "title": "Bezwaar maken tegen aanslagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//klacht-over-de-gemeente",
+    "title": "Klacht over de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//zorgen-over-geld",
+    "title": "Zorgen over geld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldsan"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//tegemoetkoming-chronische-ziekte-of-beperking",
+    "title": "Tegemoetkoming chronische ziekte of beperking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//stedenbouwkundige-plannen",
+    "title": "Stedenbouwkundige plannen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//eenmalige-evenementen",
+    "title": "Eenmalige evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/collIncFest"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//terrasvergunning",
+    "title": "Terrasvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//bedrijfsinterne-milieuzorg-bim",
+    "title": "Bedrijfsinterne milieuzorg (BIM)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//gegevens-in-basisregistratie-personen-brp-aanpassen",
+    "title": "Gegevens in basisregistratie personen (BRP) aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//melding-zwerfdieren-gewonde-of-dode-dieren",
+    "title": "Melding zwerfdieren, gewonde of dode dieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/dierenopvang"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//koninklijke-onderscheiding-lintje-aanvragen",
+    "title": "Koninklijke onderscheiding (lintje) aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//uitkeringsfraude-melden",
+    "title": "Uitkeringsfraude melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//caravan-of-camper-parkeren",
+    "title": "Caravan of camper parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/caravParkOnth"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//uitkering-voor-zelfstandigen",
+    "title": "Uitkering voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanvInkVzOuder"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//gebouw-of-woning-slopen",
+    "title": "Gebouw of woning slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//gemeentearchief",
+    "title": "Gemeentearchief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/archiefInzage"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//bijstand-heronderzoek",
+    "title": "Bijstand, heronderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalOptie"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/verontreinigingsheffing"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//voorlopige-voorziening",
+    "title": "Voorlopige voorziening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/voorlVoorz"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//verklaring-omtrent-het-gedrag",
+    "title": "Verklaring omtrent het gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//ondergrond-gegevens",
+    "title": "Ondergrond gegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemsanering_verkennend_onderzoek"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//kinderopvang-starten",
+    "title": "Kinderopvang starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//laadpaal-voor-elektrische-auto",
+    "title": "Laadpaal voor elektrische auto",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/laadpaalverzoek"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//alcohol-schenken-of-verkopen",
+    "title": "Alcohol schenken of verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//verklaring-van-huwelijksbevoegdheid",
+    "title": "Verklaring van huwelijksbevoegdheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_huwelijksbevoegdheid"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//melding-verkeer",
+    "title": "Melding verkeer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/verkeerscirculatie"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart_bestuurder"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//voornaam-of-achternaam-veranderen",
+    "title": "Voornaam of achternaam veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//een-bekende-tot-trouwambtenaar-benoemen",
+    "title": "Een bekende tot trouwambtenaar benoemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/ambtBurgStnd"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//paasvuur",
+    "title": "Paasvuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//uittreksel-burgerlijke-stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//toestemming-reisdocument-minderjarige",
+    "title": "Toestemming reisdocument minderjarige",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//bouwplannen-en-bouwtekeningen",
+    "title": "Bouwplannen en bouwtekeningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//vergunning-intrekken",
+    "title": "Vergunning intrekken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//bomen-kappen",
+    "title": "Bomen kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//sportaccommodatie-huren",
+    "title": "Sportaccommodatie huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//monument-verbouwen-of-slopen",
+    "title": "Monument verbouwen of slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//marktstandplaats",
+    "title": "Marktstandplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktstandplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//forensenbelasting",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//garantstelling-of-particuliere-logiesverstrekking",
+    "title": "Garantstelling of particuliere logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/garVerklVerblNL"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//nederlandse-nationaliteit-opgeven-of-verliezen",
+    "title": "Nederlandse nationaliteit opgeven of verliezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_afstand_nederlandse_nationaliteit"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//geluidsnorm-regeling",
+    "title": "Geluidsnorm regeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//verkeersregelaar",
+    "title": "Verkeersregelaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/verkeerscirculatie"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//eenvoudige-bodemsanering-melden",
+    "title": "Eenvoudige bodemsanering melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemverontreiniging_melding"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//omgevingsvergunning-bouwen",
+    "title": "Omgevingsvergunning bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//overlast-bomen-en-struiken-melden",
+    "title": "Overlast bomen en struiken melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(groenvoorziening)"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//inrit-of-uitrit-aanleggen",
+    "title": "Inrit of uitrit aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgUitweg"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//andere-achternaam-gebruiken",
+    "title": "Andere achternaam gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//verdachte-situatie",
+    "title": "Verdachte situatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/meldpuntAlg"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//in-beroep-gaan",
+    "title": "In beroep gaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/rechtstrBeroep"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//carbidschieten",
+    "title": "Carbidschieten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//bijstandsuitkering",
+    "title": "Bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//opnieuw-in-nederland-wonen",
+    "title": "Opnieuw in Nederland wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//alcohol-tijdelijk-schenken",
+    "title": "Alcohol tijdelijk schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//bijstand-voor-zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//overtreding-regels-melden",
+    "title": "Overtreding regels melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.borger-odoorn.nl//ontheffing-wegenverkeerswet",
+    "title": "Ontheffing wegenverkeerswet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Borger-Odoorn",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  }
+]

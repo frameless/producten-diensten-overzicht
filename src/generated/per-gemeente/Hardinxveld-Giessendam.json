@@ -1,0 +1,939 @@
+[
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Horeca/Geluidshinder_horeca_inrichting",
+    "title": "Geluidshinder horeca-inrichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Handig/Gemeentegids",
+    "title": "Gemeentegids",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentegids"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Huwelijk_of_geregistreerd_partnerschap/Afschrift_uittreksel_huwelijksakte_aanvragen",
+    "title": "Afschrift/uittreksel huwelijksakte aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Overlijden/As_verstrooien",
+    "title": "As verstrooien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asverstrooiing"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Horeca/Ontheffing_schenken_zwak_alcoholische_dranken_artikel_35_DHW",
+    "title": "Ontheffing schenken (zwak)alcoholische dranken (artikel 35 DHW)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Riool/Rioolheffing_eigenaren_en_gebruikers",
+    "title": "Rioolheffing eigenaren en gebruikers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Milieu/Tijdelijk_gebruik_van_gemeentegrond_openbare_weg_aanvragen_voor_bedrijven_verenigingen_en_instellingen",
+    "title": "Tijdelijk gebruik van gemeentegrond / openbare weg aanvragen voor bedrijven, verenigingen en instellingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vestigen_en_wijzigen/Bedrijf_starten/Accountmanager_bedrijven",
+    "title": "Accountmanager bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Contact_en_openingstijden/Meldingen/Melding_milieubeheer",
+    "title": "Melding (milieubeheer)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Informatie_over_de_grond/Inzage_bouwarchief",
+    "title": "Inzage bouwarchief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Horeca/Exploitatievergunning_inrichting_en_of_Terrasvergunning",
+    "title": "Exploitatievergunning inrichting en/of Terrasvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vestigen_en_wijzigen/Bedrijf_starten/Relevante_organisaties/Ondernemersplein_Rotterdam",
+    "title": "Ondernemersplein Rotterdam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Weekmarkten",
+    "title": "Weekmarkten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Bestuur/Dagelijks_bestuur/Adviescommissies/Commissie_voor_de_bezwaarschriften",
+    "title": "Commissie voor de bezwaarschriften",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Zorg/Hulp_en_ondersteuning_WMO/Vervoersvoorzieningen",
+    "title": "Vervoersvoorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/regiotaxi"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Bestuur/Bestuur/Regelgeving/Relevante_pagina_s/Bestemmingsplannen",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Vergunning_of_melding/Aanvraag_omgevingsvergunning",
+    "title": "Aanvraag omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Wonen/Leegstandsvergunning_of_tijdelijk_verhuur_woonruimte",
+    "title": "Leegstandsvergunning of tijdelijk verhuur woonruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Gemeente_of_projectontwikkelaar_bouwt/Documenten_ter_inzage",
+    "title": "Documenten ter inzage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vestigen_en_wijzigen/Bedrijf_starten/Relevante_organisaties/Ondernemersplein_en_meldpunt_overbodige_regelgeving",
+    "title": "Ondernemersplein en meldpunt overbodige regelgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Zorg/Hulp_en_ondersteuning_WMO/Woonvoorzieningen",
+    "title": "Woonvoorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Horeca/Sluitingsuren_van_horeca",
+    "title": "Sluitingsuren van horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Wonen/Wateroverlast/Tips_om_wateroverlast_tegen_te_gaan",
+    "title": "Tips om wateroverlast tegen te gaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Uit_of_naar_het_buitenland/Verhuizen_in_of_naar_Hardinxveld_Giessendam",
+    "title": "Verhuizen in of naar Hardinxveld-Giessendam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Monumenten/Aanvragen_monumentensubsidie",
+    "title": "Aanvragen monumentensubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Gemeente_of_projectontwikkelaar_bouwt/Planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vestigen_en_wijzigen/Bedrijf_starten/Ondernemen_aan_huis",
+    "title": "Ondernemen aan huis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vestigen_en_wijzigen/Bedrijf_starten/Relevante_organisaties/Stuurgroep_Economische_Visie",
+    "title": "Stuurgroep Economische Visie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Contact_en_openingstijden/Meldingen/Melding_exploitatie_bedrijf_milieumelding",
+    "title": "Melding exploitatie bedrijf (milieumelding)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Handig/Gevonden_en_verloren_voorwerpen",
+    "title": "Gevonden en verloren voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vestigen_en_wijzigen/Bouwen_en_verbouwen/Bedrijfsactiviteiten_wijzigen",
+    "title": "Bedrijfsactiviteiten wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wet_milieubeheermelding"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Paspoort_ID_en_rijbewijs/Rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Persoonsgegevens/Uittreksel_persoonsgegevens_BRP_aanvragen",
+    "title": "Uittreksel persoonsgegevens (BRP) aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Milieu/Milieu_oprichting_uitbreiden_wijzigen_revisie",
+    "title": "Milieu (oprichting, uitbreiden/wijzigen, revisie)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Horeca/Aanwezigheidsvergunning_kansspelautomaten",
+    "title": "Aanwezigheidsvergunning kansspelautomaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Uit_of_naar_het_buitenland/Verhuizen_naar_het_buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Geboorte_erkenning_en_adoptie/Erkenning_kind",
+    "title": "Erkenning kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Monumenten/Aanwijzen_van_monument",
+    "title": "Aanwijzen van monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Horeca/Evenement_organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Handig/Antireclamersticker",
+    "title": "Antireclamersticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Geboorte_erkenning_en_adoptie/Afschrift_uittreksel_geboorteakte_aanvragen",
+    "title": "Afschrift/uittreksel geboorteakte aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Horeca/Ventvergunning",
+    "title": "Ventvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Omgeving/Parkeren/Laadpalen_elektrische_voertuigen",
+    "title": "Laadpalen elektrische voertuigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Informatie_over_de_grond/Kadastrale_informatie",
+    "title": "Kadastrale informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vestigen_en_wijzigen/Bedrijventerreinen/Bedrijfspanden_bedrijfskavels_huren_of_kopen",
+    "title": "Bedrijfspanden/bedrijfskavels, huren of kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Uit_of_naar_het_buitenland/Buitenlandse_bron_documenten",
+    "title": "Buitenlandse (bron)documenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Reclame/Reclamemateriaal_verspreiden",
+    "title": "Reclamemateriaal verspreiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vestigen_en_wijzigen/Bedrijf_starten/Relevante_organisaties/Ondernemersklankbord",
+    "title": "Ondernemersklankbord",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Zorg/Sociaal_team",
+    "title": "Sociaal team",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Uit_of_naar_het_buitenland/Legalisatie_handtekening_uitnodiging_garantverklaring",
+    "title": "Legalisatie handtekening (uitnodiging, garantverklaring)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Omgeving/Parken_en_groen/Stookontheffing",
+    "title": "Stookontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Handig/Noodnummers",
+    "title": "Noodnummers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Contact_en_openingstijden/Meldingen/Melding_over_woon_of_leefomgeving_doorgeven",
+    "title": "Melding woon- of leefomgeving doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Paspoort_ID_en_rijbewijs/Paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Overlijden/Overlijden_aangifte",
+    "title": "Overlijden, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Inkopen_en_aanbesteden",
+    "title": "Inkopen en aanbesteden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Milieu/Afval_en_containers",
+    "title": "Afval en containers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Zorg/Dierenambulance",
+    "title": "Dierenambulance",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Scheiden/Afschrift_uittreksel_akte_van_ontbinding_van_geregistreerd_partnerschap_aanvragen",
+    "title": "Afschrift/uittreksel akte van ontbinding van geregistreerd partnerschap aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Bestuur/Bestuur/Bezwaar_maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Geboorte_erkenning_en_adoptie/Geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Zorg/Hulp_en_ondersteuning_WMO/Rolstoel_scootmobiel_tillift",
+    "title": "Rolstoel, scootmobiel, tillift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Duurzaam_bouwen",
+    "title": "Duurzaam bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Afval",
+    "title": "Afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Omgeving/Parkeren/Ligplaatsvergunning_aanvragen",
+    "title": "Ligplaatsvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Omgeving/Parkeren/Gereserveerde_gehandicaptenparkeerplaats",
+    "title": "Gereserveerde gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Paspoort_ID_en_rijbewijs/Identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Zorg/Jeugd_hulp",
+    "title": "Jeugd(hulp)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Handig/Maatschappelijke_agenda",
+    "title": "Maatschappelijke agenda",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Contact_en_openingstijden/Meldingen/Uw_status_volgen_van_aangevraagde_producten_diensten",
+    "title": "Uw status volgen van aangevraagde producten & diensten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Vrije_tijd/Sportaccommodaties",
+    "title": "Sportaccommodaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Riool/Rioolaansluiting_aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Horeca/Ontheffing_Winkeltijdenwet",
+    "title": "Ontheffing Winkeltijdenwet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Huwelijk_of_geregistreerd_partnerschap/Afschrift_of_uittreksel_burgerlijke_stand",
+    "title": "Afschrift of uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Overlijden/Afschrift_uittreksel_overlijdensakte_aanvragen",
+    "title": "Afschrift/uittreksel overlijdensakte aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Informatie_over_de_grond/Huisnummer_aanvragen",
+    "title": "Huisnummer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Huwelijk_of_geregistreerd_partnerschap/Afschrift_uittreksel_akte_van_geregistreerd_partnerschap_aanvragen",
+    "title": "Afschrift/uittreksel akte van geregistreerd partnerschap aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Gebruik_van_grond/Bouwgrond",
+    "title": "Bouwgrond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Wonen/Wijktafels",
+    "title": "Wijktafels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Omgeving/Parkeren/Parkeren_vrachtautos_en_autobussen",
+    "title": "Parkeren vrachtauto's en autobussen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Geboorte_erkenning_en_adoptie/Naamskeuze_kind",
+    "title": "Naamskeuze kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Vergunning_of_melding/Principeverzoek_voor_bouwwerken_of_perceelgebruik_indienen",
+    "title": "Principeverzoek voor bouwwerken of perceelgebruik indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Zorg/Hulp_en_ondersteuning_WMO/Huishoudelijke_hulp",
+    "title": "Huishoudelijke hulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Zorg/Hulp_en_ondersteuning_WMO/Voorzieningen_maatschappelijk_ondersteuning_Wmo",
+    "title": "Voorzieningen maatschappelijk ondersteuning (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Handig/Onze_economie",
+    "title": "Onze economie ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vestigen_en_wijzigen/Bedrijf_starten/Relevante_organisaties/Ondernemersverenigingen",
+    "title": "Ondernemersverenigingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Omgeving/Verkeer/Openbaar_vervoer/MerwedeLingelijn",
+    "title": "MerwedeLingelijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Vrije_tijd/Zwembad_de_Duikelaar",
+    "title": "Zwembad de Duikelaar ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Omgeving/Parkeren/Parkeergebied_blauwe_zone",
+    "title": "Parkeerontheffing blauwe zone",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_blauwe_zone"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Reclame/Reclame_plaatsen_bijv_aan_gevel_of_pand",
+    "title": "Reclame plaatsen (bijv. aan gevel of pand)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Zorg/Hulp_en_ondersteuning_WMO/Wmo_voorziening_aanvragen",
+    "title": "Wmo-voorziening aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Handig/Gemeentelijke_belastingen",
+    "title": "Gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Wonen/Wateroverlast/Calamiteitenplan_wateroverlast",
+    "title": "Calamiteitenplan wateroverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Zorg/Hulp_en_ondersteuning_WMO/Hulp_en_zorgverleners",
+    "title": "Hulp en zorgverleners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Informatie_over_de_grond/Stuk_grond_kopen",
+    "title": "Stuk grond kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Zorg/DrechtHopper",
+    "title": "Drecht- en Wijkhoppervervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Persoonsgegevens/Verklaring_omtrent_het_gedrag_VOG",
+    "title": "Verklaring omtrent het gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Reclame/Spandoek_ophangen",
+    "title": "Spandoek ophangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Gebruik_van_grond/Gebruik_gemeentegrond",
+    "title": "Gebruik gemeentegrond (plaatsen steigers, containers, e.d.)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Horeca/Evenementvergunning_aanvragen",
+    "title": "Evenementvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Gebruik_van_grond/Kabels_en_leidingen_plaatsen_in_openbare_grond",
+    "title": "Kabels en leidingen plaatsen in openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Omgeving/Verkeer/Gladheidbestrijding/Gladheidbestrijding",
+    "title": "Gladheidbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Overlijden/Begraven_of_cremeren",
+    "title": "Begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verlBegraven"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Uit_of_naar_het_buitenland/Briefadres_aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Reclame/Predikaat_Hofleverancier_en_Koninklijk_en_Koninklijke_erepenning",
+    "title": "Predikaat Hofleverancier en Koninklijk, en Koninklijke erepenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Overlijden/Grafsteen_of_gedenkteken_plaatsen",
+    "title": "Grafsteen of gedenkteken plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gedenkteken_plaatsingsvergunning"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Wonen/Wateroverlast/Rioolinformatie",
+    "title": "Rioolinformatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Omgeving/Verkeer/Openbaar_vervoer/Veerdienst_Riveer",
+    "title": "Veerdienst Riveer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Naamswijziging/Naamgebruik_veranderen",
+    "title": "Naamgebruik veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Vergunning_of_melding/Stappenplan_vergunningscheck",
+    "title": "Stappenplan vergunningscheck",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Contact_en_openingstijden/Meldingen/Klachten_over_de_gemeente",
+    "title": "Klachten over de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Onderwijs/Leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Reclame/Reclame_plaatsen",
+    "title": "Reclame plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Persoonsgegevens/Aanpassen_onjuiste_persoonsgegevens",
+    "title": "Aanpassen onjuiste persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Monumenten/Aanpassing_aan_monument",
+    "title": "Aanpassing aan monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Gebruik_van_grond/Precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Huwelijk_of_geregistreerd_partnerschap/Trouwen_en_registratie_partnerschap",
+    "title": "Trouwen en registratie partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vestigen_en_wijzigen/Bedrijventerreinen/Bedrijventerreinen",
+    "title": "Bedrijventerreinen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsterreinuitgifte"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Contact_en_openingstijden/Meldingen/Melden_overlast",
+    "title": "Melden overlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Omgeving/Parkeren/Gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Scheiden/Afschrift_uittreksel_echtscheidingsakte_aanvragen",
+    "title": "Afschrift/uittreksel echtscheidingsakte aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Uit_of_naar_het_buitenland/Nederlander_worden_door_naturalisatie",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Uit_of_naar_het_buitenland/Afstand_doen_van_de_Nederlandse_nationaliteit",
+    "title": "Afstand doen van de Nederlandse nationaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_afstand_nederlandse_nationaliteit"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Horeca/Kansspelvergunning_aanvragen",
+    "title": "Kansspelvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Zorg/Hulp_en_ondersteuning_WMO/Rolstoelvoorziening",
+    "title": "Rolstoelvoorziening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rolstSctMob"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Milieu/Milieuvergunning",
+    "title": "Milieuvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vestigen_en_wijzigen/Bedrijf_starten/Relevante_organisaties/Kamer_van_Koophandel",
+    "title": "Kamer van Koophandel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Omgeving/Onderhoud_openbare_ruimte/Ongediertebestrijding",
+    "title": "Ongediertebestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Horeca/Drank_en_horecavergunning",
+    "title": "Drank- en horecavergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Uit_of_naar_het_buitenland/Inschrijven_vanuit_het_buitenland",
+    "title": "Inschrijven vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Paspoort_ID_en_rijbewijs/Vreemdelingen_of_vluchtelingenpaspoort",
+    "title": "Vreemdelingen- of vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Scheiden/Echtscheiding_of_einde_geregistreerd_partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Zorg/Hulp_en_ondersteuning_WMO/Wonen_aanpassingen_in_huis",
+    "title": "Wonen, aanpassingen in huis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Huwelijk_of_geregistreerd_partnerschap/Ondertrouw_voorgenomen_huwelijk_of_registratie_partnerschap_melding",
+    "title": "Melding voorgenomen huwelijk (in ondertrouw gaan)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Bouwen_en_verbouwen/Asbest_verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Milieu/Kabels_en_leidingenvergunning_Ingravingsvergunning_aanvragen",
+    "title": "Kabels- en leidingenvergunning ('Ingravingsvergunning') aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Wonen/Woning_huren",
+    "title": "Woning huren (met urgentie)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Onderwijs/Peuteropvang/Peuteropvang_en_Voorschoolse_Educatie",
+    "title": "Peuteropvang en Voorschoolse Educatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Persoonsgegevens/Geheimhouding_persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Zorg_en_onderwijs/Handig/Collectevergunning",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Wonen/Wateroverlast/Tussenstand_uitvoering_maatregelen_wateroverlast_2017",
+    "title": "Tussenstand uitvoering maatregelen wateroverlast 2017",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Bestuur/Dagelijks_bestuur/Onderscheidingen/Gemeentelijke_erepenning",
+    "title": "Gemeentelijke erepenning Hardinxveld-Giessendam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Bestuur/Dagelijks_bestuur/Adviescommissies/Verkeerscommissie",
+    "title": "Verkeerscommissie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Horeca/Horecavergunningen_aanvragen",
+    "title": "Horecavergunningen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Omgeving/Verkeer/Verkeersprojecten/Middenwetering_Nieuweweg",
+    "title": "Middenwetering / Nieuweweg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Ondernemen/Vergunningen_en_regels/Milieu/Afval_aanbieden",
+    "title": "Afval aanbieden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Omgeving/Veiligheid/Toezicht_en_handhaving_openbare_ruimte",
+    "title": "Toezicht en handhaving openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.hardinxveld-giessendam.nl/Wonen_en_leven/Wonen/Burgerzaken/Naamswijziging/Naamswijziging",
+    "title": "Naamswijziging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hardinxveld-Giessendam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  }
+]

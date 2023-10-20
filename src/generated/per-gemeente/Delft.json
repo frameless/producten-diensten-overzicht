@@ -1,0 +1,1829 @@
+[
+  {
+    "identifier": "https://www.delft.nl/gebruik-achternaam",
+    "title": "Gebruik achternaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.delft.nl/advies-over-schuldenbewind",
+    "title": "Advies over schuldenbewind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.delft.nl/garantstelling-logiesverstrekking",
+    "title": "Garantstelling of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.delft.nl/paspoort-identiteitskaart-verloren",
+    "title": "Paspoort of identiteitskaart verloren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.delft.nl/bodeminformatie-aanvragen",
+    "title": "Bodeminformatie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-babypakket",
+    "title": "Bijzondere bijstand, babypakket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/ontheffing-voorwerp-over-gemeentewater",
+    "title": "Ontheffing voorwerp over gemeentewater",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/watervergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/address-verification-procedure",
+    "title": "Address verification procedure",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.delft.nl/buitenlandse-documenten-registreren",
+    "title": "Buitenlandse documenten registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/graffiti-melden",
+    "title": "Graffiti melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.delft.nl/extra-documenten-opsturen",
+    "title": "Extra documenten opsturen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-rechtshulp",
+    "title": "Bijzondere bijstand, rechtshulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/subsidie-welzijnsaanpak",
+    "title": "Subsidie welzijnsaanpak",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/jaarlijkse-subsidie",
+    "title": "Jaarlijkse subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/huisnummers-aanvragen",
+    "title": "Huisnummers aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.delft.nl/stremming-melden",
+    "title": "Stremming melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/omgevingsvergunning-voor-aanleg",
+    "title": "Omgevingsvergunning voor aanleg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.delft.nl/verhuizen-naar-het-buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.delft.nl/aanmelden-gesprek-voor-jeugdhulp",
+    "title": "Aanmelden gesprek voor jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.delft.nl/gedupeerde-ouders-toeslagenaffaire",
+    "title": "Gedupeerde ouders, toeslagenaffaire",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/partnerschap-omzetten-huwelijk",
+    "title": "Partnerschap omzetten in huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk_omzetting_in_geregistreerd_partnerschap"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-woonkostentoeslag-voor-huurders",
+    "title": "Bijzondere bijstand, woonkostentoeslag voor huurders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/vergunning-woning-verhuren",
+    "title": "Vergunning woning verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woning_tijdelijke_verhuurvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/vergoeding-voor-planschade",
+    "title": "Vergoeding voor planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.delft.nl/oplaadpaal-elektrische-auto-aanvragen",
+    "title": "Oplaadpaal elektrische auto aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/trouwambtenaar-uit-andere-gemeente-aanvragen",
+    "title": "Trouwambtenaar uit andere gemeente aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/omgevingsvergunning-monumenten",
+    "title": "Omgevingsvergunning monumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/geslacht-op-geboorteakte-wijzigen",
+    "title": "Geslacht op geboorteakte wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteakte"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/choosing-another-language",
+    "title": "Choosing another language",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/moving-delft-abroad",
+    "title": "Moving to Delft from abroad",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/horeca-exploitatievergunning",
+    "title": "Horeca exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.delft.nl/erkennen-van-een-kind",
+    "title": "Erkennen van een kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.delft.nl/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/buitenlands-huwelijk-registreren",
+    "title": "Buitenlands huwelijk registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.delft.nl/tozo-terugbetalen",
+    "title": "Tozo terugbetalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijstand-en-vermogen",
+    "title": "Bijstand en vermogen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.delft.nl/informatie-voor-kinderen-van-gedupeerde-ouders",
+    "title": "Informatie voor kinderen van gedupeerde ouders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/subsidie-impuls-jongerencultuur",
+    "title": "Subsidie impuls jongerencultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/subsidie-onderhoud-monumentale-bomen",
+    "title": "Subsidie onderhoud monumentale bomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/plaagdieren-ongedierte-melden",
+    "title": "Plaagdieren of ongedierte melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.delft.nl/burenoverlast-melden",
+    "title": "Burenoverlast melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/optocht-melden",
+    "title": "Optocht melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/optochtvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/vergunning-voor-graven-gemeentegrond",
+    "title": "Vergunning voor graven in gemeentegrond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/buurtpreventie",
+    "title": "Buurtpreventie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://www.delft.nl/venten-melden",
+    "title": "Venten melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/stank-uit-het-riool-melden",
+    "title": "Stank uit het riool melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.delft.nl/geboorte-overleden-kind-aangeven",
+    "title": "Geboorte overleden kind aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.delft.nl/huisvestingsvergunning",
+    "title": "Huisvestingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisvestingsvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/terras-plaatsen",
+    "title": "Terras plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/vergunning-seksinrichting-escortbedrijf",
+    "title": "Vergunning seksinrichting of escortbedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/seksbedrijf_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/stroomkasten-gebruiken",
+    "title": "Stroomkasten gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/paspoort-aanvragen",
+    "title": "Paspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.delft.nl/dode-dieren-melden",
+    "title": "Dode dieren melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.delft.nl/ontheffing-werkzaamheden-gemeentewater",
+    "title": "Ontheffing werkzaamheden gemeentewater",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijstand-huisbezoeken",
+    "title": "Bijstand huisbezoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/ontheffing-voor-plaatsen-dekschuit",
+    "title": "Ontheffing voor plaatsen dekschuit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/zakenpaspoort",
+    "title": "Zakenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "https://www.delft.nl/overlijden-aangeven",
+    "title": "Overlijden aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.delft.nl/blijverslening",
+    "title": "Blijverslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/getuigen-van-de-gemeente-aanvragen",
+    "title": "Getuigen van de gemeente aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.delft.nl/rijbewijs-verlengen",
+    "title": "Rijbewijs verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.delft.nl/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.delft.nl/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.delft.nl/jaaropgave-bijstand",
+    "title": "Jaaropgave bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/vakantie-en-verlof-bij-bijstand",
+    "title": "Vakantie en verlof bij bijstand ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/aanhangwagen-recreatievoertuig-melden",
+    "title": "Aanhangwagen of recreatievoertuig melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-verhuis-en-opknapkosten",
+    "title": "Bijzondere bijstand, verhuis- en opknapkosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/spandoek-plaatsen",
+    "title": "Spandoek plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamemateriaalverspreiding_ontheffing"
+  },
+  {
+    "identifier": "https://www.delft.nl/ontheffing-ligplaats-recreatief-schip",
+    "title": "Ontheffing ligplaats recreatief schip",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ligplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/vergunning-voor-promotieactie",
+    "title": "Vergunning voor promotieactie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamemateriaalverspreiding_ontheffing"
+  },
+  {
+    "identifier": "https://www.delft.nl/gemeentebijdrage-kinderopvang-smi",
+    "title": "Gemeentebijdrage kinderopvang (SMI)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://www.delft.nl/ontheffing-gemotoriseerd-varen-de-binnenstad",
+    "title": "Ontheffing gemotoriseerd varen in de binnenstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vaarvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/brp-extract",
+    "title": "BRP extract",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/grond-bagger-bouwstoffen-melden",
+    "title": "Grond, bagger of bouwstoffen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/tijdelijke-verhuur-bij-leegstand",
+    "title": "Tijdelijke verhuur bij leegstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woning_tijdelijke_verhuurvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/antiparkeerpaal-verwijderen",
+    "title": "Antiparkeerpaal verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/subsidie-energiekosten-voor-maatschappelijke-organisaties",
+    "title": "Subsidie energiekosten voor maatschappelijke organisaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/computerregeling-aanvragen",
+    "title": "Computerregeling aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/trouwdatum-reserveren",
+    "title": "Trouwdatum reserveren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.delft.nl/afstand-doen-nederlandse-nationaliteit",
+    "title": "Afstand doen Nederlandse nationaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_afstand_nederlandse_nationaliteit"
+  },
+  {
+    "identifier": "https://www.delft.nl/melding-openbaar-groen-en-bladeren",
+    "title": "Melding openbaar groen en bladeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(groenvoorziening)"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijstand-ioaz-uitkering",
+    "title": "Bijstand IOAZ-uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.delft.nl/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.delft.nl/uitkeringsspecificatie-inzien",
+    "title": "Uitkeringsspecificatie inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/right-challenge",
+    "title": "Right to Challenge",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/ontheffing-woonboot",
+    "title": "Ontheffing woonboot",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/bouwwerk-slopen-melden-vergunning",
+    "title": "Bouwwerk slopen, melden of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.delft.nl/ontheffing-terrasboot",
+    "title": "Ontheffing terrasboot",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/subsidie-referendum",
+    "title": "Subsidie referendum",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-basispakket-kleding",
+    "title": "Bijzondere bijstand, basispakket kleding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/omgevingsvergunning-voor-gevelreclame",
+    "title": "Omgevingsvergunning voor gevelreclame",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.delft.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.delft.nl/vervoer-gevaarlijke-stoffen",
+    "title": "Vervoer gevaarlijke stoffen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/geboorte-aangeven",
+    "title": "Geboorte aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.delft.nl/nadeelcompensatie",
+    "title": "Nadeelcompensatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/omgevingsvergunning-milieu",
+    "title": "Omgevingsvergunning milieu",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-telefoonkosten-teksttelefoon",
+    "title": "Bijzondere bijstand, telefoonkosten (teksttelefoon)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/afvalinzameling-starten-bij-nieuwbouw",
+    "title": "Afvalinzameling starten bij nieuwbouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.delft.nl/klein-evenement-melden",
+    "title": "Klein evenement melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/geheimhouding-aanvragen",
+    "title": "Geheimhouding aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/certificate-good-conduct-vog",
+    "title": "Certificate of good conduct (VOG)",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.delft.nl/aanmelden-voor-handelaren",
+    "title": "Aanmelden voor handelaren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/alcoholwetvergunning",
+    "title": "Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-woonkostentoeslag-voor-huiseigenaren",
+    "title": "Bijzondere bijstand, woonkostentoeslag voor huiseigenaren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/tweede-paspoort",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "https://www.delft.nl/identiteitskaart-aanvragen",
+    "title": "Identiteitskaart aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.delft.nl/omgevingsvergunning-kappen-van-bomen",
+    "title": "Omgevingsvergunning kappen van bomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.delft.nl/omzettingsvergunning-kamerverhuur",
+    "title": "Omzettingsvergunning kamerverhuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/inrit-uitrit-melden",
+    "title": "Inrit of uitrit melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/aanwijzen-trouwlocatie",
+    "title": "Aanwijzen trouwlocatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.delft.nl/leenbijstand-gkb",
+    "title": "Leenbijstand of GKB",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/milieuklacht-melden",
+    "title": "Milieuklacht melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(milieu)"
+  },
+  {
+    "identifier": "https://www.delft.nl/grijper-voor-zwerfvuil",
+    "title": "Grijper voor zwerfvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inkomensvoorziening_jongeren"
+  },
+  {
+    "identifier": "https://www.delft.nl/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/fietsregeling-aanvragen",
+    "title": "Fietsregeling aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/certificate-capacity-contract-marriage",
+    "title": "Certificate of capacity to contract marriage",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/akte-burgerlijke-stand",
+    "title": "Akte burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.delft.nl/vergunning-deeltweewielers",
+    "title": "Vergunning deeltweewielers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijstand-wijzigingen-doorgeven",
+    "title": "Bijstand wijzigingen doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/aanstelling-verkeersregelaars-bij-evenementen",
+    "title": "Aanstelling verkeersregelaars bij evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verkeerscirculatie"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-extra-kosten-voor-wassen-en-slijtage-van-kleding",
+    "title": "Bijzondere bijstand, extra kosten voor wassen en slijtage van kleding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/administratief-beroep-indienen",
+    "title": "Administratief beroep indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/beroep"
+  },
+  {
+    "identifier": "https://www.delft.nl/beelden-bodycams-bekijken",
+    "title": "Beelden bodycams bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/attestatie-de-vita",
+    "title": "Attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.delft.nl/melding-brandveilig-gebruik-bij-evenement",
+    "title": "Melding brandveilig gebruik bij evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brandveiligheidadvies"
+  },
+  {
+    "identifier": "https://www.delft.nl/betoging-vergadering-melden",
+    "title": "Betoging of vergadering melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/betoging-_of_demonstratievergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/reporting-change-address",
+    "title": "Reporting a change of address",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/bouwtekeningen-inzien",
+    "title": "Bouwtekeningen inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.delft.nl/verklaring-omtrent-gedrag",
+    "title": "Verklaring omtrent gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.delft.nl/aanvraag-bijstand-na-kortdurend-werk",
+    "title": "Aanvraag bijstand na kortdurend werk ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/verklaring-van-voorgenomen-vertrek",
+    "title": "Verklaring van voorgenomen vertrek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.delft.nl/eerste-rijbewijs-aanvragen",
+    "title": "Eerste rijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.delft.nl/ontheffing-overslag-vanaf-het-water",
+    "title": "Ontheffing overslag vanaf het water",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/terugbetalen-bijstand",
+    "title": "Terugbetalen bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/waarmerken-van-documenten",
+    "title": "Waarmerken van documenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/waarmerken_document"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/notification-marriage",
+    "title": "Notification of marriage",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/aansprakelijk-stellen-gemeente",
+    "title": "Aansprakelijk stellen gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-energiekosten-medische-noodzaak",
+    "title": "Bijzondere bijstand, energiekosten medische noodzaak",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/afspraak-maken-financiele-winkel-van-delft",
+    "title": "Afspraak maken financiële winkel van Delft",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.delft.nl/verklaring-huwelijksbevoegdheid",
+    "title": "Verklaring huwelijksbevoegdheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_huwelijksbevoegdheid"
+  },
+  {
+    "identifier": "https://www.delft.nl/uittreksel-brp",
+    "title": "Uittreksel BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.delft.nl/speelautomaten-plaatsen",
+    "title": "Speelautomaten plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/av-delft-aanvullende-zorgverzekering",
+    "title": "AV-Delft aanvullende zorgverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-reis-en-bezoekkosten",
+    "title": "Bijzondere bijstand, reis- en bezoekkosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/marriage-registrar-another-municipality",
+    "title": "Marriage registrar from another municipality",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-maaltijdservice",
+    "title": "Bijzondere bijstand, maaltijdservice",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/subsidie-voor-creatieve-makers",
+    "title": "Subsidie voor creatieve makers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/bouwwerk-melden-bij-de-gemeente",
+    "title": "Bouwwerk melden bij de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.delft.nl/ontheffing-rondvaartbedrijf-waterfiets-en-kano",
+    "title": "Ontheffing rondvaartbedrijf, waterfiets en kano",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vaarvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/room-tenants-housing-cost-allowance",
+    "title": "Room Tenants Housing Cost Allowance",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.delft.nl/eenmalige-subsidie",
+    "title": "Eenmalige subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-aanvragen",
+    "title": "Bijzondere bijstand aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.delft.nl/hondenpoep-en-hondenoverlast-melden",
+    "title": "Hondenpoep en hondenoverlast melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.delft.nl/subsidie-voorschoolse-voorzieningen",
+    "title": "Subsidie voorschoolse voorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-meubilair-en-apparatuur",
+    "title": "Bijzondere bijstand, meubilair en apparatuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/registering-foreign-certificate",
+    "title": "Registering a foreign certificate",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/andere-taal-ceremonie",
+    "title": "Andere taal ceremonie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/schuldhulp-ondernemers",
+    "title": "Schuldhulp ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/surname-be-used",
+    "title": "Surname to be used",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-babykamer",
+    "title": "Bijzondere bijstand, babykamer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/uitvaart-door-gemeente",
+    "title": "Uitvaart door gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/ziek-en-beter-melden-de-bijstand",
+    "title": "Ziek en beter melden in de bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/aangifte-huwelijk",
+    "title": "Aangifte huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.delft.nl/dak-en-thuislozenspreekuur",
+    "title": "Dak- en thuislozenspreekuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/vergoeding-voor-sport-en-cultuur",
+    "title": "Vergoeding voor sport en cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportactiviteitensubsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/verlof-alcoholvrije-dranken-schenken",
+    "title": "Verlof alcoholvrije dranken schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/voorkeur-opgeven",
+    "title": "Voorkeur opgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/jongeren-tot-27-jaar",
+    "title": "Jongeren tot 27 jaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/collecte-melden",
+    "title": "Collecte melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/omgevingsvergunning-bouwen",
+    "title": "Omgevingsvergunning bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-boekengeld-mbo-studenten",
+    "title": "Bijzondere bijstand, boekengeld MBO studenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/vergunning-themamarkt-organiseren",
+    "title": "Vergunning themamarkt organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/ontheffing-verkeersregels-rvv",
+    "title": "Ontheffing verkeersregels (RVV)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegenverkeerswetontheffing"
+  },
+  {
+    "identifier": "https://www.delft.nl/splitsingsvergunning",
+    "title": "Splitsingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonruimte_splitsingsvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/carillonspel-nieuwe-kerk",
+    "title": "Carillonspel Nieuwe Kerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/vergunning-voor-organiseren-braderie",
+    "title": "Vergunning voor organiseren braderie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/braderievergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/ontheffing-geluids-trillingsoverlast",
+    "title": "Ontheffing geluids- of trillingsoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.delft.nl/lening-gehandicaptenparkeerkaart",
+    "title": "Lening gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijstand-individuele-inkomenstoeslag",
+    "title": "Bijstand individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/iets-verloren-gevonden",
+    "title": "Iets verloren of gevonden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/proof-sponsorship-private-accommodation",
+    "title": "Proof of sponsorship / private accommodation",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/trouwdatum-veranderen",
+    "title": "Trouwdatum veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.delft.nl/trouwboekje-bestellen",
+    "title": "Trouwboekje bestellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/state-your-preference",
+    "title": "State your preference",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/melding-container-steiger-bouwkeet-plaatsen",
+    "title": "Melding container, steiger of bouwkeet plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/subsidie-schoolwerkweek-speciaal-onderwijs",
+    "title": "Subsidie schoolwerkweek speciaal onderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/persoonsgegevens-inzien",
+    "title": "Persoonsgegevens inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/subsidie-onderwijsachterstandenbeleid",
+    "title": "Subsidie onderwijsachterstandenbeleid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/vergunning-incidentele-standplaats",
+    "title": "Vergunning incidentele standplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/onttrekkingsvergunning",
+    "title": "Onttrekkingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woningen_samenvoegsubsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/delftpas",
+    "title": "Delftpas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stadspas"
+  },
+  {
+    "identifier": "https://www.delft.nl/hulp-bij-problemen-door-toeslagenaffaire",
+    "title": "Hulp bij problemen door toeslagenaffaire",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeslagToeslagenwet"
+  },
+  {
+    "identifier": "https://www.delft.nl/verhuizen-vanuit-het-buitenland",
+    "title": "Verhuizen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.delft.nl/subsidie-loopbaanorientatie-en-begeleiding",
+    "title": "Subsidie loopbaanoriëntatie en begeleiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/subsidie-nevenvestiging-speciaal-onderwijs",
+    "title": "Subsidie nevenvestiging speciaal onderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderwijssubsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/subsidie-activiteiten-delfts-sportakkoord",
+    "title": "Subsidie activiteiten Delfts Sportakkoord",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/reporting-witnesses",
+    "title": "Reporting witnesses",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/stemmen-andere-gemeente",
+    "title": "Stemmen in andere gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kiezerspas"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-begrafeniskosten",
+    "title": "Bijzondere bijstand, begrafeniskosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/gladheid-melden",
+    "title": "Gladheid melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.delft.nl/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.delft.nl/activeringsgesprek-bijstand",
+    "title": "Activeringsgesprek bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/advies-over-uw-maatschappelijk-initiatief",
+    "title": "Advies over uw maatschappelijk initiatief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/maatschappelijke_dienstverleningsubsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-voorschool",
+    "title": "Bijzondere bijstand, voorschool",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/moeilijk-toegankelijke-stoep-melden",
+    "title": "Moeilijk toegankelijke stoep melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.delft.nl/tegemoetkoming-woonlasten-kamerhuurders-twk",
+    "title": "Tegemoetkoming Woonlasten Kamerhuurders (TWK)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/persoonsgebonden-budget-jeugd-pgb",
+    "title": "Persoonsgebonden budget - jeugd (pgb)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgebonden_budget"
+  },
+  {
+    "identifier": "https://www.delft.nl/aanvragen-voorschot-bijstand",
+    "title": "Aanvragen voorschot bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/ontheffing-tijdelijk-alcohol-schenken",
+    "title": "Ontheffing tijdelijk alcohol schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/woo-verzoek-doen",
+    "title": "Woo-verzoek doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/getuigen-aanmelden",
+    "title": "Getuigen aanmelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.delft.nl/bouwplan-voorleggen-aan-gemeente",
+    "title": "Bouwplan voorleggen aan gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/aanstelling-voor-beroepsmatige-verkeersregelaars",
+    "title": "Aanstelling voor beroepsmatige verkeersregelaars",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verkeerscirculatie"
+  },
+  {
+    "identifier": "https://www.delft.nl/rijbewijs-verloren",
+    "title": "Rijbewijs verloren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-voor-bewindvoerders",
+    "title": "Bijzondere bijstand voor bewindvoerders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.delft.nl/loterijvergunning",
+    "title": "Loterijvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/loterijvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/rommelmarkt-melden",
+    "title": "Rommelmarkt melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rommelmarktvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijzondere-bijstand-doorbetaling-van-vaste-lasten-opslagkosten",
+    "title": "Bijzondere bijstand, doorbetaling van vaste lasten / opslagkosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.delft.nl/compensatie-energiekosten",
+    "title": "Compensatie energiekosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/subsidie-voor-vakleerkracht-bewegingsonderwijs",
+    "title": "Subsidie voor vakleerkracht bewegingsonderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/vergunning-voor-woningvorming",
+    "title": "Vergunning voor woningvorming",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonruimte_onttrekkingsvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/urgentieverklaring",
+    "title": "Urgentieverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/urgentiebewijs_woningzoekende"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/bell-ringing-nieuwe-kerk",
+    "title": "Bell-ringing Nieuwe Kerk",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/afwijken-van-bestemmingsplan",
+    "title": "Afwijken van bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.delft.nl/grofvuil-aanmelden",
+    "title": "Grofvuil aanmelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.delft.nl/straatfeest-melden",
+    "title": "Straatfeest melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/eherkenning",
+    "title": "eHerkenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/omwisselen-buitenlands-rijbewijs",
+    "title": "Omwisselen buitenlands rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs_buitenlands_omwisseling"
+  },
+  {
+    "identifier": "https://www.delft.nl/handhaven-bij-bouwen",
+    "title": "Handhaven bij bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.delft.nl/incidentele-festiviteit-melden",
+    "title": "Incidentele festiviteit melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijstand-ioaw-uitkering",
+    "title": "Bijstand IOAW uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats_op_kenteken"
+  },
+  {
+    "identifier": "https://www.delft.nl/nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/converting-partnership",
+    "title": "Converting a partnership",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/verhuizing-melden",
+    "title": "Verhuizing melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.delft.nl/stempas-verkiezingen",
+    "title": "Stempas verkiezingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/ordering-marriage-booklet",
+    "title": "Ordering a marriage booklet",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/klein-kansspel-melden",
+    "title": "Klein kansspel melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.delft.nl/lening-stimuleringsfonds-stedelijke-vernieuwing",
+    "title": "Lening stimuleringsfonds stedelijke vernieuwing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stads-_en_dorpsvernieuwingssubsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/lening-restauratiefonds-delft",
+    "title": "Lening Restauratiefonds Delft ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/make-or-cancel-appointment",
+    "title": "Make or cancel an appointment",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/ontheffing-reclame-maken",
+    "title": "Ontheffing reclame maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamemateriaalverspreiding_ontheffing"
+  },
+  {
+    "identifier": "https://www.delft.nl/subsidie-impuls-evenementen-2023",
+    "title": "Subsidie impuls evenementen 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.delft.nl/melding-over-de-buitenruimte",
+    "title": "Melding over de buitenruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.delft.nl/afspraak-maken-annuleren",
+    "title": "Afspraak maken of annuleren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/vergunning-melding-brandveilig-gebruik",
+    "title": "Vergunning of melding brandveilig gebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.delft.nl/bewijs-van-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.delft.nl/bijstand-vrijwilligerswerk",
+    "title": "Bijstand, vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/ontheffing-verruimen-winkeltijden",
+    "title": "Ontheffing verruimen winkeltijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdenontheffing"
+  },
+  {
+    "identifier": "https://www.delft.nl/instituut-sociaal-raadslieden-0",
+    "title": "Instituut Sociaal Raadslieden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/booking-wedding-date",
+    "title": "Booking a wedding date",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.delft.nl/ontheffing-sluitingstijden-horeca",
+    "title": "Ontheffing sluitingstijden horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.delft.nl/individuele-bijzondere-bijstand-energiekosten-2022",
+    "title": "Individuele bijzondere bijstand, energiekosten 2022",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.delft.nl/en/municipal-witnesses",
+    "title": "Municipal witnesses",
+    "language": "en",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Delft_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  }
+]

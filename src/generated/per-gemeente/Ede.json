@@ -1,0 +1,569 @@
+[
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/nederlander-worden",
+    "title": "Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.ede.nl/ondersteuning-werk-inkomen/inkomensregelingen-kinderen",
+    "title": "Inkomensregelingen voor kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/gehandicaptenparkeerplaats-aanvragen",
+    "title": "gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/trouwen-of-geregistreerd-partnerschap",
+    "title": "Trouwen of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlandschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/inschrijving-vanuit-buitenland",
+    "title": "Inschrijving vanuit buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/kap-en-snoeihout-verbranden",
+    "title": "Kap- en snoeihout verbranden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.ede.nl/ondersteuning-werk-inkomen/woningaanpassing-en-hulpmiddelen",
+    "title": "Woningaanpassing en hulpmiddelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/monument-opknappen-of-verbouwen",
+    "title": "Omgevingsvergunning monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/horecabedrijf",
+    "title": "Exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/verklaring-omtrent-gedrag-vog",
+    "title": "Verklaring omtrent gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/graafwerkzaamheden-melden",
+    "title": "Graaf melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/kwijtschelding-gemeentelijke-belastingen",
+    "title": "Kwijtschelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/geboorte-aangeven",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/melding-of-klacht-openbare-ruimte",
+    "title": "Melding Openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/overlijden-aangeven",
+    "title": "Overlijden aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/marktplaatsvergunning",
+    "title": "marktplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/iets-verloren-of-gevonden",
+    "title": "Verloren voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/paramotorvliegen-ballonvaren-en-andere-luchtvaart",
+    "title": "ballonvaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/geregistreerd-partnerschap-omzetten-in-huwelijk",
+    "title": "geregisteerd parnterschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/parkeervergunning-of-ontheffing",
+    "title": "parkeervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/duurzaamheid",
+    "title": "Energiescan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/woonurgentie",
+    "title": "Woonurgentie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/rijbewijs-aanvragen",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/woz-wet-waardering-onroerende-zaken",
+    "title": "WOZ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/welstandsadvies",
+    "title": "welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/trouwen-in-het-buitenland",
+    "title": "Huwelijksbevoegdheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/ondersteuning-werk-inkomen/leerlingenvervoer",
+    "title": "leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.ede.nl/ondersteuning-werk-inkomen/bijzondere-bijstand-maatwerk",
+    "title": "Bijzondere bijstand (maatwerk)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/ondersteuning-werk-inkomen/inkomensregelingen-volwassenen/fondsen",
+    "title": "Particuliere fondsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/bestemmingsplannen",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/schetsplan",
+    "title": "Schetsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/openbare-laadpaal-aanvragen",
+    "title": "Openbare oplaadpaal aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/gehandicaptenparkeerkaart-aanvragen",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.ede.nl/ondersteuning-werk-inkomen/inkomensvoorziening-oudere-en-arbeidsongeschikte-werklozen-ioaw",
+    "title": "Inkomensvoorziening oudere en arbeidsongeschikte werklozen (IOAW)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/toekomstbestendig-wonen-lening-en-stimuleringslening-duurzaamheid-rechtspersonen",
+    "title": "Stimuleringslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/brandveilig-gebruik-gebouwen",
+    "title": "Brandveilig gebruik gebouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/ondersteuning-werk-inkomen/inkomensregelingen-volwassenen",
+    "title": "Inkomensregelingen voor volwassenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/forensenbelasting",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/tijdelijke-verhuur-leegstaande-woning",
+    "title": "Vergunning tijdelijke verhuur leegstaande woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/uittreksel-burgerlijke-stand",
+    "title": "Uitreksel burgelijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/kind-erkennen",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.ede.nl/ondersteuning-werk-inkomen/mantelzorgwaardering",
+    "title": "Mantelzorgwaardering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/gemeentegrond-kopen",
+    "title": "Snippergroen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/ondersteuning-werk-inkomen/hulp-in-het-huishouden",
+    "title": "Hulp in het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/ozb-onroerende-zaak-belasting",
+    "title": "Onroerende zaak belasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/ondersteuning-werk-inkomen/hulp-in-het-huishouden-voor-mantelzorgers",
+    "title": "Thuisondersteuning voor mantelzorgers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/ondersteuning-werk-inkomen/begeleiding",
+    "title": "Begeleiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/echtscheiding-of-partnerschap-beeindigen",
+    "title": "Echtscheiding of partnerschap beeindigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/rioolverstopping",
+    "title": "Rioolverstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.ede.nl/in-de-gemeente-ede/bouwprojecten/kolkakkerbuurt",
+    "title": "Kolkakkerbuurt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/paspoort-of-identiteitskaart-aanvragen",
+    "title": "paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/reclamebelasting",
+    "title": "Reclamebelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamebelasting"
+  },
+  {
+    "identifier": "https://www.ede.nl/ondersteuning-werk-inkomen/begeleid-of-beschermd-wonen",
+    "title": "Beschermd wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/collecteren-en-flyeren",
+    "title": "Collecteren en flyeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/nederlandse-nationaliteit-opgeven",
+    "title": "Nederlandse nationaliteit opgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/begraven-en-cremeren",
+    "title": "Begraven en cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/naamskeuze-kind",
+    "title": "Naamskeuze kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/slopen-van-bouwwerken",
+    "title": "Sloopvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.ede.nl/ondersteuning-werk-inkomen/respijtzorg",
+    "title": "Kortdurend verblijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/ondersteuning-werk-inkomen/bijstand-voor-zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/belasting-betalen",
+    "title": "Belasting betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/rioolaansluiting-aanvragen",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/verleende-vergunningen-inzien-en-opvragen",
+    "title": "Vergunningen inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/verhuizing-doorgeven",
+    "title": "Verhuizing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.ede.nl/ondersteuning-werk-inkomen/hulp-bij-schulden-aanvragen",
+    "title": "Schulddienstverlening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/vergunningvrij-bouwen",
+    "title": "Vergunningvrij bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/afval",
+    "title": "Afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.ede.nl/ondersteuning-werk-inkomen/inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongeschikte-gewezen-zelfstandigen-ioaz",
+    "title": "Inkomensvoorziening oudere gewezen zelfstandigen (IOAZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/grafsteen-plaatsen",
+    "title": "Grafsteen plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gedenkteken_plaatsingsvergunning"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/subsidie",
+    "title": "Subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/gebruik-achternaam-wijzigen",
+    "title": "Gebruik achternaam wijzigingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/garantverklaring",
+    "title": "Garantverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/meedoen-en-meepraten/wijkwerkwagen",
+    "title": "Wijkwerkwagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/oprit-of-inrit-aanleggen",
+    "title": "oprit aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/ondersteuning-werk-inkomen/vervoer",
+    "title": "Vervoer en activiteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/wonen-in-een-recreatiewoning",
+    "title": "recreatiewoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)"
+  },
+  {
+    "identifier": "https://www.ede.nl/aanvragen-en-regelen/parkeerbelasting",
+    "title": "Parkeerbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Ede_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerbelasting"
+  }
+]

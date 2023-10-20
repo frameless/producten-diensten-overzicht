@@ -1,0 +1,388 @@
+[
+  {
+    "identifier": "https://www.goirle.nl/verhuizen",
+    "title": "Verhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.goirle.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.goirle.nl/sportzalen",
+    "title": "Sporthal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/uittreksel/uittreksel-of-afschrift-aanvragen",
+    "title": "Uittreksel of afschrift aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/college",
+    "title": "College van B en W",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/bijstand",
+    "title": "Uitkeringen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/leerlingenvervoer",
+    "title": "Leerlingvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/honden",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.goirle.nl/zorgverzekering",
+    "title": "Collectieve zorgverzekering voor minima",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/woz",
+    "title": "Woz-waarde en taxatieverslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.goirle.nl/uittreksel",
+    "title": "Uittreksels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/sociale-subsidies",
+    "title": "Subsidie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/trouwen",
+    "title": "Trouwen en geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/overlijden",
+    "title": "Overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.goirle.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.goirle.nl/beroepofbedrijfaanhuis",
+    "title": "Beroep of bedrijf aan huis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/persoonsgegevens",
+    "title": "Naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.goirle.nl/jeugdhulp",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.goirle.nl/bezwaar",
+    "title": "Klachten en bezwaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/paspoort-rijbewijs-uittreksels",
+    "title": "Paspoort, rijbewijs, uittreksels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.goirle.nl/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.goirle.nl/projecten",
+    "title": "Bouw- en woningprojecten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/verhuizenvanuithetbuitenland",
+    "title": "Vestiging vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.goirle.nl/ozb",
+    "title": "Onroerende-zaakbelastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/container",
+    "title": "Container aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/evenementen",
+    "title": "Activiteiten en evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/bestemmingsplannen",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.goirle.nl/collectevergunning",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.goirle.nl/wmo",
+    "title": "Het Dorpsteam Goirle",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/mantelzorg",
+    "title": "Vrijwilligerswerk en Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/bewijsvaninlevenzijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.goirle.nl/leerplicht",
+    "title": "Leerplicht en spijbelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/promotie",
+    "title": "Promotie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.goirle.nl/in-de-gemeente-goirle/ondernemen",
+    "title": "Ondernemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/kwijtschelding",
+    "title": "Kwijtschelding belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.goirle.nl/afval",
+    "title": "Afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.goirle.nl/grofhuisvuil",
+    "title": "Grof huisvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/verkoopvergunning",
+    "title": "Verkoopvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/veiligheid",
+    "title": "Veiligheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/woo",
+    "title": "Wet open overheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/laaginkomen",
+    "title": "Laag inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "http://raad.goirle.nl/",
+    "title": "Gemeenteraad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/erkenningkind",
+    "title": "Erkenning kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.goirle.nl/afvalkalender",
+    "title": "Ophaaldagen afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/milieustraat",
+    "title": "Milieustraat en Kringloopwinkel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/archief",
+    "title": "Archief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/geboorte",
+    "title": "Geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.goirle.nl/parkeren",
+    "title": "Parkeerontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://www.goirle.nl/financien",
+    "title": "Financiën",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.goirle.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.goirle.nl/verhuizen-en-verbouwen",
+    "title": "Verhuizen en (ver)bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.goirle.nl/horecavergunning",
+    "title": "Exploitatie- Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/gevondenenverloren",
+    "title": "Gevonden en verloren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)"
+  },
+  {
+    "identifier": "https://www.goirle.nl/vog",
+    "title": "Verklaring Omtrent het Gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Goirle_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  }
+]

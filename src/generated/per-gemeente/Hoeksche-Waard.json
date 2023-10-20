@@ -1,0 +1,2282 @@
+[
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/subthema/landelijke-regelingen-ondernemers/",
+    "title": "Landelijke regelingen ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verkeer-en-vervoer/gladheidsbestrijding/",
+    "title": "Gladheidsbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/duurzame-doeners/",
+    "title": "Duurzame Doeners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/privacy-en-persoonsgegevens/bestuurlijke-boete-basisregistratie-personen-brp/",
+    "title": "Bestuurlijke boete Basisregistratie Personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/brpInschr"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/flitsvergunning/",
+    "title": "Flitsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/evenement-organiseren/reclame-digitale-informatiedisplays-evenement-aankondigen/",
+    "title": "Digitale informatiedisplays, evenement aankondigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/dakkapellen/",
+    "title": "Dakkapel of dakraam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/evenement-organiseren/verbod-vuur-te-stoken-ontheffing/",
+    "title": "Verbod vuur stoken, ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/vuurwerk_ontbrandingstoestemming"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/tegemoetingen-bij-een-laag-inkomen/bijdrage-energiekosten/",
+    "title": "Bijdrage energiekosten 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verkeer-en-vervoer/programmaplan-mobiliteit/",
+    "title": "Programmaplan Mobiliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/verklaringen/bewijs-van-garantstelling-en-of-logiesverstrekking/",
+    "title": "Bewijs van garantstelling en/of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring-verblijf-in-nederland"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/contact/contact/",
+    "title": "Contact",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/bedrijven/geldzorgen-als-ondernemer/",
+    "title": "Geldzorgen als ondernemer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/levensgebeurtenissen/geboorte/naamswijziging-achternaam/",
+    "title": "Naamswijziging achternaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/naamswijziging-achternaam"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/levensgebeurtenissen/verklaringen/geboorte-aangifte/",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/tegemoetkomingen-leren-wonen-en-zorg/premiebijdrage-aanvullende-zorgverzekering-2/",
+    "title": "Premiebijdrage aanvullende zorgverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/verhuizing-doorgeven/",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/sport-cultuur/magneetvissen/",
+    "title": "Magneetvissen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/rijbewijs/rijbewijs-kwijt-of-gestolen/",
+    "title": "Rijbewijs kwijt of gestolen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/rijbewijs-kwijt-of-gestolen"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/duurzaam-ondernemen/verduurzaming-voor-scholen/",
+    "title": "Verduurzaming voor scholen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/duurzhLening"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/verkenning-aanleg-nieuwehoogspanningsverbinding-380-kv-verbinding/",
+    "title": "Verkenning nieuwe hoogspanningsverbinding (380 kV-verbinding)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/mantelzorg/waardering-mantelzorg/",
+    "title": "Waardering mantelzorgers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/mantelzorgcompliment"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/evenement-organiseren/evenement-organiseren-melding-of-vergunning/",
+    "title": "Evenement organiseren, melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/tegemoetkomingen-voor-ouders-met-een-laag-inkomen/jeugdfonds-sport-en-cultuur/",
+    "title": "Jeugdfonds Sport en Cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/jeugdsportsubsidie"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/duurzaam-ondernemen/klimaatadaptatie/",
+    "title": "Klimaatadaptatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/sport-cultuur/sportaccommodaties-en-velden-huren/",
+    "title": "Sportaccommodaties en velden huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/sportaccommodaties-en-velden-huren"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/projecten/hoeksche-waard-west-spuimonding/",
+    "title": "Hoeksche Waard-West/Spuimonding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/geldvragen/de-voorzieningenwijzer/",
+    "title": "Waar heeft u allemaal recht op",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/uitkering/mijn-inkomen/",
+    "title": "Mijn Inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/nee-nee-sticker-nee-ja-sticker-2/",
+    "title": "NEE-NEE sticker, NEE-JA sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/nee-nee-sticker-nee-ja-sticker"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/tegemoetingen-bij-een-laag-inkomen/bijdrage-voor-bijzondere-noodzakelijke-kosten-bijzondere-bijstand/",
+    "title": "Bijzondere noodzakelijke kosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/geldvragen/hulp-bij-geldzorgen/",
+    "title": "Hulp bij geldzorgen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/afval/",
+    "title": "Afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/groenstrook-of-snippergroen-huren-of-kopen/",
+    "title": "Gemeentegroen (snippergroen) huren of kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/tegemoetkomingen-voor-ouders-met-een-laag-inkomen/meedoenregeling-extra-geld-voor-schoolkosten/",
+    "title": "Bijdrage voor schoolkosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/belastingen-en-subsidies/subsidies/kunst-en-cultuursubsidies-2023/",
+    "title": "Kunst- en cultuursubsidies 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/cultuursubsidie"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/bouw-en-woningtoezicht/",
+    "title": "Bouw- en woningtoezicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/werk-zoeken/hulp-bij-het-vinden-van-werk/",
+    "title": "Hulp bij het vinden van werk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/werkbegeleiding_werkzoekenden"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/winkeliers/standplaats-aanvragen/",
+    "title": "Standplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/opgroeien-en-ouderschap/leerplicht-en-verzuim/",
+    "title": "Leerplicht en verzuim",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/begSchoolverl"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/subthema/zondagsrust-ontheffing/",
+    "title": "Zondagsrust, ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/zondagsrustverstoring-ontheffing"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/actueel/terrassen-terrasuitbreiding-en-overkapping/",
+    "title": "Terrassen, terrasuitbreiding en -overkapping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/duurzaam-ondernemen/zakelijk-regionaal-energieloket/",
+    "title": "Zakelijk Regionaal Energieloket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/subthema/openingstijden-horeca-eenmalig-aanpassen/",
+    "title": "Openingstijden horeca eenmalig aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/openingstijden-horeca-eenmalig-aanpassen"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/uittreksels-en-verklaringen/uittreksel-persoonsgegevens-brp/",
+    "title": "Basisregistratie personen (BRP), uittreksel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/leefomgeving/gebruik-openbaar-gebied/",
+    "title": "Gebruik openbaar gebied",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/op-jezelf-wonen/",
+    "title": "Op jezelf wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/duurzaam-ondernemen/regionale-energiestrategie-res-hoeksche-waard/",
+    "title": "Regionale Energiestrategie (RES) Hoeksche Waard",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/opgroeien-en-ouderschap/jong-hw-denkt-mee/",
+    "title": "Jong HW Denkt Mee",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/inzage-milieuvergunningen/",
+    "title": "Inzage milieuvergunningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning-milieu"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/veiligheid-2/brandweer-politie/",
+    "title": "Brandweer en politie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/subthema/laatste-nieuws-ondernemen-coronacrisis/",
+    "title": "Laatste nieuws Ondernemen & Coronacrisis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/sport-cultuur/natuurgebieden/",
+    "title": "Natuurgebieden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/bedrijven/glasvezel-internet-voor-ondernemers/",
+    "title": "Glasvezel internet voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/tijdelijke-verhuur-van-een-te-koop-staande-woning/",
+    "title": "Tijdelijke verhuur van een te koop staande woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuurdersverklaring"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/evenement-organiseren/kansspel-of-klein-kansspel-organiseren/",
+    "title": "Kansspel of klein kansspel organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/projecten/polder-de-buitenzomerlanden/",
+    "title": "Polder De Buitenzomerlanden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/opgroeien-en-ouderschap/kinder-en-peuteropvang/",
+    "title": "Kinder- en peuteropvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/riolering-aansluiting-en-storing/",
+    "title": "Riolering aansluiting en storing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/hulp-bij-persoonlijke-problemen/logeerzorg/",
+    "title": "Logeerzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/logeerhuis"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/ondernemen/speelautomaat-aanwezigheidsvergunning/",
+    "title": "Speelautomaat aanwezigheidsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/speelautomaat_exploitatievergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verkeer-en-vervoer/randweg-klaaswaal/",
+    "title": "Randweg Klaaswaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/melden/openbare-verlichting/",
+    "title": "Openbare verlichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(straatverlichting)"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verkeer-en-vervoer/openbaar-vervoer/",
+    "title": "Openbaar vervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/actie-burendag/",
+    "title": "Actie Burendag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/sport-cultuur/speeltuin-kinderboerderijen/",
+    "title": "Speeltuinen en kinderboerderijen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/privacy-en-persoonsgegevens/basisregistratie-personen-brp-geheimhouding-persoonsgegevens/",
+    "title": "Basisregistratie personen (BRP), geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/woningbouwprojecten/",
+    "title": "(Woning)bouwprojecten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/projecten/hoe-beleeft-u-numansdorp-over-30-jaar/",
+    "title": "Toekomst Numansdorp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/klacht-of-melding/gemeentelijke-organisatie/handhavingsverzoek-indienen/",
+    "title": "Handhavingsverzoek indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/duurzaam-ondernemen/circulaire-economie/",
+    "title": "Circulaire economie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/glasvezel-internet/",
+    "title": "Glasvezel internet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/verhuizen/woonkostentoeslag/",
+    "title": "Woonkostentoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/woonkostentoeslag"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/ouder-worden/lang-leve-thuis/",
+    "title": "Lang Leve Thuis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/uittreksels-en-verklaringen/verklaring-omtrent-het-gedrag/",
+    "title": "Verklaring Omtrent het Gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/opgroeien-en-ouderschap/lokale-educatieve-agenda-lea/",
+    "title": "Lokale Educatieve Agenda (LEA)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/klacht-of-melding/leefomgeving/milieutelefoon/",
+    "title": "Milieutelefoon",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/geldvragen/hulp-bij-betalingsachterstanden/",
+    "title": "Vroeg Eropaf: hulp bij geldzorgen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/uittreksels-en-verklaringen/afschrift-uittreksel-burgelijke-stand/",
+    "title": "Afschrift of uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/afschrift-(uittreksel)-burgelijke-stand"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/regionale-woonvisie-hoeksche-waard-2030/",
+    "title": "Regionale Woonvisie Hoeksche Waard 2030",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/starterslening/",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/asbest-verwijderen/",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/wonen-in-strijen/",
+    "title": "Wonen in Strijen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/adoptiegroen/",
+    "title": "Adoptiegroen (concept)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/woonomgeving_inrichting"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/boom-kappen/",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/meerjaren-milieubeleidsplan/",
+    "title": "Meerjaren Milieubeleidsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/provinciale-subsidie-voor-bijzondere-woonvorm/",
+    "title": "Provinciale subsidie voor bijzondere woonvorm",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/woonsubsidie_ouderen"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/houtstook/",
+    "title": "Houtstook",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/watervergunning/",
+    "title": "Watervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/watervergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/programmaplan-duurzaamheid/",
+    "title": "Programmaplan Duurzaamheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/ondernemen/alcoholwetvergunning/",
+    "title": "Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verkeer-en-vervoer/werk-in-uitvoering/",
+    "title": "Werk in Uitvoering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderhoud-infrastructuur"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/sport-cultuur/zwemmen-in-natuurwater/",
+    "title": "Zwemmen in natuurwater",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/nk-tegelwippen-2023/",
+    "title": "NK Tegelwippen 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/verhuizen/emigratie-doorgeven-2/",
+    "title": "Emigratie doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/AangifteVertrekBuitenland"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/buurt-bestuurt/",
+    "title": "Buurt Bestuurt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/opgroeien-en-ouderschap/jeugdteam-hoeksche-waard/",
+    "title": "Jeugdteam Hoeksche Waard",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/jeugdteam-hoeksche-waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/belastingen-en-subsidies/subsidies/subsidieregeling-agrifood-regio-deal/",
+    "title": "Subsidieregeling Agrifood Regio Deal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/uitkering/betaaldata-vakantiegeld-en-hoogte/",
+    "title": "Betaaldata, vakantiegeld en hoogte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/kadastrale-informatie/",
+    "title": "Kadastrale informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/luiers-pilot/",
+    "title": "Luiers-pilot",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/ouder-worden/taalhuis-hulp-bij-lezen-spreken-schrijven/",
+    "title": "Taalhuis - hulp bij lezen, spreken, schrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/subthema/lokale-regelingen-ondernemers-gemeente-hoeksche-waard/",
+    "title": "Lokale regelingen en ondersteuning ondernemers gemeente Hoeksche Waard",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/plant-je-mee/",
+    "title": "Plant je mee  ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/urgentieverklaring/",
+    "title": "Urgentieverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/urgBewWoning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/belastingen-en-subsidies/subsidies/aanvraag-jubileumsubsidie/",
+    "title": "Aanvraag jubileumsubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/aanvraag-jubileumsubsidie"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/projecten/renovatie-veerhaven-puttershoek/",
+    "title": "Renovatie Veerhaven Puttershoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/onderhoud_infrastructuur"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/ondernemen/horeca-exploitatievergunning/",
+    "title": "Horeca exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/hulp-bij-persoonlijke-problemen/rolstoel-aanvragen/",
+    "title": "Rolstoel aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/rolstSctMob"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/verhuizen/briefadres-aanvragen-of-verlengen/",
+    "title": "Briefadres aanvragen of verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/levensgebeurtenissen/overlijden/gedenkteken-of-grafbedekking-plaatsen/",
+    "title": "Gedenkteken of grafbedekking plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/gedenkteken_plaatsingsvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/subthema/onderzoek-impact-coronacrisis-op-ondernemers/",
+    "title": "Onderzoek naar de impact van de coronacrisis op ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/veiligheid-2/slachtofferhulp-bij-misdrijven/",
+    "title": "Slachtofferhulp bij misdrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/geluidhinder-bouw-of-sloop-ontheffing/",
+    "title": "Geluidhinder werkzaamheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/belastingen-en-subsidies/subsidies/subsidies-2023-gemeente-hoeksche-waard/",
+    "title": "Incidentele subsidies 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/projecten/hoeksche-waard-zuidrand/",
+    "title": "Hoeksche Waard Zuidrand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/elektrisch-rijden-en-laadpalen/",
+    "title": "Elektrisch rijden en laadpalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/laadpaalverzoek"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/klacht-of-melding/overlast/wateroverlast/",
+    "title": "Wateroverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/verhuizen/verhuisregeling/",
+    "title": "Verhuisregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/uitkering/uitkeringsfraude/",
+    "title": "Uitkeringsfraude",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bijstandsverh"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/mantelzorg/blijk-van-waardering-2023/",
+    "title": "Blijk van Waardering 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgcompliment"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/subsidies/monumenten/",
+    "title": "Monumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/monumenten"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/zonnepanelen/",
+    "title": "Zonnecollectoren en zonnepanelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verkeer-en-vervoer/uitrit-of-inrit-aanleggen/",
+    "title": "Uitweg of in-/uitrit aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgVgUitweg"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/economie/digitaal-opkopersloket-en-register/",
+    "title": "Digitaal Opkopers Loket en Register",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/omgevingsvergunning/",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/subthema/venten/",
+    "title": "Venten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/tegemoetingen-bij-een-laag-inkomen/maatschappelijke-participatie/",
+    "title": "Maatschappelijke participatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid-2/voedselverspilling/",
+    "title": "Voedselverspilling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/voedselbank"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/verhuizen-naar-nederland/",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/hulp-bij-persoonlijke-problemen/toezicht-wmo/",
+    "title": "Toezicht Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/verbouwen/woonruimte-voor-mantelzorg/",
+    "title": "Woonruimte voor mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/woonwagens-en-standplaatsen/",
+    "title": "Woonwagens en standplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/woonwagenstandplaats"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/leefomgeving/bed-breakfast-starten/",
+    "title": "Bed & Breakfast starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/ouder-worden/ouderenadviseur-ouderenbeleid/",
+    "title": "Ouderenadviseur en Ouderenbeleid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/projecten/korteweg/",
+    "title": "Korteweg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/sport-cultuur/vrijwilligersverzekering/",
+    "title": "Vrijwilligersverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/bedrijven/platform-werken-en-leren/",
+    "title": "Platform Werken en Leren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/levensgebeurtenissen/geboorte/kind-erkennen-voor-na-de-geboorte/",
+    "title": "Kind erkennen voor/na de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verkeer-en-vervoer/tiengemetenpad/",
+    "title": "Tiengemetenpad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/belastingen-en-subsidies/subsidies/initiatievenfonds-gemeente-hoeksche-waard/",
+    "title": "Initiatievenfonds gemeente Hoeksche Waard",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/sport-cultuur/noodsteun-energiekosten-voor-verenigingen-en-stichtingen/",
+    "title": "Noodsteun energiekosten voor verenigingen en stichtingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/stap-voor-stap-naar-energiezuinig-duurzaam-wonen/",
+    "title": "Stap voor stap naar energiezuinig en duurzaam wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/privacy-en-persoonsgegevens/de-donorwet/",
+    "title": "De donorwet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/leidraad-voor-ontwikkeling-hoeksche-waard/",
+    "title": "Leidraad voor ontwikkeling Hoeksche Waard",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/verklaringen/legalisatie-handtekening/",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/privacy-en-persoonsgegevens/wet-basisregistratie-personen-wet-brp/",
+    "title": "Wet Basisregistratie Personen (Wet BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/brpInzRechtGeg"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/hulp-bij-persoonlijke-problemen/fonds-kinderhulp/",
+    "title": "Fonds Kinderhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/geldvragen/voor-hetzelfde-geld-ondersteuning/",
+    "title": "Voor hetzelfde geld: ondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/tegemoetkomingen-leren-wonen-en-zorg/studietoeslag/",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid-2/boezem-co/",
+    "title": "Boezem & Co",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/levensgebeurtenissen/overlijden/aangifte-overlijden/",
+    "title": "Overlijdensaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/sport-cultuur/cultureel-erfgoed/",
+    "title": "Cultureel erfgoed",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/sport-cultuur/ambtsketens-van-de-hoeksche-waard/",
+    "title": "Ambtsketens van de Hoeksche Waard",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/ouder-worden/wijkteam-hoeksche-waard/",
+    "title": "Wijkteam Hoeksche Waard",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/tegeltaxi-hoeksche-waard/",
+    "title": "Tegeltaxi Hoeksche Waard",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/paspoort-en-identiteitskaart/vluchtelingenpaspoort-aanvragen/",
+    "title": "Vluchtelingenpaspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort-aanvragen"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/klacht-of-melding/melden/meldpunt-zorg-overlast/",
+    "title": "Meldpunt Zorg en Overlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/meldpunt-zorg-&amp;-overlast"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/subthema/alcoholwet-ontheffing/",
+    "title": "Alcoholwet, ontheffing artikel 35",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/veiligheid-2/buurtpreventie-whatsapp-buurtpreventie/",
+    "title": "Buurtpreventie en WhatsApp Buurtpreventie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid-2/zwerfafval/",
+    "title": "Zwerfafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verkeer-en-vervoer/centrale-as-numansdorp/",
+    "title": "Centrale as Numansdorp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/duurzaamheidslening/",
+    "title": "Duurzaamheidslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/duurzhLening"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/bouwwerk-gereedmelding/",
+    "title": "Bouw start en gereed melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/spandoek-ophangen/",
+    "title": "Spandoek ophangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/evenement-organiseren/snuffelmarkt/",
+    "title": "Snuffelmarkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/snuffelmarktvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/bedrijven/kabels-en-leidingen-leggen-in-openbare-grond/",
+    "title": "Kabels en leidingen in openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/duurzaam-ondernemen/verduurzaming-voor-ondernemers/",
+    "title": "Verduurzaming voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/milieuvriendelijk_bouwsubsidie"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/bedrijven/openingstijden-winkels/",
+    "title": "Openingstijden winkels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/winkeltijdeninformatie"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaam-ondernemen/energietransitie/",
+    "title": "Energietransitie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/eedEnergieAudit"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/bedrijven/het-ondernemersfonds/",
+    "title": "Het Ondernemersfonds",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/bedrijven/startcoach/",
+    "title": "Startcoach",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/mantelzorg/werk-mantelzorg/",
+    "title": "Werk en Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/opgroeien-en-ouderschap/innovatie-jeugdhulp-en-wmo/",
+    "title": "Innovatie Jeugdhulp en Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/innovatie-jeugdhulp-&amp;-wmo"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verkeer-en-vervoer/nieuw-fietspad-door-polder-het-oudeland-van-strijen/",
+    "title": "Nieuw fietspad door polder het Oudeland van Strijen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/opgroeien-en-ouderschap/lokaal-preventieakkoord-hoeksche-waard/",
+    "title": "Lokaal preventieakkoord Hoeksche Waard",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/levensgebeurtenissen/overlijden/begraven-of-cremeren/",
+    "title": "Begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/verlBegraven"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/blijverslening/",
+    "title": "Blijverslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/blijverslening"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/erf-of-perceelafscheiding/",
+    "title": "Erf- of perceelafscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/klacht-of-melding/gemeentelijke-organisatie/bezwaar-maken/",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/levensgebeurtenissen/nederlanderschap/nederlander-worden/",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/naturalOptie"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/bedrijven/veilig-op-werk/",
+    "title": "Veilig op het werk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/klacht-of-melding/melden/melding-woon-en-leefomgeving/",
+    "title": "Melding woon- en leefomgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/subthema/noodsteun-voor-ondernemers-verenigingen-en-stichtingen/",
+    "title": "Lokale noodsteun voor ondernemers, verenigingen en stichtingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/opgroeien-en-ouderschap/scholen-in-de-hoeksche-waard/",
+    "title": "Scholen in de Hoeksche Waard  ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/begSchoolverl"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/subthema/kennisgeving-incidentele-festiviteit/",
+    "title": "Kennisgeving incidentele festiviteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/collIncFest"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verkeer-en-vervoer/renovatie-haringvlietbrug-en-heinenoordtunnel/",
+    "title": "Renovatie Haringvlietbrug en Heinenoordtunnel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderhoud-infrastructuur"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/rijbewijs/spoedaanvraag-rijbewijs-paspoort-identiteitskaart/",
+    "title": "Spoedaanvraag (rijbewijs, paspoort en identiteitskaart)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/ouder-worden/huiselijk-geweld/",
+    "title": "Huiselijk geweld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/economie/economische-monitor/",
+    "title": "Economische monitor",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/duurzaam-ondernemen/duurzaamheidsdag-voor-ondernemers/",
+    "title": "Duurzaamheidsdag Hoeksche Waard voor ondernemers 2022",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/geveltuinen/",
+    "title": "Geveltuinen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/woonomgeving_inrichting"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/sport-cultuur/archeologie/",
+    "title": "Archeologie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/evenement-organiseren/betoging-op-openbare-plaats/",
+    "title": "Betoging op openbare plaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/betogDemonsMld"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/levensgebeurtenissen/geboorte/levenloos-geboren-kind-registreren/",
+    "title": "Levenloos geboren kind registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/brpInschrOverlKind"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/aanbouwen-of-bijgebouwen/",
+    "title": "Aanbouwen of bijgebouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/uitkering/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-zelfstandige-ioaz/",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte zelfstandige (IOAZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/sport-cultuur/vissen/",
+    "title": "Vissen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/nieuwsbrief-duurzaamheid/",
+    "title": "Nieuwsbrief Duurzaamheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/prestatieafspraken-wonen/",
+    "title": "Prestatieafspraken Wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/klacht-of-melding/gemeentelijke-organisatie/klacht-over-het-handelen-van-de-gemeente/",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verkeer-en-vervoer/kabelgoottegel-aanvragen/",
+    "title": "Kabelgoottegel aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels--en-leidingenvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/bestemmingsplan/",
+    "title": "Bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid-2/energiecoach/",
+    "title": "Energiecoach",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/ontwikkelen-beleidskader-windenergie-bij-agrarische-bedrijven/",
+    "title": "Beleidskader Windenergie bij agrarische bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/klacht-of-melding/melden/storingsnummers/",
+    "title": "Noodnummers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/klacht-of-melding/overlast/laagvlieggebied-luchtmacht/",
+    "title": "Laagvlieggebied Luchtmacht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/bouwplannen-en-bouwtekeningen-bekijken/",
+    "title": "Bouwplan opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/klacht-of-melding/melden/discriminatie-melden/",
+    "title": "Discriminatie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/discriminatie-melden"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/uitkering/bijstand-uitkering/",
+    "title": "Bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verkeer-en-vervoer/ligplaats/",
+    "title": "Ligplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/ligplaatsvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/paspoort-en-identiteitskaart/vreemdelingenpaspoort/",
+    "title": "Vreemdelingenpaspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort-aanvragen"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/belastingen-en-subsidies/subsidies/algemene-subsidieverordening-en-diverse-uitvoeringsregels/",
+    "title": "Algemene subsidieverordening en diverse uitvoeringsregels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/opgroeien-en-ouderschap/hulp-bij-een-echtscheiding/",
+    "title": "Hulp bij een echtscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/privacy-en-persoonsgegevens/aanpassen-onjuiste-persoonsgegevens/",
+    "title": "Aanpassen onjuiste persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/economie/financien/",
+    "title": "Financiën",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/verbouw-monument/",
+    "title": "Verbouw monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/kozijnen/",
+    "title": "Kozijnen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/vooroverleg-conceptaanvraag-bouwplan/",
+    "title": "Vooroverleg (conceptaanvraag bouwplan)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/voorovrlg"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/tegemoetkomingen-leren-wonen-en-zorg/bijdrage-zorgkosten/",
+    "title": "Bijdrage zorgkosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/tegemoetkomingen-leren-wonen-en-zorg/collectieve-zorgverzekering/",
+    "title": "Collectieve zorgverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/zkKstVerzCol"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verkeer-en-vervoer/themapagina-in-het-kompas/",
+    "title": "Themapagina in Het Kompas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/belastingen-en-subsidies/belastingen/hondenbelasting/",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/belastingen-en-subsidies/subsidies/vaststelling-structurele-subsidie-2022/",
+    "title": "Vaststelling structurele subsidie 2022",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/mantelzorg/respijtzorg/",
+    "title": "Helpmijzorgen.nl/hw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/helpmijzorgen.nl/hw"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/paspoort-en-identiteitskaart/paspoort-of-identiteitskaart-kwijt-of-gestolen/",
+    "title": "Paspoort of identiteitskaart kwijt of gestolen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/paspoort-of-identiteitskaart-kwijt-of-gestolen"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/woning-huren/",
+    "title": "Woning huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/wnZkIns"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/volkstuinen-huren/",
+    "title": "Volkstuinen huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/volkstuinverhuur"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/klacht-of-melding/gemeentelijke-organisatie/wet-open-overheid-woo/",
+    "title": "Wet open overheid (Woo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/verstrekking_overheidsinformatie"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/mantelzorg/ondersteuning-jonge-mantelzorgers/",
+    "title": "Ondersteuning jonge mantelzorgers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/ondersteuning-jonge-mantelzorgers"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/geldvragen/geldvragen-hulp-bij-schulden/",
+    "title": "Hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/airco-of-warmtepomp-unit-plaatsen/",
+    "title": "Airco of warmtepomp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/hulp-bij-persoonlijke-problemen/maatwerkvoorziening-wmo-begeleiding/",
+    "title": "Maatwerkvoorziening Wmo Begeleiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/ondernemersloket-duurzaamheid/",
+    "title": "Ondernemersloket Duurzaamheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/projecten/renovatie-centrum-oud-beijerland/",
+    "title": "Renovatie centrum Oud-Beijerland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/bouwbord-container-of-steiger-plaatsen/",
+    "title": "Bouwbord, container of steiger plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/nieuwsbrief-ondernemers/",
+    "title": "Nieuwsbrief ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/evenement-organiseren/reclame-plaatsen/",
+    "title": "Reclame plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/evenement-organiseren/collectevergunning/",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/uittreksels-en-verklaringen/bewijs-van-nederlanderschap/",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs-van-nederlanderschap"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/sport-cultuur/zwembaden-sporthallen-en-zalen/",
+    "title": "Zwembaden, sporthallen en -zalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/sporthallen-en--zalen-&amp;-zwembaden"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/economie/inkoop-aanbestedingen/",
+    "title": "Inkoop- en aanbestedingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/economie/koopzondagen-oud-beijerland/",
+    "title": "Koopzondagen Oud-Beijerland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/koopzondageninformatie"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/ouder-worden/hulp-bij-het-huishouden/",
+    "title": "Hulp bij het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/huishHulp"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/sloopmelding-gebouw-of-deelgebouw/",
+    "title": "Slopen (melding of vergunning)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/werk-zoeken/werken-met-een-arbeidsbeperking-banenafspraak/",
+    "title": "Werken met een arbeidsbeperking (banenafspraak)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/ouder-worden/wmo-hoeksche-waard/",
+    "title": "Wmo Hoeksche Waard",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/wmo-hoeksche-waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/belastingen-en-subsidies/subsidies/vaststelling-incidentele-subsidie/",
+    "title": "Vaststelling incidentele subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/biodiversiteit/",
+    "title": "Biodiversiteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/duurzaam-ondernemen/energieke-regio/",
+    "title": "Energieke Regio",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/uittreksels-en-verklaringen/attestatie-de-vita/",
+    "title": "Attestatie de Vita (internationaal bewijs van in leven zijn)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/rijbewijs/rijbewijs-gezondheidsverklaring-medische-keuring/",
+    "title": "Rijbewijs gezondheidsverklaring medische keuring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/rijbGezVerkl"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/levensgebeurtenissen/geboorte/adoptie/",
+    "title": "Adoptie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/adoptie_aangifte"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/hulp-bij-persoonlijke-problemen/de-luisterlijn/",
+    "title": "De luisterlijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verkeer-en-vervoer/vrachtwagenparkeerplaats-huren/",
+    "title": "Vrachtwagenparkeerplaats huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/woning-kopen/",
+    "title": "Woning kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/tegemoetingen-bij-een-laag-inkomen/jaarlijks-bedrag-voor-langdurig-lage-inkomens/",
+    "title": "Bijdrage voor langdurig lage inkomens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/opgroeien-en-ouderschap/buurtgezinnen/",
+    "title": "Buurtgezinnen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/opvoedingsondersteuning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/werk-zoeken/werken-in-een-beschermde-omgeving-beschut-werken/",
+    "title": "Werken in een beschermde omgeving (beschut werken)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/net-op-zee-nederwiek-3/",
+    "title": "Net op zee - Nederwiek 3",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/flexwonen-hoeksche-waard/",
+    "title": "Flexwonen Hoeksche Waard",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/uitkering/wat-verwachten-wij-van-u-als-u-een-uitkering-ontvangt/",
+    "title": "Wat verwachten wij van u als u een uitkering ontvangt?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/ouder-worden/clientondersteuning/",
+    "title": "Cliëntondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verkeer-en-vervoer/parallelweg-maasdam-sgravendeel/",
+    "title": "Parallelweg Maasdam - 's-Gravendeel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/duurzaam-ondernemen/energielabel-c-verplichting/",
+    "title": "Energielabel C verplichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/vergunningsvrij-verbouwen/",
+    "title": "Vergunningsvrij (ver)bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/hulp-bij-persoonlijke-problemen/gehandicaptenparkeerkaart-aanvraag-vermissing-of-verlenging/",
+    "title": "Gehandicaptenparkeerkaart, aanvraag, vermissing of wijziging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/rijbewijs/rijbewijs-omwisselen/",
+    "title": "Rijbewijs omwisselen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/rijbewijs-omwisselen"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/hulp-bij-persoonlijke-problemen/eigen-bijdrage-wmo/",
+    "title": "Eigen bijdrage Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/duurzame-doe-woning/",
+    "title": "Duurzame Doe woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/opgroeien-en-ouderschap/studeren-met-een-beperking/",
+    "title": "Studeren met een beperking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/begSchoolverl"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/omgevingsvisie-hoeksche-waard/",
+    "title": "Omgevingsvisie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/delta-rhine-corridor/",
+    "title": "Delta Rhine Corridor",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/rijbewijs/rijbewijs-verlengen-75-plusser/",
+    "title": "Rijbewijs verlengen 75-plusser",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/rijbVerlengen"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/bedrijven/koopzondagen-voormalig-gemeente-binnenmaas/",
+    "title": "Koopzondagen voormalig gemeente Binnenmaas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/koopzondageninformatie"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/mantelzorg/informatie-mantelzorger/",
+    "title": "Informatie mantelzorger",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/buurtbemiddeling/",
+    "title": "Buurtbemiddeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/bedrijven/vuurwerk-verkopen-vergunning/",
+    "title": "Vuurwerk verkopen, vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/vuurwerkverkoopvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/belastingen-en-subsidies/uitkering/steun-voor-zelfstandigen-bbz/",
+    "title": "Steun voor zelfstandigen (Bbz)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/geldvragen/geldgids/",
+    "title": "Geldgids",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/veiligheid-2/preventietips/",
+    "title": "Inbraakpreventietips",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/uitkering/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-werknemers-ioaw/",
+    "title": "Uitkering voor oudere en gedeeltelijk arbeidsongeschikte werknemers (IOAW)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/uitkering-voor-oudere-en-gedeeltelijk-arbeidsongeschikte-werknemers-(ioaw)"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/klacht-of-melding/melden/verloren-of-gevonden-voorwerpen/",
+    "title": "Verloren of gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/opgroeien-en-ouderschap/persoonsgebonden-budget-pgb/",
+    "title": "Persoonsgebonden budget (pgb)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/persoonsgebonden_budget"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/transitievisie-warmte/",
+    "title": "Transitievisie Warmte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/sport-of-speeltoestel/",
+    "title": "Sport of speeltoestel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/levensgebeurtenissen/overlijden/online-regelen-ondernemers/",
+    "title": "Online regelen ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/projecten/nieuwe-riolering-en-waterleiding-nieuwendijk/",
+    "title": "Nieuwe riolering in Nieuwendijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/belastingen-en-subsidies/subsidies/subsidieregeling-economische-en-arbeidsmarktontwikkeling/",
+    "title": "Subsidieregeling economische - en arbeidsmarktontwikkeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verkeer-en-vervoer/betere-ontsluiting-voor-hoeksche-waard-zuidwest/",
+    "title": "Betere ontsluiting voor Hoeksche Waard Zuidwest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/verkeerscirculatie"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/belastingen-en-subsidies/subsidies/subsidie-klimaatadaptatie/",
+    "title": "Subsidie Klimaatadaptatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/opgroeien-en-ouderschap/begeleiding-naar-school-of-werk/",
+    "title": "Begeleiding naar school of werk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/begSchoolverl"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/veiligheid-2/burgernet/",
+    "title": "Burgernet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/wooninitiatief-indienen/",
+    "title": "Wooninitiatief indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/windmolens/",
+    "title": "Windmolens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/planschade/",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/levensgebeurtenissen/privacy-en-persoonsgegevens/naamswijziging/",
+    "title": "Naamswijziging voornaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/voornaamwijziging"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/duurzaam-ondernemen/gratis-energiekansenscan/",
+    "title": "Gratis energiekansenscan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/adresonderzoek/",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/woningbouwprogrammering/",
+    "title": "Woningbouwprogrammering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/marktondernemers/marktplaatsvergunning/",
+    "title": "Marktplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/marktvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/gewild-groen/",
+    "title": "GeWild groen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/subthema/europese-regelingen/",
+    "title": "Europese regelingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/levensgebeurtenissen/nederlanderschap/inburgeren/",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/evenement-organiseren/brandveiligheid-melding-of-vergunning/",
+    "title": "Brandveiligheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/brandveiligheid-melding-of-vergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/duurzaamheidssubsidies-en-financieringen/",
+    "title": "Duurzaamheidssubsidies en financieringen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/duurzhLening"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/economie/lokaal-inkopen/",
+    "title": "Lokaal inkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/mantelzorg/kwadraad-maatschappelijk-werk/",
+    "title": "Kwadraad maatschappelijk werk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/paspoort-en-identiteitskaart/paspoort-aanvragen/",
+    "title": "Paspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/subthema/geocaching/",
+    "title": "Geocaching",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/waterstofnetwerk-zuidwest-nederland/",
+    "title": "Waterstofnetwerk Zuidwest-Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/rijbewijs/rijbewijs-aanvragen-of-verlengen/",
+    "title": "Rijbewijs aanvragen of verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/rijbAanvraag"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/ondernemen/register-sociale-hygiene/",
+    "title": "Register Sociale Hygiëne",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecabedrijf-exploitatievergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/regionaal-energieloket/",
+    "title": "Regionaal Energieloket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/hulp-bij-persoonlijke-problemen/gehandicaptenparkeerplaats-aanvraag-en-wijziging/",
+    "title": "Gehandicaptenparkeerplaats, aanvraag of wijziging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/sport-cultuur/wat-is-er-te-doen-in-de-hoeksche-waard/",
+    "title": "Wat is er te doen in de Hoeksche Waard?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/tegemoetingen-bij-een-laag-inkomen/gratis-dal-vrij-abonnement/",
+    "title": "Gratis Dal Vrij abonnement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/werk-geld/geldvragen/hulp-voor-gedupeerden-van-de-toeslagenaffaire/",
+    "title": "Hulp voor gedupeerden van de toeslagenaffaire",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/bedrijven/milieuvergunning-of-melding/",
+    "title": "Milieuvergunning of -melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verkeer-en-vervoer/werkzaamheden-n217/",
+    "title": "Werkzaamheden N217",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/klacht-of-melding/overlast/fakkelen-shell-moerdijk/",
+    "title": "Fakkelen Shell Moerdijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/sport-cultuur/lokaal-sportakkoord-3/",
+    "title": "Lokaal Sportakkoord",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/huisnummer-aanvragen-of-veranderen/",
+    "title": "Huisnummer aanvragen of veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/groenonderhoud/",
+    "title": "Groenonderhoud",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(groenvoorziening)"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/ouder-worden/dementie/",
+    "title": "Dementie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/sport-cultuur/varen/",
+    "title": "Varen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/bouw-en-verbouwing-welstand/",
+    "title": "Welstand (uiterlijk van bouwwerken)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/duurzaam-ondernemen/stimuleringslening-duurzaamheid-zakelijk/",
+    "title": "Stimuleringslening Duurzaamheid (zakelijk)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/belastingen-en-subsidies/belastingen/kwijtschelding-gemeentelijke-belasting/",
+    "title": "Kwijtschelding gemeentelijke belasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/vlaggenmast/",
+    "title": "Vlaggenmast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/paspoort-en-identiteitskaart/identiteitskaart-aanvragen/",
+    "title": "Identiteitskaart aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/klacht-of-melding/melden/zwerfdieren-of-dode-dieren/",
+    "title": "Zwerfdieren of dode dieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/paspoort-rijbewijs-uittreksel/uittreksels-en-verklaringen/bewijs-van-in-leven-zijn/",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/klacht-of-melding/gemeentelijke-organisatie/digitale-zienswijze/",
+    "title": "Digitale zienswijze",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/verstrekking_overheidsinformatie"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/ondernemen/economie/bedrijveninvesteringszone/",
+    "title": "Bedrijveninvesteringszone (BIZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/belastingen-en-subsidies/verhuizen/woz-waarde/",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/belastingen-en-subsidies/belastingen/teruggave-rioolheffing-2021/",
+    "title": "Teruggave rioolheffing 2021",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/ouder-worden/hoorwinst-hoeksche-waard/",
+    "title": "Hoorwinst Hoeksche Waard",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/bouwregels-en-vergunning/",
+    "title": "Bouwregels en vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/hulp-bij-persoonlijke-problemen/veilig-mailen-zorgaanbieders/",
+    "title": "Veilig mailen zorgaanbieders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verbouwen/bouwafval/",
+    "title": "Bouwafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/leefomgeving/hondenbeleid/",
+    "title": "Hondenbeleid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/hondenbesluit"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/verhuizen/wonen-welzijn-zorg-visie/",
+    "title": "Wonen Welzijn Zorg visie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/regio-deal-zuid-hollandse-delta/",
+    "title": "Regio Deal Zuid-Hollandse Delta",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/zorg-welzijn/opgroeien-en-ouderschap/niet-tevreden-over-jeugdhulp/",
+    "title": "Vertrouwenspersoon AKJ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/overlast/ongediertebestrijding/",
+    "title": "Ongediertebestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/duurzaamheid/duurzaamheidsprijs/",
+    "title": "Duurzaamheidsprijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/opgroeien-en-ouderschap/leerlingenvervoer/",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://gemeentehw.nl/direct-regelen/wonen-bouwen-en-omgeving/leefomgeving/programma-verbindingen-aanlanding-wind-op-zee/",
+    "title": "Programma Verbindingen Aanlanding Wind op Zee - (VAWOZ) 2031 – 2040",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hoeksche_Waard"
+  }
+]

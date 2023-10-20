@@ -1,0 +1,497 @@
+[
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/paspoort-rijbewijs-uittreksels/identiteitskaart/",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/bouwen-en-vestigen/omgevingsvergunning/",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/afval/controle-afvalscheiding/",
+    "title": "Controle afvalscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/bouwen-en-vestigen/bedrijventerreinen/",
+    "title": "Bedrijventerreinen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/personeel-en-beroep/vrijwilligers/",
+    "title": "Vrijwilligers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/belastingen/hondenbelasting/",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/horeca-en-verkoop/ondersteunende-horeca/",
+    "title": "Ondersteunende horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/geld/reclame-en-precario/",
+    "title": "Reclame en precario",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/gemeente/stad-en-dorpen/toiletten/",
+    "title": "Toiletten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdeninformatie"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/geboorte-trouwen-overlijden/trouwen/",
+    "title": "Trouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/milieu/ontheffing-milieuzone/",
+    "title": "Ontheffing milieuzone",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/horeca-en-verkoop/winkeltijden/",
+    "title": "Winkeltijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/horeca-en-verkoop/alcoholwetvergunning-en-exploitatievergunning/",
+    "title": "Alcoholwetvergunning en exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/geboorte-trouwen-overlijden/centrale-begraafplaats/",
+    "title": "Centrale Begraafplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/bouwen-en-vestigen/grondprijzen/",
+    "title": "Grondprijzen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwgronduitgifte"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/afval/milieustraat/",
+    "title": "Milieustraat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/evenementen/evenementenvergunning-1/",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/bouwen-en-vestigen/gebruik-openbare-ruimte/",
+    "title": "Gebruik openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/zorg-en-wmo/toegang-tilburg/",
+    "title": "Toegang Tilburg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/afval/afvalstoffenheffing/",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/belastingen/kwijtschelding-gemeentelijke-belastingen/",
+    "title": "Kwijtschelding gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/paspoort-rijbewijs-uittreksels/rijbewijs/",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/belastingen/rioolheffing/",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/belastingen/onroerendezaakbelasting-ozb/",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/contact/klacht-schade-of-bezwaar/",
+    "title": "Klacht, schade of bezwaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/gemeente/stad-en-dorpen/parkeren-vervoer/parkeren/",
+    "title": "Parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/contact/afspraak-maken/",
+    "title": "Afspraak maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezafspr"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/evenementen/meldings-of-vergunningsplicht/",
+    "title": "Meldings- of vergunningsplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/evenementen/evenementenkalender-2023/",
+    "title": "Evenementenkalender 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/evenementen-tilburg/",
+    "title": "Evenementen Tilburg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/afval/grof-huisvuil/",
+    "title": "Grof huisvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/afval/containers/",
+    "title": "Containers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/verhuizen-verbouwen/verhuizing-doorgeven/",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/personeel-en-beroep/aangifte-overlijden-uitvaartondernemer/",
+    "title": "Aangifte overlijden uitvaartondernemer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/evenementen/evenementenkalender/",
+    "title": "Evenementenkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/geboorte-trouwen-overlijden/overlijden-erfrecht-en-begraven/",
+    "title": "Overlijden, begraven en erfrecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/paspoort-rijbewijs-uittreksels/uittreksel-of-akte-aanvragen/",
+    "title": "Uittreksel of akte aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/bouwen-en-vestigen/bedrijfsgegevens-aanpassen/",
+    "title": "Bedrijfsgegevens aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/bouwen-en-vestigen/adviesverzoek/",
+    "title": "Adviesverzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/geboorte-trouwen-overlijden/trouwen/trouwlocaties/",
+    "title": "Trouwlocaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/parkeren-en-verkeer/verkeersontheffing/",
+    "title": "Verkeersontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/bouwen-en-vestigen/bedrijfsruimte-en-overig-gemeentelijk-vastgoed/",
+    "title": "Gemeentelijk vastgoed",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwgronduitgifte"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/bouwen-en-vestigen/bestemmingsplan/",
+    "title": "Bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/afval/asbest-verwijderen/",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/verhuizen-verbouwen/archief-bouwen-en-milieu/",
+    "title": "Archief bouwen en milieu",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/geld/financiele-steun/",
+    "title": "Financiële steun",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/evenementen/evenement-melden/",
+    "title": "Evenement melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/belastingen/bezwaar-gemeentelijke-belastingen/",
+    "title": "Bezwaar gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/geld/subsidies-ondernemers/",
+    "title": "Subsidies ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/zorg-en-wmo/wmo/",
+    "title": "Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/bouwen-en-vestigen/leegstand/",
+    "title": "Leegstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruiksmelding"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/afval/ongedierte/",
+    "title": "Overlastgevende dieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/geboorte-trouwen-overlijden/naamgebruik/",
+    "title": "Naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/personeel-en-beroep/akte-of-uittreksel-voor-advocaat-en-notaris/",
+    "title": "Akte of uittreksel voor advocaat en notaris",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/geboorte-trouwen-overlijden/geboorteaangifte-en-erkenning/",
+    "title": "Geboorteaangifte en erkenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/geld/belastingen-ondernemers/",
+    "title": "Belastingen ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/niet-in-menu/afspraak-wijzigen-of-afzeggen/",
+    "title": "Afspraak wijzigen of afzeggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezafspr"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/afval/afvalkalender/",
+    "title": "Afvalkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/paspoort-rijbewijs-uittreksels/paspoort/",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/belastingen/afvalstoffenheffing/",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/belastingen/mijnoverheid/",
+    "title": "MijnOverheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_kopie"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/horeca-en-verkoop/straatventen-en-flyeren/",
+    "title": "(Straat)venten en flyeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/evenement-organiseren/",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/belastingen/betalen-gemeentelijke-belastingen/",
+    "title": "Betalen gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/verhuizen-verbouwen/zelf-bouwen/",
+    "title": "Zelf bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwgronduitgifte"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/personeel-en-beroep/woningontruiming/",
+    "title": "Woningontruiming",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/parkeren-en-verkeer/taxivergunning/",
+    "title": "Taxivergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verkeersbesluit"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/geboorte-trouwen-overlijden/trouwen/trouwambtenaren/",
+    "title": "Trouwambtenaren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/evenementen/gebruiksmelding/",
+    "title": "Gebruiksmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruiksmelding"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/laag-inkomen/bijzondere-bijstand/",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonkostentoeslag"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/contact/melding-maken/",
+    "title": "Melding maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/evenementen/loterij-of-bingo/",
+    "title": "Loterij of bingo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/verhuizen-verbouwen/bodeminformatie/",
+    "title": "Bodeminformatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/belastingen/woz-waarde-en-taxatieverslag/",
+    "title": "WOZ-waarde en taxatieverslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/afval/afvalsoorten/",
+    "title": "Afvalsoorten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/ondernemers/horeca-en-verkoop/staanplaats/",
+    "title": "Staanplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  },
+  {
+    "identifier": "https://www.tilburg.nl/inwoners/zorg-en-wmo/mantelzorg-en-vrijwilligers/",
+    "title": "Mantelzorg en vrijwilligers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Tilburg_(gemeente)"
+  }
+]

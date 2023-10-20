@@ -1,0 +1,695 @@
+[
+  {
+    "identifier": "https://www.opsterland.nl/afspraak-maken-met-b-en-w",
+    "title": "Afspraak maken met B en W",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/werk-vinden",
+    "title": "Werk vinden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/plusbus",
+    "title": "Plusbus",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/budgetadvies-en-hulp-bij-schulden",
+    "title": "Budgetadvies en hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/overlijden",
+    "title": "Overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/omgevingsvergunning-1",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/gast-van-de-raad",
+    "title": "Gast van de Raad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/lintje",
+    "title": "Iemand voordragen voor een Koninklijke onderscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/varen-in-opsterland",
+    "title": "Varen in Opsterland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/verzoek-geheimhouding-persoonsgegevens",
+    "title": "Verzoek geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/buurtbemiddeling",
+    "title": "Buurtbemiddeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/vragen-en-contact-over-opvoeden-en-opgroeien",
+    "title": "Vragen en contact over opvoeden en opgroeien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/sloopmelding",
+    "title": "Sloopmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/aanvraag-kwijtschelding-gemeentelijke-belastingen",
+    "title": "Aanvraag kwijtschelding gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/huwelijk",
+    "title": "Huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/opsterland-in-cijfers",
+    "title": "Opsterland in cijfers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/subsidie-onderhoud-speeltoestellen",
+    "title": "Subsidie onderhoud speeltoestellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/individuele-studietoeslag",
+    "title": "Individuele studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/blijverslening-consumptief-en-verzilverlening",
+    "title": "Blijverslening consumptief en verzilverlening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/blijverslening"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/digitale-belastingaanslag",
+    "title": "Digitale belastingaanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/ophalen-grofvuil-enof-tuinafval",
+    "title": "Ophalen grofvuil en/of tuinafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/woz-waardeloket",
+    "title": "WOZ-waardeloket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/wolkom-yn-e-lobby",
+    "title": "Wolkom yn &#039;e lobby",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/hulpmiddelen-aanvragen",
+    "title": "Hulpmiddelen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/maatschappelijk-werk",
+    "title": "Maatschappelijk werk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/huiselijk-geweld",
+    "title": "Huiselijk geweld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/verzoek-wijzigen-naamgebruik",
+    "title": "Verzoek wijzigen naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/zorgverzekering-av-frieso-compleet",
+    "title": "Zorgverzekering AV Frieso Compleet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/speelautomatenvergunning",
+    "title": "Speelautomatenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/frieslandnl",
+    "title": "Friesland.nl",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/wmo",
+    "title": "WMO",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/wandelen-in-opsterland",
+    "title": "Wandelen in Opsterland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/sociale-kaart-vrijwillige-hulp",
+    "title": "Sociale kaart vrijwillige hulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/extra-regelingen-belastingen-en-heffingen-voor-ondernemers",
+    "title": "Extra regelingen belastingen en heffingen voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/heeft-u-een-idee-right-to-challenge",
+    "title": "Heeft u een idee? Right to challenge",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/hoe-werkt-de-gemeenteraad",
+    "title": "Hoe werkt de gemeenteraad?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/inspreken",
+    "title": "Inspreken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/Energie-kado-regeling",
+    "title": "Toestemmingsverklaring &#039;Energie Kado regeling&#039;",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/principeverzoek-afwijken-bestemmingsplan",
+    "title": "Principeverzoek afwijken bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/onafhankelijke-clientondersteuning",
+    "title": "Onafhankelijke cliëntondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/woz-waarde-en-taxatie",
+    "title": "WOZ-waarde en taxatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-taxatieverslag"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/geregistreerd-partnerschap",
+    "title": "Geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschapaangifte"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/leerplicht",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/kunst-en-cultuur",
+    "title": "Kunst en Cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/burgerinitiatief",
+    "title": "Burgerinitiatief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/vlag-wapen-en-huisstijl",
+    "title": "Vlag, wapen en huisstijl",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/gemeentemagazine",
+    "title": "Gemeentegids",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentegids"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/open-subsidieaanvraag",
+    "title": "Open subsidieaanvraag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/dagbesteding-voor-ouderen",
+    "title": "Dagbesteding voor ouderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/fietsen-in-opsterland",
+    "title": "Fietsen in Opsterland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/jeugdhulp",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/vrijwilliger-worden-of-zoeken",
+    "title": "Vrijwilliger worden of zoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/hulp-vluchtelingen-oekraine",
+    "title": "Hulp vluchtelingen Oekraïne",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/principeverzoek-afwijken-bestemmingsplan-0",
+    "title": "Principeverzoek afwijken bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/heeft-u-een-idee-right-to-challenge-0",
+    "title": "Heeft u een idee? Right to challenge",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel Basisregistratie Personen - BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/wat-hoort-in-welke-bak",
+    "title": "Wat hoort in welke bak?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/toegankelijk-opsterland",
+    "title": "Toegankelijk Opsterland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/verkoop-openbaar-groen-en-restgrond",
+    "title": "Verkoop openbaar groen en restgrond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/initiatief-in-de-openbare-ruimte",
+    "title": "Initiatief in de openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/bezwaar-maken-gemeentelijke-belastingen-enof-woz-waarde",
+    "title": "Bezwaar maken gemeentelijke belastingen en/of WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/geboorte-en-erkenning",
+    "title": "Geboorte en erkenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/subsidieregeling-compensatie-onroerendezaakbelasting-ozb",
+    "title": "Subsidieregeling compensatie onroerendezaakbelasting (ozb)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/toeristisch-informatie-punt-tip",
+    "title": "Toeristisch Informatie Punt (TIP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/melding-doen",
+    "title": "Melding doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/basisregistratie-adressen-en-gebouwen-bag",
+    "title": "Basisregistratie Adressen en Gebouwen (BAG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/wet-open-overheid",
+    "title": "Wet open overheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/gasloos-bouwen",
+    "title": "Gasloos bouwen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/global-goals",
+    "title": "Global Goals ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/buurtbus",
+    "title": "Buurtbus",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/beslag-inhouding-op-uw-uitkering",
+    "title": "Beslag / Inhouding op uw uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/vegen-en-onkruidbestrijding-op-verharding",
+    "title": "Vegen en onkruidbestrijding op verharding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/aanleg-of-veranderen-in-of-uitrit",
+    "title": "Aanleg of veranderen in- of uitrit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgUitweg"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/inkoopkalender",
+    "title": "Inkoopkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/belastingaanslag-betalen",
+    "title": "Belastingaanslag betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/parkeren",
+    "title": "Parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/subsidie-cultuur-evenementen-opsterland",
+    "title": "Subsidie Cultuur Evenementen Opsterland ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/omgevingsvergunning-0",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/tijdelijke-ondersteuning-noodzakelijke-kosten-tonk",
+    "title": "Tijdelijke Ondersteuning Noodzakelijke Kosten (TONK)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/afvalkalender-en-afvalapp",
+    "title": "Afvalkalender en Afvalapp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/dorpssteunpunten",
+    "title": "Dorpssteunpunten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/dit-is-opsterland",
+    "title": "Dit is Opsterland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/historie-opsterland",
+    "title": "Historie Opsterland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/brief-schrijven",
+    "title": "Brief schrijven ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/sam-voor-alle-kinderen",
+    "title": "Sam&amp; voor alle kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/subsidie-oudejaarsactiviteit",
+    "title": "Subsidie oudejaarsactiviteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/uittreksel-burgerlijke-stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.opsterland.nl/onroerende-zaakbelasting-ozb",
+    "title": "Onroerende zaakbelasting (OZB) ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Opsterland",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  }
+]

@@ -1,0 +1,1126 @@
+[
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Verhuizen/Briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Contact/Melding_maken/Verloren_of_gevonden_voorwerpen",
+    "title": "Verloren of gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Wonen_en_bouwen/Planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Bijstand/Bijstandsuitkering/Als_u_al_een_bijstandsuitkering_ontvangt/Bijstand_heronderzoek",
+    "title": "Bijstand, heronderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Hulp_bij_geldzorgen/De_vergoedingen/Studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Hulp_bij_geldzorgen/Inwoners_Bernheze_en_Boekel/Participatiefonds_gemeente_Boekel",
+    "title": "Participatiefonds gemeente Boekel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/maatschappelijke_zorgsubsidie"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Vergunningen/Boom_kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwgronduitgifte"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Subsidies/Subsidies_voor_verenigingen_of_stichtingen",
+    "title": "Subsidies voor verenigingen of stichtingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/Mantelzorg/Mantelzorgcompliment",
+    "title": "Mantelzorgcompliment",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgcompliment"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Contact/Melding_maken/Verzoek_om_handhaving",
+    "title": "Verzoek om handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/Jeugdhulp",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Hulp_bij_geldzorgen/De_vergoedingen/Individuele_inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Vergunningen/Vergunning_tijdelijke_verhuur_woning",
+    "title": "Vergunning tijdelijke verhuur woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/huurtoeslag"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Contact/Melding_maken/Dieren/Honden/Bijtincidenten",
+    "title": "Bijtincidenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/meldpuntAlg"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Contact/Melding_maken/Klacht_indienen_tegen_medewerker_afdeling_of_bestuurder",
+    "title": "Klacht indienen tegen medewerker, afdeling of bestuurder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Uittreksels_en_verklaringen/Bewijs_van_Nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Grofvuil",
+    "title": "Grofvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Wonen_en_bouwen/Grond/Bodemvervuiling_verwijderen",
+    "title": "Bodemvervuiling verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/Hulp_en_ondersteuning/Eigen_bijdrage",
+    "title": "Eigen bijdrage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bestuur_en_organisatie/Verkiezingen/Informatie_voor_de_kiezer/Iemand_anders_laten_stemmen",
+    "title": "Iemand anders laten stemmen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/volmachtbewijs_verkiezingen"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Paspoort_ID_kaart_en_rijbewijs/Rijbewijs/Rijbewijs_gestolen_of_verloren",
+    "title": "Rijbewijs gestolen of verloren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Paspoort_ID_kaart_en_rijbewijs/De_verschillende_paspoorten/Vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Paspoort_ID_kaart_en_rijbewijs/De_verschillende_paspoorten/Zakenpaspoort",
+    "title": "Zakenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Subsidies/Subsidies_voor_verenigingen_of_stichtingen/Sportsubsidie",
+    "title": "Sportsubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportactiviteitensubsidie"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/Voorzieningen_hulpmiddelen/Duofiets_of_rolstoel_lenen",
+    "title": "Duofiets of rolstoel lenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/Opvang",
+    "title": "Opvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonzorgcomplex"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Contact/Melding_maken/Dieren/Voorkomen_en_bestrijden_van_ratten",
+    "title": "Voorkomen en bestrijden van ratten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Wonen_en_bouwen/Vergunningen/Omgevingsvergunning/Toets_vergunningvrij_vergunningplichtig_Wabo",
+    "title": "Toets vergunningvrij/vergunningplichtig (Wabo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouw_en_verbouw_welstandsadvies"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Subsidies/Stimuleringsfonds_duurzaamheid/Stimuleringslening_Duurzaamheid_Meierijstad_Particulieren",
+    "title": "Stimuleringslening Duurzaamheid Meierijstad Particulieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Wonen_en_bouwen/Vergunningen/Omgevingsvergunning/Zie_ook/Welstand",
+    "title": "Welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Wonen_en_bouwen/Vergunningen/Bestemmingsplan_inzien",
+    "title": "Bestemmingsplan inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Paspoort_ID_kaart_en_rijbewijs/De_verschillende_paspoorten/Vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Contact/Melding_maken/Dieren/Honden",
+    "title": "Honden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Afvalcontainers/Afval_niet_meegenomen",
+    "title": "Afval niet meegenomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Afvalkalender",
+    "title": "Afvalkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Vergunningen/Collecte_en_donateurswerving",
+    "title": "Collecte en donateurswerving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Wonen_en_bouwen/Vergunningen/Huisnummer_aanvragen",
+    "title": "Huisnummer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Paspoort_ID_kaart_en_rijbewijs/De_verschillende_paspoorten/Paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Paspoort_ID_kaart_en_rijbewijs/Document_gestolen_of_verloren/Reisdocument_gestolen_of_verloren",
+    "title": "Reisdocument gestolen of verloren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Meer_over_afval/Luiers",
+    "title": "Luiers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Belastingen/Bezwaar_tegen_belasting",
+    "title": "Bezwaar belasting/WOZ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bestuur_en_organisatie/Verkiezingen/Informatie_voor_de_kiezer/Vervangende_stempas",
+    "title": "Vervangende stempas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Bijstand/Bijstandsuitkering/Bijstand_instelling_of_tehuis",
+    "title": "Bijstand, instelling of tehuis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Bladkorven",
+    "title": "Bladkorven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bladkorf"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Oud_papier/Inzamellocaties_Sint_Oedenrode",
+    "title": "Inzamellocaties Sint-Oedenrode",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_oud_papier"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Wonen_en_bouwen/Monumenten/Monument_verbouwen_herstellen_of_onderhouden",
+    "title": "Monument verbouwen, herstellen of onderhouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Uittreksels_en_verklaringen/Verklaring_omtrent_het_gedrag_VOG",
+    "title": "Verklaring omtrent het gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Verhuizen/Inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Trouwen/Geregistreerd_partnerschap",
+    "title": "Geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Afvalkalender/Afvalwijzer_app",
+    "title": "Afvalwijzer app",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Contact/Melding_maken/Melding_woon_en_leefomgeving",
+    "title": "Melding woon- en leefomgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Verhuizen/Adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Verhuizen/Verhuizen_naar_Nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Vergunningen/Evenementen/Evenement_organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Contact/Zienswijze_Bezwaar_Beroep",
+    "title": "Zienswijze, Bezwaar en Beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/Mantelzorg/Aanmelden_als_mantelzorger",
+    "title": "Aanmelden als mantelzorger",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/AED_Automatische_Externe_Defibrillator",
+    "title": "Reanimatie (AED)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Oud_papier/Hoe_bied_ik_het_oud_papier_aan",
+    "title": "Hoe bied ik het oud papier aan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_oud_papier"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Uittreksels_en_verklaringen/Afschrift_burgerlijke_stand",
+    "title": "Afschrift burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteakte"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/Begeleiding_dagbesteding",
+    "title": "Begeleiding/dagbesteding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/dagbestOuderen"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Vergunningen/Evenementen/Evenementenborden_in_Meierijstad",
+    "title": "Evenementenborden in Meierijstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Vergunningen/Inritvergunning",
+    "title": "Inritvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Uittreksels_en_verklaringen/Handtekening_legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Verhuizen/Vertrek_naar_buitenland_doorgeven",
+    "title": "Vertrek naar buitenland doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Verkeer_en_Vervoer/Gladheid_bestrijden",
+    "title": "Gladheid bestrijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Contact/Melding_maken/Geluidsoverlast/Geluidsoverlast_veroorzaken_ontheffing",
+    "title": "Geluidsoverlast veroorzaken (ontheffing)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Meer_over_afval/Kringloopwinkels",
+    "title": "Kringloopwinkels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Subsidies/Stimuleringsfonds_duurzaamheid/Stimuleringslening_Duurzaamheid_Meierijstad_Zakelijk",
+    "title": "Stimuleringslening Duurzaamheid Meierijstad Zakelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Trouwen/Huwelijk",
+    "title": "Huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/Voorzieningen_hulpmiddelen/Gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Geboorte_overlijden/Erkennen_van_een_kind",
+    "title": "Erkennen van een kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Belastingen/Kwijtschelding_belastingen",
+    "title": "Kwijtschelding belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/Interessante_websites/Seniorenraad_Meierijstad",
+    "title": "Seniorenraad Meierijstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/senWonBijdBwkst"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Wonen_en_bouwen/Bouwen/Bouwtekening_opvragen",
+    "title": "Bouwtekening opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouw_en_verbouw_welstandsadvies"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Bijstand/Bijstandsuitkering/Als_u_al_een_bijstandsuitkering_ontvangt/Terugbetalen_door_ex_partner_of_ouder",
+    "title": "Terugbetalen door ex-partner of ouder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Verkeer_en_Vervoer/Ontheffing_lang_parkeren_blauwe_zone",
+    "title": "Ontheffing lang parkeren blauwe zone",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Paspoort_ID_kaart_en_rijbewijs/Identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Subsidies/Stimuleringsfonds_Toegankelijkheid",
+    "title": "Stimuleringsfonds Toegankelijkheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Hulp_bij_geldzorgen/Gezinnen_met_kinderen",
+    "title": "Gezinnen met kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/kindGebBud"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Hulp_bij_geldzorgen/De_vergoedingen/Declaratie_reiskosten_participatietraject",
+    "title": "Declaratie reiskosten participatietraject",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/reiskostenvergoeding_ziekenbezoek"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/Mantelzorg/Mantelzorgwoning",
+    "title": "Mantelzorgwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bestuur_en_organisatie/onderscheidingen/Koninklijke_onderscheiding_lintje",
+    "title": "Koninklijke onderscheiding (lintje)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Contact/Melding_maken/Gemeente_aansprakelijk_stellen",
+    "title": "Gemeente aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Wonen_en_bouwen/Monumenten/Subsidie_gemeentelijk_monument",
+    "title": "Subsidie gemeentelijk monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Uittreksels_en_verklaringen/Bewijs_van_garantstelling_en_of_logiesverstrekking",
+    "title": "Bewijs van garantstelling en/of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Wonen_en_bouwen/Uw_dorp_wijk_buurt/Lenen_bakfiets_of_klussenaanhanger/Klussenaanhanger",
+    "title": "Klussenaanhanger",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/leefmilieuverordening_ontheffing"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Bijstand/Bijstandsuitkering/Bijstand_voor_zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Afvalcontainers/Afvalcontainers_en_verhuizen",
+    "title": "Afvalcontainers en verhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Geboorte_overlijden/Achternaam_kind_kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Afvalcontainers/Omwisselen_formaat_container",
+    "title": "Omwisselen formaat container",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Geboorte_overlijden/Grafsteen_of_gedenkteken_plaatsen",
+    "title": "Grafsteen of gedenkteken plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Hulp_bij_geldzorgen/Wij_geven_graag_advies/Budgetadvies_hulp_bij_geldzaken",
+    "title": "Budgetadvies, hulp bij geldzaken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/finOnderstStudBijzOmst"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Opgroeien_en_onderwijs/Leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Contact/Melding_maken/Milieuklachten",
+    "title": "Milieuklachten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/milieuhandhaving"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Geboorte_overlijden/Aangifte_overlijden",
+    "title": "Aangifte overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Belastingen/WOZ_beschikking_Wet_waardering_onroerende_zaken",
+    "title": "WOZ-beschikking (Wet waardering onroerende zaken)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/Beschermd_wonen",
+    "title": "Beschermd wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/beschermde_leefomgeving_aanwijzing"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/Mantelzorg/Ondersteuning_mantelzorg",
+    "title": "Ondersteuning mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Hulp_bij_geldzorgen/De_vergoedingen/Collectieve_zorgverzekering",
+    "title": "Collectieve zorgverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/zkKstVerzCol"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Plastic_Metaal_en_Drankverpakkingen_PMD/Wat_mag_wel_en_niet_in_de_PMD_zak",
+    "title": "Wat mag wel en niet in de PMD zak",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalInzPMDK"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Meer_over_afval/Kleding_textiel_en_schoenen",
+    "title": "Kleding, textiel en schoenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_textiel"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Geboorte_overlijden/Aangifte_geboorte",
+    "title": "Aangifte geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Verhuizen/Geheimhouden_persoonsgegevens",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-geheimhoudingsverzoek"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Vergunningen/Vuur_stoken",
+    "title": "Vuur stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Afvalcontainers/Voorkom_vastgevroren_afval",
+    "title": "Voorkom vastgevroren afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bestuur_en_organisatie/onderscheidingen/Gemeentelijke_onderscheidingen",
+    "title": "Gemeentelijke onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Contact/Melding_maken/Dieren/Dood_dier_verwijderen",
+    "title": "Dood dier verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/dierenopvang"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Hulp_bij_geldzorgen/De_vergoedingen/Regeling_maatschappelijke_participatie",
+    "title": "Regeling maatschappelijke participatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/traplift"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Subsidies/Subsidieregeling_kunst_en_cultuur",
+    "title": "Subsidieregeling kunst en cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Vergunningen/Horeca_Sportkantines_en_Dorpshuizen",
+    "title": "Horeca, Sportkantines en Dorpshuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Bijstand/Bijstandsuitkering/Aanvragen_bijstandsuitkering",
+    "title": "Aanvragen bijstandsuitkering ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Contact/Melding_maken/Dieren/Eikenprocessierups",
+    "title": "Eikenprocessierups",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Bijstand/Bijstandsuitkering/Als_u_al_een_bijstandsuitkering_ontvangt/Bijstand_verandering_doorgeven",
+    "title": "Bijstand, verandering doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Paspoort_ID_kaart_en_rijbewijs/Rijbewijs/Rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Bijstand/Bijstandsuitkering/Als_u_al_een_bijstandsuitkering_ontvangt/Bijstand_vakantie_melden",
+    "title": "Bijstand, vakantie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Belastingen/Onroerendezaakbelasting_OZB",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/Voorzieningen_hulpmiddelen/Vrijwilligersverzekering",
+    "title": "Vrijwilligersverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Meer_over_afval/Klein_chemisch_afval_kca",
+    "title": "Klein chemisch afval (kca)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_chemisch_afval"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Contact/Melding_maken/Geluidsoverlast/Geluidsoverlast_melden",
+    "title": "Geluidsoverlast melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsruimteinformatie"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Wonen_en_bouwen/Grond/Gemeentegrond_tijdelijk_gebruiken",
+    "title": "Gemeentegrond tijdelijk gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/grondexplOvereen"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Vergunningen/Kabels_en_leidingen_leggen_in_openbare_grond",
+    "title": "Kabels en leidingen leggen in openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Verhuizen/Nederlander_worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Verhuizen/Nee_Ja_sticker",
+    "title": "Nee/Ja sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/postdnstAanspr"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Verkeer_en_Vervoer/Parkeren_in_de_blauwe_zone",
+    "title": "Parkeren in de blauwe zone",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Belastingen/Rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Verkeer_en_Vervoer/Laadpalen_voor_elektrische_auto_s",
+    "title": "Laadpalen voor elektrische auto's",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/laadpaalverzoek"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Paspoort_ID_kaart_en_rijbewijs/Rijbewijs/Gezondheidsverklaring",
+    "title": "Gezondheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Afvalcontainers/Container_of_druppel_kwijt_of_kapot",
+    "title": "Container of druppel kwijt of kapot",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Paspoort_ID_kaart_en_rijbewijs/De_verschillende_paspoorten/Tweede_paspoort",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/Voorzieningen_hulpmiddelen/Regiotaxi",
+    "title": "Regiotaxi",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/regiotaxi"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Uittreksels_en_verklaringen/Bewijs_van_in_leven_zijn",
+    "title": "Bewijs van in leven zijn / attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Oud_papier/Oud_papier_niet_opgehaald",
+    "title": "Oud papier niet opgehaald",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_oud_papier"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Wonen_en_bouwen/Vergunningen/Omgevingsvergunning/Zie_ook/Welstand/Schetsplan",
+    "title": "Schetsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouw_en_verbouw_welstandsadvies"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Meer_over_afval/Asbest_en_golfplaten_verwijderen",
+    "title": "Asbest en golfplaten verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Subsidies/Eenmalige_subsidieregeling_compensatie_hogere_energielasten_verenigingen_en_stichtingen_2022",
+    "title": "Eenmalige subsidieregeling compensatie hogere energielasten verenigingen en stichtingen 2022",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Uittreksels_en_verklaringen/Uittreksel_persoonsgegevens_BRP",
+    "title": "Uittreksel persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Uittreksels_en_verklaringen/Waarmerken_kopie_of_afschrift",
+    "title": "Waarmerken kopie of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/waarmerken_document"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Wonen_en_bouwen/Vergunningen/Omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/Informatie_of_advies_nodig/Onafhankelijke_cli_ntondersteuning_OCO",
+    "title": "Onafhankelijke cliëntondersteuning (OCO)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Geboorte_overlijden/Levenloos_geboren_kind_registreren",
+    "title": "Levenloos geboren kind registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Vergunningen/Loterij_prijsvraag_of_bingo_organiseren",
+    "title": "Loterij, prijsvraag of bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Meer_over_afval/Bedrijfsafval",
+    "title": "Bedrijfsafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalinzameling"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Bijstand/Bijstandsuitkering/Als_u_al_een_bijstandsuitkering_ontvangt/Bijstand_vrijwilligerswerk",
+    "title": "Bijstand, vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Contact/Melding_maken/Rioolverstopping",
+    "title": "Rioolverstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Wonen_en_bouwen/Vergunningen/Rioolaansluiting_aanvragen",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Wonen_en_bouwen/Grond/Groen_en_reststroken",
+    "title": "Groen- en reststroken ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Meer_over_afval/Zwerfafval",
+    "title": "Zwerfafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Geboorte_overlijden/Graf_op_gemeentelijke_begraafplaats",
+    "title": "Graf op gemeentelijke begraafplaats ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Bijstand/Bijzondere_bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Belastingen/Toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Wonen_en_bouwen/Uw_dorp_wijk_buurt/Bemiddeling_advies_overleg/Een_wijkschouw_in_Meierijstad",
+    "title": "Een wijkschouw in Meierijstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Paspoort_ID_kaart_en_rijbewijs/Rijbewijs/Rijbewijs_online_aanvragen",
+    "title": "Rijbewijs online aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Hulp_bij_geldzorgen/Wij_geven_graag_advies/Geldplan_Meierijstad",
+    "title": "Geldplan Meierijstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/finOnderstStudBijzOmst"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Wat_kost_afval/Afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Meer_over_afval/Glascontainers",
+    "title": "Glascontainers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_glas"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bestuur_en_organisatie/Verkiezingen/Informatie_voor_de_kiezer/Kiezerspas",
+    "title": "Kiezerspas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/kiezerspas"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Hulp_bij_geldzorgen/Inwoners_Bernheze_en_Boekel/Maatschappelijk_Ondersteuningsfonds_gemeente_Bernheze",
+    "title": "Maatschappelijk Ondersteuningsfonds gemeente Bernheze",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/maatschappelijke_zorgsubsidie"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Bijstand_en_hulp_bij_geldzorgen/Bijstand/Bijstandsuitkering/Bijstand_voor_jongeren",
+    "title": "Bijstand voor jongeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Geboorte_overlijden/Opgraven_en_herbegraven_of_cremeren",
+    "title": "Opgraven en herbegraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/opgraven_herbegraven_en_grafruimenvergunning"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/Voorzieningen_hulpmiddelen/Gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Belastingen/Automatische_incasso_machtiging",
+    "title": "Automatische incasso (machtiging)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Zorg_en_hulp/Hulp_en_ondersteuning",
+    "title": "Hulp en ondersteuning (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Afvalcontainers/De_afvalcontainers",
+    "title": "De afvalcontainers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Afval/Plastic_Metaal_en_Drankverpakkingen_PMD/Locaties_ophalen_zakken",
+    "title": "Locaties ophalen zakken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalInzPMDK"
+  },
+  {
+    "identifier": "https://www.meierijstad.nl/Alle_onderwerpen/Verhuizen/Verhuizen_binnen_Nederland",
+    "title": "Verhuizen binnen Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Meierijstad",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_binnen_gemeente"
+  }
+]

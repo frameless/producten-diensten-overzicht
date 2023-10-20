@@ -1,0 +1,681 @@
+[
+  {
+    "identifier": "https://www.oldenzaal.nl//alcoholvergunning",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//zakenpaspoort",
+    "title": "Zakenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//trouwen",
+    "title": "Trouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//welstand",
+    "title": "Welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//aangifte-van-overlijden-voor-uitvaartondernemers",
+    "title": "Aangifte van overlijden voor uitvaartondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//uitgifte-openbaar-groen",
+    "title": "Uitgifte openbaar groen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//inschrijving-kavels",
+    "title": "Inschrijving kavels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//bewijs-van-in-leven-zijn-attestatie-de-vita",
+    "title": "Bewijs van in leven zijn (attestatie de vita)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//antireclamesticker-janee-sticker",
+    "title": "Antireclamesticker (ja/nee sticker)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//verstopt-stinkend-of-bubbelend-riool",
+    "title": "Verstopt, stinkend of bubbelend riool",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//gezondheidsverklaring-rijbewijs",
+    "title": "Gezondheidsverklaring rijbewijs ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbGezVerkl"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//asbest",
+    "title": "Asbest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//ondersteuning-voor-energielasten",
+    "title": "Ondersteuning voor energielasten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//bijdragefonds",
+    "title": "Bijdragefonds",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//klacht-over-de-gemeente-indienen",
+    "title": "Klacht over de gemeente indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//inrijontheffing",
+    "title": "Inrijontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inrijverbodontheffing"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//kappen",
+    "title": "Kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//subsidie-gemeentelijk-monument",
+    "title": "Subsidie gemeentelijk monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//vertrek-naar-het-buitenland-emigreren",
+    "title": "Vertrek naar het buitenland (emigreren)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/AangifteVertrekBuitenland"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//tweede-paspoort",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//aangifte-levenloos-geboren-kind",
+    "title": "Aangifte levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInschrOverlKind"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//naamgebruik",
+    "title": "Naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//geboorte-doorgeven",
+    "title": "Geboorte doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//verklaring-omtrent-gedrag-vog",
+    "title": "Verklaring omtrent gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//erkenning-kind-aanvragen",
+    "title": "Erkenning kind, aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//melding-openbare-ruimte",
+    "title": "Melding openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//stookontheffing",
+    "title": "Stookontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//subsidie-cultuurparticipatie",
+    "title": "Subsidie cultuurparticipatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//collecte-en-kledinginzameling",
+    "title": "Collecte en kledinginzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//subsidie-energielasten-maatschappelijke-organisaties",
+    "title": "Subsidie energielasten maatschappelijke organisaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//subsidie-recreatie-en-toerisme",
+    "title": "Subsidie recreatie en toerisme",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/recreatiesubsidie"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel Basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//milieuregels",
+    "title": "Milieuregels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//terrasvergunning",
+    "title": "Terrasvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//echtscheiding-melden",
+    "title": "Echtscheiding melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//nederlandse-nationaliteit-aanvragen",
+    "title": "Nederlandse nationaliteit aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//grond-afgraven-en-verplaatsen",
+    "title": "Grond afgraven en verplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//verkoop-vuurwerk",
+    "title": "Verkoop vuurwerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vuurwerkverkoopvergunning"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//burgerlijke-stand-akte-of-afschrift",
+    "title": "Burgerlijke stand, akte of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//ouderlijk-gezag-aanvragen",
+    "title": "Ouderlijk gezag, aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gezGezag"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//bromfietsrijbewijs",
+    "title": "Bromfietsrijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//subsidie-jeugdsport",
+    "title": "Subsidie jeugdsport",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdsportsubsidie"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//actieprogramma-binnenstad-oldenzaal",
+    "title": "Actieprogramma Binnenstad Oldenzaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//slopen",
+    "title": "Slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//geregistreerd-partnerschap-aangaan",
+    "title": "Geregistreerd partnerschap aangaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschapaangifte"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//gehandicaptenparkeerplaats-op-kenteken",
+    "title": "Gehandicaptenparkeerplaats op kenteken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats_op_kenteken"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//gevonden-of-verloren-voorwerp",
+    "title": "Gevonden of verloren voorwerp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//naamskeuze-kinderen",
+    "title": "Naamskeuze kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//exploitatievergunning",
+    "title": "Exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//subsidie-evenementen",
+    "title": "Subsidie evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//evenement-organiseren-vergunning-of-melding",
+    "title": "Evenement organiseren, vergunning of melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//prominentenpark",
+    "title": "Prominentenpark",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//ontheffing-geluid",
+    "title": "Ontheffing geluid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//aanvraag-tijdelijke-verkeersmaatregel",
+    "title": "Aanvraag tijdelijke verkeersmaatregel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//subsidie-isolatiemaatregelen",
+    "title": "Subsidie isolatiemaatregelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/energBespEigenHuisSubs"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//warenmarkt",
+    "title": "Warenmarkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktstandplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//gemeente-aansprakelijk-stellen",
+    "title": "Gemeente aansprakelijk stellen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//trekkerrijbewijs",
+    "title": "Trekkerrijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//melding-gesloten-bodemenergiesysteem",
+    "title": "Melding gesloten bodemenergiesysteem",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//plaatsen-objecten-of-voorwerpen-op-aan-of-boven-de-openbare-weg",
+    "title": "Plaatsen objecten of voorwerpen op, aan of boven de openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//subsidie-aanvragen",
+    "title": "Subsidie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//vrijwilligersverzekering",
+    "title": "Vrijwilligersverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//bouwen-en-verbouwen",
+    "title": "Bouwen en verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//verkoop-zwak-alcoholhoudende-dranken",
+    "title": "Verkoop zwak alcoholhoudende dranken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zwAlcDrankVerk"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//energietoeslag-2023",
+    "title": "Energietoeslag 2023",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//monumenten",
+    "title": "Monumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//legalisatie-handtekening",
+    "title": "Legalisatie handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//groene-leges",
+    "title": "Groene leges",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//geheimhouding-persoonsgegevens-brp",
+    "title": "Geheimhouding persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//spandoeken-aankondigingsborden",
+    "title": "Spandoeken, aankondigingsborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/spandoekvergunning"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//buitenlands-rijbewijs-omwisselen",
+    "title": "Buitenlands rijbewijs omwisselen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs_buitenlands_omwisseling"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//paspoort-of-identiteitskaart-spoedprocedure",
+    "title": "Paspoort of identiteitskaart, spoedprocedure",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//omzetting-partnerschap-in-huwelijk",
+    "title": " Omzetting partnerschap in huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_omzetting_in_huwelijk"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//melding-brandveilig-gebruik-en-basis-hulpverlening-overige-plaatsen",
+    "title": "Melding brandveilig gebruik en basis hulpverlening overige plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruiksmelding"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//huur-sportaccomodaties",
+    "title": "Huur sportaccomodaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//kansspelautomatenvergunning",
+    "title": "Kansspelautomatenvergunning ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//overlijden-doorgeven",
+    "title": "Overlijden doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//incidentele-festiviteiten",
+    "title": "Incidentele festiviteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collIncFest"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//trouwlocaties",
+    "title": "Trouwlocaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//kansspelen",
+    "title": "Kansspelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.oldenzaal.nl//paspoort-id-kaart-of-rijbewijs-verloren",
+    "title": " Paspoort, id-kaart of rijbewijs verloren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oldenzaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  }
+]

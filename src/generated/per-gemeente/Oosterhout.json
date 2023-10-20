@@ -1,0 +1,2464 @@
+[
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/spandoek-ophangen",
+    "title": "Spandoek ophangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/basisregistratie-ondergrond",
+    "title": "Basisregistratie ondergrond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/tweede-of-zakenpaspoort-aanvragen",
+    "title": "Tweede Nederlands paspoort of zakenpaspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/subsidie-voor-volwasseneneducatie-aanvragen",
+    "title": "Subsidie voor volwasseneneducatie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/volwasseneneducatiesubsidie"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/paspoort-of-identiteitskaart-aanvragen",
+    "title": "Paspoort of identiteitskaart aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/huwelijksaangifte-ondertrouw-voor-nederlanders-in-het-buitenland",
+    "title": "Huwelijksaangifte (ondertrouw) voor nederlanders in het buitenland.",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gasloos-aardgasvrij-bouwen",
+    "title": "Gasloos (aardgasvrij) bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/verslag-energie-audit-indienen",
+    "title": "Verslag energie-audit indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eedEnergieAudit"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/fraude-meldpunt",
+    "title": "Fraude meldpunt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/informatieverzoek-wet-open-overheid-voorheen-wob-verzoek",
+    "title": "Informatieverzoek Wet  Open Overheid (voorheen WOB verzoek)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verstrekking_overheidsinformatie"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/buurtzapbudget",
+    "title": "Buurtzapbudget",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/graf-eigen",
+    "title": "Graf (eigen)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/beroepen-aan-huis",
+    "title": "Beroepen aan huis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/een-bekende-tot-trouwambtenaar-benoemen",
+    "title": "Een bekende tot trouwambtenaar benoemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ambtBurgStnd"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/registreren-en-aangifte-doen-van-een-levenloos-geboren-kind",
+    "title": "Registreren en aangifte doen van een levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/paspoort-of-identiteitskaart-verloren-of-gestolen",
+    "title": "Paspoort of identiteitskaart verloren of gestolen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vuurwerk-opslaan-of-verkopen",
+    "title": "Vuurwerk opslaan of verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vuurwerkverkoopvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bouwbesluit",
+    "title": "Bouwbesluit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/demonstratie-aanmelden",
+    "title": "Demonstratie aanmelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/containerslot-aanvragen",
+    "title": "Containerslot aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/woning-splitsen-in-aparte-zelfstandige-woningen",
+    "title": "Woning splitsen in aparte zelfstandige woningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonruimte_splitsingsvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gehandicaptenparkeerplaats-aanvragen",
+    "title": "Gehandicaptenparkeerplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/zienswijze-indienen",
+    "title": "Zienswijze indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zienswijze"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/naschoolse-activiteiten",
+    "title": "Naschoolse activiteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/ligplaatsvergunning-voor-woonboten",
+    "title": "Ligplaatsvergunning voor woonboten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ligplaatsvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/ceremonie-bij-naturalisatie",
+    "title": "Ceremonie bij naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieceremonie"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/rolstoelpool",
+    "title": "Rolstoelpool",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rolstoel"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bomen-kappen",
+    "title": "Bomen kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/eerste-inschrijving-in-nederland",
+    "title": "Eerste inschrijving in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInschr"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/hondenbelasting-hond-afmelden",
+    "title": "Hondenbelasting, hond afmelden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/brandweerkosten-betalen",
+    "title": "Brandweerkosten betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bezwaarschrift-indienen",
+    "title": "Bezwaarschrift indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/stemmen-in-een-andere-gemeente-voor-verkiezingen",
+    "title": "Stemmen in andere gemeente voor verkiezingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kiezerspas"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/stedenbouwkundige-plannen-van-de-gemeente-inzien",
+    "title": "Stedenbouwkundige plannen van de gemeente bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/parkeervergunning-kraskaart-parkeerkraskaart",
+    "title": "Parkeervergunning bezoekers ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bibob-onderzoek",
+    "title": "Bibob-onderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/integriteitsbeoordeling"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/verhuizen-naar-het-buitenland",
+    "title": "Vertrekken uit Nederland (emigreren)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/verkeersregelaar-bij-evenementen",
+    "title": "Verkeersregelaar bij evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/nederlandse-nationaliteit-aanvragen",
+    "title": "Nederlandse nationaliteit aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gegevens-in-basisregistratie-personen-brp-aanpassen",
+    "title": "Gegevens in basisregistratie personen (BRP) aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/watervergunning-aanvragen",
+    "title": "Watervergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/watervergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/rijden-in-een-milieuzone",
+    "title": "Rijden in een milieuzone",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegenverkeerswetontheffing"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/inkomensvoorziening-oudere-en/of-arbeidsongeschikte-werklozen",
+    "title": "Inkomensvoorziening oudere en/of arbeidsongeschikte werklozen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaw-uitkering"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/op-straat-of-aan-de-deur-verkopen",
+    "title": "Op straat of aan de deur verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/parkeerbon",
+    "title": "Parkeerbon",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerbelasting"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/woningaanpassing",
+    "title": "Woningaanpassing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/melding-dringende-psychische-hulp-wet-verplichte-ggz",
+    "title": "Melding dringende psychische hulp (Wet Verplichte GGZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/coffeeshop-openen",
+    "title": "Coffeeshop openen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gedoogbeslissing"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/verklaring-van-huwelijksbevoegdheid-aanvragen",
+    "title": "Verklaring van huwelijksbevoegdheid aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_huwelijksbevoegdheid"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/rioolaansluiting",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/auto-wegslepen-bij-fout-parkeren",
+    "title": "Auto wegslepen bij fout parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegsleepreg"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/parkeervergunning-zorgvergunning",
+    "title": "Parkeervergunning, zorgvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/forensenbelasting",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/leerlingenvervoer-aanvragen",
+    "title": "Leerlingenvervoer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/circus-organiseren",
+    "title": "Circus organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/circusvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/herbegraven-of-alsnog-cremeren",
+    "title": "Herbegraven of alsnog cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/herbegraven_of_alsnog_cremeren"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/aanmelden-voor-een-bijstandsuitkering",
+    "title": "Aanmelden voor een bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vrijstelling-van-leerplicht-aanvragen",
+    "title": "Vrijstelling van leerplicht aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/tijdelijke-ontheffing-van-een-straf-aanvragen",
+    "title": "Tijdelijke ontheffing van een straf aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/geslacht-op-geboorteakte-wijzigen",
+    "title": "Geslacht op geboorteakte wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/alcohol-tijdelijk-schenken",
+    "title": "Alcohol tijdelijk schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bouwstoffen-melden",
+    "title": "Bouwstoffen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwstoffenmelding"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/antireclamesticker-ophalen",
+    "title": "Antireclamesticker ophalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/echtscheiding-melden",
+    "title": "Echtscheiding melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtschVerz"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/verhuizen",
+    "title": "Verhuizen binnen Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gemeentelijke-gezondheidsdienst",
+    "title": "Gemeentelijke Gezondheidsdienst",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gezondheidsdienst"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/koopzondagen",
+    "title": "Koopzondagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koopzondageninformatie"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/geregistreerd-partnerschap-omzetten-in-een-huwelijk",
+    "title": "Geregistreerd partnerschap omzetten in een huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_omzetting_in_huwelijk"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/verklaring-omtrent-het-gedrag-aanvragen",
+    "title": "Verklaring omtrent het gedrag aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gokautomaat-plaatsen",
+    "title": "Gokautomaat plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/pand-van-de-gemeente-kopen",
+    "title": "Pand van de gemeente kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/stempas-voor-verkiezingen-aanvragen",
+    "title": "Stempas voor verkiezingen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/kinderopvang-sociaal-medische-indicatie-en-tegemoetkoming",
+    "title": "Kinderopvang Sociaal Medische Indicatie en tegemoetkoming",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bijzonder-verlof-van-school-aanvragen",
+    "title": "Bijzonder verlof van school aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtverzuimmelding"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/volledige-leerplicht-en-kwalificatieplicht",
+    "title": "Volledige leerplicht en kwalificatieplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/startkwalPlicht"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gladheidsbestrijding",
+    "title": "Gladheidsbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/filmopnamen-melden",
+    "title": "Filmopnamen, melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/uittreksel-uit-basisregistratie-personen-opvragen-ondernemer",
+    "title": "Uittreksel uit basisregistratie personen opvragen ondernemer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/opkopersregister-bijhouden",
+    "title": "Opkopersregister bijhouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/opkoperreg"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/kentekenregistratie-ontheffing-rijden-in-de-binnenstad",
+    "title": "Kentekenregistratie - ontheffing rijden in de binnenstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vergoeding-aanvragen-voor-de-bouw-of-uitbreiding-van-een-schoolgebouw",
+    "title": "Vergoeding aanvragen voor de bouw of uitbreiding van een schoolgebouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderwijssubsidie"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/kermis-organiseren",
+    "title": "Kermis organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/dwangsom-bij-niet-tijdig-beslissen",
+    "title": "Dwangsom bij niet tijdig beslissen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dwangsomNietTijdBesl"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/ouderlijk-gezag-en-voogdij-aanvragen",
+    "title": "Ouderlijk gezag en voogdij aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/rampenbestrijdingsplan",
+    "title": "Crisisplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/crisisplan"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/uitstalling-plaatsen-bij-een-bedrijf",
+    "title": "Uitstalling plaatsen bij een bedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/uitstallingsvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gesloten-bodemwarmte-installatie-melden",
+    "title": "Gesloten bodemwarmte-installatie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/rolstoel",
+    "title": "Rolstoel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rolstoel"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/evenementen",
+    "title": "Evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vergoeding-aanvragen-na-bodemonderzoek",
+    "title": "Vergoeding aanvragen na bodemonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek_schadevergoeding"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/digid-aanvragen",
+    "title": "DigiD aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/digid"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/kapotte-of-vieze-speelplekken-melding",
+    "title": "Kapotte of vieze speelplekken, melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(straatmeubilair)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/beroepschrift-indienen",
+    "title": "Beroepschrift indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rechtstrBeroep"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gemeentegrond-gebruiken",
+    "title": "Gemeentegrond gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/eerste-rijbewijs-aanvragen",
+    "title": "Eerste rijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/alcoholvrije-dranken-schenken",
+    "title": "Alcoholvrije dranken schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/oplaadpunt-voor-elektrische-auto-aanvragen",
+    "title": "Oplaadpunt voor elektrische auto aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/laadpaalverzoek"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/marktmeester-en-havenmeester",
+    "title": "Marktmeester en havenmeester",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktstandplaatsvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/evenementen-overlast",
+    "title": "Evenementen, overlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/inrit-aanleggen",
+    "title": "Inrit aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgUitweg"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/basisregistratie-adressen-en-gebouwen-inzien",
+    "title": "Basisregistratie adressen en gebouwen inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bagInz"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/ontheffing-aanvragen-voor-geluidsoverlast-bij-bouwen-en-slopen",
+    "title": "Ontheffing aanvragen voor geluidsoverlast bij bouwen en slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gevaarlijke-stoffen-vervoeren",
+    "title": "Gevaarlijke stoffen vervoeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegenverkeerswetontheffing"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/glas-inleveren",
+    "title": "Glas inleveren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_glas"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/agenda-economie-2016-2021",
+    "title": "Agenda Economie 2016 - 2021",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/verkoopdemonstratie-houden-in-horecagelegenheid",
+    "title": "Verkoopdemonstratie houden in horecagelegenheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/loonkostensubsidie-aanvragen",
+    "title": "Loonkostensubsidie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/loonkostSub"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/geregistreerd-partnerschap-beeindigen",
+    "title": "Geregistreerd partnerschap beëindigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_ontbinding"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/inspraakformulier",
+    "title": "Inspraakformulier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/eigen-bijdrage-rechtsbijstand-en-griffierechten",
+    "title": "Eigen bijdrage rechtsbijstand en griffierechten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rechtshulp"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/plastic-metaal-en-drankenkartons-inleveren",
+    "title": "Plastic, metaal en drankenkartons inleveren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bewindvoering",
+    "title": "Bewindvoering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vastgoedinformatie-opvragen",
+    "title": "Vastgoedinformatie opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/tegenprestatie",
+    "title": "Tegenprestatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/recreatiebedrijf-beginnen-of-overnemen",
+    "title": "Recreatiebedrijf beginnen of overnemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/inrit-over-water-aanleggen",
+    "title": "Inrit over water aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgUitweg"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/rollator",
+    "title": "Rollator",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rollator"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gezondheidsopvoeding",
+    "title": "Gezondheidsopvoeding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vuurwerk-afsteken",
+    "title": "Vuurwerk afsteken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vuurwerk_ontbrandingsmelding"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/ouderschap-ontkennen",
+    "title": "Ouderschap ontkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/identiteitsfraude",
+    "title": "Identiteitsfraude",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/terrasvergunning-aanvragen",
+    "title": "Terrasvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/avondwinkel-openen",
+    "title": "Avondwinkel openen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdenontheffing"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/paspoort-of-identiteitskaart-voor-nederlanders-die-in-het-buitenland-wonen",
+    "title": "Paspoort of identiteitskaart voor Nederlanders die in het buitenland wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/ontheffing-reglement-verkeersregels-en-verkeerstekens",
+    "title": "Ontheffing Reglement Verkeersregels en Verkeerstekens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/klacht-over-de-gemeente-indienen",
+    "title": "Klacht over de gemeente indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/grond-verplaatsen-of-afvoeren-melden-grondverzet",
+    "title": "Grond verplaatsen of afvoeren melden (grondverzet)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ontgrondingsvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vergunningsvrij",
+    "title": "Vergunningsvrij",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/informatiestand-plaatsen",
+    "title": "Informatiestand plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/omgevingsvergunning-aanvragen",
+    "title": "Omgevingsvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/afval-storten",
+    "title": "Afval storten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstortontheffing"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/uittreksel-of-afschrift-van-de-burgerlijke-stand-aanvragen-ondernemer",
+    "title": "Uittreksel of afschrift van de burgerlijke stand aanvragen ondernemer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/burgerservicenummer",
+    "title": "Burgerservicenummer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerservicenummer_(bsn)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/buurthuis-/-activiteitencentrum",
+    "title": "Buurthuis / activiteitencentrum",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/alcohol-verkopen-in-supermarkten",
+    "title": "Alcohol verkopen in supermarkten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zwAlcDrankVerk"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bouwblok",
+    "title": "Bouwblok",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwblokverzoek"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/zwemlessen",
+    "title": "Zwemlessen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/kadastrale-gegevens-opvragen",
+    "title": "Kadastrale gegevens opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kadastrale_gegevens_kopie"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/ontruimingsplan",
+    "title": "Ontruimingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/eenvoudige-bodemverontreinigingen-melden",
+    "title": "Eenvoudige bodemverontreinigingen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemverontreiniging_melding"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bezwaar-omgevingsvergunning",
+    "title": "Bezwaar omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/handtekening-laten-legaliseren",
+    "title": "Handtekening laten legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/rioolklacht-melden",
+    "title": "Rioolklacht melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/woonwagen-of-woonwagenstandplaats-huren",
+    "title": "Woonwagen of woonwagenstandplaats huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonwagenstandplaats"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/ondergrondse-olietank-melden",
+    "title": "Ondergrondse olietank melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/olietankMld"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/huisdier-is-zoek/-huisdier-gevonden",
+    "title": "Huisdier is zoek/ huisdier gevonden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/maaltijdvoorziening",
+    "title": "Maaltijdvoorziening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/maaltijdservice"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gezondheidsverklaring",
+    "title": "Gezondheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbGezVerkl"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/inschrijven-in-nederland-voor-studie-of-werk",
+    "title": "Inschrijven in Nederland voor studie of werk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInschr"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bewijs-van-in-leven-zijn-of-attestatie-de-vita",
+    "title": "Bewijs van in leven zijn of attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gebruik-van-een-tijdelijk-bouwwerk-melden",
+    "title": "Gebruik van een tijdelijk bouwwerk melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brandveiligheidadvies"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bouw-en-sloopafval-inleveren",
+    "title": "Bouw- en sloopafval inleveren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vervoersvoorziening",
+    "title": "Vervoersvoorziening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vervoersvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/baggeren-verwijderen-slib-uit-sloten",
+    "title": "Baggeren, verwijderen slib uit sloten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemverontreiniging_melding"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bestemmingsplan-nieuwe",
+    "title": "Bestemmingsplan (nieuwe)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/roerendezaakbelasting-betalen",
+    "title": "Roerendezaakbelasting betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/roerenderuimtebelasting"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/nederlandse-nationaliteit-opgeven-of-verliezen",
+    "title": "Nederlandse nationaliteit opgeven of verliezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_afstand_nederlandse_nationaliteit"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/huisverbod",
+    "title": "Huisverbod",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/berm-gebruiken",
+    "title": "Berm gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/archeologische-vondst-melden",
+    "title": "Archeologische vondst melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/archvndstmld"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gevels-reinigen",
+    "title": "Gevels reinigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/rijbewijs-verloren-of-gestolen",
+    "title": "Rijbewijs verloren of gestolen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/beschermd-wonen",
+    "title": "Beschermd wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/kabel-en-leidingwerkzaamheden-vergunning/instemming/melding",
+    "title": "Kabel-en leidingwerkzaamheden, vergunning/instemming/melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bouwvergunning",
+    "title": "Bouwvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/kind-erkennen-en-naam-kiezen",
+    "title": "Een kind erkennen en naam kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/hulp-bij-werk-zoeken",
+    "title": "Hulp bij werk zoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/re-integratie"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/geluidswagen-gebruiken",
+    "title": "Geluidswagen gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bouwtekeningen-inzien",
+    "title": "Bouwtekeningen inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vragen-over-jeugd-en-gezin",
+    "title": "Vragen over jeugd en gezin",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulpdossier"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/parkeervergunning-bedrijven-kentekenwijziging",
+    "title": "Parkeervergunning bedrijven, kentekenwijziging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/geluid-ontheffing",
+    "title": "Geluid, ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/voornaam-wijzigen",
+    "title": "Voornaam wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voornaamwijziging"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/buren-conflicten",
+    "title": "Buren, conflicten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/duurzaamheidslening-aanvragen",
+    "title": "Duurzaamheidslening aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/duurzhLening"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/reinigingsrechten-betalen",
+    "title": "Reinigingsrechten betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reinigingsrecht"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/kamers-verhuren",
+    "title": "Kamers verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gebouw-of-grond-met-voorkeursrecht-verkopen",
+    "title": "Gebouw of grond met voorkeursrecht verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaak_huur_pacht_koop"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/alcohol-schenken-en-verkopen",
+    "title": "Alcohol schenken en verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/referendum-aanvragen",
+    "title": "Referendum aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/referendum"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/informatie-in-de-basisregistratie-personen-brp",
+    "title": "Informatie in de basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/aangifte-doen-van-overlijden",
+    "title": "Aangifte doen van overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vluchtelingen-of-vreemdelingenpaspoort-aanvragen",
+    "title": "Vluchtelingen- of vreemdelingenpaspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/extra-afvalcontainer-aanvragen",
+    "title": "Extra container aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/schenking-aan-de-gemeente",
+    "title": "Schenking aan de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schenking"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vervoeren-of-vernietigen-resten-zieke-boom",
+    "title": "Vervoeren of vernietigen resten zieke boom",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/parkeervergunning-bewoners-kentekenwijziging",
+    "title": "Parkeervergunning bewoners, kentekenwijziging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vreemdelingenpaspoort-aanvragen",
+    "title": "Vreemdelingenpaspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/heronderzoek-rechtmatigheid-bijstandsuitkering",
+    "title": "Heronderzoek rechtmatigheid bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/betalingsregeling-voor-gemeentebelastingen",
+    "title": "Betalingsregeling voor gemeentebelastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetUitst"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/overtreding-van-gemeenteregels-melden",
+    "title": "Overtreding van gemeenteregels melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vaststelling-van-het-ouderschap",
+    "title": "Vaststelling van het ouderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ouderschapsvaststelling"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/verzorging-pleegkind-melden",
+    "title": "Verzorging pleegkind melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/onderhoudsplan-vereniging-van-eigenaren-opstellen",
+    "title": "Onderhoudsplan Vereniging van Eigenaren opstellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ondhPlVve"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/reclamebelasting",
+    "title": "Reclamebelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamebelasting"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/onroerendezaakbelasting-betalen",
+    "title": "Onroerendezaakbelasting betalen (woning)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/rooilijnen",
+    "title": "Rooilijnen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/groot-voertuig-op-de-weg-parkeren",
+    "title": "Groot voertuig op de weg parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_grote_voertuigen"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/natuurgebieden-betreden-met-voertuig-of-paard",
+    "title": "Natuurgebieden betreden met voertuig of paard",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijdNatuurOnth"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/parkeervergunning-bedrijven-bedrijfsvergunning",
+    "title": "Parkeervergunning bedrijven, bedrijfsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vergoeding-aanvragen-voor-schade-door-een-bestemmingsplan",
+    "title": "Vergoeding aanvragen voor schade door een bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/nieuwe-straatnaam-doorgeven",
+    "title": "Nieuwe straatnaam doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/ballonnen-oplaten",
+    "title": "Ballonnen oplaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/brandveilig-gebruik-van-gebouwen",
+    "title": "Brandveilig gebruik van gebouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/milieupas-aanvragen",
+    "title": "Milieupas aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/draaiorgel-spelen",
+    "title": "Draaiorgel spelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/strArtOptrOnth"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/grafuitgifte",
+    "title": "Grafuitgifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/indirecte-schoolkosten",
+    "title": "Indirecte schoolkosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderwijssubsidie"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/parkeeroverlast",
+    "title": "Parkeeroverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/toestemming-geven-voor-ontleding-van-een-lichaam",
+    "title": "Toestemming geven voor ontleding van een lichaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ontleding_stoffelijk_overschot_toestemming"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/pand-tijdelijk-verhuren",
+    "title": "Leegstaand pand tijdelijk verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woning_tijdelijke_verhuurvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/verkeersbrigadier",
+    "title": "Verkeersbrigadier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verkeersbrigadier"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/speelterreinen-ongeval",
+    "title": "Speelterreinen, ongeval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/speelvoorziening_kinderen"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/wilde-dieren-en-hobbydieren-houden",
+    "title": "Wilde dieren en hobbydieren houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wilde_dieren_houdenontheffing"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/woonkostentoeslag",
+    "title": "Woonkostentoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonkostentoeslag"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/buitenlands-rijbewijs-omwisselen",
+    "title": "Buitenlands rijbewijs omwisselen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs_buitenlands_omwisseling"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/parkeren-bij-autobedrijven",
+    "title": "Parkeren bij autobedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_autobedrijven"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/stoffelijk-overschot-naar-een-ander-land-vervoeren",
+    "title": "Stoffelijk overschot naar een ander land vervoeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vervoersdocumenten_stoffelijk_overschot"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/rioolheffing-betalen",
+    "title": "Rioolheffing betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/filmopnamen-maken",
+    "title": "Filmopnamen maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/strArtOptrOnth"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/onderhoud-openbaar-groen",
+    "title": "Onderhoud openbaar groen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(groenvoorziening)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/digitaal-opkopers-loket",
+    "title": "Digitaal Opkopers Loket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/achternaam-voor-uw-kind-kiezen",
+    "title": "Achternaam voor uw kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/scootmobielpool",
+    "title": "Scootmobielpool",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/scootmobiel"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/leerwerkadviseur",
+    "title": "Leerwerkadviseur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/re-integratie"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/peuterspeelzaal-starten-aanvraag-en-registratie",
+    "title": "Peuterspeelzaal starten, aanvraag en registratie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/milieumelding-doen",
+    "title": "Milieumelding doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/jongerenrijbewijs-aanvragen",
+    "title": "Jongerenrijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/legalisatie-handtekening",
+    "title": "Legalisatie handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/jongeren-ontmoetingsplek",
+    "title": "Jongeren ontmoetingsplek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/speelvoorziening_kinderen"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/inschrijven-als-woningzoekende",
+    "title": "Inschrijven voor een sociale huurwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnZkIns"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/wet-dwangsom-in-aanvraagfase",
+    "title": "Wet dwangsom in aanvraagfase",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/festiviteit-horeca-organiseren",
+    "title": "Festiviteit horeca organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/woning-voor-ander-doel-gebruiken",
+    "title": "Samenvoegen of onttrekken van een woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonruimte_onttrekkingsvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/verzorgingshuis",
+    "title": "Verzorgingshuis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnzCntSrvFlat"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/persoonsgebonden-budget-pgb",
+    "title": "Persoonsgebonden budget (pgb)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgebonden_budget"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bijstand-voor-zelfstandig-ondernemers",
+    "title": "Bijstand voor zelfstandig ondernemers ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/loterij-organiseren",
+    "title": "Loterij organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/woz-beschikking-wet-waardering-onroerende-zaken",
+    "title": "WOZ-waarde en taxatieverslag inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/aed-apparaat-gebruiken",
+    "title": "AED-apparaat gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/omgevingsvergunning-voor-asbestopslag-aanvragen",
+    "title": "Omgevingsvergunning voor asbestopslag aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/geheimhouding-persoonsgegevens-aanvragen",
+    "title": "Geheimhouding persoonsgegevens aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/trouwplannen-melding",
+    "title": "Trouwplannen, melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/verbod-op-oplaten-van-ballonnen",
+    "title": "Verbod op oplaten van ballonnen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bouwleges",
+    "title": "Bouwleges",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/een-klein-evenement-organiseren",
+    "title": "Een klein evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenmelding"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/reclame-aanbrengen-aan-pand",
+    "title": "Reclame aanbrengen aan pand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/radicalisering-melden",
+    "title": "Radicalisering melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/meldpuntAlg"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/precariobelasting-betalen",
+    "title": "Precariobelasting betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/kopie-van-de-aanslag-gemeentebelastingen-aanvragen",
+    "title": "Kopie van de aanslag gemeentebelastingen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_kopie"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/huishoudelijk-afval-inzamelen",
+    "title": "Huishoudelijk afval inzamelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/burenoverlast-melden",
+    "title": "Burenoverlast melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/meldpuntAlg"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gehandicaptenparkeerkaart-gpk",
+    "title": "Gehandicaptenparkeerkaart (GPK)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart_bestuurder"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/wmo-voorziening",
+    "title": "Wmo-voorziening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/verzoek-over-persoonsgegevens-indienen",
+    "title": "Verzoek over persoonsgegevens indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rectificatie"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/afval-inleveren",
+    "title": "Afval inleveren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/boom-beplakken-of-betimmeren",
+    "title": "Boom beplakken of betimmeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/windmolenpark-bouwen",
+    "title": "Windmolen(park) bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/adresonderzoek-aanvragen",
+    "title": "Adresonderzoek aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/horecabedrijf-beginnen",
+    "title": "Horecabedrijf beginnen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/jongerenoverlast-melden",
+    "title": "Jongerenoverlast melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/meldpuntAlg"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/plantsoenen-betreden",
+    "title": "Plantsoenen betreden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/plantsnBetrOnth"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/parkeervergunning-bewoners",
+    "title": "Parkeervergunning bewoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/waarmerken-kopie",
+    "title": "Waarmerken kopie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/zakenpaspoort-aanvragen",
+    "title": "Zakenpaspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/softdrugs-kopen",
+    "title": "Softdrugs kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/parkeervergunning-onderhoudsvergunning",
+    "title": "Parkeervergunning, onderhoudsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/rijbewijs-aanvragen",
+    "title": "Rijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/verklaring-afleggen-over-uw-persoonsgegevens",
+    "title": "Verklaring afleggen over uw persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgegevens_verklaring_onder_eed_of_belofte"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/zelf-een-trouwlocatie-kiezen",
+    "title": "Zelf een trouwlocatie kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/trouwlocatie"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gevonden-voorwerp",
+    "title": "Gevonden voorwerp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/oud-papier-inleveren",
+    "title": "Oud papier inleveren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_oud_papier"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/informatie-over-aanbestedingen",
+    "title": "Informatie over aanbestedingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inkoop"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/wijziging-in-bijstandsuitkering-doorgeven",
+    "title": "Wijziging in bijstandsuitkering doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/voorlopige-voorziening-aanvragen",
+    "title": "Voorlopige voorziening aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voorlVoorz"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/andere-achternaam-gebruiken",
+    "title": "Andere achternaam gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/klacht-over-discriminatie-melden",
+    "title": "Klacht over discriminatie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/drugsoverlast-melden",
+    "title": "Drugsoverlast melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/meldpuntAlg"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/meedoen-in-de-maatschappij",
+    "title": "Meedoen in de maatschappij",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/snuffelmarkt-organiseren",
+    "title": "Snuffelmarkt organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/snuffelmarktvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/grafrechten-verlengen-overschrijven-of-afstaan",
+    "title": "Grafrechten verlengen, overschrijven of afstaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafrechten"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/toeristenbelasting-betalen",
+    "title": "Toeristenbelasting betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/horecavergunning",
+    "title": "Horecavergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/fiets-overlast",
+    "title": "Fiets overlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/hulp-bij-wonen-en-gezondheid",
+    "title": "Hulp bij wonen en gezondheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/beschermde-of-monumentale-boom-melden",
+    "title": "Beschermde of monumentale boom melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/inzameling-bedrijfsafval",
+    "title": "Inzameling bedrijfsafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalinzameling"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vooroverleg-onderzoek-haalbaarheid",
+    "title": "Vooroverleg (onderzoek haalbaarheid)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gemeentegrond-gebruiken-voor-agrarische-activiteiten",
+    "title": "Gemeentegrond gebruiken voor agrarische activiteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaak_huur_pacht_koop"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vergunning-intrekken",
+    "title": "Vergunning intrekken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/grafsteen-plaatsen",
+    "title": "Grafsteen plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gedenkteken_plaatsingsvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/speelterreinen",
+    "title": "Speelterreinen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/leefgeld-voor-vluchtelingen-uit-oekraine",
+    "title": "Leefgeld voor vluchtelingen uit Oekraïne",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/kinderopvang-starten",
+    "title": "Kinderopvang starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/fraude-plegen",
+    "title": "Fraude plegen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/valys",
+    "title": "Valys",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vervoersvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/caravan-parkeren-op-openbare-weg",
+    "title": "Caravan parkeren op openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/caravParkOnth"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/voltooiing-bouwwerk-melden",
+    "title": "Voltooiing bouwwerk melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwwerk_voltooiingsverklaring"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/opnieuw-inschrijven-in-nederland",
+    "title": "Opnieuw inschrijven in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/uittreksel-uit-basisregistratie-personen-opvragen",
+    "title": "Uittreksel uit basisregistratie personen opvragen voor inwoner",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vuur-stoken-in-de-openlucht",
+    "title": "Vuur stoken in de openlucht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/subsidieportaal",
+    "title": "Subsidieportaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/medische-keuring-voor-uw-rijbewijs",
+    "title": "Medische keuring voor uw rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbGezVerkl"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/scootmobiel",
+    "title": "Scootmobiel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/scootmobiel"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/erfscheiding",
+    "title": "Erfscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/stemmen-voor-verkiezingen",
+    "title": "Stemmen voor verkiezingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stemrecht"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vragen-over-epidemieen-stellen",
+    "title": "Vragen over epidemieën stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bomen-afstand-tot-erfafscheiding",
+    "title": "Bomen afstand tot erfafscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bodemonderzoek-aanvragen",
+    "title": "Bodemonderzoek aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/voertuig-op-straat-verkopen",
+    "title": "Voertuig op straat verkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voertuig_te_koop_aanbieden_op_openbare_weg_ontheffing"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/overlast-van-bomen-en-struiken-melden",
+    "title": "Overlast van bomen en struiken melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(groenvoorziening)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/feestverlichting-plaatsen",
+    "title": "Feestverlichting plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/woning-of-kamerbemiddelingsbureau-beginnen",
+    "title": "Woning- of kamerbemiddelingsbureau beginnen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wonBemidd"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gebouw-als-woning-gebruiken",
+    "title": "Gebouw als woning gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/identiteitskaart-afhalen-id-kaart-afhalen",
+    "title": "Identiteitskaart afhalen (ID kaart afhalen)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/individuele-studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inkomensvoorziening_jongeren"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/melding-over-openbare-ruimte-indienen",
+    "title": "Melding over openbare ruimte indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/uitkeringsfraude",
+    "title": "Uitkeringsfraude",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeenschappelijke_regelingen"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/paspoort-afhalen",
+    "title": "Paspoort afhalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/voornaam-of-achternaam-wijzigen",
+    "title": "Voornaam of achternaam wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/rijbewijs-afhalen",
+    "title": "Rijbewijs afhalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/handhavingsverzoek",
+    "title": "Handhavingsverzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/plannen-voor-geregistreerd-partnerschap-melding",
+    "title": "Plannen voor geregistreerd partnerschap, melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschapaangifte"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/deeltaxi",
+    "title": "Deeltaxi",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/buitenlands-huwelijk-in-nederland-registreren",
+    "title": "Buitenlands huwelijk of partnerschap registreren in Nederland ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/geboorteaangifte-doen",
+    "title": "Geboorteaangifte doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/mobiele-puinbreker-gebruiken",
+    "title": "Mobiele puinbreker gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/natuurgebieden-bezoeken",
+    "title": "Natuurgebieden bezoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijdNatuurOnth"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/fietsen-in-voetgangersgebied",
+    "title": "Fietsen in voetgangersgebied",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegenverkeerswetontheffing"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bouw-en-grondverklaring-aanvragen",
+    "title": "Bouw- en grondverklaring aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/sluitingstijd-horecabedrijven",
+    "title": "Sluitingstijd horecabedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/blijverslening-aanvragen",
+    "title": "Blijverslening aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/blijverslening"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/wet-dwangsom-in-de-bezwaarfase",
+    "title": "Wet dwangsom in de bezwaarfase",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/uittreksel-of-afschrift-van-de-burgerlijke-stand-aanvragen",
+    "title": "Uittreksel of afschrift van de burgerlijke stand aanvragen inwoner",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/optreden-op-straat",
+    "title": "Optreden op straat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/strArtOptrOnth"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/hulp-bij-het-huishouden",
+    "title": "Hulp bij het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schoonmaakhulp"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/gemeente-aansprakelijk-stellen",
+    "title": "Gemeente aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprStOverh"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/verblijfsvergunning-aanvragen",
+    "title": "Verblijfsvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verblijfsvergunning"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/monumentale-boom-aanmelden-of-kappen",
+    "title": "Monumentale boom aanmelden of kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/brandveilig-gebruik-of-gebruiksvergunning",
+    "title": "Brandveilig gebruik of gebruiksvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/een-pand-van-de-gemeente-gebruiken",
+    "title": "Een pand van de gemeente gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruik_gemeentelijke_panden"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/vondeling-gevonden",
+    "title": "Vondeling gevonden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/meldpuntAlg"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/verdachte-situatie-melden",
+    "title": "Verdachte situatie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/honden-uitlaten",
+    "title": "Honden uitlaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbesluit"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/ongewoon-voorval-melden",
+    "title": "Ongewoon voorval melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongewVoorvalmeld"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/overlast-beschermde-dieren",
+    "title": "Overlast beschermde dieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wildschade"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/bestemmingsplan-wijzigen-of-afwijken",
+    "title": "Bestemmingsplan (wijzigen of afwijken)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "http://www.oosterhout.nl/gemeentewinkel/eherkenning-aanvragen",
+    "title": "eHerkenning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Oosterhout_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eHerkenning"
+  }
+]

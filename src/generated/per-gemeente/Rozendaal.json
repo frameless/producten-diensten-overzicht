@@ -1,0 +1,785 @@
+[
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/subthema/adresonderzoek-verzoek-tot/",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/afval/container-stickers/",
+    "title": "Container-stickers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/onderwijs-en-kinderkopvang/leeplicht-en-kwalificatieplicht/",
+    "title": "Leerplicht en kwalificatieplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/grof-huishoudelijk-afval/bruikbare-huisraad-inclusief-wit-en-bruingoed/",
+    "title": "Bruikbare huisraad (inclusief wit- en bruingoed)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/ondernemen/informatie-voor-bedrijven/bedrijfsafvalinzameling/",
+    "title": "Bedrijfsafvalinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalinzameling"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/melding-klacht-en-compliment/melding/melding-of-klacht-openbare-buitenruimte/",
+    "title": "Melding of klacht openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/uittreksels-en-verklaringen/verklaring-omtrent-het-gedrag-vog/",
+    "title": "Verklaring Omtrent het Gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/overig-afval/metaal-en-puin/",
+    "title": "Metaal en puin",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/veiligheid/veiligheid-in-gemeente-dronten/",
+    "title": "Contact met de brandweer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/groen/bestemmingsplannen-inzien/",
+    "title": "Bestemmingsplannen inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/fijn-huishoudelijk-afval/groente-fruit-en-tuinafval-gft/",
+    "title": "Groente, Fruit en Tuinafval (GFT)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/melding-klacht-en-compliment/gezondheid/overlast-en-bestrijding-van-ongedierte/",
+    "title": "(Overlast en bestrijding van) Dieren en  ongedierte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/verhuizen/briefadres/",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/verkiezingen/gemeenteraadsverkiezingen-2022/",
+    "title": "Gemeenteraadsverkiezingen 2022",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/veiligheid/burgernet/",
+    "title": "Burgernet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/belastingen-en-subsidies/belastingen/rioolrecht/",
+    "title": "Rioolrecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/samenleven-in-rozendaal/vrijwilligerswerk/",
+    "title": "Vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/subthema/rijbewijs-kwijt-of-gestolen/",
+    "title": "Rijbewijs kwijt of gestolen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/subthema/beeindiging-geregistreerd-partnerschap-melden/",
+    "title": "Beëindiging geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/afvalkalender-afvalwijzerapp/afvalkalender/",
+    "title": "Afvalkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/geboorte/erkenning-van-een-kind/",
+    "title": "Erkenning van een kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/groen/onkruidbestrijding/",
+    "title": "Onkruidbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onkruidbestrijding"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/groen/omgevingsvergunning/",
+    "title": "Omgevingsvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/melding/verloren-of-gevonden-voorwerpen/",
+    "title": "Verloren of gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/belastingen-en-subsidies/belastingen/belastingbalie/",
+    "title": "Belastingbalie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/belastingen-en-subsidies/belastingen/afvalstoffenheffing/",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/groen/bouwarchief-inzien/",
+    "title": "Bouwarchief inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/belastingen-en-subsidies/belastingen/kwijtschelding-gemeentelijke-belasting/",
+    "title": "Kwijtschelding gemeentelijke belasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/reisdocumenten-en-rijbewijs/rijbewijs/",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/uittreksels-en-verklaringen/uittreksel-burgerlijke-stand-aanvragen/",
+    "title": "Uittreksel Burgerlijke Stand aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/ondernemen/informatie-voor-bedrijven/ondernemersplein/",
+    "title": "Ondernemersplein",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/overlijden-en-begraafplaats/gemeentelijke-begraafplaats-rosendael/",
+    "title": "Gemeentelijke begraafplaats 'Rosendael'",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/melding-klacht-en-compliment/melding/rioolwaterafvoer-werkt-niet-goed/",
+    "title": "Rioolwaterafvoer werkt niet goed",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/subthema/duurzaam-rozendaal/",
+    "title": "Duurzaam Rozendaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/subthema/emigratie-een-of-meer-personen-blijven-achter-op-het-adres/",
+    "title": "Emigratie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/melding-klacht-en-compliment/compliment/compliment-geven-aan-de-gemeente/",
+    "title": "Compliment geven aan de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/groen/omgevingsvergunning-vergunningsvrije-mogelijkheden/",
+    "title": "Omgevingsvergunning (vergunningsvrije mogelijkheden)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/hulp-en-ondersteuning/meldpunt-psychische-hulp/",
+    "title": "Meldpunt psychische hulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/bouwen-en-verbouwen/apv/",
+    "title": "APV",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/werk-en-inkomen/uitkering-voor-een-zelfstandige/",
+    "title": "Uitkering voor een zelfstandige",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/samenleven-in-rozendaal/vrijwilligersverzekering/",
+    "title": "Vrijwilligersverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/belastingen-en-subsidies/belastingen/toeristenbelasting/",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/fijn-huishoudelijk-afval/huishoudelijk-afval-restafval/",
+    "title": "Huishoudelijk afval/Restafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/werk-en-inkomen/werkloos-na-uw-vijftigste/",
+    "title": "Werkloos na uw vijftigste",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/trouwen-echtscheiding/echtscheiden-beeindiging-partnerschap/",
+    "title": "Echtscheiden/beëindiging partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/bouwen-en-verbouwen/asbest/",
+    "title": "Asbest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/hulp-en-ondersteuning/onafhankelijke-client-ondersteuning/",
+    "title": "Onafhankelijke cliënt ondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/privacy-en-persoonsgegevens/persoonsgegevens-inzage-en-wijzigen/",
+    "title": "Persoonsgegevens inzage en wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/verkeer-vervoer-parkeren/parkeren/oplaadpunten-in-rozendaal/",
+    "title": "Oplaadpunten in Rozendaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/veiligheid/contact-met-de-politie/",
+    "title": "Contact met de politie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/grof-huishoudelijk-afval/grofvuil/",
+    "title": "Grof huishoudelijk afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/belastingen-en-subsidies/subsidies/duurzaamheidssubsidies/",
+    "title": "Duurzaamheidssubsidies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/melding/discriminatie-of-pesten/",
+    "title": "Discriminatie of pesten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/veiligheid/buurtbemiddeling/",
+    "title": "Buurtbemiddeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/melding-klacht-en-compliment/het-ergens-niet-mee-eens-zijn/aansprakelijk-stellen-van-de-gemeente/",
+    "title": "Aansprakelijk stellen van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/werk-en-inkomen/energietoeslag-lagere-inkomens/",
+    "title": "Energietoeslag lagere inkomens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/verkeer-vervoer-parkeren/vervoer/routebeschrijving/",
+    "title": "Routebeschrijving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/hulp-en-ondersteuning/wet-maatschappelijke-ondersteuning-wmo/",
+    "title": "Wet maatschappelijke ondersteuning (WMO)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/bouwen-en-verbouwen/omgevingswet-in-rozendaal/",
+    "title": "Omgevingswet in Rozendaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/subthema/rijbewijs-gezondheidsverklaring-medische-keuring/",
+    "title": "Gezondheidsverklaring rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/privacy-en-persoonsgegevens/privacyverklaring/",
+    "title": "Privacyverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/trouwen-echtscheiding/naamgebruik-wijzigen/",
+    "title": "Naamgebruik wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/fijn-huishoudelijk-afval/textiel-kleding/",
+    "title": "Textiel/kleding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/bouwen-en-verbouwen/rioolaansluiting-woning-aanvragen/",
+    "title": "Rioolaansluiting woning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/privacy-en-persoonsgegevens/geheimhouding-persoonsgegevens/",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/privacy-en-persoonsgegevens/archief-van-de-gemeente/",
+    "title": "Archief van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/melding-klacht-en-compliment/het-ergens-niet-mee-eens-zijn/indienen-verzoek-wet-open-overheid/",
+    "title": "Indienen verzoek Wet open overheid (Woo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/sociaal-domein-algemeen/sociaal-meldpunt-en-incluzio-rheden/",
+    "title": "Sociaal Meldpunt en Incluzio Rheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/groen/bouwtekeningen-opvragen/",
+    "title": "Bouwtekeningen opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/onderwijs-en-kinderkopvang/leerlingenvervoer/",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/ondernemen/informatie-voor-bedrijven/een-bedrijf-starten/",
+    "title": "Een bedrijf starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/belastingen-en-subsidies/belastingen/onroerendzaakbelasting-ozb/",
+    "title": "Onroerendzaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/onderwijs-en-kinderkopvang/onderwijs-in-rozendaal/",
+    "title": "Onderwijs in Rozendaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/belastingen-en-subsidies/belastingen/woz/",
+    "title": "WOZ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/trouwen-echtscheiding/huwelijk-in-het-buitenland/",
+    "title": "Huwelijk in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/verhuizen/verhuizen-in-of-naar-rozendaal/",
+    "title": "Verhuizen in of naar Rozendaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/belastingen-en-subsidies/belastingen/hondenbelasting/",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/geboorte/geboorteaangifte/",
+    "title": "Geboorteaangifte digitaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/melding-klacht-en-compliment/het-ergens-niet-mee-eens-zijn/kwaliteitshandvest-gemeente-rozendaal/",
+    "title": "Kwaliteitshandvest gemeente Rozendaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/uittreksels-en-verklaringen/uittreksel-basisregistratie-personen-brp/",
+    "title": "Uittreksel Basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/grof-huishoudelijk-afval/grof-tuinafval/",
+    "title": "Grof tuinafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/hulp-en-ondersteuning/huiselijk-geweld-of-kindermishandeling/",
+    "title": "Huiselijk geweld of kindermishandeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/overlijden-en-begraafplaats/as-verstrooien/",
+    "title": "As verstrooien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/fijn-huishoudelijk-afval/tips-om-afval-goed-te-scheiden/",
+    "title": "Papier en karton (OPK)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/subthema/nee-nee-sticker-nee-ja-sticker/",
+    "title": "Nee-nee sticker, nee-ja sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/jeugd-3/kinderburgemeester-van-rozendaal/",
+    "title": "Kinderburgemeester van Rozendaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/groen/defecte-straatverlichting/",
+    "title": "Defecte straatverlichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/groen/melding-incidentele-festiviteit/",
+    "title": "Melding incidentele festiviteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/sociaal-domein-algemeen/clientervaringsonderzoeken-ceo-jeugd-en-wmo/",
+    "title": "Cliëntervaringsonderzoeken (CEO) jeugd en Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/hulp-en-ondersteuning/beschermd-wonen/",
+    "title": "Beschermd wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/verkeer-vervoer-parkeren/speciaal-en-aangepast-vervoer/gehandicaptenparkeerkaart-en-gehandicaptenparkeerplaats/",
+    "title": "Gehandicaptenparkeerkaart en gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/verhuizen/verhuizen-naar-nederland/",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/reisdocumenten-en-rijbewijs/paspoort-of-identiteitskaart/",
+    "title": "Paspoort of identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/werk-en-inkomen/hulp-bij-het-zoeken-naar-werk-re-integratie/",
+    "title": "Hulp bij het zoeken naar werk/re-integratie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/melding-klacht-en-compliment/het-ergens-niet-mee-eens-zijn/bezwaar-en-beroep/",
+    "title": "Bezwaar en beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/subthema/bromfietsrijbewijs-aanvragen/",
+    "title": "Bromfietsrijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/reisdocumenten-en-rijbewijs/vermissing-doorgeven/",
+    "title": "Vermissing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/belastingen-en-subsidies/subsidies/welzijnssubsidie/",
+    "title": "Welzijnssubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/werk-en-inkomen/werk-en-inkomen/",
+    "title": "Werk en inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/bouwen-en-verbouwen/bouw-en-verbouw-toezicht/",
+    "title": "Bouw en verbouw, toezicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/onderwijs-en-kinderkopvang/kinderopvang-beginnen/",
+    "title": "Kinderopvang beginnen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/sociaal-domein-algemeen/uitvoering-sociaal-domein/",
+    "title": "Uitvoering Sociaal domein",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/overig-afval/klein-chemisch-afval/",
+    "title": "Klein chemisch afval (KCA)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/fijn-huishoudelijk-afval/glasinzameling/",
+    "title": "Glasinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/uittreksels-en-verklaringen/handtekening-legaliseren/",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/melding-klacht-en-compliment/het-ergens-niet-mee-eens-zijn/klacht-over-het-handelen-van-de-gemeente/",
+    "title": "Klacht over het handelen van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/overlijden-en-begraafplaats/aangifte-overlijden/",
+    "title": "Aangifte overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/afval/afvalcontainers/",
+    "title": "Afvalcontainers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/subthema/rijbewijs-onder-de-18-jaar/",
+    "title": "Rijbewijs onder de 18 jaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/afvalkalender-afvalwijzerapp/digitale-afvalwijzer-afvalwijzerapp/",
+    "title": "Digitale afvalwijzer (afvalwijzerapp)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/verkiezingen/verkiezingsuitslagen/",
+    "title": "Verkiezingsuitslagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/overig-afval/inzameling-luiers-en-incontinentiematerialen/",
+    "title": "Inzameling luiers en incontinentiematerialen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/geboorte/adoptie/",
+    "title": "Adoptie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adoptie"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/veiligheid/whatsapp-project-veiligheid-voor-rozendaal/",
+    "title": "WhatsApp project veiligheid voor Rozendaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/melding-klacht-en-compliment/melding/wateroverlast/",
+    "title": "Wateroverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/nederlanderschap/nederlander-worden/",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/bouwen-en-verbouwen/afkoppeling-hemelwater/",
+    "title": "Afkoppeling hemelwater",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/fijn-huishoudelijk-afval/plastic-metalen-verpakkingen-en-drankenkartons-inzamelen-pmd/",
+    "title": "Plastic, blik en drinkpakken inzamelen (PBD)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/jeugd-3/jeugdhulp/",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/trouwen-echtscheiding/naamswijziging/",
+    "title": "Naamswijziging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/trouwen-echtscheiding/huwelijk-of-geregistreerd-partnerschap-regelen/",
+    "title": "Huwelijk of geregistreerd partnerschap regelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/jeugd-3/jongerenraad/",
+    "title": "Jongerenraad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/zorg-jeugd-werk-en-onderwijs/samenleven-in-rozendaal/de-serre-van-rozendaal/",
+    "title": "De serre van Rozendaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/bouwen-wonen-en-milieu/veiligheid/waaks/",
+    "title": "Als de sirene gaat....",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/geboorte/levenloos-geboren-kind-registreren/",
+    "title": "Levenloos geboren kind registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/verkiezingen/verkiezingen-algemeen/",
+    "title": "Verkiezingen algemeen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.rozendaal.nl/direct-regelen/burgerzaken/verkiezingen/plaatsen-verkiezingsborden/",
+    "title": "Plaatsen verkiezingsborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Rozendaal_(gemeente)"
+  }
+]

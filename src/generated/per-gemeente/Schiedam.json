@@ -1,0 +1,805 @@
+[
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/exploitatievergunning",
+    "title": "Exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/huurtoeslag",
+    "title": "Huurtoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/bezwaarschrift-indienen",
+    "title": "Bezwaarschrift indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/collectevergunning",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.stroomopwaarts.nl/inwoners/inkomen/extra-s-bij-een-laag-inkomen#Inkomenstoeslagschiedam",
+    "title": "Individuele Inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "https://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/omwisselen-buitenlands-rijbewijs",
+    "title": "Omwisselen buitenlands rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/vrij-reizen-met-de-ret-voor-65-plusser-met-laag-inkomen",
+    "title": "Vrij reizen met de RET voor 65-plusser met laag inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/nederlandse-nationaliteit-aanvragen",
+    "title": "Nederlandse nationaliteit aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/vermissing-reisdocument-rijbewijs",
+    "title": "Vermissing reisdocument of rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/huisbezoek-aanvragen-nederlandse-identiteitskaart",
+    "title": "Huisbezoek aanvragen Nederlandse identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.stroomopwaarts.nl/inwoners/werk/werken-met-een-arbeidsbeperking#schiedam",
+    "title": "Wajong-uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "https://standaarden.overheid.nl/owms/terms/wajong-uitkering"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/naamgebruik",
+    "title": "Naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/uittreksel-brp-gewaarmerkt-papier",
+    "title": "Uittreksel BRP - Gewaarmerkt papier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/rijbewijs-aanvragen",
+    "title": "Rijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/subsidie-monument",
+    "title": "Subsidie monument ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/huisvestingsvergunning",
+    "title": "Huisvestingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/vrijwilligerswerk",
+    "title": "Vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/gevonden-en-verloren-voorwerpen",
+    "title": "Gevonden en verloren voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/bingo-organiseren",
+    "title": "Bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/vergunning-tot-tijdelijke-verhuur-van-een-woonruimte",
+    "title": "Vergunning tot tijdelijke verhuur van een woonruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/parkeervergunning-bedrijven-en-zorginstellingen",
+    "title": "Parkeervergunning bedrijven en zorginstellingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/uittreksel-overzicht-basisregistratie-personen-brp",
+    "title": "Uittreksel-overzicht basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/rotterdampas",
+    "title": "Rotterdampas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/draaiorgel-exploiteren",
+    "title": "Draaiorgel exploiteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.stroomopwaarts.nl/inwoners/inkomen/een-bijstandsuitkering-aanvragen#schiedam",
+    "title": "Bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/aangifte-overlijden",
+    "title": "Aangifte overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/horecabedrijf-starten",
+    "title": "Horecabedrijf starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/eerste-inschrijving-in-nederland",
+    "title": "Eerste inschrijving in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/parkeren-bij-autobedrijven",
+    "title": "Parkeren bij autobedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/marktplaatsvergunning",
+    "title": "Marktplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/onroerendezaakbelastingen",
+    "title": "Onroerendezaakbelastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/informatiestand-plaatsen",
+    "title": "Informatiestand plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/aanwezigheidsvergunning",
+    "title": "Aanwezigheidsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.stroomopwaarts.nl/inwoners/inkomen/extra-s-bij-een-laag-inkomen#Studietoeslagschiedam",
+    "title": "Individuele Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "https://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/melding-buitenruimte",
+    "title": "Melding buitenruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/attestatie-de-vita",
+    "title": "Attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/tweede-paspoort",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/waarmerken-kopie-van-officieel-document",
+    "title": "Waarmerken kopie van officieel document",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/garantverklaring",
+    "title": "Garantverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/woz",
+    "title": "WOZ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/ligplaatsen",
+    "title": "Ligplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/sloopmelding-asbest",
+    "title": "Sloopmelding (asbest)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/erfpachtcontract",
+    "title": "Erfpachtcontract",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/verklaring-omtrent-gedrag",
+    "title": "Verklaring omtrent gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/dwangsom",
+    "title": "Dwangsom",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/hervestiging-vanuit-het-buitenland",
+    "title": "Hervestiging (vanuit het buitenland)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/digitale-identiteit-digid",
+    "title": "Digitale Identiteit (DigiD)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/rvv-ontheffing",
+    "title": "RVV-ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/tijdelijke-kentekenwijziging",
+    "title": "Tijdelijke kentekenwijziging ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/afstand-doen-van-de-nederlandse-nationaliteit",
+    "title": "Afstand doen van de Nederlandse nationaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/wet-bibob",
+    "title": "Wet Bibob",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/gezondheidsverklaring",
+    "title": "Gezondheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/echtscheiding-melden",
+    "title": "Echtscheiding melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/rechten-van-betrokkenen",
+    "title": "Rechten van betrokkenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/bezwaar-gemeentelijke-heffingen",
+    "title": "Bezwaar gemeentelijke heffingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/onttrekkingsvergunning",
+    "title": "Onttrekkingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/naamswijziging",
+    "title": "Naamswijziging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/drank-en-horecavergunning",
+    "title": "Drank- en Horecavergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/ventvergunning",
+    "title": "Ventvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/geslachtswijziging",
+    "title": "Geslachtswijziging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/reclamevergunning",
+    "title": "Reclamevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/demonstratie-betoging",
+    "title": "Demonstratie of betoging ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/huwelijksbevoegdheid",
+    "title": "Huwelijksbevoegdheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/hondenbeleid",
+    "title": "Hondenbeleid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/bewijs-van-leven",
+    "title": "Bewijs van leven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/rioolaansluiting",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/bouwplannen-enof-omgevingsvergunning-inzien",
+    "title": "Bouwplannen en/of omgevingsvergunning inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/vuurwerk-en-jaarwisseling",
+    "title": "Vuurwerk en jaarwisseling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/subsidie-aanvragen",
+    "title": "Subsidie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/vergunning-woningen-samenvoegen",
+    "title": "Vergunning woningen samenvoegen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/splitsingsvergunning",
+    "title": "Splitsingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/beschermd-stadsgezicht",
+    "title": "Beschermd stadsgezicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/akte-burgerlijke-stand",
+    "title": "Akte Burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/ontheffing-sluitingsuur",
+    "title": "Ontheffing sluitingsuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/legalisatie-handtekening",
+    "title": "Legalisatie handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/uittreksel-brp-wit-papier",
+    "title": "Uittreksel BRP - Wit papier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/melding-incidentele-festiviteit",
+    "title": "Melding incidentele festiviteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/parkeervergunning-bewoners",
+    "title": "Parkeervergunning bewoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/erkennen-kind",
+    "title": "Erkennen kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/koninklijke-en-gemeentelijke-onderscheidingen",
+    "title": "Koninklijke en Gemeentelijke onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/loterij-organiseren",
+    "title": "Loterij organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/bodemonderzoek",
+    "title": "Bodemonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/voorwerpen-op-aan-de-weg-plaatsen",
+    "title": "Voorwerpen op of aan de weg plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/huishoudelijk-afval",
+    "title": "Huishoudelijk afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/nederlandse-identiteitskaart",
+    "title": "Nederlandse identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/bewijs-nederlanderschap",
+    "title": "Bewijs Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/omzettingsvergunning-kamerbewoning",
+    "title": "Omzettingsvergunning (kamerbewoning)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/nachtregister",
+    "title": "Nachtregister ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/vergunning-brandveilig-gebruik-gebouwen",
+    "title": "Vergunning Brandveilig gebruik gebouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/verhuizen-naar-het-buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/aansprakelijkheid-bij-schade",
+    "title": "Aansprakelijkheid bij schade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.stroomopwaarts.nl/inwoners/schulden/ik-wil-hulp-bij-mijn-schulden#schiedam",
+    "title": "Schuldhulpverlening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/omgevingsvergunning-wabo",
+    "title": "Omgevingsvergunning Wabo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/milieumelding",
+    "title": "Milieumelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/verklaring-onder-ede-belofte",
+    "title": "Verklaring onder ede of belofte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/leegstandmelding",
+    "title": "Leegstandmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/naamskeuze-kind",
+    "title": "Naamskeuze kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/brievenbussticker",
+    "title": "Brievenbussticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.schiedam.nl/a-tot-z/vergunning-woningvorming-bouwkundig-splitsen",
+    "title": "Vergunning woningvorming (bouwkundig splitsen)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiedam_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  }
+]

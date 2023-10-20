@@ -1,0 +1,1413 @@
+[
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/onderwijs/begeleiding/begeleiding-naar-school-of-werk-jongeren/31349/",
+    "title": "Begeleiding naar school of werk, jongeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/verhuizen/publicatie-ambtshalve-uitgeschreven-personen/35165/",
+    "title": "Publicatie ambtshalve uitgeschreven personen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/brpInschr"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/verhuizen/verhuizen-vanuit-het-buitenland/411/",
+    "title": "Verhuizen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/bouwen/monument-onderhouden-en-verbouwen/34315/",
+    "title": "Monument onderhouden en verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/veiligheid/burger-aed/33016/",
+    "title": "Burger AED",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/bouwen/archeologie/34326/",
+    "title": "Archeologie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/vergunningen-ondernemers/reclamevergunning/34532/",
+    "title": "Reclamevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ontspanning-en-vrije-tijd/sporthallen/reserveer-een-sportlocatie/34446/",
+    "title": "Reserveer een sportlocatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/reserveer-een-sportlocatie"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/dieren/overlast-en-bestrijding-van-ongedierte/3590/",
+    "title": "Overlast en bestrijding van ongedierte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/afval/afval-ophalen-aan-huis/grofvuil/3211/",
+    "title": "Grofvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/het-ergens-niet-mee-eens-zijn/aansprakelijk-stellen-van-de-gemeente/492/",
+    "title": "Aansprakelijk stellen van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/gezondheid-jeugd-en-ondersteuning/hulp-en-ondersteuning/wmo-en-speciaal-vervoer/36435/",
+    "title": "Wmo- en speciaal vervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/verhuizen/briefadres-aanvragen/554/",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/afval/melding-maken/zwerfafval-opruimen/31269/",
+    "title": "Zwerfafval melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/reisdocumenten/tweede-paspoort-of-zakenpaspoort-aanvragen/34311/",
+    "title": "Tweede paspoort of zakenpaspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/paspTweede"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/groen/bomen/36024/",
+    "title": "Bomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ontspanning-en-vrije-tijd/cultuur/toerisme/34471/",
+    "title": "Toerisme en (culturele) activiteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/belastingen-en-subsidies/belastingen/roerende-zaakbelasting/34669/",
+    "title": "Roerende zaakbelasting (RZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/uittreksels-en-verklaringen/attestatie-de-vita/313/",
+    "title": "Attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/veiligheid/brandweer-enkhuizen/34210/",
+    "title": "Brandweer Enkhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/werk-en-inkomen/hulp-en-ondersteuning/indivuduele-studietoeslag/35751/",
+    "title": "Individuele studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/wonen/veilig-wonen/33148/",
+    "title": "Veilig wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/groen/aziatische-duizendknoop-bestrijden/33001/",
+    "title": "Aziatische Duizendknoop bestrijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/het-ergens-niet-mee-eens-zijn/klacht-over-aanbesteding/36022/",
+    "title": "Klacht over aanbesteding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/melding-maken/aanvraag-inzage-persoonsgegevens/34372/",
+    "title": "Inzage persoonsgegevens aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/brpInzRechtGeg"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/belastingen-en-subsidies/belastingen/woz/33989/",
+    "title": "WOZ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/woz"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ontspanning-en-vrije-tijd/cultuur/carillons/34464/",
+    "title": "Carillons",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/gezondheid-jeugd-en-ondersteuning/hulp-en-ondersteuning/gratis-onafhankelijk-advies/34283/",
+    "title": "Gratis onafhankelijk advies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/vergunningen-algemeen/kapvergunning/34607/",
+    "title": "Kapvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/kapvergunning"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/vergunningen-ondernemers/evenementenvergunning/457/",
+    "title": "Evenementenvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/verkeer-en-vervoer/wegenverkeerswet-ontheffing/406/",
+    "title": "Wegenverkeerswet, ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/onderwijs/scholen/middelbare-scholen/33055/",
+    "title": "Middelbare scholen Enkhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ontspanning-en-vrije-tijd/sporthallen/gymzaal-de-bonte-veer/34442/",
+    "title": "Gymzaal De Bonte Veer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/gymzaal-de-bonte-veer"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/belastingen-en-subsidies/subsidies/subsidies-voor-activiteiten/31167/",
+    "title": "Subsidies voor activiteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/onderwijs/kinderopvang/peuteropvang-algemeen/35684/",
+    "title": "Peuteropvang algemeen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kindercentrum"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/hulp-en-ondersteuning/gehandicaptenparkeerplaats-aanvraag-en-wijziging/581/",
+    "title": "Gehandicaptenparkeerplaats aanvragen of wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/werk-en-inkomen/uitkering/bijstandsuitkering/726/",
+    "title": "Bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ontspanning-en-vrije-tijd/sporthallen/sporthal-de-drecht/34417/",
+    "title": "Sporthal De Drecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/sporthal-de-drecht"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/milieu-en-duurzaamheid/goede-waterkwaliteit-wat-doet-u-zelf/33329/",
+    "title": "Goede waterkwaliteit, wat doet u zelf?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/bedrijf-starten/startersloket/35358/",
+    "title": "Startersloket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/startend_ondernemerschapsubsidie"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/melding-maken/melden-datalek/34361/",
+    "title": "Melden datalek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/afval/bouwen/asbestverwijdering/465/",
+    "title": "Asbestverwijdering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ontspanning-en-vrije-tijd/cultuur/jongerencentrum-cayen/16976/",
+    "title": "Jongerencentrum Cayen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/gezondheid-jeugd-en-ondersteuning/mantelzorg-en-vrijwilligers/vrijwilligers/34277/",
+    "title": "Vrijwilligers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/werk-en-inkomen/uitkering/individuele-inkomenstoeslag/35708/",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/afval/afval-ophalen-aan-huis/afvalinzamelaar-hvc/3748/",
+    "title": "Afvalinzamelaar HVC",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/verkeer-en-vervoer/wegwerkzaamheden/34175/",
+    "title": "Wegwerkzaamheden en afsluitingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/bouwen/bouwaanvraag-inzien/34299/",
+    "title": "Bouwaanvraag inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ontspanning-en-vrije-tijd/sporthallen/aangepast-sporten/34474/",
+    "title": "Aangepast sporten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/bouwen/rioolaansluiting-woning-aanvragen/667/",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/uittreksels-en-verklaringen/verklaring-bewijs-van-in-leven-zijn/363/",
+    "title": "Verklaring (bewijs) van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/onderwijs/kinderopvang/voor-en-vroegschoolse-educatie/35687/",
+    "title": "Voor- en vroegschoolse educatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/kindercentrum"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/milieu/vergunning-of-melding-bedrijfsmatige-activiteit-milieu/34536/",
+    "title": "Vergunning of melding bedrijfsmatige activiteit (milieu)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/onderwijs/begeleiding/leer-en-kwalificatieplicht/16882/",
+    "title": "Leer- en kwalificatieplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/uitkering/besparen-op-energiekosten/35772/",
+    "title": "Besparen op energiekosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/melding-maken/meteen-melden/34318/",
+    "title": "Meteen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/reisdocumenten/identiteitskaart-aanvragen/113/",
+    "title": "Identiteitskaart aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/economie/economisch-klimaat/33363/",
+    "title": "Economisch klimaat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/economie/ondernemersfonds-enkhuizen/35346/",
+    "title": "Ondernemersfonds Enkhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/uittreksels-en-verklaringen/bewijs-van-nederlanderschap/34375/",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/verhuizen/adresonderzoek-verzoek-tot/496/",
+    "title": "Adresonderzoek, verzoek tot",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/overlijden/gemeentelijke-begraafplaats/386/",
+    "title": "Gemeentelijke begraafplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/verlBegraven"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/melding-maken/verloren-of-gevonden-voorwerpen/818/",
+    "title": "Verloren of gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/trouwen/naamgebruik-wijzigen/628/",
+    "title": "Naamgebruik wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/gezondheid-jeugd-en-ondersteuning/jeugdhulp/hulp-voor-jongeren/33827/",
+    "title": "Hulp voor jongeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/rijbewijs/rijbewijs-aanvragen-of-verlengen/11/",
+    "title": "Rijbewijs aanvragen of verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/uittreksels-en-verklaringen/verklaring-omtrent-het-gedrag/9/",
+    "title": "Verklaring Omtrent het Gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/geboorte/erkenning-van-een-kind-en-naamskeuze/563/",
+    "title": "Erkenning van een kind en naamskeuze",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/bouwen/bestemmingsplannen/521/",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/wonen/woning-zoeken-sociale-huur/828/",
+    "title": "Woning zoeken, sociale huur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/wnZkIns"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/trouwen/huwelijk-of-geregistreerd-partnerschap-regelen/353/",
+    "title": "Huwelijk of geregistreerd partnerschap regelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/parkeren/parkeren-voor-bedrijven/34728/",
+    "title": "Parkeren voor bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/parkeren-voor-bedrijven"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/het-ergens-niet-mee-eens-zijn/bezwaar-en-beroep/525/",
+    "title": "Bezwaar en beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/het-ergens-niet-mee-eens-zijn/verzoek-om-handhaving/35521/",
+    "title": "Verzoek om handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/reisdocumenten/vermissing-reisdocument/35476/",
+    "title": "Vermissing reisdocument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/vermissing-reisdocument"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/uittreksels-en-verklaringen/garantstelling-of-logiesverklaring/333/",
+    "title": "Garantstelling of logiesverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/gezondheid-jeugd-en-ondersteuning/hulp-en-ondersteuning/stadsteam/34272/",
+    "title": "Stadsteam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/reisdocumenten/paspoort-aanvragen/34074/",
+    "title": "Paspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/bedrijf-starten/vestigden/35356/",
+    "title": "Vestigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/nederlanderschap/nederlander-worden/643/",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/economie/ondernemersverenigingen/34560/",
+    "title": "Ondernemersverenigingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/onderwijs/scholen/leerlingenvervoer/770/",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/het-ergens-niet-mee-eens-zijn/dwangsom-en-beroep-bij-te-laat-beslissen/558/",
+    "title": "Dwangsom en beroep bij te laat beslissen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/dieren/honden/671/",
+    "title": "Honden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/veiligheid/algemene-plaatselijke-verordening-apv/34179/",
+    "title": "Algemene Plaatselijke Verordening (APV)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/gezondheid-jeugd-en-ondersteuning/jeugdhulp/spreekuren-jeugdgezondheidszorg/34243/",
+    "title": "Spreekuren Jeugdgezondheidszorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/overlijden/aangifte-overlijden/635/",
+    "title": "Aangifte overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/milieu/duurzaam-bouwloket/34117/",
+    "title": "Duurzaam Bouwloket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/winkeliers/venten/33043/",
+    "title": "Venten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/werk-en-inkomen/uitkering/bijzondere-bijstand-bewindvoering-mentorschap-en-curatele/35623/",
+    "title": "Bijzondere bijstand bewindvoering, mentorschap en curatele",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/werk-en-inkomen/schulden/hulp-bij-schulden/1011/",
+    "title": "Hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/parkeren/parkeren-in-parkeerschijfzone-blauwe-zone-ontheffing/398/",
+    "title": "Parkeren in parkeerschijfzone (blauwe zone), ontheffing aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/vergunningen-algemeen/loterij-of-kansspel-organiseren/34612/",
+    "title": "Loterij of kansspel organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/verhuizen/eerste-inschrijving-in-nederland/316/",
+    "title": "Eerste inschrijving in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/brpInschrBuitAkte"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ontspanning-en-vrije-tijd/cultuur/vereniging-oud-enkhuizen/34491/",
+    "title": "Vereniging Oud Enkhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/veiligheid/waaks/34218/",
+    "title": "Waaks",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/bouwen/beschermd-stadsgezicht/34330/",
+    "title": "Beschermd stadsgezicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/verhuizen/verhuizing-doorgeven/319/",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/economie/bedrijventerreinen-enkhuizen/33361/",
+    "title": "Bedrijventerreinen Enkhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/bouwen/principeverzoek/34363/",
+    "title": "Principeverzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/verhuizen/emigreren/326/",
+    "title": "Emigreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/uittreksels-en-verklaringen/afschrift-burgerlijke-stand/34871/",
+    "title": "Afschrift burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/belastingen-en-subsidies/uitkering/kwijtschelding-gemeentelijke-belastingen/34003/",
+    "title": "Kwijtschelding gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/wonen/planschade/519/",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/milieu-en-duurzaamheid/elektrische-laadpalen/476/",
+    "title": "Elektrische laadpalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/milieu/samen-en-duurzaam/34134/",
+    "title": "Samen en duurzaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/het-ergens-niet-mee-eens-zijn/klacht-over-het-handelen-van-de-gemeente/621/",
+    "title": "Klacht over het handelen van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/wonen/leegstandwet-woning-tijdelijk-verhuren/772/",
+    "title": "Leegstandwet, woning tijdelijk verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/upl-naam-nog-niet-beschikbaar"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/onderwijs/scholen/basisscholen-enkhuizen/32979/",
+    "title": "Basisscholen Enkhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/belastingen-en-subsidies/belastingen/huurinlichtingen/34016/",
+    "title": "Huurinlichtingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/economie/seed-valley/33367/",
+    "title": "Seed Valley",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/reisdocumenten/paspoort-of-identiteitskaart-aanvragen-kinderen/34077/",
+    "title": "Paspoort of identiteitskaart aanvragen kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/winkeliers/standplaats-vergunning/838/",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/gezondheid-jeugd-en-ondersteuning/jeugdhulp/jogg-gezonde-jeugd-gezonde-toekomst/35857/",
+    "title": "JOGG Enkhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/belastingen-en-subsidies/belastingen/betalingsmogelijkheden/35469/",
+    "title": "Betalingsmogelijkheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/betalingsmogelijkheden"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/uittreksels-en-verklaringen/geheimhouding-persoonsgegevens/34451/",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/gezondheid-jeugd-en-ondersteuning/jeugdhulp/hulp-voor-ouders-en-opvoeders/34241/",
+    "title": "Hulp voor ouders en opvoeders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/veiligheid/eigenaar-gezocht/34898/",
+    "title": "Eigenaar gezocht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/bouwen/melden-plaatsen-van-objecten-op-de-openbare-weg/34530/",
+    "title": "Melden plaatsen van objecten op de openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/onderwijs/kinderopvang/kinderopvang/14888/",
+    "title": "Kinderopvang algemeen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/werk-en-inkomen/uitkering/ww-bij-werkeloosheid/34528/",
+    "title": "WW bij werkeloosheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/werkbegeleiding_werkzoekenden"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/belastingen-en-subsidies/belastingen/belastingen-algemeen/512/",
+    "title": "Belastingen algemeen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/dieren/eikenprocessierups/34234/",
+    "title": "Eikenprocessierups",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(groenvoorziening)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/horeca-ondernemers/alcoholvergunning/432/",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/financiele-hulp/bijstand-voor-zelfstandig-ondernemer/17925/",
+    "title": "Bijstand voor zelfstandig ondernemer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/bouwen/bekendmakingen-vastgoedverkopen/35919/",
+    "title": "Bekendmakingen vastgoedverkopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/vergunningen-ondernemers/welstandscriteria-voor-reclame-uitingen/34706/",
+    "title": "Welstandscriteria voor reclame-uitingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/horeca-ondernemers/horeca-exploitatievergunning/430/",
+    "title": "Horeca, exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/vergunningen-algemeen/collecteren/34548/",
+    "title": "Collecteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/milieu-en-duurzaamheid/toekomstbestendig-wonen-lening-aanvragen/34093/",
+    "title": "Toekomstbestendig wonen lening aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/wonen/basisregistratie-adressen-en-gebouwen-bag-inzage/504/",
+    "title": "Basisregistratie Adressen en Gebouwen (BAG), inzage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bag-inzage"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/financiele-hulp/hulp-en-ondersteuning/35353/",
+    "title": "Hulp en ondersteuning voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/hulp-en-ondersteuning"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/melding-maken/lantaarnpaalmelding/2172/",
+    "title": "Lantaarnpaalmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/milieu-en-duurzaamheid/nee-nee-sticker-nee-ja-sticker/645/",
+    "title": "Nee-nee sticker, nee-ja sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/milieu-en-duurzaamheid/hout-stoken/34214/",
+    "title": "Hout stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/rijbewijs/rijbewijs-gezondheidsverklaring-medische-keuring/661/",
+    "title": "Gezondheidsverklaring en medische keuring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/verkeer-en-vervoer/gladheidsbestrijding/574/",
+    "title": "Gladheidsbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/rijbewijs/omwisselen-buitenlands-of-militair-rijbewijs/34058/",
+    "title": "Omwisselen buitenlands of militair rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/rijbewijs_buitenlands_omwisseling"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/veiligheid/alarmeringen/33014/",
+    "title": "Incident of ramp in de buurt, alarmeringen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/wonen/kadastrale-informatie/613/",
+    "title": "Kadastrale informatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/belastingen-en-subsidies/belastingen/afvalstoffenheffing/34680/",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/wonen/starterslening/34158/",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/uittreksels-en-verklaringen/uittreksel-basisregistratie-personen-brp/34877/",
+    "title": "Uittreksel basisregistratie personen (Brp)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/belastingen-en-subsidies/belastingen/hondenbelasting/34677/",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/bedrijf-starten/ondernemersplein/33374/",
+    "title": "Ondernemersplein",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/afval/afval-weg-brengen/afvalbrengstation/3107/",
+    "title": "Afvalbrengstation",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/werk-en-inkomen/werk-zoeken/hulp-bij-het-vinden-van-werk-en-aanvragen-van-bijstand/733/",
+    "title": "Hulp bij het vinden van werk en aanvragen van bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/het-ergens-niet-mee-eens-zijn/woo-verzoek-indienen/35909/",
+    "title": "Woo-verzoek indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/dieren/dierenorganisaties/556/",
+    "title": "Dierenorganisaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/milieu/knalapparatuur/34122/",
+    "title": "Knalapparatuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/knalapparatuur"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/winkeliers/marktplaatsvergunning/443/",
+    "title": "Marktplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/compliment-geven/compliment-geven/36600/",
+    "title": "Compliment geven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/belastingen-voor-ondernemers/reinigingsrecht/34682/",
+    "title": "Reinigingsrecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/reinigingsrecht"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/vergunningen-algemeen/in-of-uitritvergunning-aanvragen/34600/",
+    "title": "In- of uitritvergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/in--of-uitritvergunning-aanvragen"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/bouwen/aanvraag-bouwtekening-of-bouwdossier/550/",
+    "title": "Aanvraag bouwtekening of bouwdossier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ontspanning-en-vrije-tijd/cultuur/lhbti-west-friesland/34298/",
+    "title": "LHBTI West Friesland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/geboorte/levenloos-geboren-kind-registreren/30981/",
+    "title": "Levenloos geboren kind registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/rijbewijs/bromfietsrijbewijs-aanvragen/120/",
+    "title": "Bromfietsrijbewijs aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/bouwen/welstand/34367/",
+    "title": "Welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/veiligheid/burenoverlast/34169/",
+    "title": "Burenoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/melding-maken/rioolproblemen-stankoverlast/665/",
+    "title": "Rioolproblemen / Stankoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/hulp-en-ondersteuning/gehandicaptenparkeerkaart-aanvragen-of-verlengen/577/",
+    "title": "Gehandicaptenparkeerkaart aanvragen of verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/bedrijf-starten/zaken-doen-met-de-gemeente/33379/",
+    "title": "Zakendoen met de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/gezondheid-jeugd-en-ondersteuning/mantelzorg-en-vrijwilligers/mantelzorg/34275/",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ontspanning-en-vrije-tijd/sporthallen/sportzaal-de-sprong/34429/",
+    "title": "Sportzaal De Sprong",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/sportzaal-de-sprong"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/gezondheid-jeugd-en-ondersteuning/hulp-en-ondersteuning/vergoeding-zorgkosten/36578/",
+    "title": "Vergoeding zorgkosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/reisdocumenten/vluchtelingenpaspoort-aanvragen/31055/",
+    "title": "Vluchtelingenpaspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/melding-maken/melding-verkeer/34354/",
+    "title": "Melding verkeer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/belastingen-en-subsidies/hulp/hulp-voor-gedupeerden-kinderopvangtoeslag/33575/",
+    "title": "Hulp voor gedupeerden kinderopvangtoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/gezondheid-jeugd-en-ondersteuning/hulp-en-ondersteuning/sociaal-meldpunt/34166/",
+    "title": "Sociale meldpunten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/afval/afval-ophalen-aan-huis/plastic-metalen-verpakkingen-en-drankenkartons-inzamelen-pmd/3400/",
+    "title": "Plastic, metalen verpakkingen en drankenkartons inzamelen (PMD)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/veiligheid/toezicht-op-en-handhaving-van-openbare-orde/33026/",
+    "title": "Toezicht op en handhaving van openbare orde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/thema/jouw-buurt/meld-misdaad-anoniem/2183/",
+    "title": "Meld misdaad anoniem",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/echtscheiden/beeindiging-geregistreerd-partnerschap-melden/700/",
+    "title": "Beëindiging geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/belastingen-en-subsidies/belastingen/dwangbevel/34026/",
+    "title": "Dwangbevel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/gezondheid-jeugd-en-ondersteuning/hulp-en-ondersteuning/wet-maatschappelijke-ondersteuning-wmo/34266/",
+    "title": "Wet maatschappelijke ondersteuning (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/wonen/woning-zoeken-urgentiebewijs/830/",
+    "title": "Urgentie aanvragen huurwoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/urgBewWoning"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/melding-klacht-of-compliment/melding-maken/milieumelding/2268/",
+    "title": "Milieumelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/bouwen/sloopmelding/469/",
+    "title": "Sloopmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/werk-en-inkomen/uitkering/bijzondere-bijstand-en-minimaregelingen/1061/",
+    "title": "Bijzondere bijstand en minimaregelingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/gezondheid-jeugd-en-ondersteuning/hulp-en-ondersteuning/24-uurs-telefonische-hulplijn/14353/",
+    "title": "24 uurs telefonische hulplijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/groen/openbaar-groen-kopen-huren-of-gebruiken/605/",
+    "title": "Openbaar groen kopen, huren of gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/groen/maaien/34224/",
+    "title": "Maaien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/uittreksels-en-verklaringen/waarmerken-kopie-of-afschrift/768/",
+    "title": "Waarmerken kopie of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/afval/afval-scheiden-2/tips-om-afval-goed-te-scheiden/33229/",
+    "title": "Tips om afval goed te scheiden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/nederlanderschap/inburgeren/814/",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/afval/afval-ophalen-aan-huis/ophaaldagen-afval/2927/",
+    "title": "Ophaaldagen afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/milieu-en-duurzaamheid/aardgasvrij-wonen/31463/",
+    "title": "Aardgasvrij wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/uittreksels-en-verklaringen/legalisatie-handtekening/836/",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/belastingen-voor-ondernemers/toeristenbelasting/34673/",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/verhuizen/first-registration-in-the-netherlands/36006/",
+    "title": "First registration in the Netherlands",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brp-inschrijving"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/economie/stichting-marketing-enkhuizen/35348/",
+    "title": "Stichting Marketing Enkhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/afval/afval-ophalen-aan-huis/restafval/33947/",
+    "title": "Restafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/gezondheid-jeugd-en-ondersteuning/mantelzorg-en-vrijwilligers/dementie/35436/",
+    "title": "Dementie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/afval/afval-ophalen-aan-huis/oud-papier-en-karton/33926/",
+    "title": "Oud papier en karton",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/bouwen/energiesubsidie-voor-bestaande-woningen/36286/",
+    "title": "Energiesubsidie voor bestaande woningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/werk-en-inkomen/uitkering/bijzondere-bijstand-advocaatkosten/35625/",
+    "title": "Bijzondere bijstand advocaatkosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/milieu-en-duurzaamheid/aanpak-lood-in-bodem/34127/",
+    "title": "Aanpak lood in bodem",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/werk-en-inkomen/uitkering/sociaal-cultureel-participatiefonds/35550/",
+    "title": "Sociaal cultureel participatiefonds",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/afval/afval-scheiden-2/waarom-afval-scheiden/33227/",
+    "title": "Waarom afval scheiden?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/belastingen-en-subsidies/belastingen/rioolheffing/34671/",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/geboorte/geboorte-aangifte/567/",
+    "title": "Geboorte, aangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/belastingen-en-subsidies/leges/leges/35170/",
+    "title": "Leges",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/leges"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/afval/afval-ophalen-aan-huis/aanvraag-extra-rest-grijze-afvalbak/36291/",
+    "title": "Aanvraag extra rest (grijze) afvalbak",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/onderwijs/begeleiding/passend-onderwijs/9900/",
+    "title": "Passend onderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/afval/milieu/bedrijfsafval/3818/",
+    "title": "Bedrijfsafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/parkeren/parkeervergunning/392/",
+    "title": "Parkeervergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/belastingen-en-subsidies/belastingen/onroerendezaakbelasting-ozb/34665/",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting-(ozb)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/geboorte/gezag-over-een-kind/570/",
+    "title": "Gezag over een kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/veiligheid/betoging-op-openbare-plaats/35511/",
+    "title": "Betoging op openbare plaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/belastingen-en-subsidies/belastingen/forensenbelasting/34675/",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/afval/afval-ophalen-aan-huis/gft-en-etensresten/33936/",
+    "title": "Gft en etensresten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/belastingen-en-subsidies/belastingen/waterschapsbelasting/32860/",
+    "title": "Waterschapsbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/bouwen/omgevingsvergunning/467/",
+    "title": "Bouwen of verbouwen / Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ontspanning-en-vrije-tijd/sporthallen/gymzaal-de-wiekslag/34440/",
+    "title": "Gymzaal De Wiekslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/http://standaarden.overheid.nl/owms/terms/gymzaal-de-wiekslag"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/reisdocumenten/vreemdelingenpaspoort/31059/",
+    "title": "Vreemdelingenpaspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/wonen-verkeer-en-veiligheid/parkeren/parkeren-voor-bezoekers/34069/",
+    "title": "Parkeren voor bezoekers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/ondernemen/horeca-ondernemers/speelautomatenvergunning/450/",
+    "title": "Speelautomatenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/belastingen-en-subsidies/subsidies/tegemoetkoming-energielasten-voor-maatschappelijke-organisaties-subsidieregeling-cht/36425/",
+    "title": "Tegemoetkoming energielasten voor maatschappelijke organisaties (Subsidieregeling CHT)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.enkhuizen.nl/direct-regelen/burgerzaken/echtscheiden/echtscheiding-melden/696/",
+    "title": "Echtscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Enkhuizen_(gemeente)"
+  }
+]

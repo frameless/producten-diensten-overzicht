@@ -1,0 +1,2977 @@
+[
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bernpakket",
+    "title": "Bernpakket",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/thuisondersteuning",
+    "title": "Thuisondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsidies/subsidie-voor-sportactiviteiten",
+    "title": "Subsidie voor sportactiviteiten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zorgvoorzieningensubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/collectieve-zorgverzekering-av-frieso-compleet",
+    "title": "Collectieve zorgverzekering (AV Frieso Compleet)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/duurzaamheid",
+    "title": "Duurzaamheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouw-_en_grondverklaring"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/trouwen-berte-en-ferstjerren/utfeart-regelje",
+    "title": "Utfeart regelje",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/urnen_bewaarplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/klacht-yntsjinje",
+    "title": "Klacht yntsjinje",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/belestingen/betellingsregeling",
+    "title": "Betellingsregeling",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/fergunning-oanfreegje/leechsteande-wenromte-ferhiere",
+    "title": "Leechsteande wenromte ferhiere",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leegstandvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsidie-kleine-producties-cultuur",
+    "title": "Subsidie Kleine producties cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zorgvoorzieningensubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bomen-kappen",
+    "title": "Bomen kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bed-en-brochje-0",
+    "title": "Bêd en Brochje",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/610280",
+    "title": "Legalisearjen hantekening",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/riolearring",
+    "title": "Riolearring",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/melding-woon-werk-en-leefomgeving",
+    "title": "Melding woon-, werk- en leefomgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bezwaarschrift-indienen",
+    "title": "Bezwaarschrift indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/630332",
+    "title": "Evenemint organisearje",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bestemmingsplan",
+    "title": "Bestemmingsplan ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/naamskeuze-kind-0",
+    "title": "Naamskeuze kind      ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/beropsfeart",
+    "title": "Beropsfeart",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/beroep"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/fergunning-oanfreegje/lisplakfergunning",
+    "title": "Lisplakfergunning",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ligplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/2486345",
+    "title": "Privacy",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgegevens_verklaring_onder_eed_of_belofte"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/naamgebruik",
+    "title": "Naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/net-iens-mei-gemeentlike-belestingen-beswier-meitsje",
+    "title": "Net iens mei Gemeentlike Belestingen? Beswier meitsje.",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/2621994",
+    "title": "Wa en wêr meie jo stimme?",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/tuk-omgean-mei-reinwetter",
+    "title": "Tûk omgean mei reinwetter",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woningen_samenvoegsubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/hulp-aan-vluchtelingen-uit-oekraine",
+    "title": "Hulp aan vluchtelingen uit Oekraïne",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/opvoedingsondersteuning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/parking-ferkear-en-ferfier/parkearen-foar-bedriuwen",
+    "title": "Parkearen foar bedriuwen",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bedrijven"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/565652",
+    "title": "Oanjefte berte",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/wurk-sykje",
+    "title": "Wurk sykje",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/werkbegeleiding_werkzoekenden"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/slim-omgaan-met-water",
+    "title": "Slim omgaan met water",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woningen_samenvoegsubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/paspoart-identiteitskaart-en-rydbewiis/sunensferklearring",
+    "title": "Sûnensferklearring",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs_eigen_verklaring"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/trouwen-berte-en-ferstjerren/skieding-melde",
+    "title": "Skieding melde",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/ik-heb-een-bijstandsuitkering-en-krijg-inkomsten",
+    "title": "Ik heb een bijstandsuitkering en krijg inkomsten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/uttreksels-en-ferklearrings/ferklearring-oangeande-it-halden-en-dragen",
+    "title": "Ferklearring oangeande it hâlden en dragen",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/reclame",
+    "title": "Reclame",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamebelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/verhaalsbijdrage",
+    "title": "Verhaalsbijdrage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/trouwen-berte-en-ferstjerren/grefbedekkings",
+    "title": "Grêfbedekkings",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/begrafenis_uitstelvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/jeugdhulp/persoonsgebonden-budget-pgb-jeugd",
+    "title": "Persoonsgebonden budget (PGB) Jeugd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/2814595",
+    "title": "Tellen fan stimmen en de útslach",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanschrijving_gemeente"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/geveltunen-beamspegels-iepenbier-grien-en-plantebakken",
+    "title": "Geveltunen, beamspegels, iepenbier grien en plantebakken",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/tweede-paspoort-aanvragen",
+    "title": "Tweede paspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/pleziervaart-beroepsvaart/gemeentelijke-en-commerciele-havens",
+    "title": "Gemeentelijke en commerciële havens ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/berichtenbox",
+    "title": "Berichtenbox",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanschrijving_gemeente"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/wurksumheden-yn-lanskiplik-erfgoed",
+    "title": "Wurksumheden yn lânskiplik erfgoed",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grondwateronttrekkingsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/informatie-culturele-en-creatieve-sector-coronatijd-0",
+    "title": "Informatie culturele en creatieve sector in Coronatijd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/calamiteitenbestrijding"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/finansjele-ferantwurding-subsydzjes-gemeente-ljouwert",
+    "title": "Finansjele ferantwurding subsydzjes gemeente Ljouwert",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schoolzwemmensubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsydzje-aktiviteiten-buert-wyk-en-doarpshuzen",
+    "title": "Subsydzje Aktiviteiten buert-, wyk- en doarpshuzen",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welzijnswerksubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/oanfoljende-bydrage-berne-opfang",
+    "title": "Oanfoljende bydrage berne-opfang",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderopvangtoeslag"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/adviesraad-voor-het-sociaal-domein",
+    "title": "Adviesraad voor het Sociaal Domein",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/husnumering",
+    "title": "Hûsnûmering",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/gezondheidsverklaring",
+    "title": "Gezondheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs_eigen_verklaring"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsydzje-fergrienjen-tunen-wanden",
+    "title": "Subsydzje fergrienjen tunen of wanden ",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/ynkommensstipe/wizigjen-melden-bystansutkearing",
+    "title": "Wizigjen melden bystânsútkearing",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/parkeervoorziening",
+    "title": "Parkeervoorziening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/horecavergunning",
+    "title": "Horecavergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecabedrijf_explotatievergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/ruimtelijke-plannen-projecten-en-omgevingswet",
+    "title": "Ruimtelijke plannen, Projecten en Omgevingswet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/digitaal-opkeapers-register",
+    "title": "Digitaal Opkeapers Register",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruiksmelding"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/woz-waarde",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/ferhuzje/nederlanner-wurde",
+    "title": "Nederlanner wurde",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/630334",
+    "title": "Nammegebrûk",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/ynspraak-konsept-hoarekabelied",
+    "title": "Ynspraak Konsept-Hoarekabelied",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bewonersinitiatief-indienen",
+    "title": "Bewonersinitiatief indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentegids"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/utwurking-wmo-plan",
+    "title": "Utwurking Wmo plan",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/ynkommensstipe/beteldagen-utkearings",
+    "title": "Beteldagen útkearings",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering_categoriaal"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_gft"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/innovatiefonds",
+    "title": "Innovatiefonds ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/clientondersteuning-wmo",
+    "title": "Cliëntondersteuning Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/574812",
+    "title": "Skuldhelpferliening",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kredietaanvraag"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/contact-met-de-gemeente-leeuwarden",
+    "title": "Contact met de gemeente Leeuwarden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dagactiviteitencentrum"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/paspoart-identiteitskaart-en-rydbewiis/flechtlingepaspoart",
+    "title": "Flechtlingepaspoart",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/trouwe-en-registrearre-partnerskip",
+    "title": "Trouwe en registrearre partnerskip",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/asbest-0",
+    "title": "Asbest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel Basisregistratie Personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsydzje-monumint",
+    "title": "Subsydzje Monumint",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/regeling-noodfonds-corona-2022",
+    "title": "Regeling Noodfonds Corona 2022",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/calamiteitenbestrijding"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/parkeren-voor-gehandicapten",
+    "title": "Parkeren voor gehandicapten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/winkeltijdenontheffing-aanvragen",
+    "title": "Winkeltijdenontheffing aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdeninformatie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/verklaring-huwelijksbevoegdheid-trouwen-het-buitenland",
+    "title": "Verklaring huwelijksbevoegdheid (trouwen in het buitenland)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/erkennen-van-het-vaderschap-0",
+    "title": "Erkennen van het vaderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_vaderschap"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/duorsumens",
+    "title": "Duorsumens",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouw-_en_grondverklaring"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/oanmelde-berne-opfang",
+    "title": "Oanmelde berne-opfang",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderdagverblijf"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/autoluwe-binnenstad",
+    "title": "Autoluwe binnenstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/auto-aanpassing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/graffity",
+    "title": "Graffity",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/beswierskrift-yntsjinje",
+    "title": "Beswierskrift yntsjinje",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/informatie-onroerend-goed",
+    "title": "Informatie onroerend goed",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodembeschermingsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsydzje-finansjele-edukaasje",
+    "title": "Subsydzje finansjele edukaasje",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zorgvoorzieningensubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/uitkering-aanvragen-2",
+    "title": "Uitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/regeling-subsidie-amateurkunst",
+    "title": "Regeling subsidie amateurkunst",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schoolzwemmensubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bijzondere-fiets",
+    "title": "Bijzondere fiets",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bedrijven"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/leeuwarden-oost",
+    "title": "Leeuwarden Oost",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonomgeving_inrichting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/adressen-berne-opfang",
+    "title": "Adressen berne-opfang",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderdagverblijf"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsydzje-fasilitearring-frijwilligersorganisaasjes-finansjele-helpferliening",
+    "title": "Subsydzje fasilitearring frijwilligersorganisaasjes finansjele helpferliening",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sociaal-cultureel_werksubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/undersyk-sifers-en-data",
+    "title": "Undersyk, sifers en data",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanleunwoning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/grondwateroverlast",
+    "title": "Grondwateroverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grondwateronttrekkingsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/sosjale-oerlest",
+    "title": "Sosjale oerlêst",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/454491",
+    "title": "Reizgje mei bern",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/belestingen/offalstoffeheffing",
+    "title": "Offalstoffeheffing",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_gft"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/tijdelijke-ontheffing-afwijkende-sluitingstijden",
+    "title": "Tijdelijke ontheffing afwijkende sluitingstijden ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/uitvaart-regelen",
+    "title": "Uitvaart regelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/urnen_bewaarplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/lotterij-organisearje",
+    "title": "Lotterij organisearje",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/loterijvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolbelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsidie-facilitering-vrijwilligersorganisaties-financiele-hulpverlening",
+    "title": "Subsidie facilitering vrijwilligersorganisaties financiële hulpverlening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sociaal-cultureel_werksubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/gok-en-spylautomaten",
+    "title": "Gok- en spylautomaten",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/speelautomaat_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/leegstaande-woonruimte-verhuren",
+    "title": "Leegstaande woonruimte verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leegstandvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/pont-de-burd-yn-grou",
+    "title": "Pont De Burd yn Grou",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/buurtpreventie",
+    "title": "Buurtpreventie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/opvang-vluchtelingen-rol",
+    "title": "Opvang vluchtelingen ROL",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verblijfsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsidie-vergroening-tuinen-wanden",
+    "title": "Subsidie vergroening tuinen of wanden ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/trouwen-en-geregistreerd-partnerschap",
+    "title": "Trouwen en geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/locatieprofiel-evenementen",
+    "title": "Locatieprofiel evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/fergunning-oanfreegje/gebruk-iepenbiere-romte",
+    "title": "Gebrûk iepenbiere romte",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruik_gemeentelijke_panden"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/koninklijke-onderscheiding-0",
+    "title": "Koninklijke onderscheiding ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijk_predicaataanvraag"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/gemeentlike-en-kommersjele-havens",
+    "title": "Gemeentlike en kommersjele havens ",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/keninklike-underskieding",
+    "title": "Keninklike ûnderskieding ",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijk_predicaataanvraag"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/596970",
+    "title": "Melding ûntbining, beëiniging registrearre partnerskip",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/565228",
+    "title": "Nammekar bern      ",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsidieregeling-duurzame-dorpen-en-wijken-2022",
+    "title": "Subsidieregeling duurzame dorpen en wijken – 2022",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bregebetsjinningstiden",
+    "title": "Brêgebetsjinningstiden",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/haven-prinsetun-ljouwert",
+    "title": "Haven Prinsetún Ljouwert",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/leerplicht",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/grunwetteroerlest",
+    "title": "Grûnwetteroerlêst",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grondwateronttrekkingsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/nadeelcompensatie",
+    "title": "Nadeelcompensatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/zakenpaspoort-aanvragen-verlengen",
+    "title": "Zakenpaspoort aanvragen of verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/innovatiestimuleringssubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/gok-en-speelautomaten",
+    "title": "Gok- en speelautomaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/speelautomaat_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/riolering",
+    "title": "Riolering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/gevonden-verloren-en-vermiste-voorwerpen",
+    "title": "Gevonden , verloren en vermiste voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/fietsaanpassing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/melding-wen-wurk-en-leefomjouwing",
+    "title": "Melding wen-, wurk- en leefomjouwing.",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/671795",
+    "title": "Hûnebelesting",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/ferhuzje/ferhuzje",
+    "title": "Ferhúzje",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/669561",
+    "title": "Stânplakfergunning",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/waarmerken-kopie-van-een-document",
+    "title": "Waarmerken kopie van een document",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/waarmerken_document"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/afval-en-recycling",
+    "title": "Afval en recycling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_gft"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/belestingen/de-digitale-belestingbaly",
+    "title": "De Digitale Belestingbaly",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/digid"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/zienswijze-indienen",
+    "title": "Zienswijze indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsydzje-foar-sportaktiviteiten",
+    "title": "Subsydzje foar sportaktiviteiten",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zorgvoorzieningensubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsidie-vrijwilligers-speciaal-jeugdwerk",
+    "title": "Subsidie vrijwilligers speciaal jeugdwerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulpverlening_en_jongerenwerksubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/haven-prinsentuin-leeuwarden",
+    "title": "Haven Prinsentuin Leeuwarden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/brugbedieningstijden",
+    "title": "Brugbedieningstijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/watertoeristenbelasting-aangifte-doen",
+    "title": "Watertoeristenbelasting, aangifte doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toerismesubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/grensverleggend-spoordok",
+    "title": "Grensverleggend Spoordok ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/paspoort-aanvragen-verlengen",
+    "title": "Paspoort aanvragen of verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/energietoeslag-voor-lage-inkomens",
+    "title": "Energietoeslag voor lage inkomens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/straatnaamgeving",
+    "title": "Straatnaamgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/yndividuele-studzjetaslach",
+    "title": "Yndividuele stúdzjetaslach",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/sjenswize-yntsjinje",
+    "title": "Sjenswize yntsjinje",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/2439286",
+    "title": "Fersulverliening",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schoolzwemmensubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/steenslan-2-stiens",
+    "title": "Steenslân 2 Stiens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonomgeving_inrichting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/fersyk-oanpassen-beslachfrije-foet",
+    "title": "Fersyk oanpassen beslachfrije foet",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/1845288",
+    "title": "Wijziging Jeugdhulp doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/libbenleas-berne-berntsje-registrearje-yn-de-brp",
+    "title": "Libbenleas berne berntsje registrearje yn de BRP",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/archeologie",
+    "title": "Archeologie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodembeschermingsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/leven-met-corona",
+    "title": "Leven met corona",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktgelden"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/werkzaamheden-landschappelijk-erfgoed",
+    "title": "Werkzaamheden in landschappelijk erfgoed",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grondwateronttrekkingsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/2460609",
+    "title": "Help foar ûndernimmers om it Koroanafirus hinne",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderdagverblijf_medisch"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/paspoort-identiteitskaart-laten-bezorgen",
+    "title": "Paspoort of identiteitskaart laten bezorgen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/grien",
+    "title": "Grien",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/offal-en-recycling",
+    "title": "Offal en recycling",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_gft"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/verzilverlening",
+    "title": "Verzilverlening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schoolzwemmensubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/610282",
+    "title": "Garantstelling of lozjysferstrekking",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/betoging-demonstratie-organiseren",
+    "title": "Betoging of demonstratie organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/optochtvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/regeling-subsydzje-talintuntwikkeling-kultuer",
+    "title": "Regeling subsydzje talintûntwikkeling kultuer",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schoolzwemmensubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bezwaar-maken-tegen-gemeentelijke-belastingen",
+    "title": "Bezwaar maken tegen gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/parkeerboete-naheffingsaanslag",
+    "title": "Parkeerboete (naheffingsaanslag)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/kollektive-soarchfersekering-av-frieso-compleet",
+    "title": "Kollektive soarchfersekering (AV Frieso Compleet)",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/wmo-en-jeugdsoarch",
+    "title": "Wmo en Jeugdsoarch",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/kontakt",
+    "title": "Kontakt",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dagactiviteitencentrum"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsidie-monument",
+    "title": "Subsidie Monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/haven-grou",
+    "title": "Haven Grou",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/rekkenkeamer-1",
+    "title": "Rekkenkeamer",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsidie-beeldende-kunst-en-vormgeving",
+    "title": "Subsidie Beeldende kunst en Vormgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/beeldende_kunstsubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/frijstelling-learplicht",
+    "title": "Frijstelling learplicht",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/slopen",
+    "title": "Slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/persoonsgebonden-budget-pgb-wmo",
+    "title": "Persoonsgebonden budget (PGB) Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/belestingen/automatyske-ynkasso",
+    "title": "Automatyske ynkasso",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/fune-ferlerne-en-fermiste-foarwerpen",
+    "title": "Fûne, ferlerne en fermiste foarwerpen",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/fietsaanpassing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/565651",
+    "title": "Erkennen bern fóar de berte",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/buertprevinsje",
+    "title": "Buertprevinsje",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/sociale-overlast",
+    "title": "Sociale overlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/groen",
+    "title": "Groen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/uttreksels-en-ferklearrings/uttreksel-basisregistraasje-persoanen",
+    "title": "Uttreksel basisregistraasje persoanen",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/woonvoorziening",
+    "title": "Woonvoorziening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/beropskrift-yntsjinje",
+    "title": "Beropskrift yntsjinje",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/beroep"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/regeling-subsidie-talentontwikkeling-cultuur",
+    "title": "Regeling subsidie talentontwikkeling cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schoolzwemmensubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/werk-onderwijs-en-uitkering/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/belestingen/taksaasjeferslach-woz",
+    "title": "Taksaasjeferslach WOZ",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-taxatieverslag"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/2627288",
+    "title": "Koroanafirus (COVID-19)",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/calamiteitenbestrijding"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/miljeuoertreding-troch-bedriuwen",
+    "title": "Miljeuoertrêding troch bedriuwen",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/milieuhandhaving"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/646175",
+    "title": "Bestimmingsplan ",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/verklaring-omtrent-het-gedrag-vog",
+    "title": "Verklaring Omtrent het Gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/emigreren-langer-dan-8-maanden-het-buitenland-verblijven",
+    "title": "Emigreren of langer dan 8 maanden in het buitenland verblijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/beroepschrift-indienen",
+    "title": "Beroepschrift indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/beroep"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/ynkommensstipe/partisipaasjepreemje",
+    "title": "Partisipaasjepreemje",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welzijnswerksubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/661672",
+    "title": "Winkeltidenûntheffing",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdeninformatie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/gasleidingen",
+    "title": "Gasleidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leefmilieuverordening_ontheffing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/echtscheiding-melden",
+    "title": "Echtscheiding melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/collectevergunning",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/optreden-strjitartyst",
+    "title": "Optreden strjitartyst",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatartiestoptreden_toestemming"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/2553165",
+    "title": "Omjouwingsplan  ",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/wonen-gemeente-leeuwarden",
+    "title": "Wonen in gemeente Leeuwarden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonomgeving_inrichting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/boaiemynformaasje",
+    "title": "Boaiemynformaasje",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/trouwen-geboorte-overlijden-begraven/overlijden",
+    "title": "Overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/ynkomsteferrekkening",
+    "title": "Ynkomsteferrekkening",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bijstandsfraude-0",
+    "title": "Bijstandsfraude",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mededelingen"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/zelf-uitrekenen-waar-u-recht-op-hebt",
+    "title": "Zelf uitrekenen waar u recht op hebt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/aansprakelijkstelling-gemeente-vergoeding-bij-schade",
+    "title": "Aansprakelijkstelling gemeente (vergoeding bij schade)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/afschrift-burgerlijke-stand",
+    "title": "Afschrift burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/werken-met-een-uitkering",
+    "title": "Werken met een uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/werkbegeleiding_werkzoekenden"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/teveel-betaalde-uitkering",
+    "title": "Teveel betaalde uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/ekstra-jild-neist-jo-utkearing",
+    "title": "Ekstra jild neist jo útkearing?",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/565226",
+    "title": "Utkearing oanfreegje",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/grun-ofgrave-en-ferpleatse",
+    "title": "Grûn ôfgrave en ferpleatse",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodembeschermingsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/wijziging-wmo-doorgeven",
+    "title": "Wijziging Wmo doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/723822",
+    "title": "Registraasje Net-Ynsitters",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/erfpacht",
+    "title": "Erfpacht onroerende zaak",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erfpacht"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/asbest",
+    "title": "Asbest",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/aangifte-geboorte-0",
+    "title": "Aangifte geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/parkeren-voor-inwoners",
+    "title": "Parkeren voor inwoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/beschermd-wonen",
+    "title": "Beschermd wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/archeology",
+    "title": "Archeology",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodembeschermingsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/gladheidbestrijding",
+    "title": "Gladheidbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/branfeilich-gebruk-bouwurken",
+    "title": "Brânfeilich gebrûk bouwurken",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brandveiligheidadvies"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/parking-ferkear-en-ferfier/parkeare-foar-besikers",
+    "title": "Parkeare foar besikers",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bezoekers"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/houtrook",
+    "title": "Houtrook",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/wijwerkenaan",
+    "title": "Projecten Wij Werken Aan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/ligplaatsvergunning",
+    "title": "Ligplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ligplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/privacy",
+    "title": "Privacy",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgegevens_verklaring_onder_eed_of_belofte"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/660089",
+    "title": "Parkeare foar handicapten",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/dagbesteding",
+    "title": "Dagbesteding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/regeling-subsydzje-amateurkeunst-ljouwert",
+    "title": "Regeling subsydzje amateurkeunst Ljouwert",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schoolzwemmensubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/hulp-coronatijd",
+    "title": "Hulp in Coronatijd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/ferhuzje/briefadres-wizigje",
+    "title": "Briefadres (wizigje)",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/taxivervoer",
+    "title": "Vervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/uitkering-en-naar-school",
+    "title": "Uitkering en naar school",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderwijssubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/mienskipsfuns",
+    "title": "Mienskipsfûns",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zorgvoorzieningensubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/vluchtelingenpaspoort-aanvragen",
+    "title": "Vluchtelingenpaspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/2439287",
+    "title": "Subsydzjeregeling duorsume doarpen en wiken – 2020-2021",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/ferhuzje/earste-ynskriuwing-yn-nederlan",
+    "title": "Earste ynskriuwing yn Nederlân",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/extra-geld-bij-vrijwilligerswerk",
+    "title": "Extra geld bij vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welzijnswerksubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/617627",
+    "title": "Grêfrjocht ",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafrechten"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/loonkostensubsidie",
+    "title": "Loonkostensubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/werkbegeleiding_werkzoekenden"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/herontwikkeling-voormalig-locatie-basisschool-hilaard",
+    "title": "Herontwikkeling voormalig locatie basisschool Hilaard",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ontgrondingsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/maatregelen-gemeentehuis-coronatijd",
+    "title": "Maatregelen Gemeentehuis in Coronatijd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeenschappelijke_regelingen"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/legaliseren-handtekening",
+    "title": "Legaliseren handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/projekten-wy-wurkje-oan",
+    "title": "Projekten Wy Wurkje Oan",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/723818",
+    "title": "Emigrearje of lang yn it bûtenlân ferbliuwe",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/565225",
+    "title": "Rydbewiis",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bosk",
+    "title": "Bosk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/it-tsjuster-beljochte",
+    "title": "It tsjuster beljochte",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/foar-elkoar-pas",
+    "title": "Foar Elkoar Pas",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/strjitnammejouwing",
+    "title": "Strjitnammejouwing",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/640616",
+    "title": "Lûdsoerlêst ûntheffing",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/adreswiziging-unselsstannige-wenienheden",
+    "title": "Adreswiziging ûnselsstannige wenienheden",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woningaanpassing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/beammen-kappe",
+    "title": "Beammen kappe",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/tijdelijke-ontheffing-alcohol-schenken",
+    "title": "Tijdelijke ontheffing alcohol schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/vreemdelingenpaspoort-aanvragen",
+    "title": "Vreemdelingenpaspoort aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/618429",
+    "title": "Begraafplakken",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/werundersyk-nei-jo-rjocht-op-utkearing",
+    "title": "Werûndersyk nei jo rjocht op útkearing",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rechtmatigheidsformulier"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/onderzoek-cijfers-en-data",
+    "title": "Onderzoek, cijfers en data",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanleunwoning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/milieuovertreding-door-bedrijven",
+    "title": "Milieuovertreding door bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/milieuhandhaving"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/husregels-gemeentehus",
+    "title": "Húsregels Gemeentehûs",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/toeristebelesting",
+    "title": "Toeristebelesting",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/590883",
+    "title": "Sels útrekkenje wêr't jo rjocht op ha",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/persoonsgegevens-brp-inzien-veranderen",
+    "title": "Persoonsgegevens BRP inzien of veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-correctieverzoek"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/wegwerkzaamheden",
+    "title": "Wegwerkzaamheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegenverkeerswetontheffing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/toeslagenaffaire-kinderopvang",
+    "title": "Toeslagenaffaire kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tegemoetkoming_ouders"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/miljeu-melding-fergunning",
+    "title": "Miljeu (melding of fergunning)",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/565653",
+    "title": "Ferstjerren",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/circulaire-economie",
+    "title": "Circulaire Economie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/graffiti",
+    "title": "Graffiti",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/ferhuzje/werfestiging-ut-it-butenlan-wei",
+    "title": "Werfêstiging út it bûtenlân wei",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hervestiging_vanuit_het_buitenland"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/674588",
+    "title": "Romlike plannen, projekten en Omjouwingswet",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/paspoart-identiteitskaart-en-rydbewiis/frjemdlingepaspoart",
+    "title": "Frjemdlingepaspoart",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/erkennen-kind-voor-de-geboorte",
+    "title": "Erkennen kind vóór de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/674545",
+    "title": "Wurk oan de dyk",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegenverkeerswetontheffing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/belestingen/rioelheffing",
+    "title": "Rioelheffing",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolbelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/praktische-thuisondersteuning",
+    "title": "Praktische Thuisondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/belestingen/woz",
+    "title": "WOZ",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/671794",
+    "title": "Belesting net betelje? Frijskatting oanfreegje.",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/veranderingen-voor-bijstandsuitkering-doorgeven",
+    "title": "Veranderingen voor bijstandsuitkering doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/huisregels-gemeentehuis",
+    "title": "Huisregels Gemeentehuis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/gebruikmaken-maken-veranderen-van-een-uitweg",
+    "title": "Gebruikmaken, maken of veranderen van een uitweg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_inrit"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/dieren",
+    "title": "Dieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dierenopvang"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/registratie-niet-ingezetenen",
+    "title": "Registratie Niet Ingezetenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/jeugdhulp-2",
+    "title": "Hulp bij opgroeien en/of opvoeden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/erfpacht-unreplike-saak",
+    "title": "Erfpacht ûnreplike saak",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erfpacht"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/brandveilig-gebruik-bouwwerken",
+    "title": "Brandveilig gebruik bouwwerken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brandveiligheidadvies"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/slope",
+    "title": "Slope",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/gebrukmeitsjen-meitsjen-feroarjen-fan-utwei",
+    "title": "Gebrûkmeitsjen, meitsjen of feroarjen fan in útwei",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_inrit"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/loterij-organiseren",
+    "title": "Loterij organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/loterijvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/melden-ontbinding-beeindiging-geregistreerd-partnerschap",
+    "title": "Melden ontbinding, beëindiging geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/mantelzorgondersteuning",
+    "title": "Mantelzorgondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/1265669",
+    "title": "Utslaggen ferkiezings",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/reklame",
+    "title": "Reklame",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamebelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/inschrijven-nederland-vanuit-het-buitenland",
+    "title": "Inschrijven in Nederland vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hervestiging_vanuit_het_buitenland"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsydzje-byldzjende-keunst-en-foarmjouwing",
+    "title": "Subsydzje Byldzjende Keunst en Foarmjouwing",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/beeldende_kunstsubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsidies/subsidie-voor-bedrijven",
+    "title": "Subsidie voor bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/economische_ontwikkelingssubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/hulp-bij-huishouden",
+    "title": "Hulp bij huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsydzje-grienere-leefomjouwing",
+    "title": "Subsydzje grienere leefomjouwing",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/groenstroken_en_restgronden_kopen_of_huren"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/geveltuinen-boomspiegels-openbaar-groen-en-plantenbakken",
+    "title": "Geveltuinen, boomspiegels, openbaar groen en plantenbakken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/wiken-en-doarpen",
+    "title": "Wiken en doarpen",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/grafrecht",
+    "title": "Grafrecht ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafrechten"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/hunen",
+    "title": "Hûnen",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/onroerendezaakbelasting-ozb",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/parkeren-verkeer-en-vervoer/parkeren-voor-bedrijven",
+    "title": "Parkeren voor bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bedrijven"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/belestingen/unreplikesaakbelesting",
+    "title": "Unreplikesaakbelesting",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/heronderzoek",
+    "title": "Heronderzoek naar uw recht op uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rechtmatigheidsformulier"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/1729214",
+    "title": "Samen voor alle kinderen (Sam&)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schoolbegeidingsdienstsubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsydzje-frijwilligers-spesjaal-jeugdwurk",
+    "title": "Subsydzje frijwilligers spesjaal jeugdwurk",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulpverlening_en_jongerenwerksubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/661676",
+    "title": "Hoarekafergunning",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecabedrijf_explotatievergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/454617",
+    "title": "Identiteitskaart",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsidies/mienskipsfonds",
+    "title": "Mienskipsfonds",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zorgvoorzieningensubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsidie-activiteiten-buurt-wijk-en-dorpshuizen",
+    "title": "Subsidie Activiteiten buurt-, wijk- en dorpshuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welzijnswerksubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/yndividuele-ynkommenstaslach",
+    "title": "Yndividuele ynkommenstaslach",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/innovatiestimuleringssubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/rijbewijs-2",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/kwijtschelding-aanvragen-als-u-niet-kunt-betalen",
+    "title": "Kwijtschelding aanvragen als u niet kunt betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/geocaching",
+    "title": "Geocaching",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruik_gemeentelijke_panden"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/betalingsregeling-gemeentelijke-belastingen",
+    "title": "Betalingsregeling gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/eigen-bank-de-openbare-ruimte",
+    "title": "Eigen bank in de openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verblijfsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/rolstoel-1",
+    "title": "Rolstoel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/kollektefergunning",
+    "title": "Kollektefergunning",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/grafbedekkingen",
+    "title": "Grafbedekkingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/begrafenis_uitstelvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/723815",
+    "title": "Geheimhâlding persoansgegevens",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-geheimhoudingsverzoek"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/wmo-en-jeugdhulp",
+    "title": "Wmo en Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsydzje-lytse-produksjes-kultuer",
+    "title": "Subsydzje Lytse produksjes kultuer",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zorgvoorzieningensubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/honden",
+    "title": "Honden ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/oanspraaklikstelling-gemeente-0",
+    "title": "Oanspraaklikstelling gemeente",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bodeminformatie",
+    "title": "Bodeminformatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/twangsomregeling",
+    "title": "Twangsomregeling",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/planskea",
+    "title": "Planskea",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_schadevergoeding"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/omgevingsplan",
+    "title": "Omgevingsplan  ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/milieu-melding-vergunning",
+    "title": "Milieu (melding of vergunning)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/monumint",
+    "title": "Monumint",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentaanwijzing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/613024",
+    "title": "Ofskrift boargerlike stân",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsydzje-projekt-iensumens",
+    "title": "Subsydzje projekt Iensumens",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bewennersinisjativen",
+    "title": "Bewennersinisjativen",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentegids"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bed-en-brochje",
+    "title": "Bêd en Brochje",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/garantstelling-logiesverstrekking",
+    "title": "Garantstelling of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/huisnummering",
+    "title": "Huisnummering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/trouwen-berte-en-ferstjerren/registrearre-partnerskip-omsette-yn-houlik",
+    "title": "Registrearre partnerskip omsette yn houlik",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_omzetting_in_huwelijk"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/iepenbiere-grun-oankeapje-snipelgrien",
+    "title": "Iepenbiere grûn oankeapje (snipelgrien)",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erfpacht"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/723811",
+    "title": "Minimaregelings",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/openbare-grond-aankopen-snippergroen",
+    "title": "Openbare grond aankopen (snippergroen)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erfpacht"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/haven-grou-0",
+    "title": "Haven Grou",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/gebruik-openbare-ruimte",
+    "title": "Gebruik openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruik_gemeentelijke_panden"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/parking-ferkear-en-ferfier/parkearen-foar-ynwenners",
+    "title": "Parkearen foar ynwenners",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/661675",
+    "title": "Tydlike ûntheffing alkohol útjaan",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/drank-_en_horecavergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/financiele-verantwoording-subsidies-gemeente-leeuwarden",
+    "title": "Financiële verantwoording subsidies Gemeente Leeuwarden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schoolzwemmensubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bisten",
+    "title": "Bisten",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dierenopvang"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/2440094",
+    "title": "Houtreek",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/590881",
+    "title": "Bysûndere bystân",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/omjouwingswet",
+    "title": "Omjouwingswet",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/grond-afgraven-en-verplaatsen",
+    "title": "Grond afgraven en verplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodembeschermingsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/723797",
+    "title": "Parkearboete (neiheffingsoanslach)",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/extra-geld-als-u-parttime-werkt",
+    "title": "Extra geld als u parttime werkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/toeristenbelasting-aangifte-doen",
+    "title": "Toeristenbelasting, aangifte doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/elektrische-laadpaal-aanvragen",
+    "title": "Elektrische laadpaal aanvragen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_diensten"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/716942",
+    "title": "Paspoart",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/paspoart-identiteitskaart-en-rydbewiis/sakepaspoart",
+    "title": "Sakepaspoart",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/veerpont-de-burd-grou",
+    "title": "Veerpont 'De Burd' in Grou",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/keamerferhier",
+    "title": "Keamerferhier",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/learlingeferfier",
+    "title": "Learlingeferfier",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/wettertoeristebelesting",
+    "title": "Wettertoeristebelesting",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toerismesubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/wijken-en-dorpen-1",
+    "title": "Wijken en dorpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/hulp-bij-geldzaken-en-schulden",
+    "title": "Hulp bij Geldzaken en Schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/pleziervaart-beroepsvaart/beroepsvaart",
+    "title": "Beroepsvaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/beroep"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/kinderopvang",
+    "title": "Kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderdagverblijf"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/monumentenzorg",
+    "title": "Monumentenzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentaanwijzing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/co2-prestatieladder",
+    "title": "CO2-prestatieladder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/milieuvriendelijk_bouwsubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/publikaasjes-bekendmakkings-en-lokale-regeljouwing-0",
+    "title": "Publikaasjes, bekendmakkings en lokale regeljouwing",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/hulp-voor-organisaties-en-instellingen-coronatijd",
+    "title": "Hulp voor organisaties en instellingen in Coronatijd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/maatschappelijke_dienstverleningsubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/paspoart-identiteitskaart-en-rydbewiis/twadde-paspoart",
+    "title": "Twadde paspoart",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/634913",
+    "title": "Glêdensbestriding",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/590880",
+    "title": "Weromfoardering bystânsútkearing",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/eigen-bijdrage",
+    "title": "Eigen bijdrage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/persoonlijke-verzorging",
+    "title": "Persoonlijke verzorging",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/geluidshinder-ontheffing",
+    "title": "Geluidshinder ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/taxatieverslag-woz-0",
+    "title": "Taxatieverslag WOZ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-taxatieverslag"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bemiddeling-nei-wurk",
+    "title": "Bemiddeling nei wurk",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/werkbegeleiding_werkzoekenden"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/meldpunt-oerstallige-beknipende-regeljouwing",
+    "title": "Meldpunt oerstallige of beknipende regeljouwing",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mededelingen"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-geheimhoudingsverzoek"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/uitslagen-verkiezingen",
+    "title": "Uitslagen Verkiezingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/2394328",
+    "title": "Ynformaasjeboekje ",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inkomensvoorziening_jongeren"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/2621995",
+    "title": "Ynformaas oer stimburo's",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/577827",
+    "title": "Ferhelbydrage",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wwb-uitkering"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/automatische-incasso-gemeentelijke-belastingen",
+    "title": "Automatische incasso gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/automatische_incasso_of_machtiging"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/subsydzje-foar-bedriuwen",
+    "title": "Subsydzje foar bedriuwen",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/economische_ontwikkelingssubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/661674",
+    "title": "Tydlike ûntheffing ôfwikende slutingstiden ",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/648306",
+    "title": "Omjouwingsfergunning",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/parkeren-voor-bezoekers",
+    "title": "Parkeren voor bezoekers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bezoekers"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/ynnovaasjefuns-2018-2019",
+    "title": "Ynnovaasjefûns 2018-2019",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/565650",
+    "title": "Erkennen fan de heitesteat",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_vaderschap"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/ynformaasje-unreplik-goed",
+    "title": "Ynformaasje ûnreplik goed",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodembeschermingsvergunning"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/digitaal-opkopers-register",
+    "title": "Digitaal Opkopers Register",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruiksmelding"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/nijsbrieven-monumintesoarch",
+    "title": "Nijsbrieven Monumintesoarch",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentaanwijzing"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/meldpunt-overbodige-knellende-regelgeving",
+    "title": "Meldpunt overbodige of knellende regelgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mededelingen"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/jeugdhelp",
+    "title": "Jeugdhelp",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdgezondheidszorg"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_schadevergoeding"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/levenloos-geboren-kindje-registreren-de-brp",
+    "title": "Levenloos geboren kindje registreren in de BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/dwangsomregeling-0",
+    "title": "Dwangsomregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/fergunning-oanfreegje/geocaching",
+    "title": "Geocaching",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruik_gemeentelijke_panden"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/neidielkompensaasje",
+    "title": "Neidielkompensaasje",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/uttreksels-en-ferklearrings/persoansgegevens-brp-ynsjen-en-trochjaan-korreksjes",
+    "title": "Persoansgegevens BRP (ynsjen en trochjaan korreksjes)",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-correctieverzoek"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/identiteitskaart-aanvragen-verlengen",
+    "title": "Identiteitskaart aanvragen of verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/2459807",
+    "title": "Kentekenparkearen",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_diensten"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/boartersleargroepen-en-ier-en-foarskoalske-edukaasje-vve",
+    "title": "Boartersleargroepen en Ier- en Foarskoalske Edukaasje (VVE)",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kinderdagverblijf"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/scootmobiel",
+    "title": "Scootmobiel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/belestingen/berjochteboks",
+    "title": "Berjochteboks",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanschrijving_gemeente"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/bystansfraude",
+    "title": "Bystânsfraude",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mededelingen"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/node/723801",
+    "title": "Boargerservicenûmer",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerservicenummer_(bsn)"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/buurt-en-dorpskamers",
+    "title": "Buurt- en dorpskamers ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/advysried-foar-it-sosjaal-domein-0",
+    "title": "Advysried foar it Sosjaal Domein",
+    "language": "fy",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.leeuwarden.nl/nl/nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Leeuwarden_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  }
+]

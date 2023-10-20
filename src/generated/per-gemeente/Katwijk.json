@@ -1,0 +1,485 @@
+[
+  {
+    "identifier": "https://www.katwijk.nl/zorg-en-inkomen/hulp-vanuit-de-wmo/hulpmiddelen",
+    "title": "Hulpmiddelen vanuit de Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/gebruik-achternaam-veranderen",
+    "title": "Verandering naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/ondernemen/parkeervergunning-voor-bedrijven",
+    "title": "Parkeren voor bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/overlijden",
+    "title": "overlijdensaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/compliment-klacht-bezwaar-of-zienswijze",
+    "title": "klacht, bezwaar, zienswijze",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/zorg-en-inkomen/bijstandsuitkering",
+    "title": "bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/gemeenteraad/vergaderingen-gemeenteraad",
+    "title": "gemeenteraad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/ondernemen/ontheffing-sluitingstijden-winkels",
+    "title": "winkeltijdeninformatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/zorg-en-inkomen/hulp-vanuit-de-wmo/woningaanpassingen",
+    "title": "Aanpassen woning vanuit Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/echtscheiding",
+    "title": "Echtscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/bouwen-en-verbouwen/duurzaamheidslening",
+    "title": "duurzaamheidslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/duurzhLening"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/zorg-en-inkomen/hulp-vanuit-de-wmo/hulp-bij-het-huishouden",
+    "title": "Hulp bij het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/zorg-en-inkomen/vergoeding-kosten-minderjarige-kinderen",
+    "title": "Doe Mee en Jeugdsportfonds",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/zorg-en-inkomen/hulp-vanuit-de-wmo",
+    "title": "Hulp vanuit de Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/paspoort-of-identiteitskaart",
+    "title": "paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/zorg-en-inkomen/blijk-van-waardering-mantelzorgers",
+    "title": "mantelzorgcompliment",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgcompliment"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/zorg-en-inkomen/hulp-vanuit-de-wmo/maaltijdservice",
+    "title": "Maaltijdservice",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/maaltijdservice"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/ondernemen/standplaatsvergunning",
+    "title": "standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/afval-inzamelen/milieupas-aanvragen",
+    "title": "milieupas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/verkiezingen",
+    "title": "Verkiezingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/zorg-en-inkomen/bijzondere-bijstand/vergoedingen-ziektekostenverzekering",
+    "title": "Collectieve ziektekostenverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zkKstVerzCol"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/geheimhouding-van-gegevens",
+    "title": "Geheimhouding van gegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/bouwen-en-verbouwen/bodeminformatie",
+    "title": "bodemonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bodemonderzoek"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/afval-inzamelen/grofvuil",
+    "title": "afvalinzameling grofvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/schade-melden",
+    "title": "Schade melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/verhuizen-binnen-of-naar-katwijk/huren",
+    "title": "Huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/zorg-en-inkomen/leerlingenvervoer",
+    "title": "leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/bouwen-en-verbouwen/geveltuin",
+    "title": "Geveltuin",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/kind-erkennen",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/ondernemen/alcoholwetvergunningen",
+    "title": "drank- en horecavergunningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/geboorte-aangeven",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/zorg-en-inkomen/bijzondere-bijstand/overige-kosten-bijzondere-bijstand",
+    "title": "Bijzondere bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/ontheffing-autoluw-gebied",
+    "title": "Ontheffing parkeren centrum",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/recreatie/openbare-parkeergarages",
+    "title": "openbare parkeergarages",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/ondernemen/evenement-organiseren",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/afval-inzamelen/afval-kalender",
+    "title": "Afvalkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/bouwen-en-verbouwen",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/afval-inzamelen/ondergrondse-afvalcontainers",
+    "title": "ondergrondse afvalcontainers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/gladheid",
+    "title": "Gladheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/ondernemen/standplaatsvergunning-toeristenmarkt",
+    "title": "standplaatsvergunning toeristenmarkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/afval-inzamelen/groene-en-grijze-afvalbakken",
+    "title": "afvalinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/vacatures",
+    "title": "vacature",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vacature"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/zorg-en-inkomen/bijzondere-bijstand/vergoeding-id-kaart-uittreksels-en-verklaring-omtrent-gedrag-vog",
+    "title": "Bijzondere bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/ondernemen/loterijen-en-kansspelen",
+    "title": "Loterij of kansspel melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/ondernemen/kansspelautomaten",
+    "title": "kansspelautomatenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/kappen-en-snoeien",
+    "title": "Kappen en snoeien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/afval-inzamelen/milieustraat",
+    "title": "afvalinzamelstation",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/bouwen-en-verbouwen/bestemmingsplannen",
+    "title": "bestemmingsplan inzage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/recreatie/evenementen-en-markten",
+    "title": "evenementen en markten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/bouwen-en-verbouwen/rioolaansluiting",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/zorg-en-inkomen/hulp-vanuit-de-wmo/eigen-bijdrage-wmo",
+    "title": "Eigen bijdrage Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/zorg-en-inkomen/hulp-vanuit-de-wmo/begeleiding",
+    "title": "Begeleiding vanuit de Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/verhuizen-binnen-of-naar-katwijk",
+    "title": "Verhuizen binnen of naar Katwijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/legaliseren-handtekening",
+    "title": "Legaliseren handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/ondernemen/sluitingstijden-horeca-en-verenigingen",
+    "title": "Sluitingstijden horeca en verenigingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/levenloos-geboren-kind-registreren",
+    "title": "Levenloos geboren kind registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/recreatie/betaald-parkeren-op-straat",
+    "title": "betaald parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerbelasting"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/recreatie/speelplekken",
+    "title": "Speelvoorziening kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/speelvoorziening_kinderen"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/recreatie/honden",
+    "title": "hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/trouwen-of-geregistreerd-partnerschap",
+    "title": "huwelijksaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijksaangifte"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/verhuizen-binnen-of-naar-katwijk/tijdelijke-verhuur-te-koop-staande-woning",
+    "title": "woning tijdelijke verhuurvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woning_tijdelijke_verhuurvergunning"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/parkeren-voor-gehandicapten",
+    "title": "Parkeren voor gehandicapten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/garantstelling",
+    "title": "Garantstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/bouwen-en-verbouwen/bouwdossier-inzien",
+    "title": "Bouwdossier opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/uittreksel-aanvragen",
+    "title": "Uittreksel aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/zorg-en-inkomen/bijzondere-bijstand",
+    "title": "Bijzondere bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/verklaring-omtrent-gedrag-vog",
+    "title": "verklaring omtrent gedrag (vog)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/parkeervergunning-voor-bewoners",
+    "title": "parkeervergunning bewoners",
+    "language": "NL",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/belasting",
+    "title": "Gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/gemeente-en-burgerzaken/verloren-of-gevonden",
+    "title": "verloren en gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)"
+  },
+  {
+    "identifier": "https://www.katwijk.nl/wonen-en-verbouwen/afval-inzamelen",
+    "title": "afvalkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Katwijk_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalkalender"
+  }
+]

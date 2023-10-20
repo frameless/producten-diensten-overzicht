@@ -1,0 +1,721 @@
+[
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/verloren-of-gevonden-voorwerp",
+    "title": "Verloren of gevonden voorwerp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/urgentieverklaring-woningzoekende-aanvragen",
+    "title": "Urgentieverklaring woningzoekende aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/urgBewWoning"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/iemand-machtigen-voor-u-te-stemmen",
+    "title": "Iemand machtigen voor u te stemmen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/wet-hergebruik-overheidsinformatie-who",
+    "title": "Wet hergebruik overheidsinformatie (Who)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hergebOvInfo"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/riool-aansluiting-aanvragen-en-verstopping",
+    "title": "Riool: aansluiting aanvragen en verstopping",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/noodhulp",
+    "title": "Noodhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/ontheffing-voor-lang-parkeren-in-parkeerschijfzone",
+    "title": "Ontheffing voor lang parkeren in parkeerschijfzone",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing_blauwe_zone"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/hulp-voor-kinderen-toeslagenaffaire",
+    "title": "Hulp voor kinderen Toeslagenaffaire",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/in-een-andere-gemeente-stemmen",
+    "title": "In een andere gemeente stemmen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/bbz-uitkering-voor-zelfstandigen",
+    "title": "Bbz-uitkering voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/akte-burgerlijke-stand",
+    "title": "Akte burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/bomen-kapvergunning-en-subsidie",
+    "title": "Bomen: kapvergunning en subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/exploitatievergunning-horecabedrijf-0",
+    "title": "Exploitatievergunning horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/klacht-doorgeven",
+    "title": "Klacht doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/contact-team-verkiezingen",
+    "title": "Contact Team Verkiezingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/startkwalificatie",
+    "title": "Startkwalificatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/rotterdampas",
+    "title": "Rotterdampas aanvragen of verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/contact-handhaving",
+    "title": "Contact Handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/geld-inzamelen-collecterooster-en-vergunning-aanvragen",
+    "title": "Geld inzamelen: collecterooster en vergunning aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/veilig-thuis",
+    "title": "Veilig Thuis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/verklaring-omtrent-gedrag-vog",
+    "title": "Verklaring omtrent gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/vergunning-voor-verhuren-woning",
+    "title": "Vergunning voor verhuren woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/facturen",
+    "title": "Facturen aan de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/persoonsgegevens-corrigeren-in-de-basisregistratie-personen",
+    "title": "Persoonsgegevens corrigeren in de basisregistratie personen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/wmo-hulp-aanvragen-verlengen-aanpassen-of-stoppen",
+    "title": "Wmo: hulp aanvragen, verlengen, aanpassen of stoppen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/informatie-opvragen-via-wet-open-overheid-woo",
+    "title": "Informatie opvragen via Wet open overheid (WOO)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verstrekking_overheidsinformatie"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/klein-evenement-melding",
+    "title": "Klein evenement: melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/uitnodigen-burgemeester-of-wethouder",
+    "title": "Uitnodigen burgemeester of wethouder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/melding-afval-en-contact-met-irado",
+    "title": "Melding afval en contact met Irado",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/verzoek-om-te-handhaven",
+    "title": "Verzoek om te handhaven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/vertrek-naar-het-buitenland",
+    "title": "Vertrek naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/stembureaus-oud",
+    "title": "Stembureaus - oud",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/kapotte-lamp-op-straat-melden",
+    "title": "Kapotte lamp op straat melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(straatverlichting)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/woz-waarde-en-taxatieverslag",
+    "title": "WOZ-waarde en taxatieverslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/trouwen-en-geregistreerd-partnerschap",
+    "title": "Trouwen en geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/adresonderzoek-aanvragen",
+    "title": "Adresonderzoek aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/bibob",
+    "title": "Integriteitsonderzoek (Wet Bibob)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/lintje",
+    "title": "Koninklijke onderscheiding: een lintje aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/nederlandse-nationaliteit-aanvragen-naturalisatie-of-optie",
+    "title": "Nederlandse nationaliteit aanvragen: naturalisatie of optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/wmo-loket",
+    "title": "Wmo-loket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/melding-burenoverlast",
+    "title": "Melding Burenoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/dwangsom-bij-niet-op-tijd-antwoord",
+    "title": "Dwangsom bij niet op tijd antwoord",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/bouw-en-verbouw-omgevingsvergunning",
+    "title": "Bouw en verbouw: omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/groot-evenement-vergunning",
+    "title": "Groot evenement: vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/leerplicht",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/meld-datalek",
+    "title": "Meld datalek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/inzage-persoonsgegevens-aanvragen",
+    "title": "Inzage persoonsgegevens aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInzRecht"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/gebruik-gemeentegrond-voor-container-steigers-kraan-of-werkterrein",
+    "title": "Gebruik gemeentegrond voor container, steigers, kraan of werkterrein",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gebruiksmelding"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/verzenden-informatie-of-documenten",
+    "title": "Verzenden informatie of documenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/soorten-belasting-en-bedragen",
+    "title": "Soorten belasting en bedragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_kopie"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/verbetering-of-verwijdering-persoonsgegevens-aanvragen",
+    "title": "Verbetering of verwijdering persoonsgegevens aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/zwerfafval",
+    "title": "Zwerfafval opruimen: vraag een afvalgrijper aan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/milieustraat-en-afvalpas",
+    "title": "Milieustraat en afvalpas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/langer-in-uw-huis-wonen-de-blijverslening",
+    "title": "Langer in uw huis wonen: de Blijverslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/blijverslening"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/wmo-vervoer-trevvel-samen",
+    "title": "Wmo-vervoer: Trevvel Samen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/medVervoer"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/kinderopvang",
+    "title": "Kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/register_kinderopvang_inschrijving"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/levenloos-geboren-kind-registreren",
+    "title": "Levenloos geboren kind registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/doodgeboren_kind_aangifte"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/verhuizing-doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/parkeervergunning-molenbuurt",
+    "title": "Parkeervergunning Molenbuurt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/meld-verkeerd-gebruik-zorggeld-of-zorgvoorzieningen",
+    "title": "Meld verkeerd gebruik zorggeld of zorgvoorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/erkenning-geboren-kind",
+    "title": "Erkenning geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/trouwen-locaties",
+    "title": "Trouwen: locaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/trouwlocatie"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/bouw-en-verbouw-welstandsbeoordeling",
+    "title": "Bouw en verbouw: welstandsbeoordeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/toeslagen",
+    "title": "Hulp voor ouders Toeslagenaffaire",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/venten-verkoop-huis-aan-huis",
+    "title": "Venten: verkoop huis-aan-huis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/steun-voor-ondernemers",
+    "title": "Steun voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/vergunning-kansspelautomaat-gokkast",
+    "title": "Vergunning kansspelautomaat (gokkast)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/vuurwerk",
+    "title": "Vuurwerk: overlast en afsteken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/verhuizing-vanuit-het-buitenland-naar-capelle",
+    "title": "Verhuizing vanuit het buitenland naar Capelle",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/melding-verplichte-zorg-bij-psychische-problemen",
+    "title": "Melding verplichte zorg bij psychische problemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/openbare_geestelijke_gezondheidszorg_(oggz)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/naamgebruik-wijzigen",
+    "title": "Naamgebruik wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/registreren-buitenlandse-documenten",
+    "title": "Registreren buitenlandse documenten ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/stemmen-vanuit-het-buitenland",
+    "title": "Stemmen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/volmachtbewijs_verkiezingen"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/starterslening",
+    "title": "Hulp bij huis kopen voor starters: de Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/demonstratie-melden",
+    "title": "Demonstratie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/betogDemonsMld"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/belasting-betalen",
+    "title": "Belasting betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/rijbewijs-aanvragen-of-vernieuwen",
+    "title": "Rijbewijs: aanvragen of vernieuwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/pasfoto-maken",
+    "title": "Pasfoto maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/kwijtschelding",
+    "title": "Kwijtschelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/alcohol-schenken",
+    "title": "Alcohol schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/stemmen-voor-de-tweede-kamerverkiezing",
+    "title": "Stemmen voor de Tweede Kamerverkiezing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/geboorte-aangeven",
+    "title": "Geboorte aangeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/mantelzorg-capelle",
+    "title": "Mantelzorg Capelle",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/trouwen-kosten",
+    "title": "Trouwen: kosten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/ioaz-uitkering-voor-oudere-ondernemers-die-stoppen",
+    "title": "IOAZ: uitkering voor oudere ondernemers die stoppen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaz-uitkering"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/melding-openbare-ruimte",
+    "title": "Melding openbare ruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/melden-feest-of-activiteit-met-muziek",
+    "title": "Melden feest of activiteit met muziek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collIncFest"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/aangifte-overlijden",
+    "title": "Aangifte overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/exploitatievergunning-horecabedrijf",
+    "title": "Exploitatievergunning horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/woonruimte-voor-ouderen",
+    "title": "Woonruimte voor ouderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/paspoort-en-id-kaart",
+    "title": "Paspoort en ID-kaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/bewind",
+    "title": "Bewind(voering)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/erkenning-ongeboren-kind",
+    "title": "Erkenning ongeboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/jeugdfonds-sport-cultuur",
+    "title": "Jeugdfonds Sport &amp; Cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/strooien-tegen-gladheid",
+    "title": "Strooien tegen gladheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/bezwaar",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/geheimhouding-persoonsgegevens-wijzigen",
+    "title": "Geheimhouding persoonsgegevens wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/grond-kopen-of-huren-van-de-gemeente",
+    "title": "Grond kopen of huren van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/marktplaats-toewijzing-standplaatsvergunning",
+    "title": "Marktplaats toewijzing: standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.capelleaandenijssel.nl/handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Capelle_aan_den_IJssel_(gemeente)"
+  }
+]

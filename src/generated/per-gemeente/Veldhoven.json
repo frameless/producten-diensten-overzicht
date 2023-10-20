@@ -1,0 +1,581 @@
+[
+  {
+    "identifier": "https://www.veldhoven.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/bestemmingsplannen-overzicht",
+    "title": "Bestemmingsplannen, overzicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/parkeervergunning-bewoners",
+    "title": "Parkeervergunning bewoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bewoners"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/vooroverleg-omgevingsvergunning",
+    "title": "Vooroverleg omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/reclamebordenvergunning",
+    "title": "Reclamebordenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verwijzingsbordenontheffing"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/rioolaansluiting",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/begraafplaats-de-hoge-boght",
+    "title": "Begraafplaats De Hoge Boght/Crematorium",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reinigingsrecht"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/bouwplannen-en-bouwvergunningen-inzien",
+    "title": "Bouwplannen en bouwvergunningen inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/alcoholontheffing",
+    "title": "Alcoholontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/uittreksel-burgerlijke-stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/persoonsgebonden-budget-pgb-en-zorg-in-natura",
+    "title": "Persoonsgebonden budget (pgb) en zorg in natura",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgebonden_budget"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/sporthal-huren",
+    "title": "Sporthal huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportaccommodatieverhuur"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/kliko",
+    "title": "Kliko",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalcontainer"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/ramp-of-crisis",
+    "title": "Ramp of crisis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rampenplan"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/clientondersteuning",
+    "title": "Cliëntondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/melding-voorgenomen-huwelijk-geregistreerd-partnerschap",
+    "title": "Melding voorgenomen huwelijk geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/5G",
+    "title": "5G ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/ioaz-uitkering",
+    "title": "IOAZ-uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaz-uitkering"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/zakenpaspoort",
+    "title": "Zakenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zakenpaspoort"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/uitkering-voor-zelfstandig-ondernemers",
+    "title": "Uitkering voor zelfstandig ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/verklaring-naamgebruik",
+    "title": "Verklaring naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/horecabedrijf-exploitatievergunning",
+    "title": "Horecabedrijf exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/legaliseren-handtekening",
+    "title": "Legaliseren handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/gemeentelijke-onderscheiding",
+    "title": "Gemeentelijke onderscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentelijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/stimuleringslening",
+    "title": "Stimuleringslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/principeverzoek",
+    "title": "Principeverzoek wijziging bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/uittreksel-basisregistratie-personen-brp",
+    "title": "Uittreksel basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-uittreksel"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/belastingaanslag-bezwaar",
+    "title": "Bezwaar tegen belastingaanslag of WOZ-beschikking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/adressen-kinderopvang",
+    "title": "Adressen kinderopvang ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/afvalinzameling",
+    "title": "Afvalinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/horecatijden-melding",
+    "title": "Horecatijdenmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/reclamebelasting",
+    "title": "Reclamebelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamebelasting"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/tweede-paspoort",
+    "title": "Tweede paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/koninklijke-onderscheiding",
+    "title": "Koninklijke onderscheiding ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/verhuizen-naar-nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hervestiging_vanuit_het_buitenland"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/langdurigheidstoeslag"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/woz-en-onroerendezaakbelastingen",
+    "title": "WOZ en Onroerende Zaak Belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/aed",
+    "title": "AED",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/mantelzorg",
+    "title": "Mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/paspoort-voor-vluchtelingen",
+    "title": "Paspoort voor vluchtelingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/english/advertising-tax",
+    "title": "Advertising tax",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamebelasting"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/erkenning-kind",
+    "title": "Erkenning kind ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/brp-correctieverzoek",
+    "title": "BRP-correctieverzoek ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gba-correctieverzoek"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_schadevergoeding"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/gebruik-openbaar-gebied",
+    "title": "Gebruik openbaar gebied",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afsluiting_openbare_weg_vergunning"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/english/tourist-tax",
+    "title": "Tourist tax",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/vergunningen-overig",
+    "title": "Vergunningen overig",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/slopen-en-asbest-verwijderen",
+    "title": "Slopen en asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/english/exemption",
+    "title": "Exemption",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/gebruiksmelding-en-omgevingsvergunning-brandveilig-gebruik",
+    "title": "Gebruiksmelding en omgevingsvergunning brandveilig gebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/parkeervergunning-ondernemers",
+    "title": "Parkeervergunning ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bedrijven"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/omwisselen-buitenlands-rijbewijs",
+    "title": "Omwisselen buitenlands rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs_buitenlands_omwisseling"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/uitlening-gemeentelijke-materialen",
+    "title": "Uitlening gemeentelijke materialen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/uitlening_gemeentelijke_materialen"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/kinderopvang-starten",
+    "title": "Kinderopvang starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/melding-of-omgevingsvergunning-milieu",
+    "title": "Melding of omgevingsvergunning milieu",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/nederlander-worden-door-naturalisatie",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/inwoners-en-ondernemers/verkiezingen/stempas",
+    "title": "Stempas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/achternaam-van-uw-kind-kiezen",
+    "title": "Achternaam van uw kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieceremonie"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/verhuizen-naar-het-buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/boom-kappen",
+    "title": "Boom kappen of wijziging monumentale boom",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/paspoort-voor-vreemdelingen",
+    "title": "Paspoort voor vreemdelingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/terrasvergunning",
+    "title": "Terrasvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/parkeerkaarten-bezoekers",
+    "title": "Parkeerkaarten bezoekers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning_bezoekers"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/verklaring-omtrent-het-gedrag",
+    "title": "Verklaring Omtrent het Gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/collectieve-zorgverzekering",
+    "title": "Collectieve zorgverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectieve_ziektekostenverzekering"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/nederlander-worden-door-optie",
+    "title": "Nederlander worden door optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/nederlander_worden_door_optie"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/vistoestemming",
+    "title": "Vistoestemming",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/visvergunning"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/contact-met-de-gemeenteraad",
+    "title": "Burgerinitiatief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerinitiatief"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/parkeervergunning-algemeen",
+    "title": "Parkeervergunning algemeen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/bedrijventerrein-habraken",
+    "title": "Bedrijventerrein Habraken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/kabels-en-leidingenvergunning",
+    "title": "Kabels- en leidingenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kabels-_en_leidingenvergunning"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/evenement-melding-of-vergunning",
+    "title": "Evenement: melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/leerplicht",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veldhoven.nl/vrijwilligers",
+    "title": "Vrijwilligers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veldhoven_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  }
+]

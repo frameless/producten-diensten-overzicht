@@ -1,0 +1,834 @@
+[
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/parkeerkaart-voor-bewoners/506/",
+    "title": "Parkeerkaart voor bewoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/forensenbelasting/290/",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/reisdocumenten-uittreksels-verklaringen/verklaring-omtrent-het-gedrag/178/",
+    "title": "Verklaring Omtrent het Gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/contact-sociaal-team/1308/",
+    "title": "Contact Sociaal Team",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/toeristenbelasting/459/",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/levensgebeurtenissen/bewijs-van-in-leven-zijn/234/",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/wonen-verhuizen-en-verbouwen/briefadres/156/",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/bijstand/952/",
+    "title": "Bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/bomen-kappen/759/",
+    "title": "Bomen kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/starterslening/784/",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/ontheffing-inrijverbod-bewoners/577/",
+    "title": "Ontheffing inrijverbod bewoners",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/levensgebeurtenissen/erkenning/161/",
+    "title": "Erkenning kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/levensgebeurtenissen/overlijden/242/",
+    "title": "Overlijden doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/wonen-verhuizen-en-verbouwen/woonruimte-voor-personeel/802/",
+    "title": "Woonruimte voor personeel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/wonen-verhuizen-en-verbouwen/principeverzoek/1401/",
+    "title": "Principeverzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/wonen-verhuizen-en-verbouwen/vrije-bouwkavels/971/",
+    "title": "Vrije bouwkavels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/afval/afval/505/",
+    "title": "Ophalen afval tijdens feestdagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/rijden-op-het-strand/368/",
+    "title": "Ontheffing rijden op het strand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/melding-klacht-of-bezwaar/bezwaar-beroep/393/",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/afval/glas/937/",
+    "title": "Glas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/wonen-verhuizen-en-verbouwen/verhuizen-naar-het-buitenland/257/",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/evenementenvergunning/530/",
+    "title": "Evenementen organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/bijzondere-bijstand/966/",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/wonen-verhuizen-en-verbouwen/wonen-in-een-vakantiewoning/586/",
+    "title": "Wonen in een vakantiewoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/afval/afvalsleutel/4057/",
+    "title": "Afvalsleutel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/wonen-verhuizen-en-verbouwen/huisvestingsvergunning-wonen-op-texel/631/",
+    "title": "Huisvestingsvergunning (wonen op Texel)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisvestingsvergunning"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/uitrit-aanleggen-of-veranderen/998/",
+    "title": "Uitrit aanleggen of veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/jaarovereenkomst-gebruik-strand/2764/",
+    "title": "Overeenkomst gebruik strand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/voordelige-zorgverzekering/4234/",
+    "title": "Voordelige zorgverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/melding-klacht-of-bezwaar/klacht/438/",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/reisdocumenten-uittreksels-verklaringen/rijbewijs/375/",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/levensgebeurtenissen/kosten-voor-huwelijk-of-partnerschapsregistratie/442/",
+    "title": "Kosten voor huwelijk of partnerschapsregistratie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/afval/plastic-afval/931/",
+    "title": "Plastic afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/reclame/1005/",
+    "title": "Reclame",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/verkeersregelaars/383/",
+    "title": "Verkeersregelaars voor evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/toerisme-en-recreeren/zoeken-met-een-metaaldetector/1079/",
+    "title": "Zoeken met een metaaldetector",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/wonen-verhuizen-en-verbouwen/slopen/619/",
+    "title": "Slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/levensgebeurtenissen/geboorteaangifte/238/",
+    "title": "Geboorte doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/reisdocumenten-uittreksels-verklaringen/handtekening-legaliseren/1070/",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/melding-klacht-of-bezwaar/iets-melden/1257/",
+    "title": "Iets melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/kilometer-of-taxikostenvergoeding/915/",
+    "title": "Kilometer- of taxikostenvergoeding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/kamer-van-koophandel/436/",
+    "title": "Inschrijven bij de Kamer van Koophandel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/inkomsten-doorgeven/5533/",
+    "title": "Inkomsten doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/wonen-verhuizen-en-verbouwen/verhuur-leegstaande-woning/832/",
+    "title": "Verhuur leegstaande woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/huiselijk-geweld/1325/",
+    "title": "Huiselijk geweld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/texelvignette-parken-auf-texel/622/",
+    "title": "Texelvignette - Parken auf Texel - Parkschein",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/wonen-verhuizen-en-verbouwen/buurtbemiddeling/787/",
+    "title": "Buurtbemiddeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/eenmalige-subsidie/400/",
+    "title": "Eenmalige subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/reisdocumenten-uittreksels-verklaringen/bewijs-van-nederlanderschap/327/",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/investeringskrediet/488/",
+    "title": "Investeringskrediet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/kenteken-wijzigen-voor-particulieren/485/",
+    "title": "Kenteken wijzigen voor particulieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/kindpakket/1063/",
+    "title": "Kindpakket",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/reisdocumenten-uittreksels-verklaringen/uittreksel-afschrift-of-verklaring/989/",
+    "title": "Uittreksel, afschrift of verklaring?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/levensgebeurtenissen/echtscheiding/331/",
+    "title": "Echtscheiding of ontbinden geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/kleinschalig-recreatief-staandwantvissen/1375/",
+    "title": "Kleinschalig recreatief staandwantvissen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/levensgebeurtenissen/naturalisatie-of-optie/351/",
+    "title": "Nederlander worden door optie of naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/woz-taxatieverslag/342/",
+    "title": "WOZ - taxatieverslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/tourist-tax/3381/",
+    "title": "Tourist tax",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/vergoeding-bootkosten-voor-studenten-met-ov-chipkaart/1090/",
+    "title": "Vergoeding bootkosten voor studenten met ov-chipkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/toerisme-en-recreeren/meierblis/1082/",
+    "title": "Meierblis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/klussenparkeerkaart/482/",
+    "title": "Klussenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/afval/afvalkalender-en-ophaalroute/928/",
+    "title": "Afvalkalender en ophaalroute",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/ferienwohnung-steuer-forensenbelasting/428/",
+    "title": "Zweitwohnungssteuer (Forensenbelasting)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/kaart-parkeren/1341/",
+    "title": "Overzichtskaart betaald parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/precariobelasting/299/",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/nieuwe-leidinggevende-drank-en-horecavergunning/656/",
+    "title": "Nieuwe leidinggevende alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/vergoeding-voor-leerlingenvervoer/1057/",
+    "title": "Vergoeding voor leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/touristenabgabe/608/",
+    "title": "Kurtaxe",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/melding-klacht-of-bezwaar/overlast-van-ratten/3123/",
+    "title": "Overlast van ratten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/texel-e-vignet/243/",
+    "title": "Texelvignet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/wonen-verhuizen-en-verbouwen/verhuizen-naar-of-binnen-texel/1240/",
+    "title": "Verhuizen naar of binnen Texel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/jaarlijkse-subsidie/481/",
+    "title": "Jaarlijkse subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/leerplicht/791/",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/bb-of-logies-met-ontbijt-in-uw-woning/614/",
+    "title": "B&B in uw woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/kinderopvang-vve/1196/",
+    "title": "Kinderopvang & VVE",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/levensgebeurtenissen/begraven-en-verstrooien/1094/",
+    "title": "Begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/reclamebelasting/315/",
+    "title": "Reclamebelasting in Den Burg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/afvalstoffenheffing-en-rioolheffing/196/",
+    "title": "Afvalstoffenheffing en rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/toerisme-en-recreeren/vliegeren-kitesurfen-of-blokarten/830/",
+    "title": "Vliegeren, kitesurfen of blokarten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/ontheffing-alcoholwet/715/",
+    "title": "Ontheffing Alcoholwet",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/kenteken-wijzigen-voor-bedrijven/489/",
+    "title": "Kenteken wijzigen voor bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/bezwaar-tegen-de-belastingaanslag/454/",
+    "title": "Bezwaar maken tegen belastingen en WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/werk-vinden/1315/",
+    "title": "Werk vinden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/exploitatievergunning-horeca/2657/",
+    "title": "Exploitatievergunning horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/ontheffing-inrijverbod-bedrijven/572/",
+    "title": "Ontheffing inrijverbod bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/wonen-verhuizen-en-verbouwen/verhuizen-vanuit-het-buitenland-naar-texel/252/",
+    "title": "Verhuizen vanuit het buitenland naar Texel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/reisdocumenten-uittreksels-verklaringen/paspoort/245/",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/afval/kerstbomen/1077/",
+    "title": "Kerstbomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/wonen-verhuizen-en-verbouwen/bouwplannen/588/",
+    "title": "Bouwplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/melding-klacht-of-bezwaar/ongedierte/3914/",
+    "title": "Ongedierte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/verkopen-van-waren/769/",
+    "title": "Verkopen van waren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/toelage-uitwonende-studenten/807/",
+    "title": "Toelage uitwonende studenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/strandhuisje/377/",
+    "title": "Strandhuisje",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/loterij-prijsvraag-of-bingo/808/",
+    "title": "Loterij, prijsvraag of bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/wonen-verhuizen-en-verbouwen/rioolaansluiting/1001/",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/reisdocumenten-uittreksels-verklaringen/paspoort-of-identiteitskaart-voor-een-kind/3054/",
+    "title": "Paspoort of identiteitskaart voor een kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/hulp-bij-rondkomen-met-een-laag-inkomen/4728/",
+    "title": "Hulp bij rondkomen met een laag inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/verzekering-voor-vrijwilligers-en-mantelzorgers/1364/",
+    "title": "Verzekering voor vrijwilligers en mantelzorgers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/zorgen-bij-psychische-problemen/160/",
+    "title": "Zorgen over psychische problemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/reisdocumenten-uittreksels-verklaringen/geheimhouding-persoonsgegevens/334/",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/texel-e-vignette-parking-on-texel/629/",
+    "title": "Texelvignet - parking on Texel - parking card",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/afval/klein-chemisch-afval/1237/",
+    "title": "Klein chemisch afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/toerisme-en-recreeren/registreren-toeristische-verhuur-van-woningen/3113/",
+    "title": "Toeristische verhuur van woningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/crisissituatie-jeugd/1311/",
+    "title": "Crisissituatie Jeugd",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/individuele-inkomenstoeslag/2050/",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/grip-op-de-knip/2097/",
+    "title": "Grip op de knip",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/jeugdhulp/906/",
+    "title": "Jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/reisdocumenten-uittreksels-verklaringen/identiteitskaart/494/",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/afval/afvalwijzer/734/",
+    "title": "Afvalwijzer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/afval/grof-vuil-en-grof-tuinafval/950/",
+    "title": "Grofvuil en grof tuinafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/levensgebeurtenissen/naamgebruik/168/",
+    "title": "Naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/alcoholvergunning/637/",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/betalen-van-gemeentelijke-belastingaanslag/357/",
+    "title": "Betalen of kwijtschelden van de gemeentelijke belastingaanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/onroerendezaakbelasting-ozb/296/",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/stimuleringsleningen/760/",
+    "title": "Lening voor verduurzamen, langer zelfstandig wonen of zonnepanelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/melding-klacht-of-bezwaar/de-gemeente-aansprakelijk-stellen/782/",
+    "title": "Aansprakelijk stellen voor schade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/reisdocumenten-uittreksels-verklaringen/uittreksel-persoonsgegevens/184/",
+    "title": "Uittreksel persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/reisdocumenten-uittreksels-verklaringen/akte-burgerlijke-stand/231/",
+    "title": "Afschrift of uittreksel akte burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/subsidie-voor-afkoppelen-van-regenpijp/5151/",
+    "title": "Subsidie voor afkoppelen van regenpijp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/eenmalige-energietoeslag-voor-inwoners-met-een-laag-inkomen/2842/",
+    "title": "Energietoeslag voor inwoners met een laag inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/wonen-verhuizen-en-verbouwen/asbest/682/",
+    "title": "Asbest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/parkeren-vergunningen/gehandicaptenparkeerkaart/267/",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/melding-klacht-of-bezwaar/verloren-of-gevonden-voorwerpen/994/",
+    "title": "Verloren of gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/sociaalteam/896/",
+    "title": "Wat doet het Sociaal Team?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/levensgebeurtenissen/levenloos-geboren-kind-registreren/1086/",
+    "title": "Levenloos geboren kind registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/kindermishandeling/1327/",
+    "title": "Kindermishandeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/reisdocumenten-uittreksels-verklaringen/waarmerken-kopie/386/",
+    "title": "Waarmerken kopie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/slachtofferhulp/1331/",
+    "title": "Slachtofferhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/afval/oud-papier/939/",
+    "title": "Oud papier en karton",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/automatische-incasso/210/",
+    "title": "Automatische afschrijving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/toerisme-en-recreeren/vliegen-met-een-drone/775/",
+    "title": "Vliegen met een drone",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/melding-klacht-of-bezwaar/milieu/813/",
+    "title": "Milieu",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/jaarlijkse-contractsubsidie-bcf/475/",
+    "title": "Jaarlijkse contractsubsidie (BCF)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/belastingen-geldzaken-subsidies/commuter-tax/3376/",
+    "title": "Commuter Tax",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/toerisme-en-recreeren/texelse-museumpas/380/",
+    "title": "Texelse museumpas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  },
+  {
+    "identifier": "https://www.texel.nl/direct-regelen/sociaalteam/zorg-en-ondersteuning-vanuit-de-wmo/973/",
+    "title": "Zorg en ondersteuning vanuit de Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Texel_(gemeente)"
+  }
+]

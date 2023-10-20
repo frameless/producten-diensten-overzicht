@@ -1,0 +1,391 @@
+[
+  {
+    "identifier": "https://www.terschelling.nl/vetvangput-legen",
+    "title": "Vetvangput legen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/informatie-over-beleid-of-besluiten-opvragen-who-verzoek",
+    "title": "Informatie over beleid of besluiten opvragen (Who-verzoek)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/loterij-prijsvraag-bingo-organiseren",
+    "title": "Loterij, prijsvraag, bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/verkeersonveilige-situatie-melden",
+    "title": "Verkeersonveilige situatie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verzoekschrift"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/leer-werktraject-startkwalificatie-behalen",
+    "title": "Leer-werktraject, startkwalificatie behalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/melding-wijziging-tenaamstelling-omgevingsvergunning",
+    "title": "Melding wijziging tenaamstelling omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/iemand-anders-voor-u-laten-stemmen",
+    "title": "Iemand anders voor u laten stemmen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/nee-nee-sticker-nee-ja-sticker",
+    "title": "NEE-NEE sticker, NEE-JA sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/milieuvergunning-of-melding",
+    "title": "Milieuvergunning of melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/verhuizen-naar-het-buitenland-emigratie",
+    "title": "Verhuizen naar het buitenland (emigratie)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/stemmen-vanuit-het-buitenland",
+    "title": "Stemmen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stemmen_per_brief"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/basisregistratie-adressen-en-gebouwen-bag",
+    "title": "Basisregistratie Adressen en Gebouwen (BAG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/antenne-of-schotelantenne-plaatsen",
+    "title": "Antenne of schotelantenne plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/ontkenning-vaderschap-door-moeder",
+    "title": "Ontkenning vaderschap door moeder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vaderschapsontkenning_verklaring"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/sociale-huurwoning-zoeken",
+    "title": "(sociale) Huurwoning zoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/monument-verbouwen-herstellen-of-onderhouden",
+    "title": "Monument verbouwen, herstellen of onderhouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/hotel-bed-and-breakfast-of-camping-starten",
+    "title": "Hotel, bed and breakfast of camping starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/natuurgebied-in-gaan",
+    "title": "Natuurgebied in gaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/geluidsoverlast-veroorzaken",
+    "title": "Geluidsoverlast veroorzaken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/bewijs-van-nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/grafsteen-of-gedenkteken-plaatsen",
+    "title": "Grafsteen of gedenkteken plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gedenkteken_plaatsingsvergunning"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/geluidsapparatuur-horecabedrijf",
+    "title": "Geluidsapparatuur horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/kind-erkennen-voor-de-geboorte",
+    "title": "Kind erkennen vóór de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/begeleidingdagbesteding-wmo",
+    "title": "Begeleiding/dagbesteding (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/hulp-bij-geldzaken-en-schulden",
+    "title": "Hulp bij geldzaken en schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/stempas-kwijt-of-niet-ontvangen",
+    "title": "Stempas kwijt of niet ontvangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/nederlander-worden-door-optie",
+    "title": "Nederlander worden door optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalOptie"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/informatie-opvragen-woo-verzoek",
+    "title": "Informatie opvragen (Woo-verzoek)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/strandrijontheffing",
+    "title": "Strandrijontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/verloren-of-gevonden-voorwerpen-melden",
+    "title": "Verloren of gevonden voorwerpen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/alcohol-schenken-tijdens-evenement",
+    "title": "Alcohol schenken tijdens evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/kamperen-buiten-kampeerterreinen",
+    "title": "Kamperen buiten kampeerterreinen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/staand-wantvissen-melden",
+    "title": "Staand wantvissen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/graf-op-gemeentelijke-begraafplaats-aanvragen",
+    "title": "Graf op gemeentelijke begraafplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/bijzonder-transport",
+    "title": "Bijzonder transport",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wegenverkeerswetontheffing"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/aanpassen-onjuiste-persoonsgegevens",
+    "title": "Aanpassen onjuiste persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/in-een-andere-gemeente-stemmen",
+    "title": "In een andere gemeente stemmen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/huisverbod-bij-huiselijk-geweld",
+    "title": "Huisverbod bij huiselijk geweld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tijdHuisverbod"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/achternaam-kind-kiezen",
+    "title": "Achternaam kind kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/demonstratie-of-protestactie-houden",
+    "title": "Demonstratie of protestactie houden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/bedrijfsactiviteiten-wijzigen",
+    "title": "Bedrijfsactiviteiten wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wet_milieubeheermelding"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/terras-plaatsen",
+    "title": "Terras plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/huisnummer-aanvragen-of-veranderen",
+    "title": "Huisnummer aanvragen of veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/jeugdhulp-geestelijke-gezondheidszorg-ggz",
+    "title": "Jeugdhulp, geestelijke gezondheidszorg (ggz)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/teruggave-gemeentelijke-belastingen",
+    "title": "Teruggave gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingteruggave"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/hulp-bij-een-arbeidsbeperking-0",
+    "title": "Hulp bij een arbeidsbeperking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/regArbBepIns"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/hulp-bij-een-arbeidsbeperking",
+    "title": "Hulp bij een arbeidsbeperking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/regArbBepIns"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/bouwplannen-en-bouwtekeningen-bekijken",
+    "title": "Bouwplannen en bouwtekeningen bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/informatiestand-plaatsen",
+    "title": "Informatiestand plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/gemeentelijke-gezondheidsdienst-ggd",
+    "title": "Gemeentelijke Gezondheidsdienst (GGD)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gezondheidsdienst"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/uittreksel-persoonsgegevens-brp",
+    "title": "Uittreksel persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/stedenbouwkundige-plannen-bekijken",
+    "title": "Stedenbouwkundige plannen bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/vuur-stoken",
+    "title": "Vuur stoken ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/bedrijf-vestigen",
+    "title": "Bedrijf vestigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.terschelling.nl/geluidswagen-gebruiken",
+    "title": "Geluidswagen gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Terschelling_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  }
+]

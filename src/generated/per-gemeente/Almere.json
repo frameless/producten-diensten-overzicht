@@ -1,0 +1,713 @@
+[
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/vergunningen/standplaatsvergunningen",
+    "title": "Standplaatsvergunningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/belastingen/gemeentelijke-belastingen-betalen/maatregelen-bij-niet-betalen-belastingen",
+    "title": "Maatregelen bij niet-betalen belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/dienstverlening/overig/aansprakelijkheid-gemeente-almere",
+    "title": "Schadevergoeding aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/verhuizen/verhuizen-naar-of-binnen-almere",
+    "title": "Verhuizen naar of binnen Almere",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/afval/grofvuil",
+    "title": "Grofvuil",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzameling_grofvuil"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/vergunningen/kinderopvang-beginnen",
+    "title": "Kinderopvang beginnen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/dieren/plaagdierpreventie-en-voorlichting/eikenprocessierups",
+    "title": "Eikenprocessierups",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/verkeer/openbaar-vervoer",
+    "title": "Openbaar Vervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/huwelijk-en-partnerschap/verklaring-van-huwelijksbevoegdheid",
+    "title": "Verklaring van huwelijksbevoegdheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_huwelijksbevoegdheid"
+  },
+  {
+    "identifier": "https://www.almere.nl/parkeren/grote-voertuigen-en-caravans",
+    "title": "Grote voertuigen en caravans",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/verhuizen/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://wijkteams.almere.nl/",
+    "title": "Wijkteams Almere",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/dieren/overlast-door-dieren",
+    "title": "Overlast door dieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/verhuizen/adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/paspoort/vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.almere.nl/werken/hulp-als-je-te-weinig-geld-hebt/hulp-bij-hoge-huur-of-hypotheek/woonlastenfonds",
+    "title": "Woonlastenfonds",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonkostentoeslag"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/vergunningen/vergunning-thema-markt-of-braderie",
+    "title": "Vergunning (thema) markt of braderie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/werken/uitkering",
+    "title": "Uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/kadastrale-kaart",
+    "title": "Kadastrale kaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/over/jubileum-huwelijk-en-verjaardag-100-jarigen",
+    "title": "Jubileum huwelijk en verjaardag 100-jarigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/paspoort/eisen-pasfotos-reisdocumenten-rijbewijzen",
+    "title": "Eisen pasfoto's reisdocumenten & rijbewijzen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/dienstverlening/verloren-en-gevonden-voorwerpen",
+    "title": "Verloren en gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/vergunningen/ontheffing-landbouwvoertuigen-openbare-weg",
+    "title": "Ontheffing landbouwvoertuigen openbare weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/paspoort/reizen-met-kinderen-neem-relevante-documenten-mee",
+    "title": "Reizen met kind(eren)? Neem relevante documenten mee",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/dienstverlening/overig/bezwaar-of-beroep-aantekenen",
+    "title": "Bezwaar of beroep aantekenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/vergunningen/voorwerpen-of-stoffen-op-of-aan-de-openbare-plaats",
+    "title": "Voorwerpen of stoffen op of aan de openbare plaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/belastingen/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://oens.almere.nl/",
+    "title": "Feiten en cijfers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/subsidies/subsidie-aanvragen",
+    "title": "Subsidie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/vergunningen/vergunning-kledinginzameling",
+    "title": "Vergunning kledinginzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://veilig.almere.nl/",
+    "title": "Veilig Almere",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/uittreksel-burgerlijke-stand/standaard-uittreksel-basisregistratie-personen-/-bewijs-van-inschrijving",
+    "title": "Standaard uittreksel Basisregistratie Personen / bewijs van inschrijving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/overlijden",
+    "title": "Overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.almere.nl/belastingen/onroerendezaakbelasting",
+    "title": "Onroerendezaakbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.almere.nl/marktplaatsvergunning",
+    "title": "Marktplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://wijkteams.almere.nl/procedures-en-regels/gesprek-aanvragen",
+    "title": "Gesprek aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/huwelijk-en-partnerschap/geregistreerd-partnerschap-omzetten-in-huwelijk",
+    "title": "Geregistreerd partnerschap omzetten in huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/vergunningen/collectevergunning",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.almere.nl/belastingen/onroerendezaakbelasting/woz-waarde",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.almere.nl/onderwijs/voorschool-en-kinderopvang",
+    "title": "Voorschool en kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/belastingen",
+    "title": "Belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/burgerservicenummer",
+    "title": "Burgerservicenummer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/burgerservicenummer_(bsn)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/legalisatie-handtekening-garantverklaring-aanvragen",
+    "title": "Legalisatie handtekening / garantverklaring aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/wonen/beheer-en-onderhoud/water/riolering/rioolaansluiting-en/of-in-en-uitrit-aanvragen",
+    "title": "Rioolaansluiting en/of in- en uitrit aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/verhuizen/adresinformatie",
+    "title": "Adresinformatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/belastingen/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/paspoort/noodpaspoort",
+    "title": "Noodpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/noodreisdocument"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/nederlandse-nationaliteit-aanvragen",
+    "title": "Nederlandse nationaliteit aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/wonen/belastingen-ondernemers/precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/nederlandse-nationaliteit-aanvragen/nederlandse-nationaliteit-opgeven-of-verliezen",
+    "title": "Nederlandse nationaliteit opgeven of verliezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_afstand_nederlandse_nationaliteit"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/geheimhouding-persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.almere.nl/werken/hulp-als-je-te-weinig-geld-hebt/aanvulling-kosten-kinderopvang",
+    "title": "Aanvulling kosten kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/onderwijs/leerplicht-en-rmc",
+    "title": "Leerplicht en RMC",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving",
+    "title": "Vergunningen, Toezicht & Handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/vergunningen/coffeeshop",
+    "title": "Coffeeshop",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/dienstverlening/overig/klacht-indienen",
+    "title": "Klacht indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/verhuizen/verhuizen-uit-het-buitenland",
+    "title": "Verhuizen vanuit het buitenland naar Almere",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/onderwijs/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.almere.nl/parkeren/boete",
+    "title": "Parkeerboete",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerboete"
+  },
+  {
+    "identifier": "https://www.almere.nl/wonen/woonruimteverdeling-en-urgentieregeling",
+    "title": "Woonruimteverdeling en urgentieregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/werken/hulp-als-je-te-weinig-geld-hebt/bijzondere-bijstand/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/geboorte/levenloos-geboren-kindje",
+    "title": "Geboorte levenloos kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/nederlandse-nationaliteit-aanvragen/inburgering",
+    "title": "Inburgering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/vergunningen/landen-opstijgen-en-oplaten",
+    "title": "Landen, opstijgen en oplaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/verkeer/gladheid",
+    "title": "Gladheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/persoonsgegevens/naamgegevens-wijzigen",
+    "title": "Naamgegevens wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/huwelijk-en-partnerschap",
+    "title": "Trouwen en partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/aanlegvergunning",
+    "title": "Aanlegvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.werkenbijalmere.nl",
+    "title": "Vacatures en stages bij de gemeente Almere",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/huwelijk-en-partnerschap/naamgebruik-wijzigen",
+    "title": "Naamgebruik wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/werken/hulp-als-je-te-weinig-geld-hebt/zorg-en-opvoeding/goede-zorgverzekering-bij-een-laag-inkomen",
+    "title": "Goede zorgverzekering bij een laag inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/apv-markten-bijzondere-wetten-en-verordening",
+    "title": "APV, Markten, Bijzondere wetten en Verordening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/fraudemelding",
+    "title": "Fraudemelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/vergunningen/verzoek-ontheffing-verplichting-tot-zelfbewoning",
+    "title": "Verzoek ontheffing verplichting tot zelfbewoning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/rijbewijs/buitenlands-rijbewijs",
+    "title": "Buitenlands rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/vergunningen/leegstandwetvergunning",
+    "title": "Leegstandwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/werken/uitkering/fraude-met-uitkeringen",
+    "title": "Fraude met uitkeringen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/bestuur/informatieverzoek-wet-open-overheid",
+    "title": "Wet open overheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/parkeren/bezoeker/oplaadpunten-elektrische-autos",
+    "title": "Oplaadpunten elektrische auto's",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/verklaring-omtrent-het-gedrag",
+    "title": "Verklaring Omtrent het Gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/uittreksel-burgerlijke-stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/slapen-in-bijzonder-gebouw",
+    "title": "Slapen in bijzonder gebouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://veilig.almere.nl/beleid-cijfers-en-convenanten/keurmerk-veilig-uitgaan",
+    "title": "Keurmerk Veilig Uitgaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/persoonsgegevens",
+    "title": "Persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/parkeren/bewoner",
+    "title": "Parkeren bewoner",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/vergunningen/ontheffing-rijden-op-busbanen-voetpaden-en-fietspaden",
+    "title": "Ontheffing rijden op busbanen, voetpaden en fietspaden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/parkeren/gehandicapten",
+    "title": "Parkeren gehandicapten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/vergunningen/evenementenvergunning",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/kopie-waarmerken",
+    "title": "Kopie waarmerken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/belastingen/bezwaar-maken",
+    "title": "Bezwaar gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://veilig.almere.nl/veel-voorkomende-criminaliteit",
+    "title": "Veel voorkomende criminaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/werken/hulp-als-je-te-weinig-geld-hebt/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/vergunningen/flyeren",
+    "title": "Voorwaarden flyeren in Almere",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://almeersekei.almere.nl",
+    "title": "Almeerse keien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/belastingen/belastingen-betalen",
+    "title": "Gemeentelijke belastingen betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/nederlandse-nationaliteit-aanvragen/naturalisatieceremonie",
+    "title": "Naturalisatieceremonie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieceremonie"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/geboorte/erkenning-kind",
+    "title": "Erkenning kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.almere.nl/subsidies/wijkbudget",
+    "title": "Wijkbudget",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/contact/afspraak-maken",
+    "title": "Afspraak maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezafspr"
+  },
+  {
+    "identifier": "https://www.almere.nl/bestuur/bestemmingsplannen",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/paspoort/vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.almere.nl/belastingen/kwijtschelding-aanvragen",
+    "title": "Kwijtschelding gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/paspoort/geldig-identiteitsbewijs",
+    "title": "Geldig identiteitsbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/geboorte",
+    "title": "Geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/uittreksel-burgerlijke-stand/bewijs-van-in-leven-zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/vergunningen/kennisgeving-demonstratie-of-betoging",
+    "title": "Demonstratie, betoging of manifestatie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/vergunningen/speelautomaten",
+    "title": "Speelautomaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.almere.nl/burgerzaken/verhuizen/verhuizen-naar-het-buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  },
+  {
+    "identifier": "https://www.almere.nl/bouwen/vergunningen-toezicht-handhaving/sonderen",
+    "title": "Sonderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Almere_(gemeente)"
+  }
+]

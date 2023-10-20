@@ -1,0 +1,594 @@
+[
+  {
+    "identifier": "https://www.hollandskroon.nl/ontwikkelen/bestemmingsplannen/planschade-schadevergoeding",
+    "title": "Planschade, schadevergoeding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/rijbewijs/rijbewijs-verloren-of-gestolen",
+    "title": "Rijbewijs verloren of gestolen?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/bouw-verbouw-en-wonen/vergunning-of-vergunningsvrij",
+    "title": "Vergunning of vergunningsvrij?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/wmo-zorg-en-jeugd/dyslexie",
+    "title": "Dyslexie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/ondernemers/uitkering/bijstandsuitkering-voor-zelfstandigen-aanvragen-bbz",
+    "title": "Bijstandsuitkering voor zelfstandigen aanvragen (Bbz)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/paspoort-en-id-kaart/identiteitskaart-aanvragenvernieuwen",
+    "title": "Identiteitskaart aanvragen/vernieuwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/gehandicaptenparkeerkaart-en-plaats/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/uitkering/wijzigingen-doorgeven/wijzigingen-doorgeven-inkomen-en-bijstand",
+    "title": "Wijzigingen doorgeven inkomen en bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/bouw-verbouw-en-wonen/reageren-op-omgevingsvergunning-of-bestemmingsplan",
+    "title": "Reageren op omgevingsvergunning of bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/afval/afval-inzamelen",
+    "title": "Afval inzamelen HVC",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/bouw-verbouw-en-wonen/urgentiebesluit",
+    "title": "Urgentiebesluit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/melding-klacht-bezwaar-en-fixi/bezwaar-maken-aanvullen-of-intrekken",
+    "title": "Bezwaar maken, aanvullen of intrekken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/paspoort-en-id-kaart/paspoort-aanvragenvernieuwen",
+    "title": "Paspoort aanvragen/vernieuwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/ontwikkelen/bestemmingsplannen/principeverzoek",
+    "title": "Principeverzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/verhuizen-en-inschrijven/inschrijven-verhuizing-doorgeven",
+    "title": "Inschrijven, verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/gehandicaptenparkeerkaart-en-plaats/vermissing-gehandicaptenparkeerkaart",
+    "title": "Vermissing gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/ondernemers/vergunningen/horeca",
+    "title": "Horeca exploitatievergunning en alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/extra-bij-laag-inkomen-bijzondere-bijstand/individuele-inkomenstoeslag-aanvragen",
+    "title": "Individuele inkomenstoeslag aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/algemene-plaatselijke-verordening/collectevergunning",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/wmo-zorg-en-jeugd/persoonsgebonden-budget",
+    "title": "Persoonsgebonden budget",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgebonden_budget"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/uittreksels-en-verklaringen/uittreksel-uit-de-basisregistratie-personen-brp",
+    "title": "Uittreksel uit de Basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/verhuizen-en-inschrijven/verhuizing-naar-het-buitenland-emigreren",
+    "title": "Verhuizing naar het buitenland, emigreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/bouw-verbouw-en-wonen/welstand",
+    "title": "Welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/algemene-plaatselijke-verordening/standplaats-vergunning",
+    "title": "Standplaats, vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/ondernemers/arbeidsmigranten/arbeidsmigranten-huisvesten",
+    "title": "Arbeidsmigranten huisvesten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/geboorte-en-erkenning/naamskeuze-kinderen",
+    "title": "Naamskeuze kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/uittreksels-en-verklaringen/verklaring-omtrent-het-gedrag-vog",
+    "title": "Verklaring Omtrent het Gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/algemene-plaatselijke-verordening/ontheffing-geluid",
+    "title": "Ontheffing geluid ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/uittreksels-en-verklaringen/aangifte-doen-van-overlijden",
+    "title": "Aangifte doen van overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/wmo-zorg-en-jeugd/volledige-leerplicht-en-kwalificatieplicht",
+    "title": "Volledige leerplicht en kwalificatieplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/afval/aanvragen-neenee-of-ja-sticker",
+    "title": "Aanvragen nee/nee of JA-sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/uitkering/uitkering-aanvragen/bijstandsuitkering-aanvragen",
+    "title": "Bijstandsuitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/algemene-plaatselijke-verordening/speelautomaten",
+    "title": "Speelautomaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/paspoort-en-id-kaart/paspoort-aanvragen-jonger-dan-18-jaar",
+    "title": "Paspoort aanvragen jonger dan 18 jaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/sport-en-cultuur/jeugdlintje-aanvragen",
+    "title": "Jeugdlintje aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/uittreksels-en-verklaringen/burgerlijke-stand-afschrift-van-de-akte",
+    "title": "Burgerlijke stand, afschrift van de akte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/extra-bij-laag-inkomen-bijzondere-bijstand/bijzondere-bijstand-aanvragen",
+    "title": "Bijzondere bijstand aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/bouw-verbouw-en-wonen/leegstandwet-woning-tijdelijk-verhuren",
+    "title": "Leegstandwet, woning tijdelijk verhuren ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/bouw-of-verbouw/opvragen-bouwdossier",
+    "title": "Opvragen (bouw)dossier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/geboorte-en-erkenning/aangifte-geboorte",
+    "title": "Aangifte geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/algemene-plaatselijke-verordening/kleine-kansspelactiviteiten-organiseren",
+    "title": "Kleine kansspelactiviteiten organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/trouwen-en-partnerschap/verzoek-wijzigen-naamgebruik",
+    "title": "Verzoek wijzigen naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/bouw-verbouw-en-wonen/slopen-van-gebouw-of-woning-sloopmelding",
+    "title": "Slopen van gebouw of woning (sloopmelding)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/begraven/urn-bijzetten-of-as-verstrooien",
+    "title": "Urn bijzetten of as verstrooien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/melding-klacht-bezwaar-en-wob/aansprakelijkstelling-gemeente",
+    "title": "Aansprakelijkstelling gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/verhuizen-en-inschrijven/starterslening-hollands-kroon",
+    "title": "Starterslening Hollands Kroon",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/geboorte-en-erkenning/ouderlijk-gezag",
+    "title": "Ouderlijk gezag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/bestuur/woo-verzoeken/verzoek-who/wet-hergebruik-overheidsinformatie-who",
+    "title": "Wet hergebruik overheidsinformatie (WHO)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/rijbewijs/rijbewijs-digitaal-aanvragen-bij-rdw",
+    "title": "Rijbewijs digitaal aanvragen bij RDW",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/geboorte-en-erkenning/registratie-levenloos-geboren-kinderen",
+    "title": "Registratie levenloos geboren kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/begraven/nieuwe-rechthebbende-na-overlijden-rechthebbende",
+    "title": "Nieuwe rechthebbende na overlijden rechthebbende",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/uittreksels-en-verklaringen/attestatie-de-vita-bewijs-van-in-leven-zijn",
+    "title": "Attestatie de vita / bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/begraven/grafrechten-verlengen-janee",
+    "title": "Grafrechten verlengen ja/nee",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/bouw-of-verbouw/asbest-verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/begraven/afstand-doen-van-grafrechten",
+    "title": "Afstand doen van grafrechten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/geboorte-en-erkenning/naamskeuze-bij-erkenning",
+    "title": "Naamskeuze bij erkenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamskeuzeverklaring"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/begraven/overdragen-van-grafrechten-aan-nieuwe-rechthebbende",
+    "title": "Overdragen van grafrechten aan nieuwe rechthebbende",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/rijbewijs/rijbewijs-verlengen-of-vervangen",
+    "title": "Rijbewijs verlengen of vervangen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/belasting-en-heffing/kwijtschelding-belastingen-en-heffingen/kwijtschelding-belastingen-en",
+    "title": "Kwijtschelding belastingen en heffingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/wmo-zorg-en-jeugd/wijkteam-hollands-kroon",
+    "title": "Wijkteam Hollands Kroon",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/uitkering/uitkering-aanvragen/uitkering-voor-oudere-en-arbeidsongeschikte-zelfstandigen",
+    "title": "Uitkering voor oudere en arbeidsongeschikte zelfstandigen (IOAZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/openbare-ruimte/restgrond-of-snippergroen",
+    "title": "Restgrond of snippergroen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/onderwijs-en-kinderopvang/scholen-kinderdagverblijven-peuterspeelzalen",
+    "title": "Scholen, kinderdagverblijven, peuterspeelzalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/uittreksels-en-verklaringen/verklaring-omtrent-het-gedrag-voor-vrijwilligers-gratis",
+    "title": "Verklaring Omtrent het Gedrag voor vrijwilligers (gratis)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/belasting-en-heffing/woz-waarde/woz-waarde",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/trouwen-en-partnerschap/trouwen-of-geregistreerd-partnerschap",
+    "title": "Trouwen of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/gehandicaptenparkeerkaart-en-plaats/gehandicaptenparkeerkaart-verlengen",
+    "title": "Gehandicaptenparkeerkaart verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/algemene-plaatselijke-verordening/evenement-organiseren-melding-of-vergunning",
+    "title": "Evenement organiseren, melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/ondernemers/recreatie-toerisme/toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/paspoort-en-id-kaart/identiteitskaart-aanvragen-jonger-dan-18-jaar",
+    "title": "Identiteitskaart aanvragen jonger dan 18 jaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/wmo-zorg-en-jeugd/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/begraven/opgraven-voor-een-crematie",
+    "title": "Opgraven voor een crematie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/paspoort-en-id-kaart/toestemmingsformulier-digitaal-voor-reisdocument",
+    "title": "Toestemmingsformulier digitaal voor reisdocument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/uittreksels-en-verklaringen/bezoek-uit-het-buitenland-ontvangen-garantstelling",
+    "title": "Bezoek uit het buitenland ontvangen (garantstelling)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/uitkering/heronderzoek/heronderzoek-bijstand",
+    "title": "Heronderzoek bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/trouwen-en-partnerschap/trouwen-in-het-buitenland",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/melding-klacht-bezwaar-en-fixi/klacht-over-de-gemeente",
+    "title": "Klacht over de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/algemene-plaatselijke-verordening/loterij-organiseren",
+    "title": "Loterij organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/rijbewijs/rijbewijs-eerste-aanvraag",
+    "title": "Rijbewijs, eerste aanvraag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/sport-en-cultuur/koninklijke-onderscheiding-lintje-aanvragen",
+    "title": "Koninklijke onderscheiding (lintje) aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/uittreksels-en-verklaringen/geheimhouding-persoonsgegevens-verzoek",
+    "title": "Geheimhouding persoonsgegevens, verzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/gevonden-en-verloren/melden-van-gevonden-en-verloren-voorwerpen",
+    "title": "Melden van gevonden en verloren voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/uitkering/uitkering-aanvragen/bijstandsuitkering-voor-oudere-en-arbeidsongeschikte",
+    "title": "Bijstandsuitkering voor oudere en arbeidsongeschikte werklozen (IOAW)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/verhuizen-en-inschrijven/verhuizing-vanuit-het-buitenland-immigreren",
+    "title": "Verhuizing vanuit het buitenland, immigreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/gehandicaptenparkeerkaart-en-plaats/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/uitkering/wijzigingen-doorgeven/inkomsten-doorgeven",
+    "title": "Inkomsten doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/paspoort-en-id-kaart/paspoort-of-identiteitskaart-verloren-of-gestolen",
+    "title": "Paspoort of identiteitskaart, verloren of gestolen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/geboorte-en-erkenning/erkenning-kind-aanvragen",
+    "title": "Erkenning kind, aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/paspoort-en-id-kaart/paspoort-tweede",
+    "title": "Paspoort, tweede",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/bouw-of-verbouw/wijzigen-status-omgevingsvergunning",
+    "title": "Start- en gereedmelding van werkzaamheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/extra-bij-laag-inkomen-bijzondere-bijstand/studietoeslag-voor-studenten-met",
+    "title": "Studietoeslag voor studenten met arbeidsbeperking ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/verhuizen-en-inschrijven/briefadres-aanvragen",
+    "title": "Briefadres aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/bouw-verbouw-en-wonen/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/rijbewijs/rijbewijs-eigen-verklaringgezondheidsverklaring",
+    "title": "Rijbewijs, eigen verklaring/gezondheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  },
+  {
+    "identifier": "https://www.hollandskroon.nl/inwoners/rijbewijs/buitenlands-rijbewijs-omwisselen",
+    "title": "Buitenlands rijbewijs omwisselen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Hollands_Kroon"
+  }
+]

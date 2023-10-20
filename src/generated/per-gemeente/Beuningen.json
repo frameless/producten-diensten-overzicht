@@ -1,0 +1,625 @@
+[
+  {
+    "identifier": "https://www.beuningen.nl/uittreksels_en_verklaringen/handtekening_legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/projecten/Tweede_Kamerverkiezingen_2023/Stembureaus",
+    "title": "Stembureaus",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/Omgeving/Riool/Verstopt_riool",
+    "title": "Verstopt riool",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bouwen_en_wonen/kavel_kopen",
+    "title": "Kavel kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/werk_en_uitkering/werk_of_vrijwilligerswerk_zoeken",
+    "title": "Werk of vrijwilligerswerk zoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/projecten/Tweede_Kamerverkiezingen_2023/Iemand_anders_voor_u_laten_stemmen",
+    "title": "Iemand anders voor u laten stemmen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/geboorte_trouwen_en_overlijden/erkennen_van_een_kind",
+    "title": "Erkennen van een kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/verhuizen/Verhuizen_vanuit_het_buitenland_immigratie",
+    "title": "Verhuizen vanuit het buitenland (immigratie)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/uittreksels_en_verklaringen/uittreksel_basisregistratie_personen_BRP",
+    "title": "Uittreksel basisregistratie personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/Klachten_en_meldingen/discriminatie",
+    "title": "Discriminatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/Omgeving/Verkeer_en_vervoer/gladheidsbestrijding",
+    "title": "Gladheidsbestrijding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bouwen_en_wonen/toekomstbestendig_wonen_lening",
+    "title": "Toekomstbestendig Wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/configuratie/Overige_configuratie/Ondersteunende_navigatie_footer/contact_en_openingstijden",
+    "title": "Contact en openingstijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bouwen_en_wonen/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/Omgeving/Verkeer_en_vervoer/Elektrisch_rijden/Laadpaal_aanvragen",
+    "title": "Laadpaal aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/onderwijs_jeugd_en_sport/gastouderopvang_kinderopvang",
+    "title": "Kinderopvang en gastouderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/zorg_en_ondersteuning/hulp_wet_maatschappelijk_ondersteuning",
+    "title": "Hulp Wet maatschappelijk ondersteuning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/geboorte_trouwen_en_overlijden/aangifte_overlijden",
+    "title": "Aangifte overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/onderwijs_jeugd_en_sport/Leerlingenvervoer_2023_2024",
+    "title": "Leerlingenvervoer 2023-2024",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/werk_en_uitkering/geldzorgen",
+    "title": "Geldzorgen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/vergunningen/Bingo",
+    "title": "Bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bestuur_en_organisatie/koninklijke_en_gemeentelijke_onderscheidingen",
+    "title": "Koninklijke- en gemeentelijke onderscheidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/werk_en_uitkering/Individuele_inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/recreatie_toerisme_cultuur/koopzondagen",
+    "title": "Koopzondagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koopzondageninformatie"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/geboorte_trouwen_en_overlijden/aangifte_geboorte",
+    "title": "Aangifte geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/vergunningen/Wijziging_exploitatievergunning_en_alcoholvergunning",
+    "title": "Wijziging exploitatievergunning en alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/vergunningen/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/Klachten_en_meldingen/gevonden_en_verloren_voorwerpen",
+    "title": "Gevonden en verloren voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bouwen_en_wonen/Inzage_bouwtekeningen_en_bouwplannen",
+    "title": "Inzage bouwtekeningen en bouwplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/paspoort_ID_kaart_en_rijbewijs/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/Omgeving/Riool/rioolaansluiting",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/Omgeving/Verkeer_en_vervoer/fiets_en_voetveer",
+    "title": "Fiets- en voetveer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/Klachten_en_meldingen/drones",
+    "title": "Drones",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/projecten/Tweede_Kamerverkiezingen_2023/Stemmen_vanuit_het_buitenland",
+    "title": "Stemmen vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stemmen_per_brief"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/uittreksels_en_verklaringen/bewijs_van_in_leven_zijn_attestatie_de_vita",
+    "title": "Bewijs van in leven zijn (attestatie de vita)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/vergunningen/vuur_stoken",
+    "title": "Vuur stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bestuur_en_organisatie/Wet_open_overheid_Woo_indienen",
+    "title": "Woo-verzoek indienen ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/uittreksels_en_verklaringen/verklaring_omtrent_gedrag_VOG",
+    "title": "Verklaring omtrent gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bestuur_en_organisatie/bezwaar_en_beroep",
+    "title": "Bezwaar en beroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/Omgeving/Groen/Stimuleringsregeling_afkoppeling_hemelwater",
+    "title": "Stimuleringsregeling afkoppeling hemelwater",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/ondernemen/Bijstand_voor_zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/uittreksels_en_verklaringen/uittreksel_burgerlijke_stand",
+    "title": "Uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/configuratie/Overige_configuratie/Ondersteunende_navigatie_footer/afspraak_maken",
+    "title": "Afspraak maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezafspr"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bestuur_en_organisatie/subsidies_en_leningen",
+    "title": "Subsidies en leningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/werk_en_uitkering/studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/afval/afvalpas",
+    "title": "Afvalpas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalpas"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/paspoort_ID_kaart_en_rijbewijs/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/vergunningen/milieumelding",
+    "title": "Milieumelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/projecten/Tweede_Kamerverkiezingen_2023/Stemmen_in_een_andere_gemeente_in_Nederland",
+    "title": "Stemmen in een andere gemeente in Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/vergunningen/Exploitatievergunning",
+    "title": "Exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/geboorte_trouwen_en_overlijden/grafuitgifte",
+    "title": "Grafuitgifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grafuitgifte"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bouwen_en_wonen/Principeverzoek",
+    "title": "Principeverzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/verhuizen/Adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/uittreksels_en_verklaringen/Geheimhouding_persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bouwen_en_wonen/bestemmingsplannen",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/zorg_en_ondersteuning/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bouwen_en_wonen/Toekomstbestendig_Wonen_lening_VvE",
+    "title": "Toekomstbestendig Wonen lening VvE ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/vergunningen/evenement_organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/verhuizen/Moving_from_abroad_immigration",
+    "title": "Moving from abroad (immigration)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/geboorte_trouwen_en_overlijden/Levenloos_geboren_kind",
+    "title": "Levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/afval/antireclamesticker",
+    "title": "Antireclamesticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/werk_en_uitkering/Brede_ondersteuning_gedupeerden_kinderopvangtoeslagaffaire",
+    "title": "Brede ondersteuning gedupeerden kinderopvangtoeslagaffaire ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/verhuizen/verhuizing_doorgeven",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/projecten/Tweede_Kamerverkiezingen_2023/Stempas",
+    "title": "Stempas kwijt of niet ontvangen?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/geboorte_trouwen_en_overlijden/trouwen_of_geregistreerd_partnerschap",
+    "title": "Trouwen of geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/Klachten_en_meldingen/ambtenaren_en_bestuurders",
+    "title": "Ambtenaren en bestuurders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bouwen_en_wonen/monumentensubsidie",
+    "title": "Monumentensubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/vergunningen/Wijziging_leidinggevende_alcoholvergunning",
+    "title": "Wijziging leidinggevende alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/Klachten_en_meldingen/melding_omgeving",
+    "title": "Melding omgeving doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bouwen_en_wonen/sloop_melden",
+    "title": "Sloop melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/vergunningen/kansspelautomaten_plaatsen",
+    "title": "Kansspelautomaten plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bestuur_en_organisatie/Demonstratie_melden",
+    "title": "Demonstratie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/werk_en_uitkering/fraude_uitkering_melden",
+    "title": "Fraude uitkering melden ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/werk_en_uitkering/wijziging_melden_bijstandsuitkering",
+    "title": "Wijziging melden bijstandsuitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/verhuizen/vertrek_naar_het_buitenland_emigratie",
+    "title": "Vertrek naar het buitenland (emigratie)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/projecten/Tweede_Kamerverkiezingen_2023/Verhuizen_en_stemmen",
+    "title": "Verhuizen en stemmen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bouwen_en_wonen/energieloket_beuningen",
+    "title": "Energieloket Beuningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/geboorte_trouwen_en_overlijden/naamgebruik",
+    "title": "Naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naamgebruik_verzoek_aanduiding"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/vergunningen/Alcoholvergunning",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/vergunningen/Loterij_organiseren",
+    "title": "Loterij organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/werk_en_uitkering/uitkering_aanvragen",
+    "title": "Uitkering aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/paspoort_ID_kaart_en_rijbewijs/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/Omgeving/Verkeer_en_vervoer/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bouwen_en_wonen/bouwen_en_verbouwen",
+    "title": "Bouwen en verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/geboorte_trouwen_en_overlijden/echtscheiding",
+    "title": "Echtscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bestuur_en_organisatie/jeugdlintje",
+    "title": "Jeugdlintje",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/vergunningen/Collecteren",
+    "title": "Collecteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/uittreksels_en_verklaringen/garantstelling_visum_kort_verblijf",
+    "title": "Garantstelling, visum kort verblijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/vergunningen/standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/afval/afvalinzameling",
+    "title": "Afvalinzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/verhuizen/briefadres",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/bouwen_en_wonen/vergoeding_planschade",
+    "title": "Vergoeding planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/geboorte_trouwen_en_overlijden/omzetting_geregistreerd_partnerschap_in_huwelijk",
+    "title": "Omzetten geregistreerd partnerschap in huwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/zorg_en_ondersteuning/leen_een_duofiets",
+    "title": "Leen een duofiets",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/werk_en_uitkering/bijzondere_bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzondere_bijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/Omgeving/Verkeer_en_vervoer/Parkeerontheffing",
+    "title": "Parkeerontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://www.beuningen.nl/onderwijs_jeugd_en_sport/leerplicht",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Beuningen_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  }
+]

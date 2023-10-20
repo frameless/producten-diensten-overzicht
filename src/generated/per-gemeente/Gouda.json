@@ -1,0 +1,2820 @@
+[
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-gezond-in-gouda/",
+    "title": "Subsidie Gezond in Gouda",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/wmo-pas-voor-korting-op-groeneharthopper/",
+    "title": "Wmo-pas voor korting op GroeneHartHopper",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-peuteropvang-en-voorschoolse-educatie/",
+    "title": "Subsidie peuteropvang en voorschoolse educatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/u-en-de-gemeente/aansprakelijkstelling-van-de-gemeente/",
+    "title": "Aansprakelijkstelling van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/correctie-of-aanvulling-persoonsgegevens-brp/",
+    "title": "Correctie of aanvulling persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brp-wijzigingsverzoek"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/ontheffing-verkeersregels/",
+    "title": "Ontheffing verkeersregels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/afvalinzameling-in-de-wijk/",
+    "title": "Afvalinzameling in de wijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/vergunning-kledinginzameling/",
+    "title": "Vergunning kledinginzameling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-lantaarnpaal/",
+    "title": "Melding lantaarnpaal",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/vergoeding-poortverlichting/",
+    "title": "Vergoeding poortverlichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/groen-water-en-dieren/aanmelding-bijenveld/",
+    "title": "Aanmelding bijenveld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/bouwen-en-verbouwen/vooroverleg/",
+    "title": "Vooroverleg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vooroverleg"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/verduurzamen/gratis-advies-duurzaam-maken-bedrijf/",
+    "title": "Gratis advies duurzaam maken bedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/participatieverklaring-als-onderdeel-van-de-inburgering/",
+    "title": "Participatieverklaring als onderdeel van de inburgering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/uw-woning/openbaar-groen-kopen-of-huren/",
+    "title": "Openbaar groen kopen of huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/parkeren-in-de-garage/",
+    "title": "Parkeren in de garage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerbelasting"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/recreatie-en-cultuur/havens-en-aanlegplaatsen/",
+    "title": "Havens en aanlegplaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/havenverordening"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/verzoek-maaien/",
+    "title": "Verzoek maaien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/u-en-de-gemeente/woo-verzoek/",
+    "title": "Woo-verzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/bouwen-en-verbouwen/welstandsadvies/",
+    "title": "Welstandsadvies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/evenementen-bezoeken/koningsdag/",
+    "title": "Koningsdag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/fiets-kwijt/",
+    "title": "Vermiste of gestolen fiets",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-openbaar-gebied/",
+    "title": "Melding openbaar gebied",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/openbaar-vervoer/",
+    "title": "Openbaar vervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geldzorgen-en-uitkering/maandoverzicht-en-jaaropgave-uitkering/",
+    "title": "Maandoverzicht en jaaropgave uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geldzorgen-en-uitkering/uitkering/",
+    "title": "Uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/verduurzamen/gratis-advies-duurzaam-verkeer/",
+    "title": "Gratis advies duurzaam verkeer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/u-en-de-gemeente/in-beroep-gaan/",
+    "title": "In beroep gaan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/beroep"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/bouwen-en-verbouwen/aanvraag-rioolaansluiting/",
+    "title": "Rioolaansluiting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-gouda-op-de-kaart/",
+    "title": "Subsidie Gouda op de kaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/evenementen-bezoeken/goudse-veteranendag/",
+    "title": "Goudse Veteranendag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/aanwijzing-vaste-trouwlocatie/",
+    "title": "Aanwijzing vaste trouwlocatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/trouwlocatie"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/groen-water-en-dieren/uw-hond/",
+    "title": "Uw hond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbesluit"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/advies-hout-stoken/",
+    "title": "Advies hout stoken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/korting-met-rotterdampas/rotterdampas-student/",
+    "title": "Rotterdampas student",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stadspas"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/rijbewijs-omwisselen/",
+    "title": "Rijbewijs omwisselen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geldzorgen-en-uitkering/bijstand-voor-zelfstandigen/",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leren-en-spelen/scholen/beroepsonderwijs/",
+    "title": "Beroepsonderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/wijziging-aanschrijfnaam/",
+    "title": "Wijziging aanschrijfnaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/groen-water-en-dieren/rioolonderhoud/",
+    "title": "Rioolonderhoud",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/u-en-de-gemeente/gemeentepaginas-goudse-post/",
+    "title": "Gemeentepagina's Het Kontakt/Goudse Post",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/verkiezingen/stemmen-met-een-beperking/",
+    "title": "Stemmen met een beperking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-volksfeesten/",
+    "title": "Subsidie Volksfeesten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/melding-wijziging-leidinggevende-horeca/",
+    "title": "Melding wijziging leidinggevende horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/begraven-of-cremeren/",
+    "title": "Begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leren-en-spelen/leerlingenvervoer/leerlingenvervoer/",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/bouwen-en-verbouwen/huisnummer/",
+    "title": "Huisnummer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geld-aan-de-gemeente-betalen/woz-waarde/",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-speelplekken/",
+    "title": "Melding speelplekken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/parkeervergunning-mantelzorger/",
+    "title": "Parkeervergunning mantelzorger",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/scootmobiel/",
+    "title": "Scootmobiel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/korting-met-rotterdampas/verlenging-rotterdampas/",
+    "title": "Verlenging Rotterdampas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stadspas"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/uw-woning/verhuurvergunning-woning/",
+    "title": "Verhuurvergunning woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/verhuizen/verhuizing-naar-het-buitenland/",
+    "title": "Verhuizing naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/verkiezingen/stemmen-in-een-andere-gemeente-kiezerspas/",
+    "title": "Stemmen in een andere gemeente (kiezerspas)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kiezerspas"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geld-aan-de-gemeente-betalen/afvalstoffenheffing/",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/vergoeding-regenton/",
+    "title": "Vergoeding regenton",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/verhuizen/verhuizing/",
+    "title": "Verhuizing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/verhuizen/briefadres/",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/speelautomatenvergunning/",
+    "title": "Kansspelautomatenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/rolstoel/",
+    "title": "Rolstoel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/uitstallingsvergunning/",
+    "title": "Uitstallingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geldzorgen-en-uitkering/energietoeslag/",
+    "title": "Energietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/extras-bij-laag-inkomen/vergoeding-schoolkosten-voor-kinderen-van-4-tot-en-met-17-jaar/",
+    "title": "Vergoeding schoolkosten voor kinderen van 4 tot en met 17 jaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/evenement-organiseren/evenementenvergunning/",
+    "title": "Evenementenvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/burgerservicenummer-bsn/",
+    "title": "Burgerservicenummer (BSN)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/overlast/melding-milieuoverlast/",
+    "title": "Melding milieuoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/veiligheid/lhbtiq-in-gouda/",
+    "title": "LHBTIQ+ in Gouda",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/verkiezingen/iemand-anders-voor-u-laten-stemmen-volmacht/",
+    "title": "Iemand anders voor u laten stemmen (volmacht)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/gegevens-over-de-stad/kaarten-en-open-data/",
+    "title": "Kaarten en open data",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/veiligheid/melding-vermoeden-zorgfraude/",
+    "title": "Melding vermoeden zorgfraude",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/gedenkteken/",
+    "title": "Gedenkteken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/bouwen-en-verbouwen/voorstel-nieuwe-straatnaam/",
+    "title": "Voorstel nieuwe straatnaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-grondwater/",
+    "title": "Melding grondwater",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/korting-met-rotterdampas/vakantiepaspoort/",
+    "title": "Vakantiepaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stadspas"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-energiekosten-maatschappelijke-organisatie/",
+    "title": "Subsidie energiekosten maatschappelijke organisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/oude-medicijnen/",
+    "title": "Oude medicijnen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/extras-bij-laag-inkomen/sporten-met-korting/",
+    "title": "Sporten met korting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-waterplanten/",
+    "title": "Melding waterplanten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/gemeentelijke-locatie-gebruiken/reservering-muziektent-houtmansplantsoen/",
+    "title": "Reservering muziektent Houtmansplantsoen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/vreemdelingenpaspoort/",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/vrijwilligerswerk/vrijwilligerscursus-volgen/",
+    "title": "Vrijwilligerscursus volgen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/hulp-van-de-zorgmarinier/",
+    "title": "Hulp van de zorgmarinier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/evenement-organiseren/melding-brandveilig-gebruiken-niet-bouwwerk/",
+    "title": "Melding brandveilig gebruiken niet-bouwwerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/verkeersmaatregel/",
+    "title": "Verkeersmaatregel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verkeersbesluit"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/echtscheiding-melden/",
+    "title": "Echtscheiding melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/trouwen-in-het-buitenland/",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/groen-water-en-dieren/monumentale-bomen/",
+    "title": "Monumentale bomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/recht-op-privacy/",
+    "title": "Recht op privacy",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/vluchtelingenpaspoort/",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-zieke-boom-of-plant/",
+    "title": "Melding zieke boom of plant",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/gemeentelijke-locatie-gebruiken/stopzetten-huurcontract/",
+    "title": "Stopzetten huurcontract",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-jubileum-maatschappelijke-organisatie/",
+    "title": "Subsidie jubileum maatschappelijke organisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/erkenning-kind-voor-geboorte/",
+    "title": "Erkenning kind voor geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geld-aan-de-gemeente-betalen/precariobelasting/",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/u-en-de-gemeente/wandelen-met-de-wethouder/",
+    "title": "Wandelen met de wethouder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/uitstel-begrafenis-of-crematie/",
+    "title": "Uitstel begrafenis of crematie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/extras-bij-laag-inkomen/vergoeding-laptop-tablet-voor-kinderen-op-het-vervolgonderwijs/",
+    "title": "Vergoeding laptop/tablet voor kinderen op het vervolgonderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geldzorgen-en-uitkering/verplichtingen-bij-uitkering/",
+    "title": "Verplichtingen bij uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/verkiezingen/uw-stem-uitbrengen/",
+    "title": "Uw stem uitbrengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/veiligheid/aanmelding-vakantieservice/",
+    "title": "Aanmelding vakantieservice",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leren-en-spelen/scholen/speciaal-onderwijs/",
+    "title": "Speciaal onderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geld-aan-de-gemeente-betalen/hondenbelasting/",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/verkiezingen/aanmelding-stembureaulid-of-stemmenteller/",
+    "title": "Aanmelding stembureaulid of stemmenteller",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/uittreksel-brp/",
+    "title": "Uittreksel BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brp-uittreksel"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/laden-en-lossen/",
+    "title": "Laden en lossen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/wijziging-registratie-niet-ingezetene-rni/",
+    "title": "Wijziging registratie niet-ingezetene (RNI)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/parkeervergunning-bewoner/",
+    "title": "Parkeervergunning bewoner",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/gezondheidsverklaring-rijbewijs/",
+    "title": "Gezondheidsverklaring rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/meedoen/opschoondag/",
+    "title": "Opschoondag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-onderzoek-gemeentelijk-monument/",
+    "title": "Subsidie onderzoek gemeentelijk monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/veiligheid/melding-ondermijnende-criminaliteit/",
+    "title": "Melding vermoeden ondermijnende criminaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/stopzetten-vergunning-of-ontheffing/",
+    "title": "Stopzetten vergunning of ontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/veiligheid/stadsmarinier/",
+    "title": "Stadsmarinier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/recreatie-en-cultuur/koopzondagen/",
+    "title": "Koopzondagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/koopzondageninformatie"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/erkenning-kind-na-geboorte/",
+    "title": "Erkenning kind na geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/attestatie-de-vita-internationaal-bewijs-van-in-leven-zijn/",
+    "title": "Attestatie de vita (internationaal bewijs van in leven zijn)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/evenement-organiseren/ontheffing-straatartiest/",
+    "title": "Ontheffing straatartiest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/uw-woning/urgentieverklaring/",
+    "title": "Urgentieverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/ruimtelijke-plannen/ruimtelijke-plannen/",
+    "title": "Ruimtelijke plannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwplaninzage"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/grof-huishoudelijk-afval/",
+    "title": "Grof huishoudelijk afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geld-aan-de-gemeente-betalen/afvalboete/",
+    "title": "Verkeerd aangeboden afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/gemeentelijke-locatie-gebruiken/melding-gebrek-huurpand/",
+    "title": "Melding gebrek huurpand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/keuze-achternaam-kind/",
+    "title": "Keuze achternaam kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-groene-daken/",
+    "title": "Subsidie groene daken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/hulp-van-het-sociaal-team-voor-mantelzorgers/",
+    "title": "Hulp van het sociaal team voor mantelzorgers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geldzorgen-en-uitkering/hulp-na-toeslagenaffaire/",
+    "title": "Hulp na toeslagenaffaire",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/aanvraag-uittreksel-rni/",
+    "title": "Uittreksel RNI",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/waarmerken-kopie-of-afschrift/",
+    "title": "Waarmerken kopie of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/overlast/melding-vliegtuigoverlast/",
+    "title": "Melding vliegtuigoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/uw-woning/ligplaatsvergunning/",
+    "title": "Ligplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ligplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/gebruikt-textiel/",
+    "title": "Gebruikt textiel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leren-en-spelen/scholen/middelbare-scholen/",
+    "title": "Middelbare scholen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/u-en-de-gemeente/collegespreekuur/",
+    "title": "Collegespreekuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/bedrijf-starten/",
+    "title": "Bedrijf starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/herbegraven-of-alsnog-cremeren/",
+    "title": "Herbegraven of alsnog cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/meertalig-modelformulier/",
+    "title": "Meertalig modelformulier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/gft-afval/",
+    "title": "GFT-afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-wegen/",
+    "title": "Melding wegen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/bouwen-en-verbouwen/vergunning-gebruik-openbare-grond/",
+    "title": "Vergunning gebruik openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/verklaring-bewijs-van-in-leven-zijn/",
+    "title": "Verklaring (bewijs) van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/beschut-en-beschermd-wonen/",
+    "title": "Beschut en beschermd wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/huwelijk-of-geregistreerd-partnerschap-regelen/",
+    "title": "Huwelijk of geregistreerd partnerschap regelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/uw-woning/woning-kopen/",
+    "title": "Woning kopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/groen-water-en-dieren/boomcontroles/",
+    "title": "Boomcontroles",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/werk/uitstroompremie/",
+    "title": "Uitstroompremie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/re-integratie"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/vervangende-mantelzorg/",
+    "title": "Vervangende mantelzorg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leren-en-spelen/kinderopvang/voor-en-vroegschoolse-educatie-van-25-tot-4-jaar/",
+    "title": "Voor- en Vroegschoolse Educatie van 2,5 tot 4 jaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/exploitatievergunning-seksbedrijf/",
+    "title": "Vergunning seksbedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/gezondheid-en-zorg/vergoeding-kinderopvang-op-sociaal-medische-indicatie/",
+    "title": "Vergoeding kinderopvang op sociaal medische indicatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/afval-op-afspraak-aan-huis-laten-ophalen/",
+    "title": "Afval op afspraak (aan huis) laten ophalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/melding-zorg-of-overlast/",
+    "title": "Melding zorg of overlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/gratis-advies-zero-emissiezone-stadslogistiek/",
+    "title": "Gratis advies zero-emissiezone stadslogistiek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/dagbesteding/",
+    "title": "Dagbesteding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/restafvalzakken-binnenstad/",
+    "title": "Restafvalzakken binnenstad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/u-en-de-gemeente/vergoeding-planschade/",
+    "title": "Vergoeding planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/social-return-in-aanbestedingen/",
+    "title": "Social return in aanbestedingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/sport/sportakkoord/",
+    "title": "Sportakkoord",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geldzorgen-en-uitkering/melding-hulp-bij-werk-en-inkomen/",
+    "title": "Melding hulp bij werk en inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/coffeeshop-starten/",
+    "title": "Coffeeshop starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gedoogbeslissing"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-sterevenementen/",
+    "title": "Subsidie sterevenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/vrijwilligerswerk/vrijwilligerscursus-aanbieden/",
+    "title": "Vrijwilligerscursus aanbieden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/opvang-en-hulp/melding-bijna-dakloos/",
+    "title": "Melding (bijna) dakloos",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geld-aan-de-gemeente-betalen/rekening-van-de-gemeente/",
+    "title": "Rekening van de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/veiligheid/buurtpreventie/",
+    "title": "Buurtpreventie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/standplaatsvergunning-warenmarkt/",
+    "title": "Standplaatsvergunning warenmarkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/nederlander-worden/",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/bedrijf-vestigen-in-gouda/",
+    "title": "Bedrijf vestigen in Gouda",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/ventvergunning/",
+    "title": "Ventvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/uw-woning/verhuur-woning-aan-toeristen/",
+    "title": "Verhuur woning aan toeristen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/standplaatsvergunning/",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/verhuizen/huisvesting-bijzondere-doelgroep/",
+    "title": "Huisvesting bijzondere doelgroep",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/verzoek-snoeien/",
+    "title": "Verzoek snoeien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/restafval/",
+    "title": "Restafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/verduurzamen/duurzaam-maken-monument/",
+    "title": "Duurzaam maken monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/paspoort-of-identiteitskaart-kwijt-of-gestolen/",
+    "title": "Paspoort of identiteitskaart kwijt of gestolen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/projecten/gouda-werkt-aan-de-stad/",
+    "title": "Gouda werkt aan de stad",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/wijziging-zorg-via-de-gemeente/",
+    "title": "Wijziging zorg via de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-sportimpuls/",
+    "title": "Subsidie sportimpuls",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/sportactiviteitensubsidie"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/melding-zorgvraag/",
+    "title": "Melding zorgvraag (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-overlast-bomen/",
+    "title": "Melding overlast bomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/extras-bij-laag-inkomen/zorgverzekering-met-korting/",
+    "title": "Zorgverzekering met korting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/verduurzamen/gratis-energie-advies/",
+    "title": "Gratis energieadvies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/energiesubsidie"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/uw-woning/starterslening/",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/onderscheiding/onderscheiding-carnegie-heldenfonds/",
+    "title": "Onderscheiding Carnegie Heldenfonds",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/nee-nee-nee-ja-sticker/",
+    "title": "Ja-ja-sticker",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/ruimtelijke-plannen/bestemmingsplannen/",
+    "title": "Bestemmingsplannen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/evenementen-bezoeken/gouda-bij-kaarslicht/",
+    "title": "Gouda bij Kaarslicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/het-oude-gouda/oorlogsgravenconsul/",
+    "title": "Oorlogsgravenconsul",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/bouwen-en-verbouwen/funderingsherstel/",
+    "title": "Funderingsherstel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/verhuizen/aanmelding-oekraiense-vluchteling/",
+    "title": "Aanmelding Oekraïense vluchteling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/ontheffing-openingstijden-horeca/",
+    "title": "Ontheffing openingstijden horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/onderscheiding/sportpenning/",
+    "title": "Sportpenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/extras-bij-laag-inkomen/rotterdampas-met-korting-voor-kinderen-van-0-tot-en-met-17-jaar/",
+    "title": "Rotterdampas met korting voor kinderen van 0 tot en met 17 jaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stadspas"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/opgroeien-en-opvoeden/verlenging-jeugdhulp/",
+    "title": "Verlenging jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/veiligheid/wijkteams/",
+    "title": "Wijkteams",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/ontheffing-tijdelijk-alcohol-schenken/",
+    "title": "Ontheffing tijdelijk alcohol schenken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/meedoen/fotowedstrijd-wij-zijn-gouda/",
+    "title": "Fotowedstrijd 'Wij zijn Gouda'",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-onderhoud-gemeentelijk-monument/",
+    "title": "Subsidie onderhoud gemeentelijk monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/het-oude-gouda/archeologie/",
+    "title": "Archeologie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/aangifte-levenloos-geboren-kind/",
+    "title": "Aangifte levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/ruimtelijke-plannen/omgevingsplan/",
+    "title": "Omgevingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geldzorgen-en-uitkering/betaaldatum-uitkering/",
+    "title": "Betaling uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/evenement-organiseren/aanmelding-evenementenkalender/",
+    "title": "Aanmelding evenementenkalender",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/recreatie-en-cultuur/warenmarkt/",
+    "title": "Warenmarkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/marktvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/hulp-van-het-sociaal-team-voor-volwassenen/",
+    "title": "Hulp van het sociaal team voor volwassenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/werk/doelgroepverklaring-oudere-werknemers/",
+    "title": "Doelgroepverklaring oudere werknemer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/rekening-voor-de-gemeente/",
+    "title": "Rekening voor de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/grond-of-tuinaarde/",
+    "title": "Grond- of tuinaarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/extras-bij-laag-inkomen/rotterdampas-gezin-met-korting/",
+    "title": "Rotterdampas gezin met korting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stadspas"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/uw-mening/meedoen-aan-online-onderzoek/",
+    "title": "Meedoen aan online onderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/inburgering/",
+    "title": "Inburgering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/u-en-de-gemeente/klacht-over-de-gemeente/",
+    "title": "Klacht over de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-rijksmonument/",
+    "title": "Subsidie rijksmonument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentensubsidie"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/meedoen/tegeltaxi/",
+    "title": "Tegeltaxi",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/recreatie-en-cultuur/bruggen-en-sluizen/",
+    "title": "Bruggen en sluizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/klein-chemisch-afval/",
+    "title": "Klein chemisch afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/vergaderen-en-horeca/",
+    "title": "Vergaderen en horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-gladheid/",
+    "title": "Melding gladheid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/maatschappelijke-subsidie/",
+    "title": "Maatschappelijke subsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leren-en-spelen/kinderopvang/dagopvang-van-0-tot-4-jaar/",
+    "title": "Dagopvang van 0 tot 4 jaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/verloren-of-gevonden/melding-gevonden-voorwerp/",
+    "title": "Melding gevonden voorwerp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geldzorgen-en-uitkering/vakantiemelding-uitkering/",
+    "title": "Vakantiemelding uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/meedoen/groen-moet-je-doen/",
+    "title": "Groen moet je doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-japanse-duizendknoop/",
+    "title": "Melding Japanse duizendknoop",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/verhuizen/eerste-inschrijving-vanuit-het-buitenland/",
+    "title": "Eerste inschrijving vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/eerste-rijbewijs/",
+    "title": "Eerste rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/terrasvergunning/",
+    "title": "Terrasvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/vergoeding-hulp-bij-het-huishouden-voor-mantelzorger/",
+    "title": "Vergoeding hulp bij het huishouden voor mantelzorger",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/verklaring-onder-ede-of-belofte/",
+    "title": "Verklaring onder ede of belofte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/bouwen-en-verbouwen/melding-gebruik-openbare-grond/",
+    "title": "Melding gebruik openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/objectvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/wijziging-geslacht/",
+    "title": "Wijziging geslacht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geslachtswijzigingsaangifte"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/bewijs-of-verklaring-voor-aanvraag-valys-pas/",
+    "title": "Bewijs of verklaring voor aanvraag Valyspas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ziekenvervoer"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/vergoeding-sportinitiatief-goudse-sportakkoordpot/",
+    "title": "Vergoeding sportinitiatief Goudse Sportakkoordpot",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leren-en-spelen/kinderopvang/kinderdagverblijven/",
+    "title": "Kinderdagverblijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kindercentrum"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/trouwlocatie-voor-1-dag/",
+    "title": "Trouwlocatie voor 1 dag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/trouwlocatie"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/evenement-organiseren/verklaring-geen-bezwaar-wedstrijd-of-toertocht-op-de-weg/",
+    "title": "Verklaring geen bezwaar wedstrijd of toertocht op de weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/onderscheiding/koninklijke-onderscheiding-2/",
+    "title": "Koninklijke onderscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geld-aan-de-gemeente-betalen/korting-afvalstoffenheffing/",
+    "title": "Korting afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/overlast/melding-geluidsoverlast/",
+    "title": "Melding geluidsoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/afschrift-of-uittreksel-burgerlijke-stand/",
+    "title": "Afschrift of uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/u-en-de-gemeente/dwangsom-en-beroep-bij-te-laat-beslissen/",
+    "title": "Dwangsom en beroep bij te laat beslissen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/beroep"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geld-aan-de-gemeente-betalen/belastingen/",
+    "title": "Belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/evenement-organiseren/melding-demonstratie/",
+    "title": "Melding demonstratie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/verklaring-geen-schijnhuwelijk-2/",
+    "title": "Verklaring geen schijnhuwelijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/meedoen/opfleurvergoeding/",
+    "title": "Opfleurvergoeding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-verkeerslicht-of-stoplicht/",
+    "title": "Melding verkeerslicht of stoplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-volwassenenonderwijs/",
+    "title": "Subsidie volwassenenonderwijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/volwasseneneducatiesubsidie"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/gegevens-over-de-stad/gemeentearchief/",
+    "title": "Gemeentearchief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/evenement-organiseren/melding-evenement/",
+    "title": "Melding evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geldzorgen-en-uitkering/individuele-inkomenstoeslag/",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/exploitatievergunning-horeca/",
+    "title": "Exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/laadpaal-elektrische-auto/",
+    "title": "Laadpaal elektrische auto",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/laadpaalverzoek"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/extras-bij-laag-inkomen/kinderfonds-brede-school/",
+    "title": "Kinderfonds Brede School",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/u-en-de-gemeente/gemeentegids/",
+    "title": "Gemeentemagazine",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gemeentegids"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/veiligheid/stadstoezicht/",
+    "title": "Stadstoezicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-ondiep-water-baggeren/",
+    "title": "Melding ondiep water (baggeren)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/bibob-onderzoek/",
+    "title": "Bibob-onderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/integriteitsbeoordeling"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leren-en-spelen/kinderopvang/peuteropvang-van-2-jaar-en-3-maanden-tot-4-jaar/",
+    "title": "Peuteropvang van 2 jaar en 3 maanden tot 4 jaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/lening-nieuwe-functie-gemeentelijk-monument/",
+    "title": "Lening nieuwe functie gemeentelijk monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/begrafenis-of-crematie-via-de-gemeente/",
+    "title": "Begrafenis of crematie via de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leren-en-spelen/kinderopvang/kwaliteit-kinderopvang/",
+    "title": "Kwaliteit kinderopvang",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kindercentrum"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/parkeren-groot-voertuig/",
+    "title": "Parkeren groot voertuig",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/vrijwilligerswerk/vrijwilligers-voor-uw-organisatie-zoeken-en-ondersteunen/",
+    "title": "Vrijwilligers voor uw organisatie zoeken en ondersteunen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/onderscheiding/erepenning-van-de-stad-gouda/",
+    "title": "Erepenning van de stad Gouda",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/melding-reclamefolders/",
+    "title": "Melding reclamefolders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/antireclamesticker"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/werk/deeltijd-ondernemen-met-een-uitkering/",
+    "title": "Deeltijd ondernemen met een uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/ruimtelijke-plannen/omgevingsvisie/",
+    "title": "Omgevingsvisie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/verlenging-zorg-via-de-gemeente/",
+    "title": "Verlenging zorg via de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/ondernemersfonds/",
+    "title": "Ondernemersfonds",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/het-oude-gouda/binnenstad-en-monumenten/",
+    "title": "Binnenstad en monumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/ouderenvoorlichting/",
+    "title": "Ouderenvoorlichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/mobiel-parkeren/",
+    "title": "Mobiel parkeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerbelasting"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/parkeervergunning-bedrijf/",
+    "title": "Parkeervergunning bedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/overlast/melding-rookoverlast/",
+    "title": "Melding rookoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/ondernemersverenigingen/",
+    "title": "Ondernemersverenigingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/vergunning-deelvervoer/",
+    "title": "Vergunning deelvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/opgroeien-en-opvoeden/hulp-bij-opvoeden/",
+    "title": "Hulp bij opvoeden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/opvoedingsondersteuning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/boekjaarsubsidie/",
+    "title": "Boekjaarsubsidie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-afval-en-vervuiling/",
+    "title": "Melding afval en vervuiling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/recreatie-en-cultuur/camperstandplaats/",
+    "title": "Camperstandplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/alcoholvergunning/",
+    "title": "Alcoholvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/ontheffing-afwijkende-route-vervoer-gevaarlijke-stoffen/",
+    "title": "Ontheffing afwijkende route vervoer gevaarlijke stoffen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/paspoort/",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/verhuizen/hervestiging-vanuit-het-buitenland/",
+    "title": "Hervestiging vanuit het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brp-inschrijving"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/recreatie-en-cultuur/bezoek-gouda/",
+    "title": "Bezoek Gouda",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geld-inzamelen/collectevergunning/",
+    "title": "Collectevergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/gratis-attentie-mantelzorger/",
+    "title": "Gratis attentie mantelzorger",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgcompliment"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/tijdelijke-ontheffing-openingstijden-horeca/",
+    "title": "Tijdelijke ontheffing openingstijden horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/aanmelding-opkoper/",
+    "title": "Aanmelding opkoper",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/opkopersregister"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/trouwboekjes/",
+    "title": "Trouwboekjes",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/pmd-afval/",
+    "title": "PMD-afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/inschrijving-registratie-niet-ingezetene-rni/",
+    "title": "Inschrijving registratie niet-ingezetene (RNI)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/naamswijziging/",
+    "title": "Wijziging voornaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voornaamwijziging"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/melding-geparkeerde-caravan-of-aanhangwagen/",
+    "title": "Melding geparkeerde caravan of aanhangwagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/caravanparkeerontheffing"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geld-aan-de-gemeente-betalen/kwijtschelding-rioolheffing-en-afvalstoffenheffing/",
+    "title": "Kwijtschelding rioolheffing en afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/opgroeien-en-opvoeden/melding-jeugdhulp/",
+    "title": "Melding jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/extras-bij-laag-inkomen/gratis-rotterdampas-voor-kinderen-van-0-t-m-17-jaar/",
+    "title": "Gratis Rotterdampas voor kinderen van 0 tot en met 17 jaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stadspas"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geld-aan-de-gemeente-betalen/rioolheffing/",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/melding-voorgenomen-huwelijk-of-partnerschap/",
+    "title": "Melding voorgenomen huwelijk of partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-riool-en-grondwater/",
+    "title": "Melding riool",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolonderhoud"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/verzekering-voor-mantelzorger/",
+    "title": "Verzekering voor mantelzorger",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/veiligheid/wat-te-doen-bij-een-crisis/",
+    "title": "Wat te doen bij een crisis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/crisisplan"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/folders-flyers-en-samples-uitdelen/",
+    "title": "Folders, flyers en samples uitdelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/werk/hulp-bij-het-vinden-van-werk/",
+    "title": "Hulp bij het vinden van werk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/naamswijziging-achternaam/",
+    "title": "Wijziging achternaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/tweede-paspoort/",
+    "title": "2e paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/onderscheiding/de-vrijwilligerspenning/",
+    "title": "Vrijwilligerspenning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/tijdelijke-ontheffing-openingstijden-en-schenktijden-vereniging-of-stichting/",
+    "title": "Tijdelijke ontheffing openingstijden en schenktijden vereniging of stichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/extras-bij-laag-inkomen/gratis-peuteropvang-voor-kinderen-tot-4-jaar/",
+    "title": "Gratis peuteropvang voor kinderen tot 4 jaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/inzien-eigen-persoonsgegevens-brp/",
+    "title": "Inzien eigen persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brp-inzagerecht"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/uw-mening/stadsgesprek/",
+    "title": "Stadsgesprek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/verbouwingsafval/",
+    "title": "Verbouwingsafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/beeindigen-geregistreerd-partnerschap-melden/",
+    "title": "Beëindigen geregistreerd partnerschap melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/goudse-trouwambtenaar-voor-1-dag/",
+    "title": "Goudse trouwambtenaar voor 1 dag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/u-en-de-gemeente/vraag-of-opmerking/",
+    "title": "Vraag of opmerking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/registratie-levenloos-geboren-kind/",
+    "title": "Registratie levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/u-en-de-gemeente/bezwaar/",
+    "title": "Bezwaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/verlenging-ontheffing-verkeersregels/",
+    "title": "Verlenging ontheffing verkeersregels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/verduurzamen/gratis-tuinadvies/",
+    "title": "Gratis tuinadvies",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/opgroeien-en-opvoeden/hulp-bij-dyslexie/",
+    "title": "Hulp bij dyslexie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dyslexiezorg"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/verloren-of-gevonden/melding-verloren-voorwerp/",
+    "title": "Melding verloren voorwerp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/organisaties-zorg-en-jeugdhulp/melding-calamiteit-organisatie-jeugdhulp/",
+    "title": "Melding calamiteit organisatie jeugdhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/gratis-strooizout/",
+    "title": "Gratis strooizout",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/overlast-voor-verkeer/",
+    "title": "Overlast voor verkeer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/parkeren-voor-gehandicapten-op-straat/",
+    "title": "Parkeren voor gehandicapten op straat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geld-aan-de-gemeente-betalen/betalingsregeling/",
+    "title": "Betalingsregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/bouwen-en-verbouwen/kabels-en-leidingen-plaatsen-in-openbare-grond/",
+    "title": "Kabels en leidingen plaatsen in openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/bouwen-en-verbouwen/ontheffing-geluid/",
+    "title": "Ontheffing geluid",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/verklaring-omtrent-gedrag-vog/",
+    "title": "Verklaring omtrent gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/gebruikte-elektrische-apparaten/",
+    "title": "Gebruikte elektrische apparaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/afvalinzameling-aan-huis/",
+    "title": "Afvalinzameling aan huis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/sport/sport-algemeen/",
+    "title": "Sport algemeen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/recreatie-en-cultuur/expositieruimte/",
+    "title": "Expositieruimte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leren-en-spelen/vakanties/schoolvakanties/",
+    "title": "Schoolvakanties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/uw-mening/afmelding-onderzoek/",
+    "title": "Afmelding onderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geld-aan-de-gemeente-betalen/parkeerboete/",
+    "title": "Parkeerboete",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerbelasting"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/woningaanpassing/",
+    "title": "Woningaanpassing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woningaanpassing"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/uw-woning/advies-van-het-huurteam/",
+    "title": "Advies van het huurteam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/verhuizen/adresonderzoek-2/",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-innovatie-en-ontwikkeling-in-kunst-en-cultuur/",
+    "title": "Subsidie innovatie en ontwikkeling in kunst en cultuur",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/amateurkunstsubsidie"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geldzorgen-en-uitkering/individuele-studietoeslag/",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-samen-naar-een-duurzame-omgeving/",
+    "title": "Subsidie samen naar een duurzame omgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/u-en-de-gemeente/zienswijze/",
+    "title": "Zienswijze",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zienswijze"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/aangifte-overlijden/",
+    "title": "Aangifte overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leren-en-spelen/speeltuinen/speeltuinen/",
+    "title": "Speeltuinen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/gemeentelijke-locatie-gebruiken/reservering-agnietenkapel/",
+    "title": "Reservering Agnietenkapel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/vergoeding-bewonersinitiatief-goudapot/",
+    "title": "Vergoeding bewonersinitiatief (GoudApot)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/vrijwilligerswerk/vrijwilligersverzekering/",
+    "title": "Vrijwilligersverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vrijwilligersverzekering"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/veiligheid/melding-jongerenoverlast/",
+    "title": "Melding jongerenoverlast",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-opknappen-pui-voorgevel-winkel-of-horeca/",
+    "title": "Subsidie opknappen pui voorgevel winkel of horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/ondertekening-preventieakkoord/",
+    "title": "Ondertekening preventieakkoord",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/uw-woning/woning-huren/",
+    "title": "Woning huren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/veiligheid/melding-problemen-met-uw-buren/",
+    "title": "Melding problemen met uw buren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/bouwen-en-verbouwen/omgevingsvergunning/",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/oud-papier/",
+    "title": "Oud papier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-participatie-in-de-buurt/",
+    "title": "Subsidie Participatie in de buurt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welzijnswerksubsidie"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/verloren-of-kapotte-ontheffing-verkeerstekens-of-transponder/",
+    "title": "Verloren of kapotte ontheffing verkeersregels of transponder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/evenementen-bezoeken/gouda750/",
+    "title": "Gouda750",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/geheimhouding-persoonsgegevens/",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brp-geheimhoudingsverzoek"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/extras-bij-laag-inkomen/gratis-identiteitskaart-voor-kinderen-van-14-tot-en-met-17-jaar/",
+    "title": "Gratis identiteitskaart voor kinderen van 14 tot en met 17 jaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stadspas"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/verlof-tot-begraven-of-cremeren/",
+    "title": "Verlof tot begraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/ontheffing-openingstijden-winkel/",
+    "title": "Ontheffing openingstijden winkel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/winkeltijdenontheffing"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/korting-met-rotterdampas/rotterdampas-volwassene/",
+    "title": "Rotterdampas volwassene",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stadspas"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/opgroeien-en-opvoeden/hulp-van-het-sociaal-team-voor-kinderen/",
+    "title": "Hulp van het sociaal team voor kinderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/rijbewijs-kwijt-of-gestolen/",
+    "title": "Rijbewijs kwijt of gestolen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/gebruikt-glas/",
+    "title": "Gebruikt glas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geldzorgen-en-uitkering/vakantiegeld-uitkering/",
+    "title": "Vakantiegeld uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/extras-bij-laag-inkomen/rotterdampas-volwassene-met-korting/",
+    "title": "Rotterdampas volwassene met korting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stadspas"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/uw-woning/woonwagenstandplaats/",
+    "title": "Woonwagenstandplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonwagenstandplaats"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/hulp-van-mensen-om-u-heen/",
+    "title": "Hulp van mensen om u heen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-onderwijsachterstanden/",
+    "title": "Subsidie onderwijsachterstanden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderwijssubsidie"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/groen-water-en-dieren/natuurstrook-steinse-groen/",
+    "title": "Natuurstrook Steinse Groen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geldzorgen-en-uitkering/bijzondere-bijstand/",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzonderebijstandsuitkering"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/veiligheid/cameratoezicht/",
+    "title": "Cameratoezicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/u-en-de-gemeente/nadeelcompensatie/",
+    "title": "Nadeelcompensatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/nadeelcompensatie"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/hulp-van-een-vrijwilliger/",
+    "title": "Hulp van een vrijwilliger",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leren-en-spelen/kinderopvang/gastouderopvang-van-0-tot-13-jaar/",
+    "title": "Gastouderopvang van 0 tot 13 jaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/geboorteboom/",
+    "title": "Geboorteboom",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/uw-woning/verhuurvergunning-woning-die-te-koop-staat/",
+    "title": "Verhuurvergunning woning die te koop staat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/uw-idee/grijs-wordt-groen-idee/",
+    "title": "Grijs-wordt-groen-idee",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/gehandicaptenparkeerplaats-op-kenteken/",
+    "title": "Gehandicaptenparkeerplaats op kenteken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/gastouder-worden/",
+    "title": "Gastouder worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geld-aan-de-gemeente-betalen/toeristenbelasting/",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/hulp-bij-het-huishouden/",
+    "title": "Hulp bij het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/uw-idee/right-to-challenge/",
+    "title": "Right to challenge",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/onderscheiding/onderscheiding-maatschappij-tot-redding-van-drenkelingen/",
+    "title": "Onderscheiding Maatschappij tot Redding van Drenkelingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/asbest/",
+    "title": "Asbest",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/uw-mening/ter-inzage/",
+    "title": "Ter inzage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/zienswijze"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/afvalbrengstation/",
+    "title": "Afvalbrengstation",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalinzamelstation"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/gegevens-over-de-stad/gouda-in-cijfers/",
+    "title": "Gouda in cijfers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/verkeer-vervoer-en-parkeren/parkeren-op-straat/",
+    "title": "Parkeren op straat",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerbelasting"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/snoeiafval/",
+    "title": "Snoeiafval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/vrijwilligerswerk/vrijwilligerswerk-zoeken/",
+    "title": "Vrijwilligerswerk zoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/onderscheiding/erepenning-voor-menslievend-hulpbetoon/",
+    "title": "Erepenning voor Menslievend Hulpbetoon",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/werk/social-return-bij-maatschappelijke-organisaties/",
+    "title": "Social return bij maatschappelijke organisaties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/uw-mening/stadspeiling/",
+    "title": "Stadspeiling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leren-en-spelen/verzuim-en-voortijdig-schoolverlaten/leerplicht/",
+    "title": "Leerplicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtverzuimmelding"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/verduurzamen/geveltuin/",
+    "title": "Geveltuin",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/melding-alcohol-schenken-op-privebijeenkomst-vereniging-of-stichting/",
+    "title": "Melding alcohol schenken op privébijeenkomst vereniging of stichting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/persoonlijke-begeleiding/",
+    "title": "Persoonlijke begeleiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geldzorgen-en-uitkering/hulp-bij-schulden/",
+    "title": "Hulp bij schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/opgroeien-en-opvoeden/begeleiding-voor-jongeren/",
+    "title": "Begeleiding voor jongeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-straatmeubilair/",
+    "title": "Melding straatmeubilair",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leren-en-spelen/scholen/basisscholen/",
+    "title": "Basisscholen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/bouwen-en-verbouwen/bouwtekening/",
+    "title": "Bouwtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/korting-met-rotterdampas/verloren-of-kapotte-rotterdampas/",
+    "title": "Verloren of kapotte Rotterdampas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stadspas"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/stopzetten-zorg-via-de-gemeente/",
+    "title": "Stopzetten zorg via de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/identiteitskaart/",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/ondernemen/de-gemeente-als-klant/",
+    "title": "De gemeente als klant",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/evenement-organiseren/loterijvergunning/",
+    "title": "Loterijvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-dieren/",
+    "title": "Melding dieren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/bouwen-en-ondernemen/bouwen-en-verbouwen/bouwinitiatief/",
+    "title": "Bouwinitiatief",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/opgroeien-en-opvoeden/hulp-voor-jongeren-met-psychische-problemen/",
+    "title": "Hulp voor jongeren met psychische problemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/legalisatie-handtekening/",
+    "title": "Legalisatie handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/onderscheiding/jeugdlintje-goudse-ster/",
+    "title": "Goudse Ster - jeugdlintje",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/korting-met-rotterdampas/rotterdampas-gezin/",
+    "title": "Rotterdampas gezin",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/stadspas"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/logeeropvang-of-logeerverblijf/",
+    "title": "Logeeropvang of logeerverblijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/logeerhuis"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/afval/meer-tips-voor-minder-afval/",
+    "title": "Meer tips voor minder afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/vrijwilligerswerk/ouderenvoorlichter-worden/",
+    "title": "Ouderenvoorlichter worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/verlengen-of-wijzigen-rijbewijs/",
+    "title": "Verlengen of wijzigen rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geldzorgen-en-uitkering/melding-wijziging-bij-uitkering/",
+    "title": "Melding wijziging bij uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/ontspanning-en-vrije-tijd/evenementen-bezoeken/gouda-herdenkt/",
+    "title": "Gouda herdenkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/meedenken-en-doen/uw-mening/uw-mening-via-gouda-denkt-mee-app/",
+    "title": "Uw mening via Gouda Denkt Mee app",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/adoptie/",
+    "title": "Adoptie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/gehandicaptenparkeerkaart/",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/persoonsgegevens-brp/",
+    "title": "Persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brp-inzagerecht"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/reizen-en-papieren/wijziging-persoonsgegevens-brp/",
+    "title": "Wijziging persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brp-wijzigingsverzoek"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leren-en-spelen/kinderopvang/buitenschoolse-opvang-van-4-tot-12-jaar/",
+    "title": "Buitenschoolse opvang van 4 tot 12 jaar",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kindercentrum"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/melding-vraag-om-hulp/",
+    "title": "Melding vraag om hulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-vies-water/",
+    "title": "Melding vies water",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/subsidie-wonen-boven-winkel-of-horeca/",
+    "title": "Subsidie wonen boven winkel of horeca",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/stad-en-projecten/kapot-stuk-of-onderhoud-nodig/melding-eikenprocessierups/",
+    "title": "Melding Eikenprocessierups",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/ongediertebestrijding"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geldzorgen-en-uitkering/melding-advies-schuldenbewind/",
+    "title": "Melding advies schuldenbewind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/lening-dringend-onderhoud-gemeentelijk-monument/",
+    "title": "Lening dringend onderhoud gemeentelijk monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/zorg-en-hulp/gezondheid-en-zorg/overige-hulp-bij-vervoer/",
+    "title": "Overige hulp bij vervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/geld-aan-de-gemeente-betalen/onroerendezaakbelasting/",
+    "title": "Onroerendezaakbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/u-en-de-gemeente/aanvraag-publiek-optreden/",
+    "title": "Aanvraag publiek optreden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/veiligheid/discriminatie/",
+    "title": "Melding discriminatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leven-en-wonen/belangrijke-momenten/aangifte-geboorte/",
+    "title": "Aangifte geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/leren-en-spelen/scholen/hulp-bij-het-vinden-van-een-opleiding/",
+    "title": "Hulp bij het vinden van een opleiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  },
+  {
+    "identifier": "https://www.gouda.nl/direct-regelen/geld-en-werk/subsidie-aanvragen/vergoeding-initiatief-goudse-preventieakkoordpot/",
+    "title": "Vergoeding initiatief Goudse Preventieakkoordpot",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Gouda_(gemeente)"
+  }
+]

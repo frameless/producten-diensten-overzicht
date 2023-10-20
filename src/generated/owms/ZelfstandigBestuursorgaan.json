@@ -1,0 +1,952 @@
+[
+  {
+    "prefLabel": "Autoriteit Consument en Markt",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Autoriteit_Consument_en_Markt",
+    "startDate": "2013-04-01"
+  },
+  {
+    "prefLabel": "Autoriteit Financiële Markten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Autoriteit_Financiele_Markten"
+  },
+  {
+    "prefLabel": "Autoriteit Nucleaire Veiligheid en Stralingsbescherming",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/anvs",
+    "startDate": "2017-08-01"
+  },
+  {
+    "prefLabel": "Bedrijfsfonds voor de Pers",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Bedrijfsfonds_voor_de_Pers",
+    "endDate": "2007-06-30"
+  },
+  {
+    "prefLabel": "Bureau Beheer Landbouwgronden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Bureau_Beheer_Landbouwgronden"
+  },
+  {
+    "prefLabel": "Bureau Financieel Toezicht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Bureau_Financieel_Toezicht"
+  },
+  {
+    "prefLabel": "Bureau architectenregister",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/barchreg"
+  },
+  {
+    "prefLabel": "CAK",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/cak",
+    "startDate": "2015-01-01"
+  },
+  {
+    "prefLabel": "CIZ",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ciz",
+    "startDate": "2015-01-01"
+  },
+  {
+    "prefLabel": "Centraal Bureau Rijvaardigheidsbewijzen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/CBR",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Centraal Bureau voor de Statistiek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek"
+  },
+  {
+    "prefLabel": "Centraal Fonds voor de Volkshuisvesting",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Centraal_Fonds_voor_de_Volkshuisvesting"
+  },
+  {
+    "prefLabel": "Centraal orgaan Opvang Asielzoekers",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Centraal_orgaan_Opvang_Asielzoekers"
+  },
+  {
+    "prefLabel": "Centrale Commissie voor Mensgebonden Onderzoek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Centrale_Commissie_voor_Mensgebonden_Onderzoek",
+    "startDate": "1999-04-01"
+  },
+  {
+    "prefLabel": "Centrale Landinrichtingscommissie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Centrale_Landinrichtingscommissie",
+    "endDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Centrale commissie dierproeven",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ccd"
+  },
+  {
+    "prefLabel": "Centrale organisatie Werk en Inkomen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Centrale_organisatie_Werk_en_Inkomen",
+    "endDate": "2008-12-31"
+  },
+  {
+    "prefLabel": "Certificerende - en keuringsinstanties arbeidsomstandigheden (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Certificerende_-_en_keuringsinstanties_arbeidsomstandigheden_(Cluster)"
+  },
+  {
+    "prefLabel": "College Bescherming persoonsgegevens",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/College_bescherming_persoonsgegevens",
+    "endDate": "1900-01-01"
+  },
+  {
+    "prefLabel": "College Bouw Ziekenhuisvoorzieningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/College_Bouw_Ziekenhuisvoorzieningen"
+  },
+  {
+    "prefLabel": "College Sanering Ziekenhuisvoorzieningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/College_Sanering_Ziekenhuisvoorzieningen",
+    "endDate": "2005-12-31"
+  },
+  {
+    "prefLabel": "College Tarieven Gezondheidszorg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/College_Tarieven_Gezondheidszorg",
+    "endDate": "2006-09-30"
+  },
+  {
+    "prefLabel": "College bescherming persoonsgegevens",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/cbp"
+  },
+  {
+    "prefLabel": "College gerechtelijk deskundigen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/College_gerechtelijk_deskundigen"
+  },
+  {
+    "prefLabel": "College sanering zorginstellingen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/csz"
+  },
+  {
+    "prefLabel": "College ter Beoordeling van Geneesmiddelen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/College_ter_Beoordeling_van_Geneesmiddelen"
+  },
+  {
+    "prefLabel": "College van Toezicht Auteursrechten en naburige rechten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/College_van_Toezicht_Auteursrechten_en_naburige_rechten"
+  },
+  {
+    "prefLabel": "College van Toezicht op de Zorgverzekeringen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/College_van_Toezicht_op_de_Zorgverzekeringen",
+    "endDate": "2006-09-30"
+  },
+  {
+    "prefLabel": "College van Toezicht op de kansspelen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/College_van_Toezicht_op_de_kansspelen",
+    "endDate": "2012-03-31"
+  },
+  {
+    "prefLabel": "College voor Examens",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/College_voor_Examens",
+    "endDate": "2014-07-31"
+  },
+  {
+    "prefLabel": "College voor Zorgverzekeringen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/College_voor_Zorgverzekeringen",
+    "endDate": "2014-03-31"
+  },
+  {
+    "prefLabel": "College voor de Toelating van Bestrijdingsmiddelen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/College_voor_de_Toelating_van_Bestrijdingsmiddelen",
+    "endDate": "2007-02-16"
+  },
+  {
+    "prefLabel": "College voor de rechten van de mens",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/crvdm",
+    "startDate": "2012-10-01"
+  },
+  {
+    "prefLabel": "College voor de toelating van gewasbeschermingsmiddelen en biociden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/CTGB",
+    "startDate": "2007-02-17"
+  },
+  {
+    "prefLabel": "College voor toetsen en examens",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/cvte"
+  },
+  {
+    "prefLabel": "Commissariaat voor de Media",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Commissariaat_voor_de_Media"
+  },
+  {
+    "prefLabel": "Commissie Algemene Oorlogsongevallenregeling Indonesië",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Commissie_Algemene_Oorlogsongevallenregeling_Indonesie"
+  },
+  {
+    "prefLabel": "Commissie Eindtermen Accountantsopleiding",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Commissie_Eindtermen_Accountantsopleiding"
+  },
+  {
+    "prefLabel": "Commissie Gelijke Behandeling",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Commissie_Gelijke_Behandeling",
+    "endDate": "2012-09-30"
+  },
+  {
+    "prefLabel": "Commissie Schadefonds Geweldsmisdrijven",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Commissie_Schadefonds_Geweldsmisdrijven",
+    "endDate": "1900-01-01"
+  },
+  {
+    "prefLabel": "Commissie Stuurliedenexamens",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Commissie_Stuurliedenexamens"
+  },
+  {
+    "prefLabel": "Commissie van Beroep als bedoeld in art. 3 Wet rijonderricht motorrijtuigen 1993",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Commissie_van_Beroep_als_bedoeld_in_art._3_Wet_rijonderricht_motorrijtuigen_1993"
+  },
+  {
+    "prefLabel": "Commissie van beheer van de Dienst geneeskundige Verzorging Politie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Commissie_van_beheer_van_de_Dienst_geneeskundige_Verzorging_Politie"
+  },
+  {
+    "prefLabel": "Commissie voor de Examens van scheepswerktuigkundigen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Commissie_voor_de_Examens_van_scheepswerktuigkundigen"
+  },
+  {
+    "prefLabel": "Commissie voor de Zeevisvaartexamens",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Commissie_voor_de_Zeevisvaartexamens"
+  },
+  {
+    "prefLabel": "Commissies voor de Gebiedsaanwijzing (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Commissies_voor_de_Gebiedsaanwijzing_(Cluster)",
+    "endDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Commissies voor de samenstelling van de verplichte rassenlijsten (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Commissies_voor_de_samenstelling_van_de_verplichte_rassenlijsten_(Cluster)",
+    "endDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "De Nederlandsche Bank",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/De_Nederlandsche_Bank"
+  },
+  {
+    "prefLabel": "De i.h.k.v. Metrologiewet art. 11 en 12 aangewezen instanties en erkende keurders_(cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/De_i.h.k.v._Metrologiewet_art._11_en_12_aangewezen_instanties_en_erkende_keurders_(cluster)"
+  },
+  {
+    "prefLabel": "Dienst voor het kadaster en de openbare registers",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers"
+  },
+  {
+    "prefLabel": "Edelmetaal Waarborg Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Edelmetaal_Waarborg_Nederland"
+  },
+  {
+    "prefLabel": "Erkende particuliere onderzoeksbureaus als bedoeld in Schepenbesluit (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Erkende_particuliere_onderzoeksbureaus_als_bedoeld_in_Schepenbesluit_(Cluster)"
+  },
+  {
+    "prefLabel": "Erkenninghouders Algemene Periodieke Keuring (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Erkenninghouders_Algemene_Periodieke_Keuring_(Cluster)"
+  },
+  {
+    "prefLabel": "Examencommissie Certificaatloodsen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Examencommissie_Certificaatloodsen",
+    "endDate": "2013-12-31"
+  },
+  {
+    "prefLabel": "Examencommissie voor amateurradiozendexamens",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Examencommissie_voor_amateurradiozendexamens"
+  },
+  {
+    "prefLabel": "Examencommissie voor de Orde van octrooigemachtigden",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Examencommissie_voor_de_Orde_van_octrooigemachtigden",
+    "endDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Examencommissie voor maritieme radiocommunicatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Examencommissie_voor_maritieme_radiocommunicatie"
+  },
+  {
+    "prefLabel": "Examenscommissies in het onderwijs ingesteld door de minister (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Examenscommissies_in_het_onderwijs_ingesteld_door_de_minister_(Cluster)"
+  },
+  {
+    "prefLabel": "Faunafonds",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Faunafonds",
+    "endDate": "2016-12-31"
+  },
+  {
+    "prefLabel": "Gerechtsdeurwaarders (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Gerechtsdeurwaarders_(Cluster)"
+  },
+  {
+    "prefLabel": "Grondkamer Noord",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/grndkn",
+    "startDate": "2017-09-01"
+  },
+  {
+    "prefLabel": "Grondkamer Noordwest",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/grndknw",
+    "startDate": "2017-09-01"
+  },
+  {
+    "prefLabel": "Grondkamer Oost",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/grndko",
+    "startDate": "2017-09-01"
+  },
+  {
+    "prefLabel": "Grondkamer Zuid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/grndkz",
+    "startDate": "2017-09-01"
+  },
+  {
+    "prefLabel": "Grondkamer Zuidwest",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/grndkzw",
+    "startDate": "2017-09-01"
+  },
+  {
+    "prefLabel": "Grondkamers (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Grondkamers_(Cluster)"
+  },
+  {
+    "prefLabel": "HISWA Vereniging",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/HISWA_Vereniging",
+    "startDate": "2015-01-01"
+  },
+  {
+    "prefLabel": "Herinrichtingcommissie Oost-Groningen en de Gronings-Drentse Veenkoloniën",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Herinrichtingcommissie_Oost-Groningen_en_de_Gronings-Drentse_Veenkolonien",
+    "endDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Huis voor klokkenluiders",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/huisvklok",
+    "startDate": "2016-07-01"
+  },
+  {
+    "prefLabel": "Huurcommissie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/huurcie",
+    "startDate": "2010-04-01"
+  },
+  {
+    "prefLabel": "Huurcommissies (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Huurcommissies_(Cluster)",
+    "endDate": "2010-03-31"
+  },
+  {
+    "prefLabel": "IJkbevoegden (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/IJkbevoegden_(Cluster)"
+  },
+  {
+    "prefLabel": "Informatie Beheer Groep",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Informatie_Beheer_Groep",
+    "endDate": "2009-12-31"
+  },
+  {
+    "prefLabel": "Instituut Fysieke Veiligheid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ifv",
+    "startDate": "2013-01-01"
+  },
+  {
+    "prefLabel": "Instituut Mijnbouwschade Groningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/img",
+    "startDate": "2020-07-01"
+  },
+  {
+    "prefLabel": "Kamer van Koophandel",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Kamer_van_Koophandel",
+    "startDate": "2014-01-01"
+  },
+  {
+    "prefLabel": "Kamer voor de Binnenvisserij",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Kamer_voor_de_Binnenvisserij"
+  },
+  {
+    "prefLabel": "Kamers van Koophandel en Fabrieken (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Kamers_van_Koophandel_en_Fabrieken_(Cluster)",
+    "endDate": "2013-12-31"
+  },
+  {
+    "prefLabel": "Kansspelautoriteit",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/ksa",
+    "startDate": "2012-04-01"
+  },
+  {
+    "prefLabel": "Keuringsinstanties V &amp; W overig (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Keuringsinstanties_V_&amp;_W_overig_(Cluster)"
+  },
+  {
+    "prefLabel": "Keuringsinstanties VWS (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Keuringsinstanties_VWS_(Cluster)"
+  },
+  {
+    "prefLabel": "Keuringsinstanties als bedoeld in artikel 10.3 Telecommunicatiewet (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Keuringsinstanties_als_bedoeld_in_artikel_10.3_Telecommunicatiewet_(Cluster)"
+  },
+  {
+    "prefLabel": "Keuringsinstanties bouwproducten (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Keuringsinstanties_bouwproducten_(Cluster)"
+  },
+  {
+    "prefLabel": "Keuringsinstanties geluidshinder (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Keuringsinstanties_geluidshinder_(Cluster)"
+  },
+  {
+    "prefLabel": "Keuringsinstanties pleziervaartuigen (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Keuringsinstanties_pleziervaartuigen_(Cluster)"
+  },
+  {
+    "prefLabel": "Keuringsinstanties uitrusting zeeschepen (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Keuringsinstanties_uitrusting_zeeschepen_(Cluster)"
+  },
+  {
+    "prefLabel": "Kiesraad",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Kiesraad"
+  },
+  {
+    "prefLabel": "Koninklijke Bibliotheek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Koninklijke_Bibliotheek"
+  },
+  {
+    "prefLabel": "Koninklijke Nederlandse Akademie van Wetenschappen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Koninklijke_Nederlandse_Akademie_van_Wetenschappen"
+  },
+  {
+    "prefLabel": "Koninklijke Nederlandse Toeristenbond ANWB",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/anwb",
+    "startDate": "1882-12-31"
+  },
+  {
+    "prefLabel": "Landelijk Bureau Inning Onderhoudsbijdragen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Landelijk_Bureau_Inning_Onderhoudsbijdragen"
+  },
+  {
+    "prefLabel": "Landelijk Selectie- en Opleidingsinstituut Politie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Landelijk_Selectie-_en_Opleidingsinstituut_Politie",
+    "endDate": "2016-12-31"
+  },
+  {
+    "prefLabel": "Landelijke Commissie Toezicht Indicatiestelling Speciaal Onderwijs",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Landelijke_Commissie_Toezicht_Indicatiestelling_Speciaal_Onderwijs"
+  },
+  {
+    "prefLabel": "Landelijke en Regionale Examencommissies verkeersinformatie en verkeersaanwijzingen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Landelijke_en_Regionale_Examencommissies_verkeersinformatie_en_verkeersaanwijzingen"
+  },
+  {
+    "prefLabel": "Landelijke geschillencommissie weer samen naar school",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Landelijke_geschillencommissie_weer_samen_naar_school"
+  },
+  {
+    "prefLabel": "Landelijke- en Regionale Examencommissies verkeersinformatie en verkeersaanwijzingen (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Landelijke-_en_Regionale_Examencommissies_verkeersinformatie_en_verkeersaanwijzingen_(Cluster)"
+  },
+  {
+    "prefLabel": "Luchtverkeersleiding Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Luchtverkeersleiding_Nederland"
+  },
+  {
+    "prefLabel": "Medisch- ethische toetsingscommissies (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Medisch-_ethische_toetsingscommissies_(Cluster)"
+  },
+  {
+    "prefLabel": "Mondriaan Fonds",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Mondriaan_Fonds",
+    "startDate": "2012-01-01"
+  },
+  {
+    "prefLabel": "Mondriaan Stichting",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Mondriaan_Stichting",
+    "endDate": "2011-12-31"
+  },
+  {
+    "prefLabel": "Nationale Commissie voor Internationale Samenwerking en Duurzame Ontwikkeling",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nationale_Commissie_voor_Internationale_Samenwerking_en_Duurzame_Ontwikkeling"
+  },
+  {
+    "prefLabel": "Nationale en Internationale Wegvervoer Organisatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/niwo",
+    "startDate": "2017-01-01"
+  },
+  {
+    "prefLabel": "Nederlands Bureau Brandweerexamens",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlands_Bureau_Brandweerexamens"
+  },
+  {
+    "prefLabel": "Nederlands Bureau der Motorrijtuigverzekeraars",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlands_Bureau_der_Motorrijtuigverzekeraars"
+  },
+  {
+    "prefLabel": "Nederlands Instituut voor Brandweer en Rampenbestrijding",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlands_Instituut_voor_Brandweer_en_Rampenbestrijding"
+  },
+  {
+    "prefLabel": "Nederlands Meetinstituut BV",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlands_Meetinstituut_BV"
+  },
+  {
+    "prefLabel": "Nederlands-Vlaamse Accreditatie Organisatie voor het hoger onderwijs",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlands-Vlaamse_Accreditatie_Organisatie_voor_het_hoger_onderwijs"
+  },
+  {
+    "prefLabel": "Nederlandse Mededingingsautoriteit",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Mededingingsautoriteit",
+    "endDate": "2013-03-31"
+  },
+  {
+    "prefLabel": "Nederlandse Omroep Stichting",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Omroep_Stichting",
+    "endDate": "2009-12-31"
+  },
+  {
+    "prefLabel": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Organisatie_voor_Wetenschappelijk_Onderzoek"
+  },
+  {
+    "prefLabel": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Organisatie_voor_toegepast-natuurwetenschappelijk_onderzoek_TNO"
+  },
+  {
+    "prefLabel": "Nederlandse Publieke Omroep",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Publieke_Omroep",
+    "startDate": "2010-01-01"
+  },
+  {
+    "prefLabel": "Nederlandse Transplantatie Stichting",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Nederlandse_Transplantatie_Stichting"
+  },
+  {
+    "prefLabel": "Nederlandse Zorgautoriteit",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/nza",
+    "startDate": "2006-10-01"
+  },
+  {
+    "prefLabel": "Nederlandse emissieautoriteit",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/nea",
+    "startDate": "2012-01-01"
+  },
+  {
+    "prefLabel": "Nederlandse loodsencorporatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/nlloodscorp",
+    "startDate": "1988-09-01"
+  },
+  {
+    "prefLabel": "Notarissen (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Notarissen_(Cluster)"
+  },
+  {
+    "prefLabel": "Onafhankelijke Post- en Telecommunicatie Autoriteit",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Onafhankelijke_Post-_en_Telecommunicatie_Autoriteit",
+    "endDate": "2013-03-31"
+  },
+  {
+    "prefLabel": "Onderlinge Waarborg Maatschappij \"MAAV\"",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Onderlinge_Waarborg_Maatschappij_MAAV",
+    "endDate": "2005-01-16"
+  },
+  {
+    "prefLabel": "Onderzoeksraad voor veiligheid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Onderzoeksraad_voor_veiligheid"
+  },
+  {
+    "prefLabel": "Openbare academische ziekenhuizen (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Openbare_academische_ziekenhuizen_(Cluster)"
+  },
+  {
+    "prefLabel": "Organisatie ter Verbetering van de Binnenvisserij",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Organisatie_ter_Verbetering_van_de_Binnenvisserij",
+    "endDate": "2017-01-01"
+  },
+  {
+    "prefLabel": "Pensioen- en Uitkeringsraad",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Pensioen-_en_Uitkeringsraad"
+  },
+  {
+    "prefLabel": "Politieacademie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/politieacademie",
+    "startDate": "2017-01-01"
+  },
+  {
+    "prefLabel": "RDW (Dienst Wegverkeer)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/RDW_(Dienst_Wegverkeer)"
+  },
+  {
+    "prefLabel": "Raad voor Accreditatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Raad_voor_Accreditatie"
+  },
+  {
+    "prefLabel": "Raad voor het Korps Landelijke Politiediensten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Raad_voor_het_Korps_Landelijke_Politiediensten"
+  },
+  {
+    "prefLabel": "Raad voor het Kwekersrecht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Raad_voor_het_Kwekersrecht"
+  },
+  {
+    "prefLabel": "Raad voor plantenrassen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Raad_voor_plantenrassen",
+    "startDate": "2006-01-01"
+  },
+  {
+    "prefLabel": "Raad voor rechtsbijstand",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rvr",
+    "startDate": "2010-07-01"
+  },
+  {
+    "prefLabel": "Raden voor Rechtsbijstand (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Raden_voor_Rechtsbijstand_(Cluster)",
+    "endDate": "2010-06-30"
+  },
+  {
+    "prefLabel": "Railned BV",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Railned_BV"
+  },
+  {
+    "prefLabel": "Railverkeersleiding BV",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Railverkeersleiding_BV"
+  },
+  {
+    "prefLabel": "Reconstructiecommissie Midden-Delfland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Reconstructiecommissie_Midden-Delfland",
+    "endDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Regionale verwijzingscommissies voortgezet onderwijs (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Regionale_verwijzingscommissies_voortgezet_onderwijs_(Cluster)"
+  },
+  {
+    "prefLabel": "Registratiecommissies en opleidingscolleges KNMG, KNMP en NMT (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Registratiecommissies_en_opleidingscolleges_KNMG,_KNMP_en_NMT_(Cluster)"
+  },
+  {
+    "prefLabel": "Rijkshavenbeheerders (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rijkshavenbeheerders_(Cluster)"
+  },
+  {
+    "prefLabel": "Rijkshavenmeesters (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Rijkshavenmeesters_(Cluster)"
+  },
+  {
+    "prefLabel": "Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sbb",
+    "startDate": "2015-08-01"
+  },
+  {
+    "prefLabel": "Service Centrum Grond",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Service_Centrum_Grond"
+  },
+  {
+    "prefLabel": "Sociale Verzekeringsbank",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Sociale_Verzekeringsbank"
+  },
+  {
+    "prefLabel": "Staatsbosbeheer",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Staatsbosbeheer"
+  },
+  {
+    "prefLabel": "Stichting Administratie Indonesische Pensioenen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Administratie_Indonesische_Pensioenen"
+  },
+  {
+    "prefLabel": "Stichting Airport Coordination Netherlands",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Airport_Coordination_Netherlands"
+  },
+  {
+    "prefLabel": "Stichting Bloembollenkeuringsdienst",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Bloembollenkeuringsdienst"
+  },
+  {
+    "prefLabel": "Stichting Borgstellingsfonds voor de Landbouw",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Borgstellingsfonds_voor_de_Landbouw",
+    "endDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Stichting Bureau Architectenregister",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Bureau_Architectenregister",
+    "endDate": "2010-12-31"
+  },
+  {
+    "prefLabel": "Stichting Centraal Bureau Rijvaardigheidsbewijzen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Centraal_Bureau_Rijvaardigheidsbewijzen",
+    "endDate": "2012-12-31"
+  },
+  {
+    "prefLabel": "Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Centraal_Orgaan_voor_Kwaliteitsaangelegenheden_in_de_Zuivel"
+  },
+  {
+    "prefLabel": "Stichting Controlebureau voor Pluimvee, Eieren en Eiproducten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Controlebureau_voor_Pluimvee,_Eieren_en_Eiproducten"
+  },
+  {
+    "prefLabel": "Stichting Donorgegevens Kunstmatige Bevruchting",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Donorgegevens_Kunstmatige_Bevruchting"
+  },
+  {
+    "prefLabel": "Stichting Erkenningsregeling voor de uitoefening van het koeltechnisch installatiebedrijf",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Erkenningsregeling_voor_de_uitoefening_van_het_koeltechnisch_installatiebedrijf"
+  },
+  {
+    "prefLabel": "Stichting Examenbureau Beroepsvervoer",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Examenbureau_Beroepsvervoer"
+  },
+  {
+    "prefLabel": "Stichting Examens Vakbekwaamheid Honden- en kattenbesluit",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Examens_Vakbekwaamheid_Honden-_en_kattenbesluit"
+  },
+  {
+    "prefLabel": "Stichting Fonds Beeldende Kunsten, Vormgeving en Bouwkunst",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Fonds_Beeldende_Kunsten,_Vormgeving_en_Bouwkunst"
+  },
+  {
+    "prefLabel": "Stichting Fonds Patiënten Gehandicapten en Ouderen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Fonds_Patienten_Gehandicapten_en_Ouderen"
+  },
+  {
+    "prefLabel": "Stichting Fonds Watersnood",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Fonds_Watersnood"
+  },
+  {
+    "prefLabel": "Stichting Fonds voor Amateurkunst en Podiumkunsten",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Fonds_voor_Amateurkunst_en_Podiumkunsten",
+    "endDate": "2007-10-18"
+  },
+  {
+    "prefLabel": "Stichting Fonds voor Cultuurparticipatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Fonds_voor_Cultuurparticipatie"
+  },
+  {
+    "prefLabel": "Stichting Fonds voor Podiumprogrammering en marketing",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Fonds_voor_Podiumprogrammering_en_marketing"
+  },
+  {
+    "prefLabel": "Stichting Fonds voor de Letteren",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Fonds_voor_de_Letteren",
+    "endDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Stichting Fonds voor de Scheppende Toonkunst",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Fonds_voor_de_Scheppende_Toonkunst"
+  },
+  {
+    "prefLabel": "Stichting Fonds vrijwillig vervroegd uittreden overheidspersoneel",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Fonds_vrijwillig_vervroegd_uittreden_overheidspersoneel"
+  },
+  {
+    "prefLabel": "Stichting Het Gebaar",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Het_Gebaar",
+    "endDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Stichting Inschrijving Eigen Vervoer",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Inschrijving_Eigen_Vervoer"
+  },
+  {
+    "prefLabel": "Stichting Joods Humanitair Fonds",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Joods_Humanitair_Fonds"
+  },
+  {
+    "prefLabel": "Stichting Koninklijk Onderwijsfonds voor de Scheepvaart",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Koninklijk_Onderwijsfonds_voor_de_Scheepvaart"
+  },
+  {
+    "prefLabel": "Stichting Kwaliteits-Controle-Bureau",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/kcb",
+    "startDate": "2007-09-28"
+  },
+  {
+    "prefLabel": "Stichting Kwaliteitscontrolebureau voor Groenten en Fruit",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Kwaliteitscontrolebureau_voor_Groenten_en_Fruit",
+    "endDate": "2007-09-27"
+  },
+  {
+    "prefLabel": "Stichting Maror-gelden Overheid",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Maror-gelden_Overheid"
+  },
+  {
+    "prefLabel": "Stichting Milieukeur",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/smk",
+    "startDate": "1993-01-01"
+  },
+  {
+    "prefLabel": "Stichting Nationale en Internationale Wegvervoer Organisatie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Nationale_en_Internationale_Wegvervoer_Organisatie",
+    "endDate": "2016-12-31"
+  },
+  {
+    "prefLabel": "Stichting Nederlands Fonds voor Podiumkunsten+",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Nederlands_Fonds_voor_Podiumkunsten+",
+    "startDate": "2007-10-19"
+  },
+  {
+    "prefLabel": "Stichting Nederlands Fonds voor de Film",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Nederlands_Fonds_voor_de_Film"
+  },
+  {
+    "prefLabel": "Stichting Nederlands Letterenfonds",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Nederlands_Letterenfonds"
+  },
+  {
+    "prefLabel": "Stichting Nederlands Literair Produktie- en Vertalingenfonds",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Nederlands_Literair_Produktie-_en_Vertalingenfonds",
+    "endDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Stichting Nederlandse Algemene Keuringsdienst Tuinbouw",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Nederlandse_Algemene_Keuringsdienst_Tuinbouw"
+  },
+  {
+    "prefLabel": "Stichting Nederlandse Algemene Keuringsdienst voor Zaaizaad en Pootgoed Landbouwgewassen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Nederlandse_Algemene_Keuringsdienst_voor_Zaaizaad_en_Pootgoed_Landbouwgewassen"
+  },
+  {
+    "prefLabel": "Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/naktuin"
+  },
+  {
+    "prefLabel": "Stichting Nidos",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Nidos"
+  },
+  {
+    "prefLabel": "Stichting Ontwikkelings- en Saneringsfonds voor de Landbouw",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Ontwikkelings-_en_Saneringsfonds_voor_de_Landbouw",
+    "endDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Stichting Ontwikkelings- en Saneringsfonds voor de Visserij",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Ontwikkelings-_en_Saneringsfonds_voor_de_Visserij",
+    "endDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Stichting Participatiefonds voor het Onderwijs",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Participatiefonds_voor_het_Onderwijs"
+  },
+  {
+    "prefLabel": "Stichting Rechtsherstel Sinti en Roma",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Rechtsherstel_Sinti_en_Roma"
+  },
+  {
+    "prefLabel": "Stichting Reclassering Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Reclassering_Nederland"
+  },
+  {
+    "prefLabel": "Stichting SKAL",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_SKAL"
+  },
+  {
+    "prefLabel": "Stichting Stimuleringsfonds Nederlandse Culturele Mediaproducties (Mediafonds)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Stimuleringsfonds_Nederlandse_Culturele_Mediaproducties_(Mediafonds)"
+  },
+  {
+    "prefLabel": "Stichting Stimuleringsfonds Openbare Gezondheidszorg",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Stimuleringsfonds_Openbare_Gezondheidszorg"
+  },
+  {
+    "prefLabel": "Stichting Stimuleringsfonds voor Architectuur",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Stimuleringsfonds_voor_Architectuur"
+  },
+  {
+    "prefLabel": "Stichting Uitvoering Omslagregelingen WTZ",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Uitvoering_Omslagregelingen_WTZ",
+    "endDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Stichting VAM",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_VAM"
+  },
+  {
+    "prefLabel": "Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Vervangingsfonds_en_Bedrijfsgezondheidszorg_voor_het_Onderwijs"
+  },
+  {
+    "prefLabel": "Stichting Visitatie Woningcorporaties Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/svwn",
+    "startDate": "2015-07-01"
+  },
+  {
+    "prefLabel": "Stichting Waarborgfonds Eigen Woningen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Waarborgfonds_Eigen_Woningen"
+  },
+  {
+    "prefLabel": "Stichting Waarborgfonds Motorverkeer",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Waarborgfonds_Motorverkeer"
+  },
+  {
+    "prefLabel": "Stichting Ziektekostenverzekering Krijgsmacht",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stichting_Ziektekostenverzekering_Krijgsmacht",
+    "endDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Stimuleringsfonds Creatieve Industrie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sci"
+  },
+  {
+    "prefLabel": "Stimuleringsfonds Nederlandse Culturele Omroepproducties",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Stimuleringsfonds_Nederlandse_Culturele_Omroepproducties",
+    "endDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Stimuleringsfonds voor de Pers",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sfp",
+    "startDate": "2007-07-01",
+    "endDate": "2014-06-30"
+  },
+  {
+    "prefLabel": "Stimuleringsfonds voor de journalistiek",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/sfj",
+    "startDate": "2014-07-01"
+  },
+  {
+    "prefLabel": "TenneT",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/TenneT",
+    "endDate": "2009-12-31"
+  },
+  {
+    "prefLabel": "Uitvoeringsinstituut Werknemersverzekeringen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Uitvoeringsinstituut_Werknemersverzekeringen"
+  },
+  {
+    "prefLabel": "Uitvoeringsorganen AWBZ (particuliere ziektekostenverzekeraars en publiekrechtelijke verzekeraars) (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Uitvoeringsorganen_AWBZ_(particuliere_ziektekostenverzekeraars_en_publiekrechtelijke_verzekeraars)_(Cluster)"
+  },
+  {
+    "prefLabel": "Vereniging van Landelijke Organen Beroepsonderwijs",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Vereniging_van_Landelijke_Organen_Beroepsonderwijs",
+    "endDate": "2011-12-31"
+  },
+  {
+    "prefLabel": "Vereveningsinstantie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Vereveningsinstantie"
+  },
+  {
+    "prefLabel": "Verispect BV",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Verispect_BV",
+    "endDate": "2015-12-31"
+  },
+  {
+    "prefLabel": "Voedselvoorzienings In- en Verkoopbureau",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Voedselvoorzienings_In-_en_Verkoopbureau",
+    "endDate": "2011-01-01"
+  },
+  {
+    "prefLabel": "Waarborg Holland BV",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Waarborg_Holland_BV"
+  },
+  {
+    "prefLabel": "Waarborg Platina, Goud en Zilver NV",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Waarborg_Platina,_Goud_en_Zilver_NV",
+    "endDate": "2016-03-31"
+  },
+  {
+    "prefLabel": "Waarderingskamer",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Waarderingskamer"
+  },
+  {
+    "prefLabel": "Ziekenfondsen (tevens uitvoeringsorganen AWBZ) (Cluster)",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Ziekenfondsen_(tevens_uitvoeringsorganen_AWBZ)_(Cluster)"
+  },
+  {
+    "prefLabel": "Zorg Onderzoek Nederland/ Medische Wetenschappen",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/Zorg_Onderzoek_Nederland_Medische_Wetenschappen"
+  },
+  {
+    "prefLabel": "Zorginstituut Nederland",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/zin",
+    "startDate": "2014-04-01"
+  },
+  {
+    "prefLabel": "referendumcommissie",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/rfmcie"
+  },
+  {
+    "prefLabel": "toelatingsorganisatie kwaliteitsborging bouw",
+    "resourceIdentifier": "http://standaarden.overheid.nl/owms/terms/tlokb",
+    "startDate": "2022-04-22"
+  }
+]

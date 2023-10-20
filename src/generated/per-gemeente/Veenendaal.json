@@ -1,0 +1,684 @@
+[
+  {
+    "identifier": "https://www.veenendaal.nl/ondersteuning-zorg-en-inkomen/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/laadpaal-voor-elektrische-autos-aanvragen",
+    "title": "Laadpaal voor elektrische auto's aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/kleine-evenementen-melden",
+    "title": "Kleine evenementen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/bewijs-van-in-leven-zijn",
+    "title": "Attestatie de vita of bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/bezoekersapp-voor-parkeren",
+    "title": "Parkeerkosten betalen voor bezoekers (BezoekersApp)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://sociaalstartpuntveenendaal.nl/is/een-vraag-over-2/zorg-en-ondersteuning/zorg-aanvragen",
+    "title": "Ondersteuning via Wmo aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/info-over-de-gemeente/rechten-persoonsgegevens",
+    "title": "Rechten persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/hond-aanmelden-hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://sociaalstartpuntveenendaal.nl/is/een-vraag-over-2/werk-geld-en-uitkering/geldzaken",
+    "title": "Geldregelingen voor minima",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/melding-samplen-of-flyeren",
+    "title": "Melding uitdelen proefproducten of flyeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/exploitatievergunning-voor-horeca",
+    "title": "Vergunning aanvragen voor nieuwe horeca of wijzigingen doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/watisertedoen",
+    "title": "Wat is er te doen in Veenendaal?",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/vergunning-incidentele-standplaats",
+    "title": "Vergunning incidentele standplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/briefadres-aanvragen",
+    "title": "Briefadres aanvragen voor zorginstelling en gevangenis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/kind-erkennen",
+    "title": "Kind erkennen voor of na de geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/reclamebelasting",
+    "title": "Reclamebelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/reclamebelasting"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/praat-en-doe-mee/bezwaar-maken",
+    "title": "Bezwaar maken tegen besluit gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://sociaalstartpuntveenendaal.nl/is/een-vraag-over-2/opvoeding/jeugd-en-zorg",
+    "title": "Hulp bij opgroeien en opvoeden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/jeugdhulp"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/paspoort-of-identiteitskaart-verlengen",
+    "title": "Paspoort of identiteitskaart aanvragen of verlengen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://sociaalstartpuntveenendaal.nl/is/vraagwijzer",
+    "title": "Hulp en ondersteuning vinden via het Sociaal Startpunt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/info-over-de-gemeente/klacht-aanbestedingsprocedure",
+    "title": "Klacht indienen aanbestedingsprocedure",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/ontheffing-verkeersregels-aanvragen",
+    "title": "Ontheffing voor rijden of parkeren tegen de verkeersregels",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/praat-en-doe-mee/idee-indienen",
+    "title": "Idee voor Veenendaal indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/verklaring-omtrent-gedrag-vog",
+    "title": "Verklaring omtrent gedrag (VOG) aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/rijbewijs-aanvragen-en-ophalen",
+    "title": "Rijbewijs aanvragen en ophalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/uittreksels-brp-en-burgerlijke-stand",
+    "title": "Uittreksels aanvragen BRP en burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/ontheffing-gebruik-openbare-weg",
+    "title": "Ontheffing plaatsen container, steiger, bouwkraan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/voertuig_te_koop_aanbieden_op_openbare_weg_ontheffing"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/praat-en-doe-mee/meldingen-en-vragen",
+    "title": "Meldingen overlast, openbare ruimte en vragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/ondersteuning-zorg-en-inkomen/wijzigingen-uitkering-doorgeven",
+    "title": "Wijzigingen uitkering doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/openingstijden-winkels-en-supermarkten-koopzondagen",
+    "title": "Openingstijden winkels en supermarkten, koopzondagen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/ondersteuning-zorg-en-inkomen/starterslening",
+    "title": "Starterslening aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/toeristenbelasting",
+    "title": "Toeristenbelasting voor eigenaren hotels en B&B's",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/tarief-medisch-afval",
+    "title": "Aangepast tarief voor grote hoeveelheid medisch afval aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://sociaalstartpuntveenendaal.nl/is/een-vraag-over-2/zorg-en-ondersteuning/zorg-aanvragen/eigen-bijdrage",
+    "title": "Eigen bijdrage voor Wmo-voorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/ondersteuning-zorg-en-inkomen/blijverslening",
+    "title": "Langer zelfstandig thuis wonen (blijverslening)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/blijverslening"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/trouwen-en-geregistreerd-partnerschap-regelen",
+    "title": "Trouwen en geregistreerd partnerschap regelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/ontheffing-vervoer-gevaarlijke-stoffen",
+    "title": "Ontheffing afwijken route gevaarlijke stoffen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/bestemmingsplannen",
+    "title": "Reageren op een bestemmingsplan en inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/praat-en-doe-mee/dwangsom-of-beroep-bij-te-late-beslissing",
+    "title": "Dwangsom aanvragen of beroep instellen bij te late beslissing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/leegstaand-pand-tijdelijk-verhuren",
+    "title": "Leegstaand pand tijdelijk verhuren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/subsidie-zaalhuur-amateurkunst",
+    "title": "Subsidie aanvragen zaalhuur amateurkunst",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/bedrijven-investeringszone-biz",
+    "title": "Bedrijven Investeringszone (BIZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/biz-bijdrage"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/drank-en-horecavergunning-verenigingen-buurthuizen-en-stichtingen",
+    "title": "Drank- en horecavergunning verenigingen, buurthuizen en stichtingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/info-over-de-gemeente/opdrachten-uitvoeren-voor-de-gemeente",
+    "title": "Opdrachten uitvoeren voor de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/info-over-de-gemeente/personeel-vanuit-bijstand",
+    "title": "Medewerkers met een uitkering aannemen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/info-over-de-gemeente/college-van-burgemeester-en-wethouders",
+    "title": "College van burgemeester en wethouders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/ondersteuning-zorg-en-inkomen/uw-plichten-wanneer-u-een-bijstandsuitkering-heeft",
+    "title": "Uw plichten wanneer u een bijstandsuitkering heeft",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/bijdrage-maatschappelijke-initiatieven",
+    "title": "Bijdrage voor maatschappelijke initiatieven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://sociaalstartpuntveenendaal.nl/is/een-vraag-over-2/zorg-en-ondersteuning/zorg-aanvragen/persoonsgebonden-budget",
+    "title": "Persoonsgebonden budget voor Wmo bespreken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgebonden_budget"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/milieumelding-bedrijven",
+    "title": "Milieumelding bedrijven via AIM online",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wet_milieubeheermelding"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/verkoop-goederen-of-diensten-aan-huis-en-op-straat-venten",
+    "title": "Verkoop goederen of diensten aan huis en op straat (venten)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/documenten-waarmerken",
+    "title": "Documenten laten waarmerken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/ontheffing-sluitingstijden-horeca",
+    "title": "Eenmalige ontheffing sluitingstijden horeca aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/ondersteuning-zorg-en-inkomen/inkomsten-doorgeven",
+    "title": "Inkomsten doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/ondersteuning-zorg-en-inkomen/uitkering-aanvragen",
+    "title": "Uitkering aanvragen en werk vinden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/ondersteuning-zorg-en-inkomen/uitkeringen-zelfstandigen",
+    "title": "Uitkeringen voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/gebruik-achternaam-veranderen",
+    "title": "Andere achternaam kiezen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/kwijtschelding-belastingen",
+    "title": "Kwijtschelding belastingen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/emigratie-naar-buitenland",
+    "title": "Verhuizing naar buitenland doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/evenementenvergunning-aanvragen",
+    "title": "Evenementenvergunning aanvragen voor middelgrote en grote evenementen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/bibob-toets",
+    "title": "Integriteitstoets voor nieuwe horeca (BIBOB-toets)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/dagplaats-markt",
+    "title": "Dagplaats markt aanvragen bij marktmeester",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/omgevingsvergunning-aanvragen",
+    "title": "Omgevingsvergunning voor bouwen en verbouwen aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/wijziging-leidinggevende",
+    "title": "Nieuwe of vertrekkende leidinggevende horeca doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/basissubsidie-amateurkunst",
+    "title": "Basissubsidie voor verenigingen in amateurkunst",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/aangifte-van-overlijden-doen",
+    "title": "Aangifte van overlijden doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/vergunning-tijdelijke-reclameborden",
+    "title": "Vergunning spandoeken, driehoeks- of sandwichborden en aankondigingsborden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/taxatieverslag-woz-waarde",
+    "title": "Taxatieverslag met WOZ-waarde opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/info-over-de-gemeente/procedure-social-return",
+    "title": "Aannemen medewerkers in bijstand na winnen aanbesteding (SROI)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/ondersteuning-zorg-en-inkomen/leerplicht-en-startkwalificatie",
+    "title": "Leerplicht en startkwalificatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/ondersteuning-zorg-en-inkomen/leerlingvervoer-aanvragen",
+    "title": "Leerlingvervoer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/subsidie-afkoppelen-regenwater-en-vergroenen",
+    "title": "Subsidie afkoppelen regenwater en vergroenen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/praat-en-doe-mee/klacht-over-ambtenaar-of-bestuurder",
+    "title": "Klacht over behandeling door ambtenaar of bestuurder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/ondersteuning-zorg-en-inkomen/gemakkelijker-parkeren-met-gratis-gehandicapten-parkeerapp",
+    "title": "Gemakkelijk parkeren met de gratis Gehandicapten Parkeerapp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/parkeervergunning-centrum",
+    "title": "Parkeervergunning centrum aanvragen | zakelijk en particulier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/handtekening-legaliseren",
+    "title": "Handtekening legaliseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://sociaalstartpuntveenendaal.nl/is/een-vraag-over-2/werk-geld-en-uitkering/geldzaken/andere-bijdrages/bijzondere-bijstand",
+    "title": "Bijzondere bijstand aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/praat-en-doe-mee/gemeente-aansprakelijk-stellen",
+    "title": "Gemeente aansprakelijk stellen voor schade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/subsidie-onderhoud-gemeentelijk-monument",
+    "title": "Subsidie onderhoud gemeentelijk monument",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/ondersteuning-zorg-en-inkomen/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/duurzaamheidslening-voor-energiebesparing",
+    "title": "Aanvragen duurzaamheidslening voor energiebesparing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/verhuizing-in-en-naar-veenendaal-doorgeven",
+    "title": "Verhuizing binnen of naar Veenendaal doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/ondersteuning-zorg-en-inkomen/verblijf-buitenland-melden",
+    "title": "Verblijf buitenland of andere gemeente melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/ondersteuning-zorg-en-inkomen/woonurgentie-aanvragen",
+    "title": "Woonurgentie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/urgBewWoning"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/ondersteuning-zorg-en-inkomen/doelgroepverklaring-loonkostenvoordeel",
+    "title": "Tegemoetkoming loonkosten voor werkgever",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/aansluiting-op-riool",
+    "title": "Aansluiting op gemeentelijk riool aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/bezwaar-belastingen-of-woz-waarde",
+    "title": "Bezwaar maken tegen belastingen en WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_bezwaar"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/ondersteuning-zorg-en-inkomen/uit-schulden-komen",
+    "title": "Hulp bij schulden en schuldsanering (Wsnp)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/asbest-afvoeren-particulieren",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/aanvragen-of-opheffen-geheimhouding-persoonsgegevens",
+    "title": "Aanvragen of opheffen geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/collecte-houden-geld-inzamelen-voor-een-goed-doel",
+    "title": "Collecte houden | geld inzamelen voor een goed doel",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/praat-en-doe-mee/woo-verzoek-indienen",
+    "title": "Woo-verzoek indienen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/belastingaanslag-betalen",
+    "title": "Belastingaanslag betalen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/bijdrage-buurtinitiatieven",
+    "title": "Bijdrage voor initiatieven in uw buurt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/ondersteuning-zorg-en-inkomen/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/onderzoek-bodemverontreiniging",
+    "title": "Verplicht bodemonderzoek bij graafwerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/bewoner-uitschrijven-van-uw-adres",
+    "title": "Fraude? Bewoner uitschrijven van uw adres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/onroerende-zaakbelasting-ozb",
+    "title": "Onroerende zaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/digitaal-opkopers-register",
+    "title": "Inkoop en verkoop tweedehands goederen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/praat-en-doe-mee/gevonden-en-verloren-voorwerpen",
+    "title": "Gevonden en verloren voorwerpen via iLost",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/aanvragen-en-regelen/aangifte-geboorte",
+    "title": "Aangifte geboorte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/info-over-de-gemeente/service-en-contact",
+    "title": "Service en contact",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  },
+  {
+    "identifier": "https://sociaalstartpuntveenendaal.nl/is/een-vraag-over-2/wonen-en-huishouden/huishouden/hulp-bij-het-huishouden",
+    "title": "Schoonmaakhulp",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.veenendaal.nl/belasting-en-vergunningen/drank-en-horecavergunning-horeca-en-slijterij",
+    "title": "Drank- en horecavergunning voor horeca en slijterij",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Veenendaal_(gemeente)"
+  }
+]

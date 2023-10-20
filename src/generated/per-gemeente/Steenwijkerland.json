@@ -1,0 +1,805 @@
+[
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Leefomgeving/Verkeer_en_vervoer/Gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Geboorte_trouwen_en_overlijden/Trouwen_en_geregistreerd_partnerschap/Meer_informatie/Buitenlands_huwelijk_registreren",
+    "title": "Buitenlands huwelijk registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Geboorte_trouwen_en_overlijden/Echtscheiding/Buitenlandse_echtscheiding",
+    "title": "Buitenlandse echtscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Belastingen/Bezwaar_tegen_gemeentelijke_belastingen",
+    "title": "Bezwaar tegen gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Bestemmingsplannen/Afwijking_van_regels_bestemmingsplan",
+    "title": "Afwijking van regels bestemmingsplan",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Belastingen/Betalingsregeling_gemeentelijke_belastingen",
+    "title": "Betaling gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Over_Steenwijkerland/Contact/Meldingen_en_klachten/Verloren_voorwerpen",
+    "title": "Verloren voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Belastingen/Watertoeristenbelasting",
+    "title": "Watertoeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Bestemmingsplannen/Bestemmingsplan_wijzigingsbevoegdheid",
+    "title": "Bestemmingsplan wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Wonen/Verhuizen/Verhuizen",
+    "title": "Verhuizen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Persoonsgegevens_derden_opvragen",
+    "title": "Persoonsgegevens derden opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Over_Steenwijkerland/Toerisme_cultuur_en_evenementen/Evenementen/Evenement_organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/evenementenvergunning"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Rioolaansluitvergunning",
+    "title": "Rioolaansluitvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Reclame_uitingen_plaatsen",
+    "title": "Reclame-uitingen plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Slopen",
+    "title": "Slopen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Afschrift_of_uittreksel_burgerlijke_stand",
+    "title": "Afschrift of uittreksel burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Voorwerpen_plaatsen_op_openbare_grond",
+    "title": "Voorwerpen plaatsen op openbare grond",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Subsidies/Algemeen/Subsidie_aanvragen_voor_een_onderwerp_dat_niet_is_benoemd/Middelgrote_subsidies_tussen_5_000_en_50_000",
+    "title": "Middelgrote subsidies tussen € 5.000,- en € 50.000,-",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Belastingen/Rioolheffing",
+    "title": "Rioolheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolheffing"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Ondernemers/Vergunningen_en_ontheffingen/Horeca/Kansspelautomaten",
+    "title": "Kansspelautomaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Brandveiligheid_omgevingsvergunning_of_gebruiksmelding",
+    "title": "Brandveiligheid gebouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Subsidies/Ondernemen/Subsidie_stimuleren_vitaliteit_binnenstad_Steenwijk",
+    "title": "Subsidie stimuleren vitaliteit binnenstad Steenwijk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Subsidies/Algemeen/Subsidie_aanvragen_voor_een_onderwerp_dat_niet_is_benoemd/Grote_subsidies_vanaf_50_000",
+    "title": "Grote subsidies vanaf € 50.000,-",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Subsidies/Toerisme_en_recreatie/Subsidie_aankoop_nieuwe_authentieke_houten_punter",
+    "title": "Subsidie aankoop nieuwe authentieke houten punter",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Inleveren_buitenlandse_brondocumenten",
+    "title": "Inleveren buitenlandse brondocumenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Bouwen_en_verbouwen",
+    "title": "Bouwen en verbouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Geboorte_trouwen_en_overlijden/Overlijden/Meer_over_overlijden/Aangifte_van_overlijden/Meer_informatie/Aangifte_levenloos_geboren_kind",
+    "title": "Aangifte levenloos geboren kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Subsidies/Leefbaarheid/Subsidie_Maatschappelijke_initiatieven_Steenwijkerland",
+    "title": "Subsidie maatschappelijke initiatieven Steenwijkerland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Wonen/Verhuizen/Verhuizen_naar_Nederland",
+    "title": "Verhuizen naar Nederland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/eerste_inschrijving_in_nederland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Geboorte_trouwen_en_overlijden/Overlijden/Meer_over_overlijden/Begraven/Gerelateerde_informatie/Begrafenis_of_crematie_regelen",
+    "title": "Begrafenis of crematie regelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Handtekening_legaliseren",
+    "title": "Legalisatie document",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Onderwijs/Leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Nederlander_worden/Naturalisatie/Nederlander_worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Over_Steenwijkerland/Contact/Meldingen_en_klachten/Klachten_over_de_gemeente",
+    "title": "Klachten over de gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Belastingen/Waardebeschikking_onroerende_zaken_WOZ_beschikking",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-beschikking"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Paspoort_en_identiteitskaart/Vluchtelingenpaspoort",
+    "title": "Vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/vluchtelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Nederlander_worden/Naturalisatie/Nederlander_worden_door_naturalisatie",
+    "title": "Nederlander worden door naturalisatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalisatieverzoek"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Verklaring_Omtrent_het_Gedrag",
+    "title": "Verklaring Omtrent het Gedrag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Subsidies/Sport_en_gezondheid/Subsidie_sportevenement",
+    "title": "Subsidie sportevenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Geheimhouding_persoonsgegevens",
+    "title": "Geheimhouding persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Wonen/Verhuren_leegstaande_woning",
+    "title": "Verhuren leegstaande woning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Paspoort_en_identiteitskaart/Vreemdelingenpaspoort",
+    "title": "Vreemdelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/vreemdelingenpaspoort"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Belastingen/Afvalstoffenheffing",
+    "title": "Afvalstoffenheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/afvalstoffenheffing"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Belastingen/Vermakelijkhedenretributie_vaarbelasting",
+    "title": "Vermakelijkhedenretributie (vaarbelasting)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Waarmerken_kopie_van_document",
+    "title": "Waarmerken kopie van document",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Subsidies/Algemeen/Subsidie_aanvragen_voor_een_onderwerp_dat_niet_is_benoemd/Kleine_subsidies_tot_5_000",
+    "title": "Kleine subsidies tot € 5.000,-",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Basisregistratie_Personen_BRP_uittreksel",
+    "title": "Uittreksel Basisregistratie Personen (BRP)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Nederlander_worden/Inburgeren_in_uw_gemeente",
+    "title": "Inburgeren in uw gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Ondernemers/Vergunningen_en_ontheffingen/Varen_in_Steenwijkerland",
+    "title": "Varen in Steenwijkerland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Melden_bouwwerkzaamheden",
+    "title": "Melden bouwwerkzaamheden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Ondernemers/Vergunningen_en_ontheffingen/Horeca/Terrasvergunning",
+    "title": "Terrasvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/terrasvergunning"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Bewijs_van_garantstelling_en_of_logiesverstrekking",
+    "title": "Bewijs van garantstelling en/of logiesverstrekking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/garantverklaring_verblijf_in_nederland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Achternaam_wijzigen",
+    "title": "Achternaam wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Werk_of_werkzaamheden_uitvoeren_aanleg_omgevingsvergunning",
+    "title": "Werkzaamheden buiten bebouwde kom of in beschermd stads- of dorpsgezicht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Basisregistratie_Personen_BRP_inzage_op_verstrekkingen",
+    "title": "Basisregistratie Personen (BRP), inzage op verstrekkingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Bestemmingsplannen/Bestemmingsplan_informatie_aanvragen",
+    "title": "Bestemmingsplan, informatie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Geboorte_trouwen_en_overlijden/Geboorte/Geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Bestemmingsplannen/Planschade",
+    "title": "Planschade",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/planschade"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Wonen/Verhuizen/Briefadres_aanvragen",
+    "title": "Briefadres",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/briefadres"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Ondernemers/Vergunningen_en_ontheffingen/Standplaatsvergunning_voor_de_weekmarkt",
+    "title": "Standplaatsvergunning voor de weekmarkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Subsidies/Sport_en_gezondheid/Subsidie_Gezond_in_Steenwijkerland",
+    "title": "Subsidie Gezond in Steenwijkerland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Belastingen/Hondenbelasting",
+    "title": "Hondenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/hondenbelasting"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Bomen_kappen_omgevingsvergunning",
+    "title": "Bomen kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_kap"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Over_Steenwijkerland/Toerisme_cultuur_en_evenementen/Evenementen/Alcohol_schenken_tijdens_bijzonder_evenement",
+    "title": "Alcohol schenken tijdens bijzonder evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Subsidies/Kunst_en_cultuur/Subsidie_amateurkunst",
+    "title": "Subsidie amateurkunst",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Wonen/Verhuizen/Verhuizen_naar_het_buitenland",
+    "title": "Verhuizen naar het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Subsidies/Sport_en_gezondheid/Subsidie_sport",
+    "title": "Subsidie sport",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Paspoort_en_identiteitskaart/Paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Subsidies/Leefbaarheid/Subsidie_dorpshuizen_en_wijkgebouwen",
+    "title": "Subsidie dorpshuizen en wijkgebouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Ondernemers/Vergunningen_en_ontheffingen/Horeca/Alcoholwetvergunning",
+    "title": "Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Duurzaam_Steenwijkerland/Afval_en_hergebruik/Tegemoetkoming_onvermijdbaar_medisch_afval",
+    "title": "Tegemoetkoming onvermijdbaar medisch afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Over_Steenwijkerland/Toerisme_cultuur_en_evenementen/Evenementen/Collectes_en_acties",
+    "title": "Collectes en acties",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Leefomgeving/Verkeer_en_vervoer/Gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Bewijs_van_Nederlanderschap",
+    "title": "Bewijs van Nederlanderschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_nederlanderschap"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Belastingen/Roerenderuimtebelasting_RRB",
+    "title": "Roerenderuimtebelasting (RRB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Attestatie_de_vita",
+    "title": "Attestatie de vita",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Paspoort_en_identiteitskaart/Identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Leefomgeving/Verkeer_en_vervoer/Verkeersmaatregelen_voor_gemeentelijke_wegen",
+    "title": "Verkeersmaatregelen voor gemeentelijke wegen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Leefomgeving/Water_en_riolering/Veelgestelde_vragen_over_het_riool_en_de_drukrioolpompen/Problemen_met_het_riool",
+    "title": "Problemen met het riool? ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Leefomgeving/Oud_en_nieuw/Oudejaarshuisjes",
+    "title": "Oudejaarshuisjes",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Belastingen/Grafonderhoudsrecht",
+    "title": "Grafonderhoudsrecht",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Rijbewijs/Rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Ondernemers/Vergunningen_en_ontheffingen/Standplaatsvergunning",
+    "title": "Standplaatsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Ondernemers/Vergunningen_en_ontheffingen/Horeca/Kansspel_vergunning_of_melding",
+    "title": "Kansspelen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Over_Steenwijkerland/Contact/Meldingen_en_klachten/Aansprakelijkstelling_gemeente",
+    "title": "Aansprakelijkstelling gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Geboorte_trouwen_en_overlijden/Geboorte/Voornaam_kind",
+    "title": "Voornaam kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Geboorte_trouwen_en_overlijden/Echtscheiding/Echtscheiding_inschrijving",
+    "title": "Echtscheiding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Leefomgeving/Verkeer_en_vervoer/Gevaarlijke_stoffen_vervoeren",
+    "title": "Gevaarlijke stoffen vervoeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/routeplichtontheffing_vervoer_gevaarlijke_stoffen"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Nederlander_worden/Naturalisatie/Ceremonie_voor_nieuwe_Nederlanders",
+    "title": "Ceremonie voor nieuwe Nederlanders",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Belastingen/Onroerendezaakbelasting",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Bouwplannen_ingediend_bij_de_gemeente_inzage",
+    "title": "Ingediende bouwplannen inzien",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Subsidies/Corona/Subsidie_Vitaliteitsfonds",
+    "title": "Subsidie Vitaliteitsfonds",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Levenloos_geboren_kind_registreren_in_de_BRP",
+    "title": "Levenloos geboren kind registreren in de BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Belastingen/Belastingen_kopie_belastingaanslag",
+    "title": "Kopie belastingaanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Huisnummer_aanvragen",
+    "title": "Huisnummer aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Geboorte_trouwen_en_overlijden/Echtscheiding/Geregistreerd_partnerschap_ontbinding",
+    "title": "Geregistreerd partnerschap beëindigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschap_ontbinding"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Leefomgeving/Overlast_van_bedrijven",
+    "title": "Overlast van bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Leefomgeving/Melding_doen",
+    "title": "Melding doen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Over_Steenwijkerland/Contact/Meldingen_en_klachten/Gevonden_voorwerpen",
+    "title": "Gevonden voorwerpen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Rijbewijs/Gezondheidsverklaring",
+    "title": "Gezondheidsverklaring",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Belastingen/Kwijtschelding_gemeentelijke_belastingen",
+    "title": "Kwijtschelding gemeentelijke belastingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Buitenlandse_documenten_registreren",
+    "title": "Formele veranderingen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Wonen/Verhuizen/Adresonderzoek",
+    "title": "Adresonderzoek",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/adresonderzoek"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Belastingen/Toeristenbelasting",
+    "title": "Toeristenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/toeristenbelasting"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Subsidies/Leefbaarheid/Subsidie_Inwonersinitiatieven_zijn_goud_waard",
+    "title": "Subsidie Inwonersinitiatieven zijn goud waard",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Over_Steenwijkerland/Toerisme_cultuur_en_evenementen/Evenementen/Loterij",
+    "title": "Loterij",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Leefomgeving/Stookontheffing",
+    "title": "Stookontheffing",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/stookonth"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Over_Steenwijkerland/Contact/Meldingen_en_klachten/Bezwaar_tegen_besluit_gemeente",
+    "title": "Bezwaar tegen besluit gemeente",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Verklaring_onder_ede_belofte",
+    "title": "Verklaring onder ede of belofte afleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Belastingen/Forensenbelasting",
+    "title": "Forensenbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/forensenbelasting"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Naamswijziging_voornaam",
+    "title": "Voornaam wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Subsidies/Sport_en_gezondheid/Subsidie_EHBO_afdelingen",
+    "title": "Subsidie EHBO-afdelingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Bewijs_van_in_leven_zijn",
+    "title": "Bewijs van in leven zijn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/bewijs_van_in_leven_zijn_(attestatie_de_vita)"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Subsidies/Jeugd/Subsidie_jeugdclubs",
+    "title": "Subsidie jeugdclubs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Asbest_verwijderen",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Geboorte_trouwen_en_overlijden/Geboorte/Achternaam_kind",
+    "title": "Achternaam kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Geboorte_trouwen_en_overlijden/Geboorte/Erkenning_ongeboren_kind",
+    "title": "Erkenning (ongeboren) kind",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Bouwen_en_vergunningen/Melding_inrit_oprit",
+    "title": "Melding inrit/oprit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Nederlandse_nationaliteit_afstand_doen_van",
+    "title": "Afstand doen van de Nederlandse nationaliteit",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_van_afstand_nederlandse_nationaliteit"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Subsidies/Sport_en_gezondheid/Subsidie_Fit_op_school_Steenwijkerland",
+    "title": "Subsidie Fit op school Steenwijkerland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Over_Steenwijkerland/Demonstratie_of_samenkomst",
+    "title": "Demonstratie of samenkomst",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Ondernemers/Vergunningen_en_ontheffingen/Verkoop_en_opslag_van_vuurwerk",
+    "title": "Verkoop en opslag van vuurwerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Belastingen/Bedrijven_Investeringszone_BIZ_bijdrage",
+    "title": "Bedrijven Investeringszone (BIZ)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Subsidies/Ondernemen/Subsidie_voor_elektrische_deelfietsen",
+    "title": "Subsidie voor elektrische deelfietsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  },
+  {
+    "identifier": "https://www.steenwijkerland.nl/Inwoners/Paspoort_rijbewijs_en_uittreksel/Uittreksels_en_bewijzen/Keuze_naamgebruik",
+    "title": "Keuze naamgebruik",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Steenwijkerland"
+  }
+]

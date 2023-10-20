@@ -1,0 +1,623 @@
+[
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/voorwerp-plaatsen",
+    "title": "Voorwerp plaatsen op of aan de weg",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats_op_kenteken"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/overlast-en-handhaving",
+    "title": "Overlast en handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/reclame",
+    "title": "Reclame plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_reclame"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/gemeentepolis",
+    "title": "Gemeentepolis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/vuurwerk-en-carbidschieten",
+    "title": "Vuurwerk en carbidschieten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/vuurwerkvergunning"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/geregistreerd-partnerschap",
+    "title": "Geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschapaangifte"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/vrijwilligers-en-evenementenverzekering",
+    "title": "Vrijwilligers- en evenementenverzekering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/graf-of-nis",
+    "title": "Aanvraag of bijzetting graf of nis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/koninklijke-onderscheidingen",
+    "title": "Koninklijke onderscheiding aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijke_onderscheiding_voordracht"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/te-laat-beslissen",
+    "title": "In gebreke stellen gemeente bij te laat beslissen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/uitkering-ioaw",
+    "title": "Uitkering IOAW",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaw-uitkering"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/verhuizing",
+    "title": "Verhuizing doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/gemeente-aansprakelijk-stellen",
+    "title": "Gemeente aansprakelijk stellen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/aansprakelijkstelling_gemeente"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/subsidie-voor-verenigingen",
+    "title": "Subsidie voor verenigingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/woonschepen",
+    "title": "Woonschepen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/brp",
+    "title": "Uittreksel persoonsgegevens BRP",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/afschrift-burgerlijke-stand",
+    "title": "Afschrift (uittreksel) burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpUittr"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/milieuvergunning-of-melding",
+    "title": "Milieuvergunning- of melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/milieuontheffing"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/energietoeslag",
+    "title": "Energietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/beschermd-wonen",
+    "title": "Beschermd wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/beschermde_leefomgeving_aanwijzing"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/kabels-en-leidingen",
+    "title": "Kabels en leidingen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/graafmelding"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/buitenlandse-documenten",
+    "title": "Buitenlandse documenten registreren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpInschrBuitAkte"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/kiezerspas",
+    "title": "Kiezerspas aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/kiezerspas"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/stempas",
+    "title": "Uw stempas",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/stempas"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/paspoort",
+    "title": "Paspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/paspoort"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/uitkering-ioaz",
+    "title": "Uitkering IOAZ",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/ioaz-uitkering"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/boom-kappen",
+    "title": "Boom kappen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/eigen-bijdrage-maatwerkvoorzieningen",
+    "title": "Eigen bijdrage maatwerkvoorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/trouwen",
+    "title": "Trouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/zorgfraude-melden",
+    "title": "Zorgfraude melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/waarmerken-kopie-of-afschrift",
+    "title": "Waarmerken kopie of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/waarmerken_document"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/gebruik-achternaam",
+    "title": "Gebruik achternaam wijzigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanduiding_naamgebruik"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/bijstand-ondernemers",
+    "title": "Bijstand voor ondernemers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/begeleiding-wmo",
+    "title": "Begeleiding/dagbesteding Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/loterij-prijsvraag-bingo",
+    "title": "Loterij, prijsvraag, bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/loterijvergunning"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/venten",
+    "title": "Venten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/ventonth"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/parkeervergunning",
+    "title": "Parkeervergunning Thorn",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeervergunning"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/pgb-of-zorg-in-natura",
+    "title": "PGB of Zorg in natura",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/gratis-huwelijk",
+    "title": "Gratis huwelijk/partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/huwelijk"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/wmo-voorzieningen",
+    "title": "Wmo-voorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/alcoholwetvergunning",
+    "title": "Alcoholwetvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/alcoholvergunning"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/asbest",
+    "title": "Asbest verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/verhuizen-naar-buitenland",
+    "title": "Verhuizen naar buitenland (emigratie)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuizing_naar_buitenland"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/standplaats",
+    "title": "Standplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/maatschappelijke-opvang",
+    "title": "Maatschappelijke opvang / dakloos raken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/exploitatievergunning",
+    "title": "Exploitatievergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/nederlander-worden",
+    "title": "Nederlander worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/studietoeslag",
+    "title": "Studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/bijstand",
+    "title": "Bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/rioolaansluiting",
+    "title": "Rioolaansluiting aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/rioolaansluitingsvergunning"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/uitrit-of-inrit",
+    "title": "Uitrit of inrit aanpassen of aanleggen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/legaliseren-handtekening",
+    "title": "Legaliseren handtekening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_handtekening"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/koninklijke-erepenning-of-hofleverancier",
+    "title": "Koninklijke Erepenning of Hofleverancier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/koninklijk_predicaataanvraag"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/aanvragen-wmo",
+    "title": "Aanvragen van Wmo",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/sloopmelding",
+    "title": "Sloopmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/leerlingenvervoer",
+    "title": "Leerlingenvervoer",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerlingenvervoer"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/klacht-indienen",
+    "title": "Klacht tegen ambtelijk / bestuurlijk optreden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/klacht"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/gevonden-of-verloren-voorwerpen",
+    "title": "Gevonden of verloren voorwerpen melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/gevVerlVoorwerp"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/evenement-organiseren",
+    "title": "Evenement organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/vog",
+    "title": "Verklaring omtrent gedrag (VOG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/verklaring_omtrent_gedrag_(vog)"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/verhuizing-naar-nederland",
+    "title": "Verhuizing naar Nederland (immigratie)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/verhuismelding"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/maatschappelijk-actief-bonus",
+    "title": "Maatschappelijk actief bonus",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/je-leefomgeving",
+    "title": "Berichten via jeleefomgeving.nl",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/berichtenbox"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/aangifte-overlijden",
+    "title": "Aangifte overlijden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/overlijdensaangifte"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/kind-erkennen",
+    "title": "Kind erkennen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/erkenning_kind"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/persoonlijk-participatiebudget",
+    "title": "Persoonlijk Participatiebudget Pensioengerechtigden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/afkoppelen-van-hemelwater",
+    "title": "Afkoppelen van hemelwater",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/wijzigen-of-verwijderen-persoonsgegevens",
+    "title": "Wijzigen of verwijderen persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/persgegverw"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/evenementensubsidie",
+    "title": "Evenementensubsidie aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/subsidie"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/leerplicht",
+    "title": "Leerplicht, startkwalificatie of vrijstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/controle-bouwen-en-wonen",
+    "title": "Controle bouwen en wonen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/starterslening",
+    "title": "Starterslening",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/starterslening"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/volmacht",
+    "title": "Iemand voor u laten stemmen (volmacht)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/volmachtbewijs_verkiezingen"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/uitkeringsfraude-melden",
+    "title": "Uitkeringsfraude melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/oud-papier",
+    "title": "Ophaaldagen oud papier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/geheimhouden-persoonsgegevens",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/mantelzorgwaardering",
+    "title": "Mantelzorgwaardering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgcompliment"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/hulp-bij-het-huishouden",
+    "title": "Hulp bij het huishouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/verkeersontheffing",
+    "title": "Verkeersontheffing aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/UPL-naam_nog_niet_beschikbaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/vreemdelingenpaspoort-en-vluchtelingenpaspoort",
+    "title": "Vreemdelingenpaspoort en vluchtelingenpaspoort",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/bezwaar-maken",
+    "title": "Bezwaar maken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/bezwaar"
+  },
+  {
+    "identifier": "https://www.gemeentemaasgouw.nl/collecte",
+    "title": "Collecte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Maasgouw",
+    "product": "http://standaarden.overheid.nl/owms/terms/collectevergunning"
+  }
+]

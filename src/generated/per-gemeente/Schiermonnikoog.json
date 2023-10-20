@@ -1,0 +1,790 @@
+[
+  {
+    "identifier": "https://www.schiermonnikoog.nl/olietanks-in-particuliere-grond-verwijderen",
+    "title": "Olietanks in particuliere grond verwijderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/olietankMld"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/carbid-schieten-schiermonnikoog",
+    "title": "Carbid schieten Schiermonnikoog",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/milieu-vergunning-of-melding",
+    "title": "Milieu, vergunning of melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_milieu"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/duurzaam-bouwen",
+    "title": "Duurzaam bouwen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/ontheffing-parkeerverbod-schiermonnikoog",
+    "title": "Ontheffing parkeerverbod Schiermonnikoog",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/parkeerontheffing"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/regelingen-voor-mensen-met-een-laag-inkomen",
+    "title": "Regelingen voor mensen met een laag inkomen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/belastingen-en-heffingen-kwijtschelding-schiermonnikoog",
+    "title": "Belastingen en heffingen, kwijtschelding Schiermonnikoog",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingkwijtschelding"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/ondersteuning-bij-werk-zoeken",
+    "title": "Ondersteuning bij werk zoeken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/werkbegeleiding_werkzoekenden"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/tijdelijke-ontheffing-rijverbod-bedrijven-naar-schiermonnikoog",
+    "title": "Tijdelijke ontheffing rijverbod bedrijven naar Schiermonnikoog",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/huishoudelijk-afval",
+    "title": "Huishoudelijk afval",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huishoudelijk_afvalinzameling"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/echtscheiding-of-einde-geregistreerd-partnerschap",
+    "title": "Echtscheiding of einde geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/echtscheiding_inschrijving"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/bijstand-verandering-doorgeven",
+    "title": "Bijstand, verandering doorgeven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/bijstand-instelling-of-tehuis",
+    "title": "Bijstand, instelling of tehuis",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/bijzondere-bijstand",
+    "title": "Bijzondere bijstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijzBijstUitk"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/inschrijving-woningzoekende",
+    "title": "Inschrijving woningzoekende",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/informatiestand-plaatsen",
+    "title": "Informatiestand plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/geluidsoverlast-veroorzaken",
+    "title": "Geluidsoverlast veroorzaken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/asbest-verwijderen-schiermonnikoog",
+    "title": "Asbest verwijderen Schiermonnikoog",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/asbestverwijdering"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/bouwwerk-gereedmelding",
+    "title": "Bouwwerk, gereedmelding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwwerk_voltooiingsverklaring"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/opgraven-en-herbegraven-of-cremeren",
+    "title": "Opgraven en herbegraven of cremeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/herbegraven_of_alsnog_cremeren"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/tijdelijke-verhuur-leegstaand-pand",
+    "title": "Tijdelijke verhuur leegstaand pand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wnTijdVerhVerg"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/alcohol-schenken-tijdens-evenement",
+    "title": "Alcohol schenken tijdens evenement",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tapontheffing"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/geboorteaangifte",
+    "title": "Geboorteaangifte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geboorteaangifte"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/tijdelijke-ontheffing-rijverbod-gehandicapten-schiermonnikoog",
+    "title": "Tijdelijke ontheffing rijverbod gehandicapten Schiermonnikoog",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/monument-verbouwen-herstellen-of-onderhouden",
+    "title": "Monument verbouwen, herstellen of onderhouden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_bouw"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/woz-waarde",
+    "title": "WOZ-waarde",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woz-taxatieverslag"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/vuurwerkvrije-zone-melden-op-schiermonnikoog",
+    "title": "Vuurwerkvrije zone melden op Schiermonnikoog",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/weer-gaan-werken",
+    "title": "Weer gaan werken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/re-integratie"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/openingstijden-horeca-eenmalig-aanpassen",
+    "title": "Openingstijden horeca eenmalig aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecatijdenontheffing"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/geluidsapparatuur-horecabedrijf",
+    "title": "Geluidsapparatuur horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/brandveiligheid-melding-of-vergunning",
+    "title": "Brandveiligheid, melding of vergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgVgBrvGebr"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/gladheid-bestrijden-schiermonnikoog",
+    "title": "Gladheid bestrijden Schiermonnikoog",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gladheidbestrijding"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/hulp-voor-ouderen-zieken-mensen-met-een-beperking-wmo",
+    "title": "Hulp voor ouderen, zieken, mensen met een beperking (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/wmo-voorziening"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/standplaats-aanvragen-schiermonnikoog",
+    "title": "Standplaats aanvragen Schiermonnikoog",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/standplaatsvergunning"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/vervoer-naar-en-op-schiermonnikoog",
+    "title": "Vervoer naar en op Schiermonnikoog",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/personenvervoerconcessie"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/melding-woon-en-leefomgeving",
+    "title": "Melding woon- en leefomgeving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/melding_openbare_ruimte_(algemeen)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/straatartiest-optreden",
+    "title": "Straatartiest optreden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/strArtOptrOnth"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/hulp-bij-een-arbeidsbeperking",
+    "title": "Hulp bij een arbeidsbeperking",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/regArbBepIns"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/seksbedrijf-starten",
+    "title": "Seksbedrijf starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/seksbedrijf_exploitatievergunning"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/schoolkosten-bijdrage-0",
+    "title": "Schoolkosten, bijdrage",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onderwBijdSchKstVoTgk"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/opvang-wmo",
+    "title": "Opvang (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dagbestOuderen"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/gokautomaat-plaatsen",
+    "title": "Gokautomaat plaatsen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelautomaatvergunning"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/verklaring-onder-ede-of-belofte",
+    "title": "Verklaring onder ede of belofte",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/persoonsgegevens_verklaring_onder_eed_of_belofte"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/afval-bedrijven",
+    "title": "Afval, bedrijven",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bedrijfsafvalinzameling"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/verzoek-om-handhaving",
+    "title": "Verzoek om handhaving",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/handhavingsverzoek"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/bijstand-uitkering",
+    "title": "Bijstand, uitkering",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/beschermd-dorpsgezicht-schiermonnikoog",
+    "title": "Beschermd dorpsgezicht Schiermonnikoog",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/geluidswagen-gebruiken",
+    "title": "Geluidswagen gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geluidsontheffing"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/vergoeding-regentonnen-en-compostvaten",
+    "title": "Vergoeding regentonnen en compostvaten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/psychische-hulp-melding",
+    "title": "Psychische hulp, melding",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/waarmerken-kopie-of-afschrift",
+    "title": "Waarmerken kopie of afschrift",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/legalisatie_document"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/overzicht-geleverde-persoonsgegevens-opvragen",
+    "title": "Overzicht geleverde persoonsgegevens opvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/bestemmingsplan-aanpassen",
+    "title": "Bestemmingsplan aanpassen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_ruimtelijke_ordening"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/klein-evenement-melden",
+    "title": "Klein evenement melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/hotel-bed-and-breakfast-of-camping-starten",
+    "title": "Hotel, bed and breakfast of camping starten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/omgevingsvergunning",
+    "title": "Omgevingsvergunning",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/belastingen-kopie-aanslag",
+    "title": "Belastingen, kopie aanslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingaanslag_kopie"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/bijstand-voor-jongeren",
+    "title": "Bijstand voor jongeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/leerplicht-bijzonder-verlof-of-vrijstelling",
+    "title": "Leerplicht, bijzonder verlof of vrijstelling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/leerplichtvrijstelling"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/exploitatieovereenkomst",
+    "title": "Exploitatieovereenkomst",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/grondexplOvereen"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/bijstand-jaaropgave",
+    "title": "Bijstand, jaaropgave",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/precariobelasting",
+    "title": "Precariobelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/precariobelasting"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/onroerendezaakbelasting-ozb",
+    "title": "Onroerendezaakbelasting (OZB)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaakbelasting_(ozb)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/bestemmingsplan-bekijken",
+    "title": "Bestemmingsplan bekijken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bestemmingsplan_inzage"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/bouw-en-verbouwing-welstand",
+    "title": "Bouw en verbouwing, welstand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/welstandsadvies"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/grond-kopen-huren-of-pachten",
+    "title": "Grond kopen, huren of pachten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/onroerendezaak_huur_pacht_koop"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/beschermd-wonen-wmo",
+    "title": "Beschermd wonen (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/rijbewijs",
+    "title": "Rijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/identiteitskaart",
+    "title": "Identiteitskaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/identiteitskaart"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/woonvoorzieningen",
+    "title": "Woonvoorzieningen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/woonvoorziening_gehandicapten_en_ouderen"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/geregistreerd-partnerschap",
+    "title": "Geregistreerd partnerschap",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/geregistreerd_partnerschapaangifte"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/rommelmarkt",
+    "title": "Rommelmarkt",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/snuffelmarktvergunning"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/begeleidingdagbesteding-wmo",
+    "title": "Begeleiding/dagbesteding (Wmo)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/exploitatievergunning-horecabedrijf",
+    "title": "Exploitatievergunning horecabedrijf",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/horecaExplVrg"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/loterij-prijsvraag-bingo-organiseren",
+    "title": "Loterij, prijsvraag, bingo organiseren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/kansspelvergunning"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/tijdelijke-ontheffing-rijverbod-particulieren-schiermonnikoog",
+    "title": "Tijdelijke ontheffing rijverbod particulieren Schiermonnikoog",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/sloopmelding-gebouw-of-deel-gebouw",
+    "title": "Sloopmelding gebouw of deel gebouw",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/omgevingsvergunning_sloop"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/bijstand-vakantie-melden",
+    "title": "Bijstand, vakantie melden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/grond-bagger-en-bouwstoffen-gebruiken",
+    "title": "Grond, bagger en bouwstoffen gebruiken",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bouwstoffenmelding"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/individuele-inkomenstoeslag",
+    "title": "Individuele inkomenstoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indInkToesl"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/trouwen-in-het-buitenland",
+    "title": "Trouwen in het buitenland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/afschrift-uittreksel-burgerlijke-stand",
+    "title": "Afschrift (uittreksel) burgerlijke stand",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/akte_van_de_burgerlijke_stand"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/huisverbod-bij-huiselijk-geweld",
+    "title": "Huisverbod bij huiselijk geweld",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/tijdHuisverbod"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/bouw-en-verbouwing-controle",
+    "title": "Bouw en verbouwing, controle",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/aanschrijving"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/vergoeding-kleine-energiebesparende-maatregelen-schiermonnikoog-80-euro-regeling",
+    "title": "Vergoeding kleine energiebesparende maatregelen Schiermonnikoog (80-euro regeling)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/gehandicaptenparkeerkaart",
+    "title": "Gehandicaptenparkeerkaart",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerkaart"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/verwijderen-privacygevoelige-persoonsgegevens",
+    "title": "Verwijderen privacygevoelige persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/hofleverancier-worden",
+    "title": "Hofleverancier worden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/hofleverancieraanvraag"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/hulp-bij-geldzaken-en-schulden",
+    "title": "Hulp bij geldzaken en schulden",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/schuldhulpverlening"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/buitenlandse-documenten-legaliseren-en-verifieren",
+    "title": "Buitenlandse documenten legaliseren en verifiëren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/bijstand-voor-zelfstandigen",
+    "title": "Bijstand voor zelfstandigen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstandZst"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/kind-adopteren",
+    "title": "Kind adopteren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/adoptie_aangifte"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/ondersteuning-voor-mantelzorgers",
+    "title": "Ondersteuning voor mantelzorgers",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/mantelzorgondersteuning"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/toelage-uitwonende-studenten",
+    "title": "Toelage uitwonende studenten",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/verzorgingshuis-of-thuiszorg-indicatie",
+    "title": "Verzorgingshuis of thuiszorg, indicatie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/thuiszorg"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/ontkenning-vaderschap-door-moeder",
+    "title": "Ontkenning vaderschap door moeder",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/vaderschapsontkenning_verklaring"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/individuele-studietoeslag",
+    "title": "Individuele studietoeslag",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/indStudToesl"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/baatbelasting",
+    "title": "Baatbelasting",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/baatbelasting"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/belastingen-betalingsregeling",
+    "title": "Belastingen, betalingsregeling",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/belastingbetalingsregeling"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/marktplaats-aanvragen",
+    "title": "Marktplaats aanvragen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/inburgeren",
+    "title": "Inburgeren",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/inburgeringsexamen"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/nederlander-worden-door-optie",
+    "title": "Nederlander worden door optie",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/naturalOptie"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/aanpassen-onjuiste-persoonsgegevens",
+    "title": "Aanpassen onjuiste persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpWijzVzk"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/geheimhouden-persoonsgegevens",
+    "title": "Geheimhouden persoonsgegevens",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/brpGehhVzk"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/bijstand-vrijwilligerswerk",
+    "title": "Bijstand, vrijwilligerswerk",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/bijstand"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/monument-aanwijzen",
+    "title": "Monument aanwijzen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/monumentaanwijzing"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/ontheffing-rijverbod-strandrijden-schiermonnikoog",
+    "title": "Ontheffing rijverbod strandrijden Schiermonnikoog",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/huisnummer-aanvragen-of-veranderen",
+    "title": "Huisnummer aanvragen of veranderen",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/huisnummertoekenning"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/aardgasvrij-eiland-0",
+    "title": "Aardgasvrij Eiland",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/naamswijziging-achternaam",
+    "title": "Naamswijziging achternaam",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/achternaamwijziging"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/incidentele-festiviteit-muziek-melden-schiermonnikoog",
+    "title": "Incidentele festiviteit (muziek) melden Schiermonnikoog",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/collIncFest"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/gehandicaptenparkeerplaats",
+    "title": "Gehandicaptenparkeerplaats",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/gehandicaptenparkeerplaats"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/basisregistratie-adressen-en-gebouwen-bag",
+    "title": "Basisregistratie Adressen en Gebouwen (BAG)",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/straatnaamgeving"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/bromfietsrijbewijs",
+    "title": "Bromfietsrijbewijs",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/rijbewijs"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/dood-of-gewond-dier",
+    "title": "Dood of gewond dier",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)",
+    "product": "http://standaarden.overheid.nl/owms/terms/dodeGezelschDierenOpr"
+  },
+  {
+    "identifier": "https://www.schiermonnikoog.nl/ontheffing-rijverbod-inwoner-van-schiermonnikoog",
+    "title": "Ontheffing rijverbod inwoner van Schiermonnikoog",
+    "language": "nl",
+    "authority": "http://standaarden.overheid.nl/owms/terms/Schiermonnikoog_(gemeente)"
+  }
+]
