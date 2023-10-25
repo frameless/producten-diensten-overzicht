@@ -219,15 +219,13 @@ const AanwijsbesluitVariantPage = ({ resourceIdentifier }) => {
           </Mark>
         </Paragraph>
         <Heading2 id="artikel-3a">
-          Artikel <Mark>[…]</Mark> Kanaal bezwaarschriften en klachten{" "}
-        </Heading2>
-        <Paragraph>
+          Artikel <Mark>[…]</Mark> Kanaal bezwaarschriften en klachten
           <Mark>
             [(de nummering van het artikel is afhankelijk van het aantal
             hiervoor opgenomen artikelen over de aanwijzing van kanalen in de
             betreffende domeinen)]
           </Mark>
-        </Paragraph>
+        </Heading2>
         <OrderedList>
           <OrderedListItem>
             <Paragraph>
@@ -247,13 +245,13 @@ const AanwijsbesluitVariantPage = ({ resourceIdentifier }) => {
         </OrderedList>
         <Heading2 id="artikel-3b">
           Artikel <Mark>[…]</Mark> Kanaal Omgevingswet{" "}
-        </Heading2>
-        <Paragraph>
           <Mark>
             [(de nummering van het artikel is afhankelijk van het aantal
             hiervoor opgenomen artikelen over de aanwijzing van kanalen in
             andere domeinen)]
           </Mark>
+        </Heading2>
+        <Paragraph>
           <Mark>
             In afwijking van <Mark>[artikel […] OF [de artikelen [….]]</Mark>,
             wordt voor berichten die daartoe bij of krachtens de Omgevingswet
@@ -382,9 +380,9 @@ const AanwijsbesluitVariantPage = ({ resourceIdentifier }) => {
           aangewezen.
         </Paragraph>
         <Paragraph>
-          Variant C (Aanwijzing kanalen voor clustering van type berichten en
-          restkanaal binnen domeinen, specifieke kanaalaanduiding voor bepaalde
-          typen berichten daarbuiten)
+          Variant D (Aanwijzing specifieke kanalen voor specifieke typen
+          berichten en een vangnetkanaal binnen domeinen, specifieke
+          kanaalaanduiding voor bepaalde berichten daarbuiten)
         </Paragraph>
         <Heading2 id="artikel-2">
           Artikel 2 Aanwijzing kanalen domein {gemeenteData.resourceIdentifier}
@@ -394,33 +392,50 @@ const AanwijsbesluitVariantPage = ({ resourceIdentifier }) => {
             <Fragment key={product.identifier}>
               <OrderedListItem>
                 <Paragraph>
-                  Voor berichten in het domein <Mark>{product.title}</Mark> die
-                  de verzender uit eigen beweging indient, wordt{" "}
-                  <Mark>[kanaal]</Mark> dat wordt ontsloten op{" "}
-                  <Mark>[naam specifieke url voor dit domein]</Mark>
-                  aangewezen.
+                  Voor het domein […] worden de volgende kanalen aangewezen:
                   <br />
                 </Paragraph>
-              </OrderedListItem>
-              <OrderedListItem>
-                <Paragraph>
-                  Voor berichten in het in het eerste lid genoemde domein die op
-                  verzoek van de gemeente worden ingediend, wordt de in de
-                  uitnodiging aangewezen elektronische wijze van verzenden als
-                  kanaal gebruikt.
-                </Paragraph>
-              </OrderedListItem>
-              <OrderedListItem>
-                <Paragraph>
-                  In afwijking van het eerste lid, wordt voor het indienen van
-                  de volgende type berichten in dit domein <Mark>[kanaal]</Mark>{" "}
-                  als kanaal aangewezen:{" "}
-                  <Mark>
-                    […(opsommen typen berichten waarvoor dit kanaal beschikbaar
-                    is)]
-                  </Mark>
-                  .
-                </Paragraph>
+                <OrderedList>
+                  <OrderedListItem className="no-list-style">
+                    a. specifieke webformulieren voor{" "}
+                    <Mark>
+                      [… (opsommen typen berichten waarvoor een specifiek
+                      webformulier beschikbaar is)]
+                    </Mark>{" "}
+                    die worden ontsloten op{" "}
+                    <Mark>[naam specifieke url voor dit domein]</Mark>;
+                  </OrderedListItem>
+                  <OrderedListItem className="no-list-style">
+                    b. generiek e-formulier <Mark>[naam]</Mark> voor{" "}
+                    <Mark>
+                      [… (opsommen typen berichten waarvoor dit formulier kan
+                      worden gebruikt)]
+                    </Mark>{" "}
+                    die worden ontsloten op{" "}
+                    <Mark>[naam specifieke url voor dit domein]</Mark>; ;
+                  </OrderedListItem>
+                  <OrderedListItem className="no-list-style">
+                    c. generiek e-formulier <Mark>[naam]</Mark> voor{" "}
+                    <Mark>
+                      [… (opsommen typen berichten waarvoor dit formulier kan
+                      worden gebruikt)]
+                    </Mark>{" "}
+                    die worden ontsloten op{" "}
+                    <Mark>[naam specifieke url voor dit domein]</Mark>;
+                  </OrderedListItem>
+                  <OrderedListItem className="no-list-style">
+                    d. e-mail adres <Mark>[naam mailadres]</Mark> voor{" "}
+                    <Mark>
+                      [… (opsommen typen berichten waarvoor dit e-mailadres kan
+                      worden gebruikt)]
+                    </Mark>
+                    ;
+                  </OrderedListItem>
+                  <OrderedListItem className="no-list-style">
+                    e. e-mail adres <Mark>[naam mailadres]</Mark> voor alle
+                    andere typen berichten binnen dit domein.
+                  </OrderedListItem>
+                </OrderedList>
               </OrderedListItem>
             </Fragment>
           ))}
@@ -439,14 +454,12 @@ const AanwijsbesluitVariantPage = ({ resourceIdentifier }) => {
         </Paragraph>
         <Heading2 id="artikel-3a">
           Artikel <Mark>[…]</Mark> Kanaal bezwaarschriften en klachten{" "}
-        </Heading2>
-        <Paragraph>
           <Mark>
             [(de nummering van het artikel is afhankelijk van het aantal
             hiervoor opgenomen artikelen over de aanwijzing van kanalen in de
             betreffende domeinen)]
           </Mark>
-        </Paragraph>
+        </Heading2>
         <OrderedList>
           <OrderedListItem>
             <Paragraph>
@@ -465,14 +478,14 @@ const AanwijsbesluitVariantPage = ({ resourceIdentifier }) => {
           </OrderedListItem>
         </OrderedList>
         <Heading2 id="artikel-3b">
-          Artikel <Mark>[…]</Mark> Kanaal Omgevingswet{" "}
-        </Heading2>
-        <Paragraph>
+          Artikel <Mark>[…]</Mark> Kanaal Omgevingswet
           <Mark>
             [(de nummering van het artikel is afhankelijk van het aantal
             hiervoor opgenomen artikelen over de aanwijzing van kanalen in
             andere domeinen)]
           </Mark>
+        </Heading2>
+        <Paragraph>
           <Mark>
             In afwijking van <Mark>[artikel […] OF [de artikelen [….]]</Mark>,
             wordt voor berichten die daartoe bij of krachtens de Omgevingswet
@@ -482,7 +495,12 @@ const AanwijsbesluitVariantPage = ({ resourceIdentifier }) => {
           </Mark>
         </Paragraph>
         <Heading2 id="artikel-3c">
-          Artikel <Mark>[…]</Mark> Kanaal Dienstenwet
+          Artikel <Mark>[…]</Mark> Kanaal Dienstenwet{" "}
+          <Mark>
+            [(de nummering van het artikel is afhankelijk van het hiervoor
+            aantal opgenomen artikelen over de aanwijzing van kanalen in andere
+            domeinen)]
+          </Mark>
         </Heading2>
         <Paragraph>
           In afwijking van <Mark>[artikel […] OF [de artikelen [….]]</Mark>,
@@ -491,114 +509,21 @@ const AanwijsbesluitVariantPage = ({ resourceIdentifier }) => {
           Bedrijven als bedoeld in artikel 5 van de Dienstenwet als kanaal
           aangewezen.
         </Paragraph>
+        <Heading2 id="artikel-3d">
+          Artikel <Mark>[…]</Mark> Inwerkingtreding besluit{" "}
+          <Mark>
+            [(de nummering van het artikel is afhankelijk van het aantal
+            hiervoor opgenomen artikelen over de kanaalaanwijzing)]
+          </Mark>
+        </Heading2>
         <Paragraph>
-          Variant C (Aanwijzing kanalen voor clustering van type berichten en
-          restkanaal binnen domeinen, specifieke kanaalaanduiding voor bepaalde
-          typen berichten daarbuiten)
+          Dit besluit treedt in werking met ingang van <Mark>[datum]</Mark>.
         </Paragraph>
-        <Heading2 id="artikel-2">
-          Artikel 2 Aanwijzing kanalen domein {gemeenteData.resourceIdentifier}
-        </Heading2>
-        <OrderedList>
-          {gemeenteData.products.map((product) => (
-            <Fragment key={product.identifier}>
-              <OrderedListItem>
-                <Paragraph>
-                  Voor berichten in het domein <Mark>{product.title}</Mark> die
-                  de verzender uit eigen beweging indient, wordt{" "}
-                  <Mark>[kanaal]</Mark> dat wordt ontsloten op{" "}
-                  <Mark>[naam specifieke url voor dit domein]</Mark> aangewezen.
-                  <br />
-                </Paragraph>
-              </OrderedListItem>
-              <OrderedListItem>
-                <Paragraph>
-                  Voor berichten in het in het eerste lid genoemde domein die op
-                  verzoek van de gemeente worden ingediend, wordt de in de
-                  uitnodiging aangewezen elektronische wijze van verzenden als
-                  kanaal gebruikt.
-                </Paragraph>
-              </OrderedListItem>
-              <OrderedListItem>
-                <Paragraph>
-                  In afwijking van het eerste lid, wordt voor het indienen van
-                  de volgende type berichten in dit domein{" "}
-                  <Mark>{product.title}</Mark> als kanaal aangewezen:{" "}
-                  <Mark>
-                    […(opsommen typen berichten waarvoor dit kanaal beschikbaar
-                    is)]
-                  </Mark>
-                  .
-                </Paragraph>
-              </OrderedListItem>
-            </Fragment>
-          ))}
-        </OrderedList>
-        <Heading2 id="artikel-3">
-          Artikel 3 Aanwijzing kanalen domein {gemeenteData.resourceIdentifier}
-        </Heading2>
+        <Heading2>Ondertekening burgemeester en gemeentesecretaris</Heading2>
         <Paragraph>
+          Handtekening
           <br />
-          <Mark>
-            […(toevoegen van een of meer artikelen waarin de aanwijzing van
-            kanalen voor het indienen van berichten in andere domeinen dan
-            artikel 2 plaatsvindt. Hiervoor kan het stramien van artikel 2
-            worden aangehouden.)]
-          </Mark>
-        </Paragraph>
-        <Heading2 id="artikel-3a">
-          Artikel <Mark>[…]</Mark> Kanaal bezwaarschriften en klachten{" "}
-        </Heading2>
-        <Paragraph>
-          <Mark>
-            [(de nummering van het artikel is afhankelijk van het aantal
-            hiervoor opgenomen artikelen over de aanwijzing van kanalen in de
-            betreffende domeinen)]
-          </Mark>
-        </Paragraph>
-        <OrderedList>
-          <OrderedListItem>
-            <Paragraph>
-              In afwijking van <Mark>[artikel […] OF [de artikelen […]]</Mark>,
-              wordt voor het indienen van bezwaarschriften <Mark>[kanaal]</Mark>{" "}
-              als kanaal aangewezen.
-              <br />
-            </Paragraph>
-          </OrderedListItem>
-          <OrderedListItem>
-            <Paragraph>
-              In afwijking van <Mark>[artikel […] OF [de artikelen […]]</Mark>,
-              wordt voor het indienen van klachten <Mark>[kanaal]</Mark> als
-              kanaal aangewezen.
-            </Paragraph>
-          </OrderedListItem>
-        </OrderedList>
-        <Heading2 id="artikel-3b">
-          Artikel <Mark>[…]</Mark> Kanaal Omgevingswet{" "}
-        </Heading2>
-        <Paragraph>
-          <Mark>
-            [(de nummering van het artikel is afhankelijk van het aantal
-            hiervoor opgenomen artikelen over de aanwijzing van kanalen in
-            andere domeinen)]
-          </Mark>
-          <Mark>
-            In afwijking van <Mark>[artikel […] OF [de artikelen [….]]</Mark>,
-            wordt voor berichten die daartoe bij of krachtens de Omgevingswet
-            zijn aangewezen het Omgevingsloket als bedoeld in{" "}
-            <Mark>[(per 1 januari 2024:)]</Mark> artikel 20.21 van die wet als
-            kanaal gebruikt.
-          </Mark>
-        </Paragraph>
-        <Heading2 id="artikel-3c">
-          Artikel <Mark>[…]</Mark> Kanaal Dienstenwet
-        </Heading2>
-        <Paragraph>
-          In afwijking van <Mark>[artikel […] OF [de artikelen [….]]</Mark>,
-          wordt voor berichten die deel uitmaken van een procedure of
-          formaliteit die valt onder de Dienstenwet de Berichtenbox voor
-          Bedrijven als bedoeld in artikel 5 van de Dienstenwet als kanaal
-          aangewezen.
+          Plaats en datum
         </Paragraph>
       </Article>
     </PageWrapper>
