@@ -44,7 +44,13 @@ const PageWrapper = ({ children }: PropsWithChildren) => (
       <style>{`.vng-rich-text {
         --utrecht-space-around: 1;
       }
-      
+  
+      @media print {
+        .utrecht-link {
+          --utrecht-link-color: black;
+          --utrecht-link-text-decoration: none;
+        } 
+      }
       .no-list-style {
         list-style-type: none;
       }`}</style>
@@ -286,7 +292,7 @@ const AanwijsbesluitVariantPage = ({ resourceIdentifier }) => {
                   Voor berichten in het domein <Mark>{product.title}</Mark> die
                   de verzender uit eigen beweging indient, wordt{" "}
                   <Mark>[kanaal]</Mark> dat wordt ontsloten op{" "}
-                  <Mark>[naam specifieke url voor dit domein]</Mark> aangewezen.
+                  <Mark>{product.identifier}</Mark> aangewezen.
                   <br />
                 </Paragraph>
               </OrderedListItem>
@@ -402,8 +408,7 @@ const AanwijsbesluitVariantPage = ({ resourceIdentifier }) => {
                       [… (opsommen typen berichten waarvoor een specifiek
                       webformulier beschikbaar is)]
                     </Mark>{" "}
-                    die worden ontsloten op{" "}
-                    <Mark>[naam specifieke url voor dit domein]</Mark>;
+                    die worden ontsloten op <Mark>{product.identifier}</Mark>;
                   </OrderedListItem>
                   <OrderedListItem className="no-list-style">
                     b. generiek e-formulier <Mark>[naam]</Mark> voor{" "}
@@ -411,8 +416,7 @@ const AanwijsbesluitVariantPage = ({ resourceIdentifier }) => {
                       [… (opsommen typen berichten waarvoor dit formulier kan
                       worden gebruikt)]
                     </Mark>{" "}
-                    die worden ontsloten op{" "}
-                    <Mark>[naam specifieke url voor dit domein]</Mark>; ;
+                    die worden ontsloten op <Mark>{product.identifier}</Mark>; ;
                   </OrderedListItem>
                   <OrderedListItem className="no-list-style">
                     c. generiek e-formulier <Mark>[naam]</Mark> voor{" "}
@@ -420,8 +424,7 @@ const AanwijsbesluitVariantPage = ({ resourceIdentifier }) => {
                       [… (opsommen typen berichten waarvoor dit formulier kan
                       worden gebruikt)]
                     </Mark>{" "}
-                    die worden ontsloten op{" "}
-                    <Mark>[naam specifieke url voor dit domein]</Mark>;
+                    die worden ontsloten op <Mark>{product.identifier}</Mark>;
                   </OrderedListItem>
                   <OrderedListItem className="no-list-style">
                     d. e-mail adres <Mark>[naam mailadres]</Mark> voor{" "}
